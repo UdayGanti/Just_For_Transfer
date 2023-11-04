@@ -1,0 +1,283 @@
+© 2023 Ronald K. Satterfield 
+ QMB-6305-901 
+Managerial Decision Analysis  
+Spring 2023 
+ 
+Instructor: Dr. Ronald K. Satterfield     Office:  CIS 2054 Office Hours: Announced on Canvas. E-mail:  rsatterf@usf.edu (The Canvas email function is a bit c umbersome.  Please email 
+me directly at this address ra ther than going through Canvas.)   
+ 
+ 
+ 
+TEXTBOOK:   Berenson, Mark, David Levine, Kathryn Szabat, and David Steph an, Basic 
+Business Statistics:  Concepts and Applications, 14th Ed., Prentice-Hall, Inc.   
+ Optional Alternative:  Berenson, Mark, David Levine, and Kathry n Szabat, Basic Business 
+Statistics:  Concepts and Applications, 13
+th Ed., Prentice-Hall, Inc.   
+ The current edition is the 14
+th.  Bear in mind that should you choose to use an older edition of the 
+text problem numbers, chapter o rganization, and problem data ma y have changed. 
+ 
+SOFTWARE: Microsoft Excel, Minitab, and R with R Studio.  Excel and Minit ab are 
+available to USF students free of  charge via apps.usf.edu.  For  any technical assistance you need 
+in gaining access call USF Tech Support at 974-1222.  Minitab a lso offers 30-day free trials of 
+its software via direct downloa d and academic licenses for stud ents at nominal cost.  R and R 
+Studio are both open source and available online as free downlo ads.  Install R first from www.r-
+project.org , then install R Studio from www.rstudio.com .  The free version of R Studio Desktop 
+is recommended. There are numerous online sites that can give y ou assistance if needed with 
+these tasks.  We will begin the course using these packages, so  it is strongly recommended you 
+have them installed and available for use on your machine.   
+ 
+Additionally, we will be using several common add-in packages w ith R.  They can be installed 
+all at once or individually.  To in stall these packages all at once copy and paste the following 
+command into R/R Studio.  
+install.packages(c("rmarkdown", "car", "Hmisc", "rio", 
+"moments", "corrplot", "MASS"),dep=TRUE) 
+ 
+To install them individually an example line of code would be: 
+ 
+install.packages("rio") 
+ 
+As R and R Studio are open source and extremely popular in the business analytics community, 
+you will find numerous sources online to help you use them.  Yo u're encouraged to use those 
+sources as needed.  
+  
+© 2023 Ronald K. Satterfield 
+ COURSE DESCRIPTION  
+ 
+Modern business statistics encom passes the collection, analysis , presentation, and use of data to 
+assist in the decision-making pr ocess.  Statistics can be thoug ht of as the science and art of 
+making sense of numerical data.  C omputer hardware and software , especially via R and R 
+Studio, has given the ability to a nalyze immense amounts of dat a.  Thus statistics has emerged as 
+one of the essential keys to good man agement and critical today  to the important field of 
+business analytics.  Virtually every manager at least occasiona lly needs to deal with data whether 
+in maintaining or improving regul ar day-to-day operations or fi nding new opportunities.  Also, 
+managers need to be able to comm unicate with analytical profess ionals to express needs and 
+understand the results of  analytics projects. 
+ This course introduces you to the  essentials of statistics and statistical progra mming.  The ideas 
+in the course are organized ar ound several main topics: How to gather data, how to summarize 
+raw data into information, how t o use limited information to ma ke predictions and inferences 
+about problems of interest, a nd how to build models to aid deci sion making.  Statistical software 
+will be used heavily in this course  as analysis today is nearly  always done with these tools. 
+  This course teaches the basic statistical tools used in quantit ative analysis in bus iness.  After a 
+brief review of basic concepts, measures of central tendency an d dispersion, and probability 
+distributions, the course will concentrate on confidence interv als, hypothesis tests, regression, 
+and correlation.  The emphasis wi ll be on applications, concept s and interpretation of results, 
+rather than derivati ons and calculations. 
+ The problems listed on the sylla bus are found in Berenson/Levin e/Krehbiel/Stephan, our main 
+text.  It is recomme nded that you work as many problems as you need to gain competence with 
+the material after listening t o the lectures.  Some of the prob lems should be worked by hand, 
+others with software.   
+ 
+LEARNING OBJECTIVES 
+ 
+At the conclusion of this course  the successful student will: 
+ 
+1. Know the basics of the Central L imit Theorem and Sampling Distr ibutions. 
+2. Understand the fundaments of va rious common probability distrib utions. 
+3. Be able to use and interpret c onfidence intervals and hypothesi s tests. 
+4. Be able to build and interpret simple statistical models with r egression.  
+5. Know how to evaluate the quality  of fit of a simple statistical  model. 
+6. Understand how to apply and interp ret basic analysis of varianc e methods. 
+  © 2023 Ronald K. Satterfield 
+ COURSE ASSIGNMENTS AND G RADE DETERMINATION 
+ 
+ Mid-Term Examination 200 points (Due February 19, 2023) 
+ Regression Analysis Project 100 points (Due March 5, 2023) ANOVA Project    50 points (Due March 5, 2023) 
+ Total    350 points 
+ This is a 350-point course. Lette r grades will be awarded accor ding to the scale below.          
+ 
+ 
+ 
+Letter Grade Percent Score 
+A 93% - 100% 
+A- 90% - 93% 
+B+ 87% - 90% 
+B 83% - 87% 
+B- 80% - 83% 
+C+ 77% - 80% 
+C 73% - 77% 
+C- 70% - 73% 
+D+ 67% - 70% 
+D 63% - 67% 
+D- 60% - 63% 
+F Below 60% 
+ 
+  © 2023 Ronald K. Satterfield 
+ MATERIAL COVERAGE 
+ 
+Session Supporting Video  Supporting Text Material 
+1/10/23 Module 1 Introduction & Basic Terminology, Chapters 1, 2, and 
+3 (Chapter 3 sections 1, 2, 3 and 4 only) Data Collection, Tables and Charts, Basic Descriptive Measures 
+1/17/23 Module 2* Chapters 6 and 7 
+Normal and Other Probab ility Distributions 
+Samplin g Distributions 
+1/24/23 Module 3* Chapter 8 
+Confidence Intervals 
+1/31/23 Module 4*  
+ Chapters 9  
+Hypothesis Testin g  
+2/7/23 Module 5* Chapter 10, Sections 1, 2, 3, and 4 
+Comparin g Two Populations 
+2/14/23 Module 6* Chapter 13 
+Simple Re gressio n 
+2/21/23 Module 7* Chapter 14 
+Multiple Re gressio n 
+2/28/23 Module 8* Chapter 11 
+Anal ysis of Variance (ANOVA) 
+ 
+*Denotes an online video and associ ated materials to be reviewed  prior to this session. 
+ 
+The Midterm Exam is due via elect ronic submission via Canvas Fe bruary 19, 2023, 
+covering Modules 1 through 5.  Reg ression and ANOVA Projects ar e due via electronic 
+submission via Canvas March 5. © 2023 Ronald K. Satterfield 
+ RECOMMENDED PROBLEMS  
+ 
+Chapter 1* 1.4, 1.6, 1.8, 1.24 
+Chapter 2 2.4, 2.6, 2.17†, 2.22†, 2.24†, 2.27 2.38† 2.40, 2.88†, 2.93† 2.94† 
+Chapter 3 3.2, 3.3, 3.14†, 3.18†, 3.22, 3.24, 3.38†, 3.40† 3.42†, 3.64†, 3.70†, 3.72† 
+Chapter 6 6.2, 6.4, 6.6, 6.8, 6.10, 6.12, 6.18†, 6.20† 
+Chapter 7 7.2, 7.4, 7.6, 7.8 
+Chapter 8 8.2, 8.3, 8.4, 8.5, 8.6, 8.8, 8.10, 8.12, 8.16, 8.18†, 8.20†, 8.22†, 8.28, 8.30, 8.34, 
+8.36, 8.38, 8.40, 8.42 
+Chapter 9 9.9, 9.10, 9.13, 9.14, 9.15, 9.16, 9.18, 9.28, 9.30, 9.32, 9.33, 9.44, 9.46, 9.52, 
+9.53,9.54, 9.56, 9.58†, 9.60† 
+Chapter 10 10.1, 10.2, 10.8, 10.10, 10.12, 10.14, 10.16, 10.20,  10.22, 10.24 
+Chapter 13 13.4†, 13.8†, 13.10†, 13.16†, 13.22†, 13.26†, 13.28†, 13.42†, 13.46†, 13.48†, 13.54†, 
+13.58†, 13.62† 
+Chapter 14 14.4†, 14.6†, 14.14†, 14.16†, 14.26†, 14.28†, 14.40†, 14.42†, 14.49† 
+ 
+† Denotes a problem best worked us ing software.  Most other numer ical problems can be worked 
+with software as an option.  
+* If you are new to Excel and/or  Minitab it is recommended you r eview the Excel Guides or the 
+Minitab Guides at the ends of certain chapters.  For R and R St udio examples of analysis 
+procedures can be seen at numerous websites.     © 2023 Ronald K. Satterfield 
+ Course Policies 
+ 
+Late Work Policy   
+There are no make-up opportunitie s for in-class assignments.   
+ 
+Extra Credit Policy   
+There are no opportunities for ext ra credit in this course.  St udents’ focus should be on 
+the primary work in the course. 
+ 
+Grades of "Incomplete"   
+An “I” grade may be awarded to a student when 1) arrangements a re made prior to the 
+end of the semester, 2) in the j udgment of the instructor a val id reason is offered for 
+granting an Incomplete, and 3) a c lear path to a standard grade  is agreed to by the 
+instructor and the student which will result in successful comp letion of course 
+requirements by the end of the s ucceeding semes ter.  “I” grades  not replaced by the end 
+of the subsequent semester will  be changed to “IF” and are a fa iling grade for the course. 
+ 
+Email  
+The primary means of communicat ion between instructor and stude nts between live class 
+meetings will be email.  “Blast  emails” will occasionally be se nt by the instructor to all 
+students via Canvas.  Students can  feel free to email their ins tructor with questions at any 
+time.  Please anticip ate a response time of 24 hours to email q ueries.   
+ 
+Canvas  
+Canvas will be used in this course to disseminate materials tur n in weekly assignments 
+and return graded assignments .  If you need help learning how t o perform various tasks 
+related to this or other courses in Canvas, please consult the Canvas help guides. You 
+may also contact USF's IT s upport at (813) 974-1222 or help@usf .edu. 
+ 
+Laptop Usage  
+Laptop/Tablet usage is encouraged  in this course given the natu re of the material.   
+ 
+Classroom Recording  
+Audio and/or video recordings of l ectures are prohibited, as is  the live streaming of 
+lectures or dissemination of lec tures via conference calling te chnologies. 
+ 
+Phone Usage  
+Students are asked to place thei r mobile phones on “silent” and  to step outside the 
+classroom to take any important calls.   
+ 
+Academic Integrity  and Academic Misconduct  
+Academic integrity is the founda tion of the University of South  Florida System’s 
+commitment to the academic honest y and personal integrity of it s university 
+community. Academic integrity i s grounded in certain fundamenta l values, which 
+include honesty, respect, and fairness. Broadly defined, academ ic honesty is the 
+completion of all academic endeavors and claims of scholarly kn owledge as 
+representative of one’s own effo rts. The final decision on an a cademic integrity 
+violation and relate d academic sanction at any USF System insti tution shall affect and © 2023 Ronald K. Satterfield 
+ be applied to the academic status of the student throughout the  USF System, unless 
+otherwise determined by the inde pendently accredited institutio n.  The process for 
+faculty reporting of academic misconduct, as well as the studen t’s options for appeal, 
+are outlined in detail in USF System Regulation 3.027.  
+ 
+In our course assignments the prof essor has several methods for  penalizing those who 
+engage in academic misconduct.  A mong these methods the profess or can 1) award 0 
+points for an assignmen t on which a student  has engaged in misc onduct, 2) award an F 
+in the entire course, or 3) awar d a special FF grade in the cou rse.  An FF appears 
+permanently on the student's tra nscript as a special designatio n showing the student 
+failed the course for reasons of academic misconduct.  
+Disruption to Academic Process   
+Disruptive students in the academic setting hinder the educatio nal process. Disruption 
+of the academic process is defi ned as the act, words, or genera l conduct of a student in a 
+classroom or other academic environment which in the reasonable  estimation of the 
+instructor: (a) directs attenti on away from the academic matter s at hand, such as noisy 
+distractions, persistent, disres pectful or abusive interruption  of lecture, exam, academic 
+discussion, or general Univers ity operations, or (b) presents a  danger to the health, 
+safety, or well-being of self or other persons. 
+ Student Academic Grievance Procedures   
+The purpose of these procedures  is to provide all undergraduate  and graduate students 
+taking courses within the Univers ity of South Florida System an  opportunity for 
+objective review of facts and event s pertinent to the cause of the academic grievance. 
+An “academic grievance” is a clai m that a specific academic dec ision or action that 
+affects that student ’s academic record or status has violated p ublished policies and 
+procedures or has been applied to the grievant in a manner diff erent from th at used for 
+other students. 
+ Disability Access  
+Students with disabilities are re sponsible for registering with  Students with Disabilities 
+Services (SDS) to receive academic accommodations. SDS encourag es students to 
+notify instructors of accommodation requests at least 5 busines s days prior to needing 
+the accommodation. A letter from SDS must accompany this reques t. 
+ 
+Sexual Misconduct/Sexual H arassment Reporting  
+USF is committed to providing a n environment free from sex disc rimination, including 
+sexual harassment a nd sexual violence ( USF System Policy 0-004 ). The USF Center for 
+Victim Advocacy and Violence Prev ention is a confidential resou rce where you can 
+talk about incidents of sexual  harassment and ge nder-based crim es including sexual 
+assault, stalking, and domestic/r elationship violence. This con fidential resource can 
+help you without having to report  your situation to either the Office of Student Rights 
+and Responsibilities (OSSR) or the  Office of Diversity, Inclusi on, and Equal 
+Opportunity (DIEO), unless you reque st that they make a report.  Please be aware that in 
+compliance with Title IX and under the USF System Policy, educa tors must report 
+incidents of sexual harassment  and gender-based crimes includin g sexual assault, 
+stalking, and domestic/relationshi p violence. If you disclose a ny of these situations in 
+class, in papers, or to me persona lly, I am required to report it to OSSR or DIEO for © 2023 Ronald K. Satterfield 
+ investigation. Contact the USF Ce nter for Victim Advocacy and V iolence Prevention: 
+(813) 974-5757. 
+ Attendance Policy   
+Students are expected to exhibi t professionalis m through regula r attendance and on-
+time arrivals to c lass lectures.   
+ 
+Religious Observances  
+All students have a right to expe ct that the University will re asonably accommodate 
+their religious observances, pr actices and beliefs. If you obse rve religious holidays, you 
+should plan your allowed absen ces to include those dates. 
+ 
+Sexual Misconduct/Sexual H arassment Reporting  
+USF is committed to providing a n environment free from sex disc rimination, including 
+sexual harassment a nd sexual violence ( USF System Policy 0-004 ). The USF Center for 
+Victim Advocacy and Violence Prev ention is a confidential resou rce where you can 
+talk about incidents of sexual  harassment and ge nder-based crim es including sexual 
+assault, stalking, and domestic/r elationship violence. This con fidential resource can 
+help you without having to report  your situation to either the Office of Student Rights 
+and Responsibilities (OSSR) or the  Office of Diversity, Inclusi on, and Equal 
+Opportunity (DIEO), unless you reque st that they make a report.  Please be aware that in 
+compliance with Title IX and under the USF System Policy, educa tors must report 
+incidents of sexual harassment  and gender-based crimes includin g sexual assault, 
+stalking, and domestic/relationshi p violence. If you disclose a ny of these situations in 
+class, in papers, or to me persona lly, I am required to report it to OSSR or DIEO for 
+investigation. Contact the USF Ce nter for Victim Advocacy and V iolence Prevention: 
+(813) 974-5757. 
+ Attendance Policy   
+Students are expected to exhibi t professionalis m through regula r attendance and on-
+time arrivals to c lass lectures.   
+ 
+Religious Observances  
+All students have a right to expe ct that the University will re asonably accommodate 
+their religious observances, pr actices and beliefs. If you obse rve religious holidays, you 
+should plan your allowed absen ces to include those dates. 
+ 
+   

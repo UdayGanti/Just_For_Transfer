@@ -1,0 +1,451 @@
+Business Data Communications ISM4220  
+Syllabus –Spring 2023  
+  
+            
+Instructor:  Willard Baird    Office Hours:      
+Office:      Monday:      
+      Tuesday:      
+Instructor’s 
+Homepage:  Optional    Wednesday:      
+Fax:      Thursday:      
+Email:  wwbaird@usf.edu    Friday:      
+Classroom:  Online          
+Time:      By Appointment      
+Credit Hours  3         
+  
+ COURSE SPECIFIC SECTION  
+  
+Course Prerequisite and Grade Requirements:  
+  
+Prerequisites: ISM3011   - GPA Requirements:   Undergraduate students who enter USF under the 
+2001 -2002, or later, catalog are required to earn a grade of C, or better, in every undergraduate 
+core class and an overall GPA of 2.0 for all undergraduate core classes.  
+  
+Course Description: Fundamentals of data communication, including network architectures, 
+communication protocols, transmission standards and media access control methods.  
+  
+Course Objective(s):  
+This course provides students with an understanding of the concepts a ssociated with data 
+communications and distributed information systems. Students learn about network architectures, data encoding schemes, transmission media, communication protocols, 
+transmission standards, and media access control methods. WANs, LANs, an d internetworking 
+technologies are also explored. The course concludes with a brief introduction to network 
+security & administration.  
+Canvas  
+Students are responsible for monitoring this site on a regular basis.   Canvas can be easily 
+accessed from https:// my.usf.edu.   If you need a NetID or password reset, visit 
+https://netid.usf.edu  
+Required Text  
+Michael G. Solomon, David Kim, and Jeff Carrell.  Fundamentals of Communications and 
+Networking , 2nd ed. Burlington, MA: Jone s & Bartlett, 2015  
+  
+Required Software and Hardware  
+Access to stable internet connection  
+Microsoft Excel (pivot table assignment)  
+Microsoft Word or ability to save files as doc(x)  
+PDF writer such as Adobe PDF or CutePDF (free)  
+  
+Students will need to acces s computers in the library or Student Success Center located in 
+Dav 107 if personal computer issues prevent successful completion of assignments.  
+  
+  
+Grading:   
+Grade  >= <  
+A+ 97.0%  100%  
+A 93.0%  96.9%  
+A- 90.0%  93.0%  
+B+ 87.0%  90.0%  
+B 83.0%  86.9%  B- 80.0%  83.0%  
+C+ 77.0%  80.0%  
+C 73.0%  76.9%  
+C- 70.0%  73.0%  
+D+ 67.0%  70.0%  
+D 63.0%  66.9%  
+D- 60.0%  63.0%  
+F 0 60% 
+  
+  
+Plus and minus letter grades will be assigned.  
+Each student will receive his/her grade based on accumulated points.  
+  
+Course Policies:  
+  
+• You are encouraged to work ahead.  
+• You must complete and submit all work by the Due Date given.  
+• Additional notes and announcements will be posted on Canvas, please c heck frequently.  
+• Any questions will be happily answered via email. Please be specific about which class 
+and assignment you discussing.  
+  
+Drop Date:     
+  
+The last day to drop without academic penalty is January 17th 
+  
+  
+  Key Leadership Skill(s) and Perspec tives Addressed in This 
+Course:  
+Written and Oral 
+Communication  Information 
+Technology Skills  Innovation and 
+Critical Thinking  Ethics and 
+Sustainability  Global and 
+Multicultural 
+Competence  
+4(a) 5(b) 4(c) 5(d) 1(e) 
+  
+  
+Written and Oral Communication:   Written assignments and lab reports are required to 
+develop them communication skills.  
+Information Technology Skills:  Students are introduced to packet sniffer tools. They learn how 
+to capture and analyze data packets.   They will also desig n virtual networks using CISCO 
+Academy Packet Tracer tool  
+Innovation and Critical Thinking:  Students develop innovation and critical thinking in various 
+assignments including class activities,  and lab tasks.  
+Ethical and Sustainability:  The course includes  discussions of ethical issues in Data 
+Communications. Requirements for ethical and socially -responsible behavior are included in the 
+assignments.  
+Global and Intercultural Competence:  The textbook makes limited reference to the use of data 
+communication technology in other countries.  
+  
+ 
+Academic Dishonesty:  
+  
+See USF Policy on Academic Dishonesty and Disruption of Academic Process at 
+http://www.usfsp.edu/catalog -grad/academic -integrity -of-students.htm  
+  
+Because of the University’s commitment  to academic integrity, plagiarism or cheating on course 
+work or on examinations will result in penalties that may include a grade of “F” for the specific 
+exam or course work and a grade of “F” or “FF” for the course.   Any incident of academic dishonesty w ill be reported to the dean of the college.   Definitions and punishment guidelines for 
+Plagiarism, Cheating, and Student Disruption of the Academic Process may be found at the web 
+address listed above.  
+  
+  
+Students with Disabilities:  
+  
+Please notify your i nstructor if you have a learning disability or require special assistance with 
+this course.   Confidential personal and learning assistance counseling are made available to 
+students through the Division of Student Affairs.   Contact R. Barry McDowell 
+(mcdowe ll@stpt.usf.edu) for more information.  
+  
+Religious Holidays:  
+  
+Students who must miss class or an examination due to a religious holiday should notify the 
+instructor during the first two weeks of class  
+  
+         
+  
+Determination of Final Grade:  
+Activity              Quantity                     Possible Points  
+Quizzes                  10                                100 
+Homework               03                                  75 
+Network Labs           07                                 70 
+Final Test                    1                                  55 
+Total Points                                                 300 GRADED ACTIVITIES:  
+Quizzes (10):  Quizzes are scheduled weekly to test the  conceptual knowledge  from the textbook 
+chapters. Students need to read the assigned chapters every week and get ready for the quiz.  
+1. Each quiz consists of  multiple -choice questions. They are timed quizzes. Students have 
+20 minutes to complete a quiz. When the time is up and one has not completed all 
+questions, your an swered questions will be automatically saved and submitted.  
+2. They are open -book quizzes. However, if you are not prepared beforehand, you may not 
+have enough time to scan through the book and search for answers to all questions within 
+the 10 -minute time fra me. 
+Homework (03):  Homework assignments including problems, hands -on exercises and 
+discussions are provided for students to practice hands -on skills or to develop knowledge from 
+class interactions.  
+1. All homework problems and hands -on exercises are individua l practice exercises. The 
+instructor will be available via various ways (Microsoft Teams, emails, phone calls, etc.) 
+to help. However, DO NOT collaborate with your classmates. DO NOT seek help from 
+outside of the class. Or you will receive a zero on the as signment.  
+Course Policies: Class Communication :  Chapter instructions and materials, assignments and 
+quizzes, project deliverables, and notices on changes to the schedule will be posted on the 
+Canvas course website. Students are responsible for monitoring this site regularly and reading all 
+posted announcements. Class -related email will be sent only to your USF email account; 
+therefore, you will need to check your USF email account regularly and/or set forwarding to 
+route incoming mail to another account.  
+Late Assignments & Makeups : Late work will not normally be accepted. The instructor 
+reserves the option to make exceptions based on the specific circumstances presented by the 
+student, but point deductions for tardiness will be made for any work that is not  turned in on 
+time.  QUIZZES CANNOT BE MADE UP  unless for documented medical reasons . 
+  
+                                    
+  
+  
+Schedule/Outline:  
+                                          CLASS MEETING SCHEDULE  
+Note:   All assignments can be found on Canvas.    
+Weeks  Chapter Readings  Assignments Due *      
+Module01  
+Lesson 1  
+01/09  Ch 1 – Today’s Personal 
+and Business 
+Communication 
+Requirements  First-Day Survey Due 
+01/13 8:00 a.m.  
+      
+Lesson 2  
+01/17  Ch 2 – Solving Today’s 
+Business Communications 
+Challenges  Quiz 1  
+Due 01/23      
+Lesson 3  
+01/23  Ch 3 – Circuit -Switched, 
+Packet -Switched  Quiz 2  
+Due 01/30      
+  
+Lesson 4  
+01/30  IP Addressing   
+Home work Assignment 1   Due 02/06      
+Module02  
+Lesson 5  
+02/06  Ch 4 – The Evolution of 
+Ethernet  Quiz 3 -Due 02/13    Lab: Assessing 
+the Physical and 
+Logical Network 
+Infrastructure  
+Lesson 6  
+02/13  Ch 5 –TCP/IP and 
+Networking  Quiz 4 -Due 02/20  Lab: Analyzing 
+Data Link and 
+Network Layer 
+Traffic with 
+Wireshark  Lesson 7  
+02/20  Ch 6 – Layer 2 Networking  Quiz 5 -Due 02/27  Lab: Analyzing 
+Transport and 
+Application Layer 
+Traffic with 
+Wireshark  
+Lesson 8  
+02/27  Ch 7 – Layer 2 VLANS  Quiz 6 -Due 03/06   Lab: Configuring 
+a Layer 2 
+Network with the 
+Spanning Tree 
+Protocol  
+Lesson 9  
+03/06  
+  Ch 8 - Layer 3 Networking  
+  Quiz 7 due 03/27  
+     
+Lab: Configuring 
+a Layer 3 
+Network with 
+Dynamic Routing 
+Protocols  
+3/13 SPRING BREAK     
+Lesson 10  
+03/20  Ch 9 – Wireless Lan      
+  
+Lesson 11  
+03/27  Internet of Things  
+Cisco Network Academy 
+Assignment -Home work  
+assignment 2  Due 4/10   
+    
+Lesson 12  
+04/03  Internet of Things 
+Assignment -Continued  
+    
+    Module03  
+Lesson 13  
+04/10    Ch 13 –Configuration 
+Management and Asset 
+Control    
+Quiz 09 - Due 4/17  Lab: Configuring 
+an SNMP 
+Manager and 
+Alerts  
+Lesson 14  
+04/17  Ch 14 – Network 
+Performance Management  Quiz 10 -Due 4/24  
+  Lab: Monitoring 
+and Assessing 
+Network 
+Performance  
+Lesson 15  
+04/24   Home Work Assignment 
+3 Due 04/28   
+Final Exam  
+04/29 -05/04        
+        
+  
+* The first -day survey is due the first Thursday at midnight (11:59pm).   
+  
+  
+                   
+Business Program Learning Goals (Skill(s) and Perspectives)  
+Addressed in This Course:  
+  
+  
+Course Policies:    
+List all instructor requirements and expectations, including attendance policies, making up  
+missed work or missed exams, preparation for class, and class conduct – including cell phone 
+use. 
+  
+End of Semester Student Evaluations:  Explain the evaluations and context.  
+Example: All classes at USF make use of an online system for students to provide feedback to 
+the University regarding the course. These surveys will be made available at the end of the 
+semester, and the University will notify you by email when the response window opens. Your 
+participation is highly encouraged and valued.  
+  
+1. Tech nology and Media  
+  
+Email : how it will be used, who will communicate with whom, who answers technology 
+questions, expected response time, will you check it on weekends, etc.  
+  
+Canvas : Describe how you will use Canvas in the course, how often students should  expect to 
+login, how team activities will be organized, due dates, policies on late participation, etc.  
+Example: This course will be offered via USF's learning management system (LMS), Canvas. If 
+you need help learning how to perform various tasks related  to this course or other courses being 
+offered in Canvas, please view the following videos or consult the Canvas help guides. You may 
+also contact USF's IT department at (813) 974 -1222 or help@usf.edu . 
+  
+Online Courses m ay be subject to the following:  
+Electronic Plagiarism Detection:  Students are hereby notified that the instructor intends to use 
+electronic plagiarism detection services in this course. By registering for and participating in this 
+course, students consent to their work being sent to, analyzed by and stored in any plagiarism 
+detection  service.   
+Online Proctoring Syllabus Statement:  All students must review the syllabus and the requirements including the online terms and 
+video testing requirements to determin e if they wish to remain in the course. Enrollment in the 
+course is an agreement to abide by and accept all terms. Any student may elect to drop or 
+withdraw from this course before the end of the drop/add period.  
+Online exams and quizzes within this course  may require online proctoring. Therefore, students 
+will be required to have a webcam (USB or internal) with a microphone when taking an exam or 
+quiz. Students understand that this remote recording device is purchased and controlled by the 
+student and that  recordings from any private residence must be done with the permission of any 
+person residing in the residence. To avoid any concerns in this regard, students should select 
+private spaces for the testing.   
+The University library and other academic sites at the University offer secure private settings for 
+recordings and students with concerns may discuss location of an appropriate space for the 
+recordings with their instructor or advisor. Students must ensure  that any recordings do not 
+invade any third party privacy rights and accept all responsibility and liability for violations of 
+any third party privacy concerns.   Setup information will be provided prior to taking the 
+proctored exam. For additional informa tion about online proctoring you can visit the  online 
+proctoring student FAQ  (Links to an external site.) . 
+  
+Panopto:  If your course uses lecture -capturing, mention that is will be in use and that student 
+voices may be heard in the captured content.  
+  
+Laptop Usage:  Describe your policies for using laptops throughout your course. Whether you 
+dislike the use of laptops during your lecture, or whether you encourage using a laptop during 
+discussion, feel free to state it here.  
+  
+Classroom Devices:  Describe your policies for using calculators, tape recorders, other audio & 
+technology devices for your course.  
+  
+Phone Usage: Describe your policies for student p hone use in class, including texting or surfing 
+the Internet. If you are using social media for a “backchannel” conversation, mention it here. If 
+you would prefer that students not take photos/video/audio recordings of you, or of the 
+whiteboard notes at th e end of the class, state so here.  
+Cell phones, pagers or any other communication device brought to class, should be turned off  
+and not used in the classroom. These devices are not to be used during an exam.    
+Turnitin.com:  If you are using this plagiarism -detection service, it is recommended that you 
+clearly state so on the syllabus. In order to comply with privacy laws, students are not required to 
+include personal identifying information, such as name, in the body of the document. Turnitin 
+provides an originality report letting the instructor know how much of the assignment is original.  
+  
+Example: In this course, turnitin.com will be utilized. Turnitin is an automated system which 
+instructors may use to quickly and easily compare each student's assignment with billions of web 
+sites, as well as an enormous database of student papers that grows with each submission. 
+Accordingly, you will be expected to submit all assignments in both hard copy and electronic 
+format. After the assignment is processed, as instructor I receive a report from turnitin.com that 
+states if and how another author’s work was used in the assignment. For a more detailed look at 
+this process visit http://www.turnitin. com. Essays are due at turnitin.com the same day as in 
+class.  
+  
+University Policy  
+  
+Honor System:  Under the USF Honor System, each student is expected to observe complete 
+honesty in all academic matters.   Violation of the Honor System will be referred to t he Honor 
+Council.   Note:   The following are violations of the Honor Code:   Copying another student’s 
+homework, signing another student’s name on the attendance roster, copying another group’s 
+disk or written work, using another student’s computer disk to p rint out your assignment, 
+copying another student’s file onto your disk, and misrepresenting a reason for a missed 
+exam.   Punishment for academic dishonesty may result in an automatic “F” or “FF” in the course 
+or action that may result in suspension or exp ulsion. See the USFSP Policy on Academic 
+Integrity of Students at page 51 of the following 
+links:   http://www.usfsp.edu/catalog/files/2017/12/USFSP -2017 -18-Undergraduate -Academic -
+Catalog.pdf   (for undergraduate)  
+  
+http://www.usfsp.edu/catalog/files/2018/01/USFSP -Graduate -Catalog -2017 -18.pdf   (for 
+graduate)  
+  
+Students with Disabilities:  Please notify your instructor by the second class meeting if you have 
+a learning disability or require special assistance with this course.   Confidential personal and 
+learning assistance counseling are made available to students  through the Division of Student Affairs.  Contact R. Barry McDowell, St. Petersburg Campus: Student Life Center (SLC 1203) 
+(727) 873 -4990, ( mcdowell@usfsp.edu ) for more information. Students who need extended time 
+on exams need to inform the Disabilities Office at least seven (7) school days (Monday -Friday) 
+in advance of the scheduled exam, so that the Disabilities Office has adequate time to inform me.  
+Religious Observances: Students who anticipate th e necessity of being absent from class due to 
+the observance of a major religious holiday must provide notice of the date(s) to the instructor, in 
+writing, by the second class meeting.  
+  
+Copyrights:   Students who wish to audiotape lectures can do so with d irect permission from the 
+professor, but tapes and lectures may not be sold. No videos or photos can be taken in the 
+classroom!     
+  
+Incomplete Grades:  An “I” grade may be given to an undergraduate student only when a small 
+portion of the student’s work (n ormally 30% or less) is incomplete due to circumstances beyond 
+the control of the student and only when a student is otherwise earning a passing grade.   “I” 
+grades are to be used only in emergency situations and cannot to be used as a means of avoiding 
+a poor grade. Normally these are only for medical emergencies and require a signed letter from a 
+medical professional that the student was prevented from attending class. The student must 
+petition the professor before the week of final exams for a grade of “I ” to be given.  
+  
+Grade Forgiveness: Undergraduate grade forgiveness is limited to three USFSP courses with 
+no more than one repeat per course.   Accounting majors can use the forgiveness only once in 
+upper level accounting courses. There is NO grade forgive ness at the Graduate Level.  
+  
+S/U GRADES:   State whether this course can be taken on an S/U basis.  
+  
+WITHDRAWAL:  No “W” grades can be obtained after the official drop or withdrawal date 
+(indicate date for each semester). All students enrolled as of the wit hdrawal date (indicate date 
+for each semester), will receive a letter grade of A, B+, B, C, C+, C, D+, D or F.  
+  
+ELECTRONIC PLAGIARISM DETECTION:  Students are hereby notified that the instructor 
+intends to use electronic plagiarism detection services in th is course. By registering for and participating in this course, students consent to their work being sent to, analyzed by and stored 
+in any plagiarism detection  service.   
+  
+EMERGENCY PREPAREDNESS:   In the event of an emergency, it may be necessary for 
+USF to suspend normal operations. During this time, USF may opt to continue delivery of 
+instruction through methods that include but are not limited to: Canvas, Elluminate, Skype, and 
+email messaging and/or an alternate schedule. It is the responsibility of th e student to monitor 
+Canvas site for each class for course specific communication, and the main USF, College, and 
+department websites, emails, and MoBull messages for important general information.  
+  
+BOMB THREAT OR OTHER DISRUPTION:   All scheduled classes will be held in an 
+alternate room in the case of a bomb scare, fire alarm or other disruption. Students will gather 
+outside of the classroom building at a designated area in the parking lot so that an alternative 
+room may be announced.  
+  
+Supporting Crime Victims and Violence Against Women Act (VAWA):  
+If you are the victim of a crime, USFSP is ready to assist you in the manner that you determine is 
+best for you. Please know that, as a USF employee, I am obligated by Federal law to 
+immediate ly report any incidents of sexual assault, dating & domestic violence, and stalking 
+relayed to me – including the victim’s name – to the USFSP Police Department and/or the 
+USFSP Dean of Students. If you desire confidentiality, there are campus and communit y 
+resources listed below that will respect that decision. (cont’d)  
+  
+  
+Confidential Resources  Non-Confidential Resources  
+USFSP Victim Advocacy Services  
+Available: 24hrs/7days  
+Tel: 727 -698-2079  USFSP Police Department  
+Tel: 727 -873-4140 or  
+USFSP Wellness C enter (SLC 2000)  
+M/T/W/F: 8am – 5pm  
+Thurs: 9:30am – 5pm  Dean of Students & Director of Residence Life 
+& Housing : Dr. Jacob Diaz  
+PNM  Tel: 727 -873-4422  Tel: 727 -873-4823  
+deanofstudents@usfsp.edu  
+Rape Crisis Center of Pinellas County  
+Tel: 727 -530-7273  
+PEMHS: 727 -541-4628  Pinellas County Sheriff  
+Tel: 727 -582-6200 or 911  
+  
+  St. Petersburg Police Department  
+Tel: 727-893-7780 or 911  
+  
+If you are not sure what to do , you are strongly encouraged to contact the USFSP Victim 
+Advocate to confidentially explore your options including: Injunctions & Protective Orders on 
+campus; Changes in Accommodations, Living Arrangeme nts, Class Schedules, & 
+Transportation; Assistance with Academic Issues – missed classes, late assignments, etc.    
+  
+  
+ 

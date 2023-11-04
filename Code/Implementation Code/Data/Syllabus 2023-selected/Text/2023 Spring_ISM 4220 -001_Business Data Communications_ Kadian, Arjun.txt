@@ -1,0 +1,368 @@
+ 
+ 
+         1  
+ 
+ 
+Instructor:  Arjun Kadian  E-Mail:  arjunkadian@usf.edu  
+Term:  Spring 202 3 Dates:  1/10/23-5/4/23 
+Delivery 
+Method:  In Class  
+(Sessions will be recorded)  Location:  CIS 2084  
+Virtual Office 
+Hours:  Meeting Times: 4:30 PM - 5:30 PM on Fridays  
+ 
+Technology Used (MS Teams)  
+ 
+MS teams link:  
+ 
+Click here to join the meeting  
+Meeting ID: 259 872 508 23   
+Passcode: BQgiHD  
+Download Teams  | Join on the web  
+Learn Mor e | Meeting options  
+ 
+In Class  
+Sessions:  Meeting Times: Tuesdays  and Thursdays  from 12:30 PM to 1:45 PM  in CIS 
+2084 . MS Teams will be used for recording sessions .  
+ 
+Technology Used (MS Teams)  
+ 
+MS teams link:  
+ 
+Click here to join the meeting  
+Meeting ID: 295 507 740 354   
+Passcode: o7GGsV  
+Download Teams  | Join on the web  
+Learn Mo re | Meeting options  
+ 
+ 
+ Course Purpose  
+The exchange of information between computer applications is called Business Data 
+Communications (DataComm for short). Datacomm technologies provide the underlying 
+plumbing that enable computer applications to access resources on remote computers. Course Prefix Number Course Title  
+CRN, Section #, Credit Hours  
+College Name , Department Name  
+COURSE SYLLABUS  
+ISM4220  Spring  2023  
+Business Data Communications   
+Credit Hours  3 
+Muma College of Business , School of Information 
+Systems and Management  
+ 
+COURSE SYLLABUS  
+ 2 The prim ary goal of this course is to answer the question “How does the IT infrastructure 
+work?”. A big part of it is, “how do computers talk to each other?  
+The course is designed for students in all majors who are interested in computer 
+networking. The course wil l focus on concepts in business data communications that are 
+likely to stand the test of time. Upon completion of the course, students will have the 
+foundation to evaluate and utilize most current data communication technologies.  
+ 
+ Required Course Materials   
+Required Text:  
+Business Data Communications and IT Infrastructures (3rd Edition), Manish Agrawal and 
+Clinton Daniel, eISBN: 978 -1-943153 -78-7, Paperback ISBN: 978 -1-943153 -79-4, 
+https://www.prospectpressvt.com/textbooks/Agrawal -Data -Comm -3-0 
+    
+ Grading Scale   
+ 
+Letter Grade  Percent  
+A+ 98 -100%  
+A 92 - 97%  
+A- 90 - 91%  
+B+ 88 - 89%  
+B 82 - 87%  
+B- 80 - 81%  
+C+ 78 - 79%  
+C 72 - 77%  
+C- 70 - 71%  
+D+ 68 - 69%  
+D 62 - 67%  
+D- 60 - 61%  
+F < 60  
+ 
+ Grade Categories and Weights  
+Your grade in the course will be based on quizzes , assignments, and a design presentation. 
+The weights  of the course elements and grading criteria are as follows:  
+ 
+ 
+ Homework Quizzes, Assignments, and Design Presentation  
+       Homework Quizzes (56%)  – Individual Task  
+The quiz questions will be based on chapter readings of the required textbook. The quiz will 
+generally have 20 multiple choice questions and will be due on Saturdays by 1 0:00 PM.  
+Activity  Type  Count  Unit weight  Total weight  
+Homework Quizzes  Individual  14 4% (4 points)  56%  
+Homework Assignments  Group  14 3% (3 points)  42% 
+Peer evaluation  Individual  1 2% (2 points)  2% 
+ 3  
+Homework Assignments (42%)  – Group Task  
+The assignments as subdivided into three component categories: Hands -on activity,  example 
+case and  critical thinking exercise  questions . These components have the following weights:  
+ 
+Hands -on activity  (1 point)  
+Example case questions : (1 point)  
+Critical thinking exercise questions : (1 point)  
+ 
+The homework assignments will be due on Sundays by 10:00 PM. Handouts will be provided 
+for the homework assignments on canvas. Please check the due dates of the homework 
+assignments on canvas. Since, this is a group assignment, only one submission is required 
+per group.  
+ 
+ Assignment Question Details  
+Hands -On Exercise Questions : These questions relate to the hands -on activities introduced 
+at the end of the chapter. These activities are related to the content covered in the chapter 
+and give students hands -on experience, which is highly sought after by employers for  the 
+exciting entry -level positions in the industry.  
+ 
+Example Case Questions:  These questions will focus on  the business or social impact of the 
+technology covered in each chapter. A wide set of industries will be covered in these cases 
+to highlight the history of the industry or company as well as any relevant global issues.  
+ 
+Critical Thinking Exercise Questio ns: These questions relate to critical thinking exercises 
+that will require you to critically evaluate cases and provide solutions. These questions will 
+help you sharpen your decision -making skills . 
+ 
+Peer evaluation  (4%)  – Individual Task  
+All members of a group will receive the same score for the assignments; that is, the 
+assignments are assessed, and everyone receives this score. However, that number is 4 2% 
+of your grade for this project. The peer evaluation component of  2% is individual and r efers 
+to your teamwork. Every person in the group will provide the instructor with feedback for 
+every other member of the group, and the instructor will assign a grade that is informed by 
+that feedback.  
+ 
+ Group Details:  
+Please check your group details in the table provide below . Group channels have been 
+created for the groups on MS teams. Students can use these channels for discussing the  4 assignments. 
+ 
+ 
+ 
+Group Number Group Leader Group Members
+Group 1  Gausal Patel  Gausal Patel
+ Alexander Kuhar
+ Bradley Louis
+   Devansh Pavdighada
+ Grace Small
+Group 2  Paige Huss   Paige Huss
+   Uriel Cerro
+ Lorena Froze
+ Matthew Hunter
+   Octavio Membreno Paz
+Group 3 Sen Thomas  Sen Thomas
+ Nicolas Byrd
+   Mitchell Deshong
+ Ahmad Jubara
+Daphne Scott
+Group 4 Ethan Graber Ethan Graber
+Geraldo Alamo
+Juliet Hinkley
+Elijah Koppel
+Nia Lynch
+Group 5 Khalil Ahmed Hamood Al Harthi Khalil Ahmed Hamood Al Harthi 
+Derek D'Angelo
+John Henry Ramsaroop
+Esha Rastogi
+Colton Sall
+Group 6 Michael Little Michael Little
+Abdulaziz Alsuhaibani
+Nicole Evangelista
+Joshua Hariharan
+Alexander Trahan
+Group 7 Nicholas Deshong Nicholas Deshong
+Al Warith Abdul Rahman Ahmed Al Sulaimani
+Diana Barrientos
+Moni Nguyen
+Jason Wang
+Group 8 Hamza Butt Hamza Butt
+Gunjan Bhagtani
+Madison Farrens
+Angel Juvera
+Lewin Pillsbury
+Group 9 Courtney Demato Courtney Demato
+Annie Clark
+Melissa Kumar
+Ishan Lal
+Jose Santay5 
+ Grade Dissemination and Feedback  
+• For weekly quizzes, students will see their scores immediately . 
+• For assignments and design case presentation , the instructor will provide feedback 
+with scores  generally in a week.  
+ 
+ 
+ Course Policies: Grades  
+Attendance and class participations are not officially included in the grading. However,  
+those are cr itical factors for the success in this course. Therefore, low attendance, low  
+class participations, and late submissions of assignments may affect the course grade. Any  
+missing component of the course assignments will lead to lowering one letter grade. Eac h 
+assignment should be unique and reflect students’  efforts.  
+ 
+ Course Schedule  
+ 
+ 
+ 
+* Note: The Schedule is subject to revision  
+Date Topics To Be Discussed In Class Assignments/Quizzes Deadlines
+10-Jan Introduction to Course + First Day Attendence  + Chapter 1 Quiz 1 due on 14-Jan
+12-Jan Chapter 1 - Continued Assignment 1 due on 15-Jan
+17-Jan Chapter 2 Quiz 2 due on 21-Jan
+19-Jan Chapter 2 - Continued Assignment 2 due on 22-Jan
+24-Jan Chapter 3 Quiz 3 due on 28-Jan
+26-Jan Chapter 3 - Continued Assignment 3 due on 29-Jan
+31-Jan Chapter 4 Quiz 4 due on 4-Feb
+2-Feb Chapter 4 - Continued Assignment 4 due on 5-Feb
+7-Feb Chapter 5 Quiz 5 due on 11-Feb
+9-Feb Chapter 5 - Continued Assignment 5 due on 12-Feb
+14-Feb Chapter 6 Quiz 6 due on 18-Feb
+16-Feb Chapter 6 - Continued Assignment 6 due on 19-Feb
+21-Feb Chapter 7 Quiz 7 due on 25-Feb
+23-Feb Chapter 7 - Continued Assignment 7 due on 26-Feb
+28-Feb Chapter 8 Quiz 8 due on 4-Mar
+2-Mar Chapter 8 - Continued Assignment 8 due on 5-Mar
+7-Mar Chapter 9 Quiz 9 due on 11-Mar
+9-Mar Chapter 9 - Continued Assignment 9 due on 12-Mar
+14-Mar No Class (Spring Break)
+16-Mar No Class (Spring Break)
+21-Mar Chapter 10 Quiz 10 due on 25-Mar
+23-Mar Chapter 10 - Continued Assignment 10 due on 26-Mar
+28-Mar Chapter 11 Quiz 11 due on 1-Apr
+30-Mar Chapter 11 - Continued Assignment 11 due on 2-Apr
+4-Apr Chapter 12 Quiz 12 due on 8-Apr
+6-Apr Chapter 12 - Continued Assignment 12 due on 9-Apr
+11-Apr Chapter 13 Quiz 13 due on 15-Apr
+13-Apr Chapter 13 - Continued Assignment 13 due on 16-Apr
+18-Apr Chapter 14 Quiz 14 due on 22-Apr
+20-Apr Chapter 14 - Continued Assignment 14 and Peer Evaluation due on 23-Apr6  
+ Course Technology & Student Support  
+ 
+Academic Accommodations:  
+Students with disabilities are responsible for registering with Students with Disabilities 
+Services (SDS) in order to receive academic accommodations. For additional information 
+about academic accommodations and resources, you can visit the SDS website at 
+http://www.usf.edu/student -affairs/student -disabilities -services/  . 
+Academic Support Services:  
+The USF Office of Student Success coordinates and promotes university -wide efforts to 
+enhance undergraduate and graduate student success.  For a comprehensive list of 
+academic support services available to all USF students, please visit the Office of Studen t 
+Success website at - http://www.usf.edu/student -success/   
+ 
+Canvas Technical Support:  
+Include information where students can find technical support.  
+Example: If you have technical difficultie s in canvas, you can find access to the canvas 
+guides and video resources in the “Canvas Help” page on the homepage of your canvas 
+course. You can also contact the help desk by calling 813 -974-1222 in Tampa or emailing 
+help@usf.edu . 
+ 
+ USF Standard University Policies  
+ 
+Academic Integrity  
+Academic integrity is the foundation of the University of South Florida’s commitment to the 
+academic honesty and personal integrity of its university community. Academic integrity is 
+grounded in certain fundamental values, which include honesty, respect, a nd fairness. 
+Broadly defined, academic honesty is the completion of all academic endeavors and claims 
+of scholarly knowledge as representative of one’s own efforts. The process for faculty 
+reporting of academic misconduct, as well as the student’s options for appeal, are outlined 
+in detail in USF Regulation 3.027 .  
+. 
+Academic Grievance Procedure  
+The purpose of these procedures is to provide all undergraduate and graduate students 
+taking  courses at the University of South Florida an opportunity for objective review of facts 
+and events pertinent to the cause of the academic grievance. An “academic grievance” is a 
+claim that a specific academic decision or action that affects that student’s  academic record 
+or status has violated published policies and procedures or has been applied to the grievant 
+in a manner different from that used for other students.  
+ 
+ 
+COVID -19 Procedures  7 The health and safety of students, faculty, staff and visitors on o ur campuses is our top 
+priority. In response to the current COVID -19 pandemic, the USF community will be working 
+together to support compliance with recommended health and safety standards to 
+optimize the learning experience while minimizing health risks.  The Conduct Expectations 
+for all members of the community may be accessed at Conduct Expected to Support US F 
+Health and Safety Standards  with details provided below:  
+ 
+Students and faculty will be guided by established USF processes to ensure the safest 
+possible non -disruptive environment including the:  
+(1) Academic Disruption Regulation  which provides for an immediate removal or restriction 
+from a classroom setting with academic sanctions and/or  
+(2) Student Conduct Reg ulation  to address conduct that is inconsistent with the 
+expectations as outlined below:  
+1. Complete daily screening as requested.  Anyone experiencing one or more COVID -19 
+symptoms should not be on campus or, if a resident, should not be outside their reside nce 
+hall room and should contact a medical provider immediately and follow their guidance. 
+Please inform your instructor prior to the beginning class if your screening indicates the 
+need for further evaluation and you will not be in class.  
+2. Wear face cover ings.  All members of the USF community are required to wear face 
+coverings while in classrooms or any other shared space, including specified public or 
+common -use areas where social distancing guidelines cannot be followed. See this link on 
+How To Make A Face Mask . If you have to use a disposable face mask, please discard it in 
+a trash receptacle immediately after use.  
+3. Maintain so cial distancing.  All students, faculty, staff and guests are required to maintain 
+a safe distance from one another. Social distancing is maintained in all indoor and outdoor 
+spaces which are owned or controlled by USF.  Stay at least 6 feet (about 2 arms’ length) 
+from other people, do not gather in groups, stay out of crowded places and avoid mass 
+gatherings. See the CDC for information on Social Distancing . Please sit in only designated 
+areas in class and do not move chairs or desks in classrooms or common spaces.  
+4. Practice good h and hygiene.  Individuals should wash their hands with soap and water for 
+at least 20 seconds as often as possible or use personal hand sanitizers containing at least 
+60% alcohol. Hand sanitizer stations are available throughout the campus. If you see one, 
+use it! See the CDC recommendations on Hand Hygiene .  
+5. Disinfect your classroom space.  Students and faculty are responsible for disinfecting 
+areas within their workspaces by cleaning these at the beginning and end of each class. 
+This includes desktops , seats, and equipment used during class. Disinfectant supplies will 
+be provided. If paper towels are used to disinfect, they must be discarded in a trash 
+receptable immediatel y after use.  
+Disability Access  8 Students with disabilities are responsible for registering with Students Accessibilty 
+Services (SAS) (SVC 1133) in order to receive academic accommodations. SAS encourages 
+students to notify instructors of accommodation needs at least five (5) business day s prior 
+to needing the accommodation. A letter from SAS must accompany this request. Please 
+visit the Student  Accessibility Services website  for more information.  
+ 
+Disru ption to Academic Progress  
+Disruptive students in the academic setting hinder the educational process. Disruption of 
+the academic process ( USF Regulation 3.025 ) is defined as the act, words, or general 
+conduct of a student in a classroom or other academic environment which in the 
+reasonable estimation of the instructor: (a) directs attention away from the academic 
+matters at hand, such as noisy distractions, persistent, disrespectful or  abusive 
+interruption of lecture, exam, academic discussion, or general University operations, or 
+(b) presents a danger to the health, safety, or well -being of self or other persons.  
+ 
+Food and Housing Insecurity  
+We recognize that student facing financial d ifficulty in securing a stable place to live 
+and/or in affording sufficient groceries may be at risk of these financial issues affecting 
+their performance in classes. Students with these needs are urged to contact Feed -A-Bull 
+(feedabull@usf.edu  or their website ), or Student Outreach and Support ( socat@usf.edu  
+or their website ).   
+ 
+Religious Observances                                                                      
+All students have a right to expect that the University will reas onably accommodate their 
+religious observances, practices and beliefs ( USF Policy 10 -045). The University of South 
+Florida, through its faculty, will make every attempt to schedule requi red classes and 
+examinations in view of customarily observed religious holidays of those religious groups 
+or communities comprising USF’s constituency. Students are expected to attend classes 
+and take examinations as determined by the university. No studen t shall be compelled to 
+attend class or sit for an examination at a day or time prohibited by his or her religious 
+belief. However, students should review the course requirements and meeting days and 
+times to avoid foreseeable conflicts, as excessive absen ces in a given term may prevent a 
+student from completing the academic requirements of a specific course. Students are 
+expected to notify their instructors at the beginning of each academic term if they intend 
+to be absent for a class or announced examinat ion, in accordance with this Policy.  
+Sexual Misconduct / Sexual Harassment               
+USF is committed to providing an environment free from sex discrimination, including 
+sexual harassment and sexual violence ( USF Policy 0 -004). The USF Center for Victim 
+Advocacy is a confidential resource where you can talk about incidents of sexual 
+harassment and gender -based crimes including sexual assault, stalking, and 
+domestic/relationship violenc e. This confidential resource can help you without having to 
+report your situation to either the Office of Student Rights and Responsibilities  (OSSR) or 
+the Office of Diversity, Inclusion, and Equal Opportunity  (DIEO), unless you request that 9 they make a report. Please be aware that in compliance with Title IX and under the USF 
+Policy, educators must rep ort incidents of sexual harassment and gender -based crimes 
+including sexual assault, stalking, and domestic/relationship violence. If you disclose any 
+of these situations in class, in papers, or personally to an educator, he or she is required 
+to report it  to OSSR or DIEO for investigation. Contact the USF Center for Victim Advocacy : 
+813-974-5757.  
+Statement of Academic Continuity                               
+In the event of an  emergency, it may be necessary for USF to suspend normal operations. 
+During this time, USF may opt to continue delivery of instruction through methods that 
+include, but are not limited to: Learning Management System, online conferencing, email 
+messaging, and/or an alternate schedule. It is the responsibility of the student to monitor 
+the Learning Management System for each class for course -specific communication, and 
+the main USF, College, and Department websites, emails, and MoBull messages for 
+important general information ( USF Policy 6 -010). For additional guidance on emergency 
+protective actions and hazards that affect the University, please visit www.usf.edu/em . 
+ 

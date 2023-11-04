@@ -1,0 +1,355 @@
+         1  
+ 
+ 
+Instructor :  
+• Barb Warner  (bwarner@usf.edu ),  Office hours: Tues/ Thurs , noon -2pm via Teams  (See Canvas for all office hour  links ) 
+Additional TA Office Hours  for project help : Mon: 1 -3pm, We d 5-7pm, Frid ays 11am -1pm & 4-6pm  
+Email :  
+• Contact me at the email address above o r use the Canvas email s ystem .  Grading questions should be addressed via email, not the 
+assignment comment section s.   
+• TAs don’t respond to email , Canvas assignments comments , messages . 
+ 
+ 
+I. Welcome!  
+Welcome to ISM 3011 .  Hopefully this summer  we are seeing Covid in the re arview mirror.  But we will still app roach the semester  arme d 
+with data, flexibility, patience  and care.  
+ 
+II. Course Description  
+The ISM3011 course material focuses on two quite  distinct content areas.   
+1) The first is a survey of the language, concepts, structures,  and processes involved in the field of Business Analytics and Info rmation 
+Systems (BAIS), also referred to as Management Information Systems (MIS).   We will be r eading and doing online activities related t o 
+these topics.  
+2) The second area involves hands -on projects and explores the use of technology for analytics that support business decisions.  In both 
+areas, the course tries to include some  creative and interesting encounters with technology concepts that will be applicable all 
+students, regardless of their major. CGS2100 is a prerequisite for this course,  and it is assumed that you are proficient using your 
+laptop and Microsoft Excel.  
+ 
+III. Class Format  
+ISM 3011 , section 020 is fully online.  All assignments and course resources are posted online.  There are no required meetings , 
+however we do offer online office  hours every weekday .  Please take advantage of these opportunities.  
+ 
+IV. Course Objectives   
+This course is designed for undergraduate business students, as well as anyone else interested in the use of technology withi n 
+organizations.   
+Online (Connect) activities are designed to offer  
+o an overview of the disciplines within the BAIS / MIS field   
+o familiarization with MIS terms, trends,  and new technologies  
+o an understanding of how information systems impact all areas of an organization  
+Excel, HTML and Tableau projects  
+o hands -on experiences using technology to aid with analytics and decision making  
+ 
+V. Schedule & Course Topics  – See Class Schedule ( on Canvas ) 
+ 
+VI. Learning Outcomes  
+Upon completion of this course students should be able to:  
+• identify the disc iplines within BAIS / MIS and the various ways information systems are used within an organization.  
+• contribute to workplace  discussions about the use of technology to gain competitive advantages.  
+• describe hardware, software, mobile and network system components.  
+• use and understand the importance of database and analytical software.  
+• identify how information systems can be used in process management and systems development.  
+• discuss current trends in technology, including business intelligence, data mining, and clo ud computing.  
+• recognize the importance of the Internet, how it’s used, its role in society and the trends it has enabled (social media)  
+• describe technological  threats and safeguards.  
+• discuss the use of technology in the global workforce.  
+ISM 3011  SYLLABUS  
+Information Systems in Organizations  
+Sections 020, 3 Credit Hours , Summer 2023  2 • use technology to provide analytics to support data driven decisions.   
+ 
+VII. Course Materials  
+Textbook :  This semester we’ll be using the Connect platform.  The idea is to use technology to teach technology, instead of primarily 
+readings and lectures.  You will purchase this through  our Canvas class (see our home page).   
+Laptop:   All College of Business students are required to own a laptop, please bring yours to on-campus office hours (when available) if 
+you need project help.  It’s often impossible  to complete projects  with a Chromebook , so you may want to use USF library computers if a 
+Chromebook  is your only device.   
+Webcam  / Microphone : Most laptops  come with a webcam, so you can use this or purchase a very inexpensive USB web cam for our final 
+project (video required).  Most laptops also include a microphone – you’ll need this as well.   
+Optional  Materials:  Any Microsoft  Office text and/or the text from CGS2100 will be helpful if you need to refresh your Excel skills. 
+Lynda.com educational videos are also available to all USF students.   I’ll also supply links to online tutorials.  
+Software:   We only accept projects done w ith Office software (2016 and more recent). They cannot be done with any other software (no 
+Works, Google Docs or OpenOffice).   
+• You can get a copy of Microsoft Office 2016 (Windows or Apple) from portal.office.com/home  (sign in with your USF netid; the 
+software  is free).  Be sure to  download and  install the software on your computer, the online  365 Excel is not the complete  version.  
+• Mac Users:  
+o If you use an Apple version of Office,  be sure to check  your work on Windows based version of the software , if possible,  before 
+uploading to Canvas.  Again, be sure you know how to save your files correctly.  Contact me with questions.  
+ 
+Videos:   Numerous video tutorials are posted in our Project Overview pages in the Modules area on Canvas.      
+ 
+All other materials will be posted on Canvas.  The TAs and I offer many online office hours  via Teams .  We also offer email support  (Note 
+that TAs do not respond to email or assignment comments ).   Take advantage of any or all these contact opportunities.  We are trying to 
+provide all the tools for success in this class, but you are ultimately responsible for your own learning experience.   
+ 
+VIII. Evaluation Criteria  
+ 
+Activities – Must be  submitted via Canvas  Assignment Links  Grading Scale  
+• Starting / Ending  – Syllabus Quiz, Ending Survey  5%  
+Connect Orientation  
+• Connect Activities   
+o Adaptive Learning Activities  15%  
+o Assessments ( short quizzes)  20% 
+• Projects  (~ 7) 55% 
+• Weekly Check -Ins (~9) 5% 
+• Extra Credit – max of 15 po ints  
+o Case studies  
+o ChatG PT course  
+     
+Total  100%    A+ 99-100  
+A  94-98.99%  
+A- 90-93.99%   
+B+    87-89.99%  
+B 84-86.99%  
+B- 80-83.99%  C+ 77-79.99%  
+C 74-76.99%  
+C- 70-73.99%  
+D+ 67-69.99%  
+D  64-66.99%  
+D- 60-63.99%  
+F Below 60%  
+Any e xtra credit points earned will be  added to the projects total  (15 points max)  
+ 
+• All work/assignments/announcements/grades are posted on Canvas.  
+• Grades will be available through  the ‘Grades’ link in Canvas.  
+• Final grades are not rounded up unless the course average is less than 75%.  
+• NOTE: Undergraduate students who enter USF under the 2001 -2002, or later, catalog are required to earn a 
+grade of C - or better, in every undergraduate core class and an overall GPA of 2.0 for all undergraduate core 
+classes.  
+ 
+IX. Assignment Details  
+• Syllabus Qui z:  This is a brief quiz on Canvas  to encourage you to review the syllabus, schedule, FAQ page, and our course materials 
+on Canvas.  You can take this once.   
+• Each Week:   I’ll post announcements on the home page and send an email announcement reminding you  of upcoming activities.  In 
+the Modules area of our Canvas class,  you’ll also find links detailing each week’s activities.   3 • Weekly ‘Check -in’ Quizzes  – These are quick, low point quizzes to cover common questions and help us all stay engaged.  
+• Connect Activities: The schedule details the topics we’ll be covering using the online Connect activities.   The Connect activities allow 
+you to learn about tech nology by using technology.  They are varied formats to cover concepts important to technology in 
+organizations  (they are usually grade boosters if  you complete them on -time).  Connect activities include:  
+o Readings  – these do not earn any points, but help you prepare for the ALAs and Assessments  (quizzes) . 
+o Adaptive Learning Activities  (ALAs ) – these help you cover the concepts and can be used to supplement or replace the readings.  
+I cannot set late dates for these activities (it’s a Connect system issue), so please complete these before the ir due date s. 
+o Assessments:  These are short quizzes, most are 20 questions , no time limit.   You can submit these assessments after the due 
+date  with the penalty of 5% off per day late.    
+ 
+o Extra Credit Case studies: Case studies cover the concepts as used in industry.  Some are written, some are videos.  They can be 
+submitted after the due date  with the 5% off per day late penalty.  Each case study is worth a maxim um of 1 point.  
+o Application Based Activities  (ABAs)  – these help you review concepts in a more hands -on manner.  The se are optional, not 
+required and do not earn any points.  
+o NOTE :  When you complete an activity – be sure to SUBMIT it, otherwise it will be ma rked ‘in-progr ess’ 
+• Projects : This class has considerable  hand s-on / project assignments.  Most times you’ll do a quick tutorial  project first for 10 points, 
+then apply the skills to a second 100 -point project  and as time allows, finish up with a shorter project (40 points) of your choosing, 
+demonstrating the skills learned . The 10 -point projects teach all the skills necessary for the other required projects.  If you come for 
+TA or instructor help on a 100 -point or 40 -point project, we’ll ask to first see your completed corresponding 10 -point project.   
+Projects are submitted via Ca nvas.  (HTML projects must also be submitted to the USF server).    Projects can be submitted late to 
+Canvas with the 5% penalty per day late penalty .   
+• Ending  Survey Activity  – This is a quick survey about the course.  It is different from the Oasis course evaluation.  This asks you free 
+response questions, so I can read your comments and make improvements.  I wait until all grades are posted and remove  all 
+identifiers before reading the responses.  
+ 
+X. Covid -19 Procedures  
+As Covid policies are quite fluid, please check with the USF website for the latest recommendations.  
+ 
+Additional details are available on the University ’s Core Syllabus Policy Statements page : https://www.usf.edu/provost/faculty/core -
+syllabus -policy -statements.aspx  
+ 
+XI. Course Policies:  
+• Office Hours : MS Teams will be used for all office  hours and links to these sessions will be on the Canvas home page.   It will be up to 
+students to attend office hours as needed in order to ensure a successful learning experience.  
+• Due dates / times – Late dates / times :  Canvas is the official clock for turning in work – and the due date time is 11:59:00pm Eastern 
+Standard Time (not 11:59:59pm).  Don’t wait until the last hour  to submit work  – as it may take some time  to complete your 
+submission,  or your clocks and the Canvas clock may not be synchronized .  Late work penalties can be adjusted if  notification is sent 
+before the due date.  A doctor’s note is also required, before the d ue date, excusing you from work and school during the whole 
+assignment time.   If a project has several parts, if one part is submitted late  – the whole project is considered late  
+• When work is submitted late, it may receive a zero grade  until the assignment is reviewed and graded.  This is a Canvas feature.  
+• Support :  The TAs and I are available for project help during the week.  I am also ava ilable for project help via email  (not the TAs) , 
+although weekend email support is limited  and it’s often harder to adequately respond to project questions via email .  Start early 
+enough to beat the ‘due date rush’ and so that if the TAs can’t answer your question, you’ll have time to contact your professor .  TAs 
+help with projects, if you have other course questions, please contact your professor . 
+• Submitting Projects:   
+o Check your project u ploads - Required : To do this,  look at the submission information on the right side of your screen and 1) 
+download  a copy a copy of your project files FROM Canvas to another folder on your computer.  2) Open these files, be sure 
+they’re complete, the right project, etc.  and then 3) sa ve these copies. These are your back up copies and the creation and last 
+modified dates will be retained as long the projects are not opened again.   
+o As a reminder, many semesters there are 200-700+ students in the various sections, and we spend a lot of time grading.  In an 
+effort to get your grades to you as soon as possible, we’ll start reviewing projects as we see them submitted to Canvas.  Ple ase 
+don’t submit your project unless you are ready  for us to grade it.  Please check your all uploads to be sure the right project files 
+have  uploaded correctly.    
+o Work submitted to Canvas incorrectly that cannot be opened or graded for any reason is considered late and may or may not be 
+accepted later.  Again, c heck your upload to avoid this.  
+o Work that is submitted to the wrong assignment on Canvas is also considere d late (late penalty applied) and will only be accepted 
+if submitted before the due date (or late date, if there is one).  One more time, c heck your uploads to avoid this.  4 o No work is accepted via email.  Projects must be submitted via Canvas.  
+o Each set of projects takes up to 2 weeks to grade.  This process is no t automated; we open each project and grade it. Typically, 
+during the fall and spring semesters there are 600-800+ students in the sections of the class.   Please be patient while we review 
+work & post grades.  Late projects / bad uploads are  usually grade d after this period.  
+o Once a project is graded, it can’t be resubmitted / re -graded.  
+• Submitting Other Assignments:  
+o As with all transactions over the Internet, it’s always a good idea to keep a copy documenting what you’ve done!   
+o Check your quiz scores when  you’ve completed them.   You can even take a screen shot of any submissions or of the screen 
+showing your score and save it to a folder of ‘screenshots.’  Just be sure your log -in information and date / time is also included in 
+the screenshot.  
+• Your Grades : 
+o We know grades are important and try to be very attentive while grading and recording grades.   Please do your part by keeping 
+copies of all submitted work, monitoring your own grades and keeping all graded correspondence/returned work.  
+o Canvas has a ‘ what i f’ feature that lets you look at your grade, enter grades you think you may get in the future and see where 
+you stand.  Take advantage of this.  
+o Re-grade  requests should be emailed within two weeks from the date your grade was posted  and before the end of the semester.  
+To do this, download and review a copy of your submitted project from Canvas and then email  me (not T As)  with a description of 
+what was graded incorrectly and why it’s incorrect.  We will do a re -grade but will re -grad e the whole project and any grading 
+mistakes or omissions (positive or negative) will be corrected.   
+o ‘Technology problems’ , including bad files, bad file names, not knowing how to upload to Canvas correctly (not checking an 
+upload), locked files, lost wor k, slow or bad Internet connection, power outages at your home, etc. are not valid excuses for 
+late/missing work – they are just part of using technology .  Ask questions, get help, do your work early and check that 
+assignments are submitted correctly so the inevitable technology problems will not lead to missed points.  We offer many contact 
+hours each week to help you with this.  
+o Medical Issues - From  USF Student Health Services:   ‘Students should not attend class if they are ill, particularly if they have fever 
+and/or gastrointestinal symptoms and/or respiratory symptoms such as a sneezing, runny nose, sore throat or coughing.  
+Students experiencing any of these symptoms should cont act immediately the Student Health Services (813 -974-2331) on the 
+Sarasota -Mantatee and Tampa campus or the Wellness Center (727 -873-4422) on the St. Petersburg campus for appropriate 
+medical guidance and to obtain a verification of care letter. Students m ay turn to other health providers as well. ’ To be approved 
+for missed classes, late assignments or missed examinations a verification of care letter from USF health services or area 
+physician must be presented by the student to the faculty near the start ( within a week) of any illness or condition that 
+prevents class participation.  
+• Extra Credit  is usually  available during the semester.  Any extra points will help if you are ‘close’ to the next grade level and usually the 
+place of any curve or any ‘rounding ’ in the class.  Activities will be described  on Canvas.  Any integrity violations involving extra credit 
+will result in the loss of all extra credit points.    
+• Canvas  - All class announcements and class materials are on Canvas.  CHECK it FREQUENTLY  (Canva s is your friend…)   To use Canvas 
+you must go to my.usf.edu and sign in using your USF NetID and Password.  If you are a new user or have forgotten your passwo rd, 
+instructions/links are available from my.usf.edu to help you.  Once you are signed in, click the Canvas tab and find our class and 
+familiarize yourself with the course website . If you have any issues, contact USF's IT department at it.usf.edu/help,  (813) 974 -1222 or 
+help@usf.edu . 
+• Email to me should be sent  via Canvas or your USF email account .  Email is usually answered within 24 -48 hours (not including 
+weekends/holidays).  
+• Email from instructors is usually sent via Canvas, which is tied to your university/stud ent email account.  It is your responsibility to 
+change your USF email ‘preferences’ if you want to forward email to a different account.   This can be done through Canvas. You 
+should  also set up your Canvas preferences to notify you when any announcements , email or grading comments  are posted.  Be sure 
+to check your JUNK/SPAM folders for all class related email that may be inadvertently filtered  
+• MS Teams:  We’ll be using Teams software for some office hours and you should assume the session is recorded.  S tudent interactions 
+may be heard in the captured content.     
+• End of Semester Student Evaluations:   All classes at USF make use of an online system for students to provide feedback to the 
+University regarding the course. These surveys will be made available at the end of the semester, and the University will not ify you by 
+email when the response window  opens. Your participation is highly encouraged and valued.  
+ 
+• Academic Integrity - Integrity does matter  
+Please review:  http://www.ugs.usf.edu/policy/AcademicIntegrityOfStudents. pdf) 
+o We value learning and realize that technology allows work to be copied easily so we have a strict academic integrity policy.   As 
+part of that, we require that all projects be done individually (unless specifically noted) .  We have found that more individual 5 learning occurs when students use critical thinking, problem solving skills, course / online resources and a bit of trial and  error to 
+work through these projects.   The TAs and I are available for project help. To facilitate learning we try to guide you to find your 
+own solutions, rather than just tell you an answer .    
+o **Do not email your work to anyone else to use as a ‘sample’, or as a copy of the data or share in any way .  Do not deny them 
+the opportuni ty to experiment and learn potentially valuable career skills.  Also, we use software to detect duplicated work.   It is 
+your responsibility  to be sure your project cannot be copied or viewed by anyone else.  
+o If you share a computer with another person (no t recommended) or use a public computer, remove any project work to a flash 
+drive each time you are done working on the project .  
+o Quizzes are completed online and again, are individual activities.  All work must be completely your own - no copying, pasting , 
+quotes – just your own words/efforts.   
+o Course Hero / Chegg Policy:  Offer specifics about your policy on contract cheating, paper mills, or the use of websites that enable 
+cheating.  Example: The USF Policy on Academic Integrity  specifies that students may not use websites that enable cheating, such 
+as by uploading or downloading material for this purpose. This does apply specifical ly to Chegg.com and CourseHero.com – any 
+use of these websites (including uploading proprietary materials) constitutes a violation of the academic integrity policy.  
+o Turnitin.com:  In this course, turnitin.com will be utilized. Turnitin is an automated syst em which instructors may use to quickly 
+and easily compare each student's assignment with billions of web sites, as well as an enormous database of student papers th at 
+grows with each submission. Accordingly, you will be expected to submit specific assignm ents via the appropriate Canvas / 
+TurnItIn assignment. After the assignment is processed, as instructor I receive a report from turnitin.com that states if and  how 
+another author’s work was used in the assignment. For a more detailed look at this process v isit http://www.turnitin.com .  
+ 
+All that being said… copying, plagiarism or any other form of misrepresentation of one's work is considered cheating - this 
+includes cutting/pasting fr om the Internet or copying anyone else’s projects/ assignments or  sharing solutions in any way. 
+This applies to all course assignments. The minimum penalty for collaboration/cheating on an assignment is a zero for 
+that assignment  and a referral to the Undergraduate Studies Director and Muma College of Business Undergraduate 
+Program Director .  This is applied to all parties involved.  Maximum p enalties may include an F or F/F in the course 
+(instructor’s discretion).  Students who have been referred for an academic integrity violation in a prior class will be 
+subject to an F/F in this class in accordance with USF’s academic integrity policies and  after discussions with pertinent 
+faculty members, and Muma College of Business Undergraduate Advising.  
+o College of Business policies do not allow students to drop classes due to academic integrity violations.  Students will be ad ded 
+back into classes in th ese situations.  
+ 
+I do not enjoy the ‘academic dishonesty’ part of teaching – it is emotional for all & takes A LOT of time to deal with.  However, 
+I do feel very strongly about honesty/integrity and I do uphold University/my course policies on cheating.  One survey of IT 
+professionals found that the key attribute they looked for in new hires was integrity (above technical skills). I treat acade mic 
+dishonesty very  seriously and will fail students who cheat on tests or turn in work that is not completely the ir own.  See 
+“Academic Dishonesty” in the Undergraduate Catalog for further discussion.   
+ 
+If you have questions on academic integrity issues relating  individual assignments or tests – please contact me, I’ll be glad to 
+discuss this in more detail.   
+ 
+XII. Additional USF Policies / Resources  
+• Standard University Policies.  Policies about disability access, religious observances, academic grievances, academic integrity and 
+misconduct, academic continuity, food insecurity, and sexual harassment are governed by a central set of policies that apply to all 
+classes at USF. These may be accessed at: https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx   
+• Emergency Operations: In the event of an emergency, it may be necessary for USF to suspend normal operations.  It’s the 
+respons ibility of each student to monitor our Canvas site for each class for course specific communication, and the main USF, Colleg e, 
+and department websites, emails, and MoBull messages for important general information.  
+• Incomplete Policy: An ‘I’ grade may be used for situations where a student has an unforeseeable emergency at the end of the 
+semester (after the withdrawal date), has a C grade or better in the class and only has a small part of the course to complet e. Written 
+approved docume ntation is required.   Incompletes can’t be used if a student is busy, falls behind or is not doing well.  Students doing 
+poorly in a course should withdraw from the class or risk receiving a poor/failing grade.  See our schedule for the last day to 
+withdr aw from the class.  
+• Religious Holy Days : Students who must miss a scheduled test due to the observation of a major religious observance must provide 
+notice of the date(s) to the instructor, in writing, during the first 2 weeks of class. http://www.ugs.usf.edu/policy/ReligiousDays.pdf  
+• Students with Disabilities : Students in need of academic accommodations for a disability may consult with the office of Students w ith 
+Disabilities Services to arrange appropriate accommodations. Students are required to give reasonable notice prior to request ing an 
+accommodation.  6 • Disruption of the Academic Process - http://www.ugs.usf.edu/policy/DisruptionOfAcademicProcess.pdf  
+• Use of notes and recordings:   Please review the official USF policy on this for more info, but the policy states that notes, recordings, 
+handouts and other material provided by the instructor cannot be exchanged or distributed for commercial purposes or for any 
+purpose not related to a student's study or enrollment without written authorization of the instructor.  
+• Tuto ring Hub  -  For more information, email asctampa@usf.edu  
+• Writing Studio  - For more information or to make an appointment, email writingstudio@usf.edu   
+• Counseling Center  - The Counseling Center promo tes the wellbeing of the campus community by providing culturally sensitive 
+counseling, consultation, prevention, and training that enhances student academic and personal success. Contact information is 
+available online .  
+• Center for V ictim Advocacy   - Example:  The Center for Victim Advocacy empowers survivors of crime, violence, or abuse by promoting 
+the restoration of decision making, by advocating for their rights, and by offering support and resources. Contact informatio n is 
+available online .  
+• Class and Online Courtesy – Please review the ‘Getting Started’ section of Canvas and note the two sections: 1) “What Can You Expect 
+From the TAs and Me”  and 2) “What the TAs and I Expect from You”.   
+• Campus  Free Expression: It is fundamental to the University of South Florida’s mission to support an environment where divergent 
+ideas, theories, and philosophies can be openly exchanged and criticall y evaluated. Consistent with these principles, this course may 
+involve discussion of ideas that you find uncomfortable, disagreeable, or even offensive.  
+ 
+In the instructional setting, ideas are intended to be presented in an objective manner and not as an endorsement of what you  should 
+personally believe. Objective means that the idea(s) presented can be tested by critical peer review and rigorous debate, a nd that the 
+idea(s) is supported by credible research.  
+ 
+Not all ideas can be supported by objective methods or criteria. Regardless, you may decide that certain ideas are worthy of your 
+personal belief. In this course, however, you may be asked to engage with complex ideas and to demonstrate an understanding of the 
+ideas. Understanding an idea does not mean that you are required to believe it or agree with it.  
+ 
+XIII. How to Succeed in this Course  
+• Get started right away!   If new to Canvas, read Canvas Guide  
+o Review the syllabus and Canvas material.  Be sure you understand how t he class works.   
+o Get access to the Connect platform as the first assignments are due soon .  See our class Home page on Canvas for more on this.  
+o Note our Office hours - via a link on our Canvas home page.    
+• Keep up with the class .  Each week:  
+o Read our Can vas Home page and modules area each week to keep up with class information, project due dates, any extra credit 
+opportunities, etc.  
+o Complete the Connect activities for each week.    
+o Work on the assigned projects, don’t procrastinate on these.  
+o Note all due d ates.  
+• Turn in your projects on -time .   
+o Project information and resources are in the Assignment area of Canvas.  
+o Use the Project Overview link found on each assignment page. The overview and any skill links included demonstrate skills you  
+will use to complet e the projects. There are also some basic tutorial site links available in the FAQ section.  
+o Start early, get help when needed.   Give yourself enough time so that if a TA or USF IT support can’t answer a question, you  still 
+have time to contact me and get help before the due date.  If I can’t resolve the issue, your project won’t be considered late.  If 
+you wait until the last minute and have issues, I probably won’t be able to get to your questions before the due date and you r 
+work will be considered late.   
+o Projects are due frequently , and it is recommended that you complete them as early as possible so you can get help, if necessary, 
+before the due date.  
+• Upload your projects to Canvas AND check your uploads!  
+o Be sure to submit and check your work early so you have time to get any issues resolved before the due date.  Remember, there 
+is no scheduled weekend support.  
+o After you submit your project, CHECK YOUR UPLOAD to be sure it was uploaded correctly on Canvas. See instructions above in th e 
+‘Course Details’ section.  
+o If your project doesn’t upload correctly, you can resubmit it.  To do this, go back to the upload link and submit the project  file.  
+Then check your upload again.  We only grade the last project submitted. If you are submitting several files for an assignm ent – 
+resubmit all of them.   
+o Once your project has been graded, it can’t be corrected and / or resubmitted.  Don’t submit work unless you are ready for it  to 
+be graded.  7 • Do any extra credit activities available .  Any extra credit points may take the place of any curve or any ‘rounding’ in the class.  
+• Keep track of your grades on Canvas .  Note that any grayed -out grades are considered ‘drop’ grades by Canvas (drop grades are not 
+available every semester).  If you use the what -if feature, where you enter your grades to see your final average, be sure  to enter 
+zeros for any work not submitted.   
+• Suggestions for quiz  preparation  
+o Keep up with the work – don’t wait until the week of the test to go over all the material.  
+o Take notes as you do the readings and review the page for each chapter.  
+o Makes notes on the project concepts as you prepare for the quizzes.  
+ 
+**Most stud ents do very well in this class, however if this is one of your last classes needed to graduate or to keep a scholarship, be 
+sure to monitor your grades, do all the projects, do any extra credit offered and prepare for the quizzes .  
+ 

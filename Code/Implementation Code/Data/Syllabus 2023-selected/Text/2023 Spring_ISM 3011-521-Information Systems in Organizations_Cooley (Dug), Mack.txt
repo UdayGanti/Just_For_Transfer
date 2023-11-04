@@ -1,0 +1,231 @@
+Approved by APC 3/1/2016 , Technical changes 8/1/18 Page 1 
+  
+ISM 3011 , 3 Credit Hours  
+Information Systems in Organizations  
+Spring  2023 – 122122 Updated   
+ 
+Instructor : Mack (Dug) Cooley      Office : Virtual  
+E-Mail :  cooleym@usf.edu     Office Telephone : None  
+       Office Hours : Virtual  – Setup per request  
+ 
+PREREQUISITES : No courses  required  – CGS2100  - recommended.  
+ 
+COURSE  DESCRIPTION:  
+The purpose  of this course  is to teach  Information  Technology  concepts  and use Information  Systems  to 
+enhance  business  processes.  To assess,  evaluate,  and apply  emerging  Information  Technology  to business!   
+ 
+COURSE TOPICS   
+• MIS‐ evaluate,  implement  and diagnosis.    
+• Data  and Analytics    
+• Ethics  and Professional  Responsibility   
+• Evolving  Security    
+• Collaboration  software    
+• Visualization  software   
+ 
+COURSE STUDENT LEARNING OUTCOMES : 
+Upon  successful  completion  of this course  students  will be able  to:  
+1. Explain  the importance  and application  of Information  Systems  in functional  areas  of business.   
+2. Propose  solutions  to busin ess problems  through  use and implementation  of Information  Systems.    
+3.Critically  interpret  quantitative  evidence  (such  as graphs,  tables,  charts)  to identify  false  claims,  incor
+rect use of evidence,  or contradictory  statements   
+4.Understand  the security  threats  to which  any business  is subject  to.   
+5. Explain  personal,  legal,  and ethical  issues  that are related  to Information  Systems.    
+6. Understand Enterprise Systems organizations and business processes.   
+7.  Develop an understanding of Artificial Inte lligence, and Expert Systems.  
+ 
+TEXT AND MATERIALS : 
+Required: MIS, 10edition by Bidgoli. ISBN -13: 978 -0-357-41869 -7 Paperback – or eBook   Publisher: Cengage  
+ 
+CANVAS  USE : 
+The class syllabus is posted in Canvas , an online course management system.  In this cl ass Canvas  will be used for (add 
+specific information to your course).  
+Information on how to use Canvas  is available at:  http://usfsm.edu/elearning  
+Canvas is accessi ble via the myUSF online web portal , or directly at https://usflearn.instructure.com/ .  
+ 
+ 
+GRADING, EVALUATION AND ATTENDANCE POLICIES :   
+Student performance will be evaluated based on exercises and assignments .  All assignments are expected 
+to be turned in on time.  
+ 
+The relative weights for each of these components in determining the final grade are as follows:  
+ 
+      Quizzes                                              25% 
+      2 Tests (each 25 % )                           50% 
+      Use Case Analysis (2)                       25% 
+      Total                                                 100%  
+ Approved by APC 3/1/2016 , Technical changes 8 /1/18 Page 2 
+ A grade will be determined based on the total of possible points earned, as follows:  
+A+: 100 – 98, A: 97 – 94, A -: 93 – 90 
+B+: 89 – 87, B: 86 – 83, B -: 82 – 80 
+C+: 79 – 77, C: 76 – 73, C -: 72 – 70 
+D+: 69 – 67, D: 66 – 63, D -: 62 – 60 
+F: below 60  
+ 
+USFSM AND USF SYSTEM POLICIES  
+Policies are available in the USFSM Catalog  and at regulationspolicies.usf.edu  
+.  
+A. Academic Dishonesty :  The University considers any form of plagiarism or cheating on exams, projects, 
+or papers to be unacceptable behavio r.  Please review  the USF System Regulation USF3.027 Academic 
+Integrity of Students  and the USF System Re gulation USF6.0021 Student Code of Conduct . 
+ 
+B. Academic Disruption : The University does not tolerate behavior that disrupts the learning process.  
+Please review USF System Regulation USF3.025 Disruption of Academic Policy .  
+ 
+C. Contingency Plans : In the event of an emergency, it may be necessary for USFSM to suspend normal 
+operations.  During this time, USFSM may opt to continue delivery of instruction through metho ds that 
+include but are not limited to: Canvas, online conferencing/collaboration tools , email messaging , and/or 
+an alternate schedule. It  is the responsibility of the student to monitor Canvas for each of their class es 
+for course specific communication, as well as  the USFSM website, their student email  account , and 
+MoBull  messages for important general information. The USF hotline at 1 (800) 992 -4231 is updated 
+with pre -recorded information during an emergency.  S ee the Campus Police Website  for further 
+information.  
+ 
+D. Disabilities Accommodation :  Students are responsible for registering with the Office of Students with 
+Disabilities Services (SDS) in order to receive  academic accommodations. Reasonable notice must be 
+given to the SDS office (typically 5 working days) for accommodations to be arranged. It is the 
+responsibility of the student to provide each instructor with a copy of the official Memo of 
+Accommodation.  Contact Informati on:  Disability Coordinator, 941 -359-4714, 
+disabilityservices@sar.usf.edu , http://usfsm.edu/disability -services/   
+   
+E. Fire Alarm Instructions :  At the beginning of each semester please note the emergency exit maps 
+posted in each classroom.  These signs are marked with the primary evacuation route (red) and secondary 
+evacuation route (orange) in case the building needs to be evacuated. See Emergency Evacuation 
+Procedures . 
+ 
+F. Religious Observances :  USFSM recognizes t he right of students and faculty to observe major religious 
+holidays.  Students who anticipate the necessity of being absent from class for a major religious 
+observance must provide notice of the date(s) to the instructor, in writing, by the second week of  classes.  
+Instructors canceling class for a religious observance should have this stated in the syllabus with an 
+appropriate alternative assignment.  
+ 
+G. Protection  of Students  Against Discrimination  and Harassment: 
+1. Sexual Misconduct/S exual Harassment Reporting: USFSM is committed to providing an 
+environment free from sex discrimination, including sexual harassment and sexual violence 
+(USF System Policy 0-004). 
+2. Other  Types of Discrimination and Harassment: USFSM also is committed to providing 
+an environment free from discrimination and harassment based on race, color, marital status, 
+sex, religion, national origin, disability, age, genetic information, sexual orientation, gender 
+identity and expression, or veteran status (USF System Policy 0-007). 
+ 
+The Counseling and Wellness Center is a confidential resource where you can talk about incidents 
+of discrimination and harassment, including sexual harassment, gender-based crimes, sexual 
+assault, stalking, and domestic/relati onship violence. This confidential resource can help you without 
+having to report your situation to either the Office of Student Rights and Responsibilities (OSRR) or Approved by APC 3/1/2016 , Technical changes 8 /1/18 Page 3 
+ the Office of Diversity, Inclusion, and Equal Opportunity (DIEO),  unless you request that they make 
+a report. 
+ 
+Please  be aware that in compliance with Title IX and under the USF System Policy, educators  must 
+report incidents of discrimination and harassment, including sexual harassment, gender-based 
+crimes, sexual assault, stalking, and domestic/rela tionship violence. If a student d iscloses any of 
+these situations in class, in papers, or to a faculty member personally , he or she is  required to report 
+it to OSSR  or DIEO  for investigation. Students who are victims or who have knowledge of such 
+discrimination or harassment are encouraged to report it to either OSSR or D I E O . The Deputy 
+Coordinator for USF SM is  Allison Dinsmore, Coordinator of Disability Services & Student 
+Advocacy, 941 -359-4714 or adinsmore1@sar.usf.edu . 
+ 
+Campus Resources: 
+Counseling Center and Wellness Center 941-487-4254  
+Victim Advocate (24/7) 941-504-8599  
+ 
+List of off-campus resources: 
+HOPE Family Services: 941-755-6805  
+Safe Place & Rape Crisis Center (SPARCC) – Sarasota:  941-365-1976 
+Centerstone:  941-782-4800; 24-hr Hotline 941-708-6059  
+ 
+H.   Web Portal Information:   Every newly enrolled USF student receives an official USF e -mail account.  
+Students receive official USF correspondence and Canvas course information via that address.  The web 
+portal is accessed at http://my.usf.edu.  
+ 
+ 
+ 
+GENERAL INSTRUC TION FOR STUDENTS   
+A. Academic Support Services:  
+The Information Commons  provides students with individual and group study spaces, computers, 
+printers, and various media equipment for temporary use.  The Information Commons is staffed by 
+librarian s, learning support faculty, tutors, and technology and e -learning specialists. S tudents 
+challenged by the rigors of academic writing, mathematics, or other course content are urged to contact 
+their professors early in the semester to chart out a plan for academic success, and/or regularly use the 
+tutoring services provided by Learning  Support Services  (http://www.usfsm.edu/academics/academic -
+resources/information -commons/tutoring.aspx ) which are provided at no cost to students.   
+ 
+B. Career Success Center : 
+Students can explore careers through activities such as job shadowing, mentoring, and internships.  
+Whether students will be pursuing graduate school or seeking employment, Career Services can help 
+develop a plan to reach their next destination.  Students can prepare professional documents, practice for 
+the interview and attend employer or graduate school information sessions.   Access these resources or 
+schedule an appointment with career advisors at www.usfsm.edu/career -services . 
+ 
+COURSE SCHEDULE:  
+ 
+COURSE DESCRIPTION AND SCHEDULE  
+(Updated 12/21/22) 
+ 
+Week of  Topic  Chapter #  Assignment Due 
+Date  
+1/09/23  Information Systems in Business  Read Chapter 1  
+ Quiz  1 
+1/23 
+1/16/23  USF Holiday  (Monday)    
+1/23/23 Computers and Their Business Applications  
+ Read Chapter 2  Quiz  2 
+1/30 Approved by APC 3/1/2016 , Technical changes 8 /1/18 Page 4 
+ 1/30/23  Data and Business Intelligence  
+ Read Chapter 3 
+ 
+ Quiz  3 
+2/06 
+2/06/23  Personal. Legal, Ethical. And  
+Organizational Issues  Read Chapter 4 
+ 
+ Case Study 1 
+2/13 
+2/13/23  Protecting Information Resources  Read Chapter 5 
+ 
+ Quiz 5  
+2/20 
+2/20/23  Data Communication  Read Chapter 6 Quiz  6 
+2/27 
+2/27/23  Test 1  (Chapters 1 – 6)   
+3/06/23  A Connected World  Read Chapter 7  Quiz 7  
+3/20 
+3/13/23  Spring Break    
+3/20/23  E- Commerce  Read Chapter 8  Quiz 8  
+3/27 
+3/27/23  Global Information Systems  
+Topic  Read Chapter 9  Case Study 2   
+4/03 
+4/03/23  Building Successful Information Systems  Read Chapter 10  Quiz 10  
+4/10 
+4/10/23  Enterprise Systems  Read Chapter 11 Quiz  11 
+4/17 
+4/17/23  Supporting Decision and Processes  
+ Read Chapter 1 2 
+ Quiz 12  
+4/24 
+4/24/23  Artificial Intelligence and Automation  
+ Read Chapter 1 3 
+  
+5/01/23  Test 2  (Chapters 7 – 13)   
+Please note this is a tentative schedule – some shifting could occur as we progress  
+into the semester  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Approved by APC 3/1/2016 , Technical changes 8 /1/18 Page 5 
+  
+ 

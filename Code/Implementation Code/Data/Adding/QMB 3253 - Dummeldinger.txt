@@ -1,0 +1,96 @@
+Course Title:  Business Honors Advanced Statistics
+Semester:       Fall 2023
+Course Prefix and Number:  QMB 3253
+Credit Hours:  3  
+Instructor:  Mark Dummeldinger    Meeting Location:  BSN 2205
+Office:       CIS 2009                       Office Hours: TR 1:15 - 2:00 in my office or on MSTeams, by appointment
+Email:        mdummeld@usf.edu    (Put QMB 3253 in the subject line)                 
+Phone:       813-974-6778
+Online Proctoring
+Quizzes and examinations may be conducted using online proctoring tools. Keeping the audio and video (microphone and camera) on during such exams and quizzes is a must. If the student is not willing to use these, the student is asked not to register for this course. Any student may elect to drop or withdraw from this course before the end of the drop/add period. Online exams and quizzes within this course may require online proctoring. Therefore, students will be required to have a webcam (USB or internal) with a microphone when taking an exam or quiz. Students understand that this remote recording device is purchased and controlled by the student and that recordings from any private residence must be done with the permission of any person residing in the residence. To avoid any concerns in this regard, students should select private spaces for the testing. The University library and other academic sites at the University offer secure private settings for recordings, and students with concerns may discuss the location of an appropriate space for the recordings with their instructor or advisor. Students must ensure that any recordings do not invade any third-party privacy rights and accept all responsibility and liability for violations of any third-party privacy concerns. Setup information will be provided prior to taking the proctored exam. For additional information about online proctoring you can visit the online proctoring student FAQ at http://www.usf.edu/innovative-education/resources/student-services/online-proctoring.aspx
+Course Materials:
+Statistics for Business and Economics; McClave, Benson, and Sincich; Prentice Hall, 14th Edition
+Statistics for Business and Economics, Student Solutions Manual; Nancy S. Boudreau, Prentice Hall, 14th Edition; Optional
+STATISTIX for Windows Analytical Software - available at the bookstore or on Application Gateway 
+Course Description:
+QMB 3253 Business Honors Advanced Statistics is a comprehensive course in statistics for Business Honors students. Includes the application of statistical concepts to business problems.
+This course is part of the University of South Florida’s Foundations of Knowledge and Learning Core Curriculum.  It is certified for Quantitative Reasoning and for the following dimensions:  Critical Thinking, Inquiry-based Learning, Scientific Process, and Quantitative Literacy.
+Course Objectives/Learning Outcomes:
+The following objectives will be met in this course:
+The student will understand the concepts of data collection, summary statistics, and statistical inferential techniques and be able to apply these concepts to real data to use sample information to make inferences about populations of interest.
+The students will be able to differentiate between the two types of statistical techniques and be able to apply each when appropriate.
+The student will understand the difference between ethical data analysis and using data to distort or mislead.
+Students will create and interpret graphical displays (bar graphs, pie charts, stem & leaf displays) and numerical statistics (measures of center, measures of spread, and measures of relative standing).
+The students will be proficient at working with both discrete (binomial) and continuous (normal, t) distributions.
+Students will be proficient at working with the sampling distribution of the sample mean and be able to use that distribution to formulate confidence intervals and test statistics.
+The students will create and interpret confidence intervals and tests of hypothesis for population means and proportions.
+The students will utilize and interpret Analysis of Variance techniques.
+The students will utilize and interpret Categorical Data Analysis techniques.
+The students will be able to conduct both simple linear and multiple regression analyses.
+The student will be able to apply all analyses discussed to real data.
+The students will be able to generate and interpret statistical output using the Statistix software package. 
+COURSE POLICY:
+Exams:  There will be three multiple choice examinations given this semester.  The first two will be given during your regular lecture class.  The final exam will be administered as scheduled in the USF Fall Class Schedule.  Dates and times are shown below.
+           Exam I           September 21
+            Exam II          October 26
+            Final              Tuesday, December 5, 12:30-2:30 PM
+Exams are open notes. Calculators will be permitted, and your picture I.D. may be required either before and/or when turning in your exam. 
+Class Projects: You will be assigned three computer projects this semester. Working individually, you will be required to take the information we learn in class and apply it to a real data set that you collect. You will be required to create statistical output and interpret your results. Projects will be posted online at the beginning of the week and will be due on the following dates:
+            Project 1                     Sept. 14        
+            Project 2                     Oct. 19          
+            Project 3                     Nov. 30          
+Homework: Nine homework assignments will be assigned throughout the course of the semester (see schedule). Homework assignments will be done online through Canvas and will ask questions about homework problems assigned in the syllabus and/or problems associated with the project data you have collected. You will be required to generate computer output for each homework assignment to answer the questions asked. Each homework assignment will be worth 10 points and I will drop your lowest homework grade.
+Grading Scale and Basis for Grades:
+Grade assignments will be made on the following scale with the exam values shown below:
+                                 GRADE                                          VALUE
+                        A             450 - 500 pts               Project 1            40 pts
+                        B+           437 - 449 pts               Project 2            40 pts
+                        B             400 - 436 pts               Project 3            60 pts
+                        C+           387 -399 pts                Exam1               75 pts
+                        C             350 - 386 pts               Exam 2              75 pts
+                        C-            337 - 349 pts               Final Exam       130 pts
+                        D             300 - 336 pts               Homework          80 pts
+                        F              0 - 299 pts                  Total                500 pts
+Attendance Policy:  Attendance to class is not mandatory, but it is highly encouraged in order for full understanding of the material being presented.
+Material Covered During Class Lecture:  The following is a proposed outline of the topics.  Schedule variations will be announced in class and/or through Canvas.                                   
+Missed Classes: It is the responsibility of the student to get copies of the class notes from fellow students for any classes missed. Permission is not granted for sale of any class notes or tapes of class lectures from any entity.
+Missed Exams:  Makeup exams will be administered provided the following criteria are met:
+The student must provide a documented excuse explaining the reason for the absence.
+The student must contact the instructor via phone (message) or email prior to the missed exam.
+The makeup exam will be administered on the first available day after the scheduled exam to the student. 
+Cell Phones:  Please be considerate by turning all electronic devices to silent mode during class time.  If calls must be taken, please exit the class when taking calls.
+Assigned Homework Problems:  The following is a list of recommended problems the student should attempt.  These problems enable the student to test their knowledge of the statistical methods introduced in both the lectures and the text.  Other problems should be worked in areas causing difficulty.  A solutions manual to the odd numbered problems is available to the student at the bookstore.  This is not a required text but may prove helpful.
+Note:  To reduce confusion. Note that problem 20 in Chapter 1 is listed in the text as Exercise 1.20.
+Exercises displayed in red indicate the problem should be attempted using the Statistix software. Class demonstration will be provided.
+ 
+University Policies:
+Policies about accessibility, religious observances, academic grievances, academic misconduct, and several other topics are governed by a central set of policies, which apply to all classes at USF: https://www.usf.edu/provost/faculty/core-syllabus-policy-statements.aspx
+Final Examinations Policy - all final examinations are to be scheduled in accordance with the University's final examination policy.
+OTHER USF COMMON POLICIES
+ "I" GRADE:  Students who are unable to complete all requirements of the course for circumstances beyond their control may request to receive an "I" grade to allow for completion of the remaining coursework the next semester(s). USF Undergraduate: http://ugs.usf.edu/policy/IGradePolicy.pdf
+FINAL EXAMINATIONS: USF Policy 10-005: All final examinations are to be scheduled in accordance with the University's final examination policy.
+EARLY NOTIFICATION REQUIREMENT FOR OBSERVED RELIGIOUS HOLIDAYS:
+USF Policy 10-045: Students who anticipate the necessity of being absent from class due to the observation of a major religious observance must provide notice of the date(s) to the instructor, in writing, at the beginning of the term.
+GENDER-BASED CRIMES/SEXUAL MISCONDUCT/SEXUAL HARASSMENT (INCLUDING SEXUAL VIOLENCE): USF Policy 0-004. USF has a commitment to the safety and well-being of our students. Please be aware that educators must report incidents of sexual harassment and gender-based crimes including sexual assault, stalking, and domestic/relationship violence that come to their attention. I am required to report such incidents in order for the Office of Student Rights and Responsibilities or the Office of Diversity, Inclusion, and Equal Opportunity can investigate the incident or situation as a possible violation of the USF Sexual Misconduct/Sexual Harassment Policy and provide assistance to the student making the disclosure. If you disclose in class or to me personally, I must report the disclosure and will assist you in accessing available resources.
+The Center for Victim Advocacy and Violence Prevention, the Counseling Center and Student Health Services are confidential resources where you can talk about such situations and receive assistance without the incident being reported.
+Center for Victim Advocacy and Violence Prevention: 
+(813) 974-5757
+http://sa.usf.edu/advocacy
+Counseling Center 
+(813) 974-2831
+http://usf.edu/student-affairs/counseling-center
+Student Health Services 
+(813) 974-2331
+http://usf.edu/student-affairs/student-health-services 
+GENERAL ATTENDANCE POLICY: USF General Attendance Policy : Students are expected to attend classes. Faculty must inform students of attendance requirements on syllabi. Instructors should accommodate excused absences by making arrangements with students ahead of time (when possible) or by providing a reasonable amount of time to make up missed work.
+ADDITIONAL ACCESSIBILITY ACCOMODATION POLICIES 
+Accommodated Quizzes, Tests and Exams: SAS administers more than 7,000 exams to the USF community each academic year. The student is responsible for scheduling accommodated tests and exams with SAS. Students must schedule with SAS at least one full week before the requested test date. Students who miss this deadline complete a Late Exam Request Form requiring an instructor signature. SAS schedules late exam requests as space allows and as close to the original test date as possible.
+Due to the volume of tests and exams SAS manages, SAS cannot provide accommodated testing space for "pop" or unscheduled quizzes. Consult with SAS for information on accommodating unscheduled quizzes. 
+Make-up Exams: Students who are taking a make-up exam due to disability reasons (medical issues, scheduling conflicts with other courses and extended exam time, disability related appointments etc.) should be allowed to take a make-up exam within 10 business days of the student's return to classes. SAS schedules make-up exams as space allows. 
+Online Proctoring such as Proctorio: Consult with SAS prior to a student who utilizes accommodations using Proctorio. Some SAS students have atypical testing behaviors. Other SAS students utilize adaptive software that does not collaborate well with Proctorio software. 
+Laptop or Electronic Device Usage: If prohibiting laptop, phone or electronic device usage in class, keep in mind that some SAS students utilize such devices for note taking and recording. Still others have medical applications on cell phones that the student cannot turn off (blood sugar monitors, medication alerts etc.) Policies that indicate, "Only those with accommodations may use such devices" inadvertently draw attention to the student with the accommodation. SAS suggests using language that indicates, "Students utilizing laptops, cell phones or other electronic devices for non-academic reasons during class time may be penalized . . . ."
+Clicker Accessibility: Consult with SAS about alternatives to clicker points. Many SAS students have disabilities that affect the ability to answer clicker questions.
+Attendance/Participation Accommodations Apply to all courses – Even on-line: If a student has attendance or participation accommodations, SAS provides an "Attendance/Participation Accommodation Form" as part of the student's accommodation letter. This form is tool intended to guide a conversation between a student and instructor about missed courses, missed deadlines and the procedures to follow when requesting extensions. The accommodation does not allow a student to miss an indefinite number of classes or deadlines. Instructors may always consult with SAS to determine what is reasonable.
+Accessible Materials: USF policy requires that all course materials be accessible to students. Per the USF Caption and Media Access Policy, all media sources must be captioned prior to use. SAS encourages faculty to consider document accessibility. Use the "Style" functions in Microsoft Word and the OCR functions in Adobe to ensure that all course documents are accessible to those who utilize screen reading technology. See the SAS Accessibility Guide for more information: www.sas.usf.edu (under resources).
+ 
+

@@ -1,0 +1,393 @@
+© 202 3 Ronald K. Satterfield  
+ QMB -6304-001 
+Analytical Methods for Business  
+Spring, 202 3 
+ 
+Instructor:  Dr. Ronald K. Satterfield      
+Office:   CIS 2054  
+Office Hours:  Regular hours will be announced via Canvas.   
+   All office hours will be held via Microsoft Teams.  
+E-mail:  rsatterf@usf.edu   (The Canvas email function is cumbersome.  Please email your 
+professor directly at this address rather than going through Canvas.)     
+ 
+ 
+Course Description  
+This course will give you a background in fundamental statistics and intro duce you to 
+statistical programming in R.  We will begin with a review of basic concepts, measures 
+of central tendency and dispersion, and probability distributions.  Afterward the course 
+will concentrate on confidence intervals, hypothesis tests, regressi on, correlation, 
+logistic regression, analysis of variance, and fundamentals of mathematical optimization.  
+The emphasis will be on applications, concepts and interpretation of results, rather than 
+derivations and calculations.  
+ 
+This course is offered on a blended -model basis.  For most weekly sessions students will 
+be asked to view an introductory lecture video on the week’s topic prior to the live class 
+session.  Live sessions will assume students are familiar with the video and  will 
+concentrate on 1) the use of software to conduct statistical analyses, and 2) completion 
+of individual in -class assignments which will be due at the end of the scheduled class 
+time.  Full instructions for completing assignments will be given in class .   
+ 
+Statistical Data Mining  
+The strongest recommendation is given that students NOT take this course in 
+combination with Statistical Data Mining (ISM -6137).   Statistical Data Mining takes 
+principles taught in this course and extends them.  Therefore, a st udent attempting to 
+take both courses simultaneously would be greatly handicapped in successfully 
+completing Statistical Data Mining by not having important foundation knowledge.  
+ 
+Textbooks   
+Basic Statistics:  An Introduction with R , Tenko Raykov  and George A. Marcoulides, 
+Rowman & Littlefield Publishers, Inc., 2012.  
+ 
+A First Course in Statistical Programming with R , W. John Braun and Duncan J. 
+Murdoch, Cambridge University Press, 2011.   This book is one of two selected for this 
+course to serve as  a good general reference for R and R programming.  As experience 
+with R and general programming will be varied within the group use of this resource is 
+left to students’ judgment.   
+ 
+Beginning R:  The Statistical Programming Language , Mark Gardener, John Wiley and 
+Sons, 2012.  This book is one of two selected for this course to serve as a good general 
+© 202 3 Ronald K. Satterfield  
+ reference for R and R programming.  As experience with R and general programming 
+will be varied within the group use of this resource i s left to students’ judgment.   
+ 
+Electronic versions of these books are available at no cost to USF students via:  
+ 
+http://ezproxy.lib.u sf.edu/login?url=http://ebookcentral.proquest.com/lib/usf/detail.action?docID=836575 . 
+ 
+http://ezproxy.lib.usf.edu/login?url=https://doi.org/10.1017/CBO97813164510 90. 
+ 
+http://ezproxy.lib.usf.edu/login?url=http://ebookcentral.proquest.com/lib/usf/detail.action?docID=1076196 . 
+ 
+Software  
+We will be primarily using R with R Studio  in this course.  Some supplemental work 
+will be done with Microsoft Excel , and Minitab .  The complete MS -Office suite is also 
+available to all USF students free of charge to install on their own machines.  For any 
+technical assistance you need in gaining access to MS -Office call USF Tech Support at 
+974-1222.  Minitab is not required for this c ourse, but if you wish your own installation 
+Minitab offers 30 -day free trials of its software  via direct download.  Extended academic 
+licenses for students are also available at nominal cost.   R and R Studio  are both 
+available as free downloads.  Install R first from www.r -project.org , then install R 
+Studio from www.rstudio.com .  There are numerous online sites that can give assistance 
+if needed with these tasks.  Some add -in packages for R will also be used.  This line of R 
+code will install the packages you need for this course.  
+ 
+install.packages(c("car", "Hmisc", "rio", "moments", "corrplot", 
+"MASS", "stargazer "),dep=TRUE)  
+ 
+Please be prepared at our initial  class meeting to use R and R Studio.  This means you 
+should have the software installed and ready for use before class.     
+ 
+Outside Materials  
+Numerous materials are available online to help students learn general statistics as well 
+as R programming.  Usi ng such materials would not constitute an act of academic 
+misconduct in this course.  For students who feel they need additional assistance with 
+course material beyond that given in class, these materials can be quite useful.  One 
+excellent resource is a s eries of R Studio tutorial videos available on YouTube and 
+created by Michael Marin  of the University of British Columbia.  There are many videos 
+in this set and they can be found at: https://www.youtube.com/user/marinstatlectures . 
+ 
+  © 202 3 Ronald K. Satterfield  
+ Learning Outcomes   
+Upon completion of the course students will demonstrate the ability to:  
+ 
+1. Understand difference between inferential and descriptive statistics.  
+2. Use R to build simple graphics, and be able to interpret those graphics.  
+3. Use R to apply basic inferential tools to data, such as confidence intervals, hypothesis 
+test, regressions, and other associated analyses.  
+4. Interpret a confiden ce interval.  
+5. Formulate and interpret results from a simple hypothesis test.  
+6. Set up and evaluate results of a regression analysis.  
+7. Estimate the influence of factors in an analysis of variance.  
+8. Predict the probability of an event after conducting a logistic regression analysis.  
+9. Build a simple mathematical programming model for a business case.  
+ 
+Course Assignments  
+Ten assignments will be administered in this course, each corresponding to concepts 
+taught in a particular module.   Each assignment will be worth 5 0 points.   The 
+assignments are to be completed individually with no consultation from other students.  
+Any collaboration , in-person or electronic,  with current or former students will be 
+considered an act of academic misconduct and will be dealt with accor dingly.  Please 
+see the Academic Integrity and Honorlock in Assignments section s of this syllabus.   
+You may, however, use any legitimate third -party electronic references dealing with 
+statistics or R in the completion of your assignment and the construction of your 
+deliverable.   
+ 
+Assignments will be completed during time set aside in class and uploaded to Canvas 
+prior to the scheduled end time for our weekly session.  In-class assignments turned in 
+late to Canvas will be assessed a penalty of ten points per half -hour late or portion 
+thereof.  For example, if a student turns in an assignment 45 minutes late they will 
+suffer a 20 -point penalty.  This penalty will be in additi on to normal deductions of 
+points for failure to do the assignment correctly.  Times of assignment uploads are 
+recorded by Canvas and reported to the professor.  
+ 
+Should you wish to discuss the grading and points awarded for any assignment your 
+professor is  happy to accommodate you.  However, you must do so within two weeks 
+of the graded assignment being returned to you via Canvas.  If you do not discuss such 
+with your professor within the two -week window the professor will assume you are 
+satisfied with the grading of the assignment and will consider the points awarded to be 
+final.  After the two -week window no discussions of points awarded on an assignment 
+will be entertained.  
+  
+ 
+ 
+  © 202 3 Ronald K. Satterfield  
+ Honorlock in Assignments  
+All students must review the syllabus and the requirements, including the online terms 
+and video testing requirements, to determine if they wish to remain in the course. 
+Enrollment in the course is an agreement to abide by and accept all terms. Any student 
+may elect to drop or withdraw from this cours e before the end of the drop/add period.   
+ 
+Online exams and quizzes within this course may require online proctoring. Therefore, 
+students will be required to have a webcam (USB or internal) with a microphone when 
+taking an exam or quiz. Students understand  that this remote recording device is 
+purchased and controlled by the student and that recordings from any private residence 
+must be done with the permission of any person residing in the residence.   
+ 
+To avoid any concerns in this regard, students should s elect private spaces for the 
+testing. Students with concerns may discuss location of an appropriate space for the 
+recordings with their instructor or advisor.   
+ 
+Students must ensure that any recordings do not invade any third -party privacy rights 
+and accep t all responsibility and liability for violations of any third -party privacy 
+concerns.   
+ 
+Students are strictly responsible for ensuring that they take all exams using a reliable 
+computer and high -speed internet connection. Setup information will be provided prior 
+to taking the proctored exam.  To use Honorlock, students are required to download and 
+install the  Honorlock Google Chrome extension . For additional information please  visit 
+the USF online proctoring student FAQ  and Honorlo ck student resources .  
+ 
+Honorlock is a facility used across USF to insure security and fairness in online 
+assignments.  We use Honorlock in this course for our course assignments.  On our 
+course Canvas site is a specialized module developed by USF to teach  you how to use 
+Honorlock, help you install all needed parts of Honorlock on your computer, and test 
+Honorlock’s functioning.  It is your responsibility to make sure you have 
+Honorlock properly working on your computer before each  assignment.   
+Honorlock ca n be tested at any time by taking the Honorlock Practice Quiz always 
+available to you on Cavas.  Should you have difficulty there are tech support facilities 
+open to you should, provided by USF and Honorlock. Whether you complete 
+assignments in our classro om or elsewhere, you must use Honorlock to record the 
+entire duration of your work  in completing the assignment.  No Honorlock, no 
+points for the assignment.   In our course we also have other conditions and 
+requirements involving Honorlock, academic integr ity, and our assignments.  These are:  
+ 
+1. You must have a webcam on all our assignments.  Your webcam will be recorded as 
+will your computer screen and your browsing activity.   
+2. Your webcam must be positioned to show your face completely.  
+3. Lighting in your loca tion must be sufficient to recognize your face.  Backlighting 
+should be minimal.   
+4. Only one monitor may be used during our assignments.  
+5. You should complete your assignment in a place where you have a reasonable 
+expectation of being alone.   © 202 3 Ronald K. Satterfield  
+ 6. Conversation or communication with any other person  while completing the 
+assignment will be considered collaboration and an act of academic misconduct.  
+This includes verbal, non -verbal, and electronic communication.  
+7. Soliciting, receiving, or providing assistance by any m eans while completing the 
+assignment will be considered an act of academic misconduct.  This includes but is 
+not limited to coding advice, code chunks, script files, analysis output, and 
+interpretations of analysis results.  
+8. Using code from prior student as signments will be considered an act of academic 
+misconduct.  
+9. Submitting as your own any work done by others will be considered an act of 
+academic misconduct.  
+ 
+Committing academic misconduct in this course will result in a failing (F) grade for the 
+course.  In such a case the course will need to be taken again in order to complete the 
+MS-BAIS degree.  Other penalties may be applied by the School of Information Systems 
+and Management.   Particularly egregious cases will result in a Double -FF (FF) grade 
+being awarded, which will lead to expulsion from our program and the University of 
+South Florida.  
+ 
+Further, students are reminded that webcam videos are recorded and are accessible at 
+any time by the professor an d his designees as well as other technical staff of USF and 
+Honorlock.  Professional deportment is recommended while recordings are being made.  
+ 
+Integrity of Technology  
+Students are also reminded that, as would be the case in working on a job or for a 
+contracting client, integrity of your technology is your responsibility.   Excuses of 
+“laptop problems” will not be accepted in the case of late work submissions.  Make 
+certain your technology is in proper working order before every assignment.  
+ 
+Grade Determin ation  
+This is a 550 -point course. Letter grades will be awarded according to the percentage 
+scale below.            
+Letter Grade  Percent Score  
+A 93% - 100% 
+A- 90% - 93% 
+B+ 87% - 90% 
+B 83% - 87% 
+B- 80% - 83% 
+C+ 77% - 80% 
+C 73% - 77% 
+C- 70% - 73% 
+D+ 67% - 70% 
+D 63% - 67% 
+D- 60% - 63% 
+F Below 60%  
+ 
+ © 202 3 Ronald K. Satterfield  
+ Course Policies  
+ 
+Attendance Quiz  
+To meet USF’s First Day Attendance requirement in these times a short one -question 
+attendance quiz has been set up in Canvas.  Please complete the quiz before Thursday, 
+January 1 2, 202 3 at 11:59 PM .  If you do not complete the quiz, or if you answer “no” t o 
+the single question, you will be administratively dropped from our course.  
+ 
+Late Work Policy   
+There are no make -up opportunities for assignments .  Assignments turned in late will 
+be assessed a penalty of ten points per half -hour late or portion thereof.  This penalty 
+will be in addition to normal deductions of points for failure to do the assignment 
+correctly.  Times of assignment uploads are recorded by Canvas and reported to the 
+professor.  
+ 
+Extra Credit Policy   
+There are no opportunities for ex tra credit in this course.  Students’ focus should be on 
+the primary work in the course.  
+ 
+Grades of "Incomplete"   
+An “I” grade may be awarded to a student when 1) arrangements are made prior to the 
+end of the semester, 2) in the judgment of the instructor a valid reason is offered for 
+granting an Incomplete, and 3) a clear path to a standard grade is agreed to by the 
+instructor and the student which will result in successful completion of course 
+requirements by the end of the succeeding semester.  “I” grade s not replaced  by the end 
+of the subsequent  semester will be changed to “IF”  and are a failing grade for the course . 
+ 
+Email  
+The primary means of communication between instructor and students between live class 
+meetings will be email.  “Blast emails” will occasionally be sent by the instructor to all 
+students via Canvas.  Students can feel free to email their instructor with questions at any 
+time.  Please anticipate a response time of 24 hours to email queries.   
+ 
+Canvas  
+Canvas will be used in this course to disseminate materials turn in weekly assignments 
+and return graded assignments.  If you need help learning how to perform various tasks 
+related to this or other courses in Canvas, please consult the Canvas help guides. You 
+may also contact USF's IT supp ort at (813) 974 -1222 or help@usf.edu . 
+ 
+Laptop Usage  
+Laptop/Tablet usage is highly encouraged in this course given the nature of the material.   
+ 
+Phone Usage  
+Students attending the in -person lectures are asked to place their mobile phones on 
+“silent” and to step outside the classroom to take any important calls.  Phones may not be 
+used during in -class assignments.  
+ 
+  © 202 3 Ronald K. Satterfield  
+ Academic Integrity  and Academic Misconduct  
+Academic i ntegrity is the foundation of the University of South Florida System’s 
+commitment to the academic honesty and personal integrity of its university 
+community. Academic integrity is grounded in certain fundamental values, which 
+include honesty, respect, and fairness. Broadly defined, academic honesty is the 
+completion of all academic endeavors and claims of scholarly knowledge as 
+representative of one’s own efforts. The final decision on an academic integrity 
+violation and related academic sanction at any USF  System institution shall affect and 
+be applied to the academic status of the student throughout the USF System, unless 
+otherwise determined by the independently accredited institution.   The process for 
+faculty reporting of academic misconduct, as well as the student’s options for appeal, 
+are outlined in detail in USF System Regulation 3.027.  
+ 
+In our course assignments the professor has several methods fo r penalizing those who 
+engage in academic misconduct.  Among these methods the professor can 1) award 0 
+points for an assignment on which a student has engaged in misconduct, 2) award an F 
+in the entire course, or 3) award a special FF grade in the course.   An FF appears 
+permanently on the student's transcript as a special designation showing the student 
+failed the course for reasons of academic misconduct.   The FF includes expulsion from 
+the University.  
+ 
+Web Posting Course Materials  
+Students are reminded that posting course materials to third -party sites such as Course 
+Hero or Chegg represents a violation of the professor’s copyright on those materials and 
+constitutes theft of intellectual property.    
+ 
+Disruption to Academic Process   
+Disruptiv e students in the academic setting hinder the educational process. Disruption 
+of the academic process is defined as the act, words, or general conduct of a student in a 
+classroom or other academic environment which in the reasonable estimation of the 
+instructor: (a) directs attention away from the academic matters at hand, such as noisy 
+distractions, persistent, disrespectful or abusive interruption of lecture, exam, academic 
+discussion, or general University operations, or (b) presents a danger to the heal th, 
+safety, or well -being of self or other persons.  
+ 
+Student Academic Grievance Procedures   
+The purpose of these procedures is to provide all undergraduate and graduate students 
+taking courses within the University of South Florida System an opportunity fo r 
+objective review of facts and events pertinent to the cause of the academic grievance. 
+An “academic grievance” is a claim that a specific academic decision or action that 
+affects that student’s academic record or status has violated published policies an d 
+procedures or has been applied to the grievant in a manner different from that used for 
+other students.  
+ 
+Disability Access  
+Students with disabilities are responsible for registering with Students with Disabilities 
+Services (SDS) to receive academic acco mmodations. SDS encourages students to 
+notify instructors of accommodation requests at least 5 business days prior to needing 
+the accommodation. A letter from SDS must accompany this request.  © 202 3 Ronald K. Satterfield  
+  
+Sexual Misconduct/Sexual Harassment Reporting  
+USF is committed to providing an environment free from sex discrimination, including 
+sexual harassment and sexual violence ( USF System Policy 0 -004). The USF Center for 
+Victim Advocacy and Violence Prevention is a confidential resource where you can 
+talk about incidents of sexual harassment and gender -based crimes including sexual 
+assault, stalking, and domestic/rel ationship violence. This confidential resource can 
+help you without having to report your situation to either the Office of Student Rights 
+and Responsibilities (OSSR) or the Office of Diversity, Inclusion, and Equal 
+Opportunity (DIEO), unless you request t hat they make a report. Please be aware that in 
+compliance with Title IX and under the USF System Policy, educators must report 
+incidents of sexual harassment and gender -based crimes including sexual assault, 
+stalking, and domestic/relationship violence. I f you disclose any of these situations in 
+class, in papers, or to me personally, I am required to report it to OSSR or DIEO for 
+investigation. Contact the USF Center for Victim Advocacy and Violence Prevention: 
+(813) 974 -5757.  
+ 
+  © 202 3 Ronald K. Satterfield  
+ Attendance Policy   
+Student s are expected to exhibit professionalism through regular and on -time 
+attendance to class lectures , whether those lectures attending lectures live or online .   
+ 
+Religious Observances  
+All students have a right to expect that the University will reasonably accommodate 
+their religious observances, practices and beliefs. If you observe religious holidays, you 
+should plan your allowed absences to include those dates.  
+ © 202 3 Ronald K. Satterfield  
+ Material Coverage  and Schedule  
+ 
+Day Date  Topic   
+Monday  1/9/2023 Intro to Statistics and R  Raykov & Marcoulides:  Chapters 1, 2, and 3.  
+Wednesday  1/11/2023 Intro to Statistics and R  Raykov & Marcoulides:  Chapters 1, 2, and 3.  
+Monday  1/16/2023 MLK Holiday   
+Wednesday  1/18/2023 Assignment 1   
+Monday  1/23/2023 Probability Distributions & CLT  Raykov & Marcoulides:  Chapters 5 and 6.  
+Wednesday  1/25/2023 Probability Distributions & CLT  Raykov & Marcoulides:  Chapters 5 and 6.  
+Monday  1/30/2023 CI and Hypothesis Tests  Raykov & Marcoulides:  Chapter 7.  
+Wednesday  2/1/2023 Assignment 2   
+Monday  2/6/2023 CI and Hypothesis Tests  Raykov & Marcoulides:  Chapter 7.  
+Wednesday  2/8/2023 CI and Hypothesis Tests  Raykov & Marcoulides:  Chapter 7.  
+Monday  2/13/2023 Simple Regression   
+Wednesday  2/15/2023 Assignment 3   
+Monday  2/20/2023 Simple Regression  Raykov & Marcoulides:  Chapters 11 and 12.  
+Wednesday  2/22/2023 Simple Regression  Raykov & Marcoulides:  Chapters 11 and 12.  
+Monday  2/27/2023 Simple Regression  Raykov & Marcoulides:  Chapters 11 and 12.  
+Wednesday  3/1/2023 Assignment 4   
+Monday  3/6/2023 Multiple Regression  Raykov & Marcoulides:  Chapter 13.  
+Wednesday  3/8/2023 Multiple Regression  Raykov & Marcoulides:  Chapter 13.  
+Monday  3/13/2023 Spring Break   
+Wednesday  3/15/2023 Spring Break   
+Monday  3/20/2023 Multiple Regression  Raykov & Marcoulides:  Chapter 13.  
+Wednesday  3/22/2023 Assignment 5   
+Monday  3/27/2023 Multiple Regression  Raykov & Marcoulides:  Chapter 13.  
+Wednesday  3/29/2023 Assignment 6   
+Monday  4/3/2023 Time Series Regression  None.  Class lectures will be the primary reference materials.  Students are free 
+to draw on any other materials for reference.  © 202 3 Ronald K. Satterfield  
+ Wednesday  4/5/2023 Assignment 7   
+Monday  4/10/2023 Logistic Regression  None.  Class lectures will be the primary reference materials.  Students are free 
+to draw on any other materials for reference.  
+Wednesday  4/12/2023 Assignment 8   
+Monday  4/17/2023 Analysis of Variance  None.  Class lectures will be the primary reference materials.  Students are free 
+to draw on any other materials for reference.  
+Wednesday  4/19/2023 Assignment 9   
+Monday  4/24/2023 Math Optimization I  None.  Class lectures will be the primary reference materials.  Students are free 
+to draw on any other materials for reference.  
+Wednesday  4/26/2023 Math Optimization II  None.  Class lectures will be the primary reference materials.  Students are free to draw 
+on any other materials for reference.  
+ 

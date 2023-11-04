@@ -1,0 +1,26 @@
+
+Overview
+
+The Tampa Bay E-Insights report examines the state of work and state of life in the
+               Tampa Bay region relative to 19 other comparable Metropolitan Statistical Areas. These
+               MSAs were selected based on factors such as demographics, size of the economy, and
+               presence of regional assets such as ports and research universities. The selected
+               MSAs reflect both peer and aspirational relationships with the Tampa Bay Region.
+
+In this report, the Tampa Bay MSA is defined as the region consisting of eight counties:
+               Citrus, Hernando, Hillsborough, Manatee, Pasco, Pinellas, Polk, and Sarasota. The
+               eight-county area includes four MSAs: Tampa-St. Petersburg-Clearwater, Homosassa Springs,
+               Lakeland-Winter Haven, and North Port-Sarasota-Bradenton. The data presented in the
+               report for the Tampa Bay region is aggregated for the four MSAs. The MSAs studied
+               in the report are shown in the map to the right.
+This report analyzes the performance of the Tampa Bay region along two dimensions:
+               status of work and status of life. The report presents insights regarding the job
+               structure in the Tampa Bay region and the performance of Tampa Bay with respect to
+               19 other MSAs in terms of job opportunities. It also presents an analysis comparing
+               Tampa Bay with the MSAs in the comparison group on indicators related to the quality
+               of life, such as public health status, substance abuse, and housing affordability.
+               The report primarily uses data from real-time sources such as Google Trends, LinkedIn,
+               Indeed, and Zillow for analysis. This report complements the Tampa Bay Partnership’s Regional Competitiveness Report, which presents a benchmarking analysis from the data primarily from traditional
+               sources such as the United States Census Bureau, the U.S. Bureau of Labor Statistics,
+               and the U.S. Bureau of Economic Analysis.
+

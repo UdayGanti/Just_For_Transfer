@@ -1,0 +1,414 @@
+CGS 2100 Computing in Business  
+with Jeff J. Pelzer, Ed.S., MSCIS  
+Course Syllabus  
+Spring 2023  
+3 Credits  
+Contact information:  
+Online Office Number 813.703.2399  
+Voice or Text  
+Email Address:  
+jpelzer1@usf.edu  
+Office Hours (Day, Time):   
+Tuesday 10:00 -11:00am  
+Email or Text anytime  
+(see Communication for more info)  Course and Section Number:  
+CGS 2100 601S23  
+Room Number:  
+LPH 217  
+Course Length:  
+16 Weeks  
+Course Schedule and Time:  
+01/09/23 -05/04/23  
+Tuesday  11:00 -1:45pm  
+Important Dates:  
+Add/Drop - 01/13 /23 
+Spring Break - 03/13/23 -03/19/23  
+Withdraw - 03/25/23  
+End of Classes - 04/28/23  
+Course Description : 
+A study of the use and impact of computers in all areas of business organizations. 
+Course focuses on current skills and technologies being adopted by businesses 
+with emphasis on business etiquette, cloud computing and big data. Software that 
+will be used includes Microsoft Excel and Word (you will need access to a 
+computer with Microsoft Excel and Word); and internet software to include 
+Microsoft Forms.  Students will also access career resources designed to assist in 
+exploring the need for computer knowledge in the current job market.  
+Prerequisites:  
+None - GPA Requirements:   Undergraduate students who enter USF under the 
+2001 -2002, or later, catalog are required to earn a grade of C, or better, in every 
+undergraduate core class and an overall GPA of 2.0 for all undergraduate core 
+classes.  
+Textbook and Software :  
+Required Textbook:  Everyday Etiquette, How to Navigate 101 Common and Uncommon Social 
+Situatio ns, Patricia Rossi, ISBN 978 -0-312-60427 -1 
+Business Computer Information Systems,  Emese Felvegi; Barbara Lave; Diane 
+Shingledecker; Julie Romey ; Noreen Brown; Mary Schatz; OpenStax; Saylor 
+Academy; University of Minnesota Libraries; and Robert McCarn (free download 
+in Canvas)  
+Required Software and Hardware:  
+• Microsoft Office 365  
+• Availability to a stable internet connection and ability to do and su bmit 
+assignments online  
+• Ability to install software on the computer used for the course  
+• Access to a Windows computer to complete MS Access database 
+assignments  
+Canvas:  
+The course materials are available online; you will need to have a computer that 
+meets the minimum requirements and Internet access in order to complete the 
+course.   Students are responsible for accessing the class page and familiarizing 
+themselves with navigation of the site. The instructor is not responsible for the 
+breakdown of technology  including, but not limited to any of the following: 
+inability to submit assignments, Canvas downtime, operating system issues, 
+incompatible software, Internet connections, nor any personal challenges you may 
+face while dealing with the online delivery sys tem. 
+Course objectives:  
+An introduction to the use and impact of computers in all areas of business 
+organizations, and some of the most widely used office productivity software 
+packages.  
+Learning goals:  
+Upon successful completion of this course students w ill be able to:  
+• Discuss how information systems can be used to support business 
+organizations.  
+• Navigate and create content‐rich documents using a word processing 
+application.  
+• Create simple spreadsheets and perform mathematical and financial 
+calculations, build charts and format spreadsheets.  
+• Critically interpret quantitative evidence (such as graphs, tables, charts) in 
+order to identify false claims, incorrect use of evidence, or contradictory 
+statements.  • Use a presentation tool to create pre sentations.  
+• Use a visualization tool to create an information dashboard and interpret 
+visualizations to produce business insights.  
+• Create and edit database objects (Tables, Queries, Forms, Reports).  
+• Collaborate using an online collaboration tool.  
+Topics:  
+• Information systems and organizations.  
+• Word processing software  
+• Spreadsheet software  
+• Presentation software  
+• Database Software  
+Communication:  
+Communication between the instructor and student is a critical success factor in any course. You 
+are to use the Canvas Inbox (conversations) function or email to send messages to the instructor 
+outside of office hours. During office hours you may text the number listed above.   If a question 
+is asked, a response to your email will be received in within 1 -2 business days Monday -
+Thursday.   Responses may be delayed over weekends and holidays.   
+For any phone or email messages, please include:  
+• Your name  
+• The class  you are taking  
+• A brief description of your concern  
+Failure to include these items may delay instructor response.  
+Assessment Methodologies:  
+This course uses a variety of approaches to teach and assess learning.   Each assignment in this 
+class has a specifi c due date.   Most  assignments will be scored: 100% - assignment completed 
+and learning displayed, 75% - assignment mostly completed and/or a basic understanding 
+demonstrated, 50% - assignment incomplete and/or gaps in an understanding are present, 25% - 
+assignment incomplete and/or obvious lack of an understanding is demonstrated, 0% - no effort 
+demonstrated or not submitted.  
+Any assignment submitted that indicates a deliberate attempt to deceive the instructor will result 
+in failure of the class and referr al to student services for possible further actions.   This includes, 
+but is not limited to:  
+• Cheating/Plagiarism  
+• Manipulating font size/color to meet word/page count  • Submitting instructor provided examples  
+• Incorrect file type or wrong assignment to buy addi tional time to submit work  
+Assignments  
+The use of AI in the development of work for this class is strictly prohibited unless the 
+assignment explicitly states AI is to be used.  
+You will complete various assignments throughout this class.   "Assignments" is a generic term 
+which may describe an essay, Excel project, video or in -class presentation, or other.   These 
+assignments are designed to enhance classroom lessons and show master y of concepts.   When 
+specified, only .accdb (Microsost Access) and .xlsx (Microsoft Excel) files will be accepted for 
+those specific assignments.   Students are instructed to access all assignments through the 
+MODULES link in Canvas.   It is the only locatio n for content specific training and 
+support.   There is no extra credit  offered in this class.  
+All students must affirm they have been made aware of the policies and procedures for this class 
+by completing the syllabus quiz before proceeding with coursework . 
+Discussion Boards  
+The purpose of the discussion board is to have a dialog with your peers about a specific topic. 
+The goal of the discussion board is to create constructive interaction about current technology 
+topics in society. In addition, the discussion allows you to develop the necessary professional 
+online communication skills required in today’s workforce. The professional workplace online 
+communication skills differ from those you use in social online communication. Also, 
+professional commu nications require attention to grammar, spelling, sentence structure, and tone 
+of content.  
+Additionally, discussion boards, or forums, are provided to students so they can learn and 
+practice professional communications online. (Increasingly, companies use such tools for 
+customer support or team communications. Such communications use different posting skills 
+than using social media does.) Students should not use the discussion boards as a platform for 
+joking, off -topic posts, or cyberbullying. Do not post a nything that might be hurtful, and do not 
+reply to such posts. All students must adhere to the USF acceptable use policy.  
+The instructor will post the initial discussion question(s). You will respond to the message the 
+instructor and your peers post in the  discussion board. Missed discussion board assignments 
+cannot be made up . The discussion board is only available during the assigned period.  
+Final Paper  
+In lieu of a final exam, this class will have a Reflection Paper serve as not only a review of the 
+class but as a personal growth experience.  
+ Turning in Assignments:  
+All assignments are due on the date and time indicated in Canvas. Assignments must be 
+submitted through Canvas, emailed assignments are not accepted unless prior arrangements 
+have been made . Once the due date has expired, you will not be able to submit assignments. All 
+assignment deadlines are Eastern Time Zone. If at any point while taking this course, you aren’t 
+in the Eastern Time Zone you can have Canvas show the deadlines based on the time  zone you 
+reside in. This is done by changing your Canvas account settings. Please follow the instructions 
+provided in the link below on how to change your time zone in Canvas.  
+How to Change Your Time Zone in Canvas  (Links to an external site.)  
+Late Assignment Policy:  
+NO LATE ASSIGNMENTS will be accepted.  
+Why?  
+Working on late assignments impacts a student's ability to focus on the current assignments.  
+All assignments are a vailable beginning the first day of class, in the event you may miss time it 
+is encouraged that students work ahead.   Assignments are due on the dates listed on the Weekly 
+Schedule and/or class calendar.   Once assignments are graded there will be no grade adjustments 
+unless there was an error made by the instructor.   Changes to due dates or the dropping of 
+assignments because of an interruption in instruction will be made at the instructor's 
+discretion.   Please do not request extensions on assignments, they  will not be granted.  
+Students are expected to keep up with the course work and complete/submit assignments on 
+time.   Regardless of circumstances, no last minute, end -of-term requests to make up work or do 
+extra credit will be granted.  
+Course Summary:  
+Asse ssment Breakdown:  
+Assessment  Points Each  Possible Points  
+Syllabus Quiz  5 5 
+Discussions (7)  10 70 
+Assignments (12)  20 240 
+Final Paper  50 50 
+TOTAL POINTS:    365 
+ 
+   USF Grading 
+Scale  
+Letter 
+Grade  Percentage  Points  
+A+ 100.0 -97.1 365-354 
+A 97.0-94.1 353-343 
+A- 94.0-90.1 342-329 
+B+ 90.0-87.1 328-318 
+B 87.0-84.1 317-307 
+B- 84.0-80.1 306-293 
+C+ 80.0-77.1 292-281 
+C 77.0-74.1 280-270 
+C- 74.0-70.1 269-256 
+D+ 70.0-67.1 255-245 
+D 67.0-64.1 244-234 
+D- 64.0-60.1 233-220 
+F 60.0 and 
+below  <219  
+Attendance/Participation:  
+To be successful, students will need to access course materials, check -in frequently, and attend 
+all class meetings.   There is no grade penalty for missing class due to illness . 
+Note:  All Students must access the cours e in Canvas and complete the Week 1/Module 0 
+requirements by the assigned due date. Failure to show attendance (login to course) and 
+participation (completion of an assignment/activity) in the course by the assigned due date will 
+result in withdrawal for n on-attendance.  
+Lecture and Hybrid students  are expected to attend class meetings. If you cannot attend all 
+class meetings, students are encouraged to seek registration in an online version of this course 
+that does not require face -to-face meetings.  
+1. Class a ttendance is a requirement for this course, however if you are unwell, please stay 
+home.  
+2. The instructor may penalize students who do not attend class, or participate in class 
+activities on a regular basis as deemed appropriate by the instructor.  
+3. If you mis s a lecture or arrive late, you are responsible for the material presented, 
+handouts distributed, and any announcements made that day. The instructor will not 
+provide notes for missed classes.  
+ Undergraduate Program Learning Goals Addressed in this Course  
+The KTCOB program learning goals and objectives are  
+LG1: Students will be effective communicators.  
+Obj1.1: Students will write professional documents.  
+Obj1.2: Students will prepare and deliver high quality oral presentations.  
+LG2: Students will have critical thinking skills.  
+Obj2.1: Students will develop solutions to business problems.  
+LG3: Students will have foundational and discipline -specific business knowledge.  
+LG4: Students will be competen t business professionals.  
+Obj4.1: Students will display professionalism in business environments.  
+This course makes the following contributions to the learning objectives:  
+Obj3.1: Students will demonstrate foundational business knowledge.  
+Obj3.2: Students will demonstrate focused knowledge of their chosen field of study.  
+Obj. 1.1  Obj. 1.2  Obj. 2.1  Obj. 3.1  Obj. 3.2  Obj. 4.1  
+IC (a)  IC (b)  E (c)  E (d)  NA (c)  I (f) 
+*Definitions:  
+I = Introduced = Topic/concept/learning objective is brought to the attention of students or is 
+brought into use or operation for the first time.  
+E = Emphasized = (already introduced) – Topic/concept/learning objective is given special 
+importance or prominence or is made more clearly defined.  
+R = Reinforced = (already intr oduced and emphasized) – Topic/concept/learning objective is 
+strengthened with additional material or is covered more intensely or deeply.  
+IC = Incidentally Covered = Topic/concept/learning objective is covered in a minor way and 
+doesn’t rise to the level of being a course learning objective or being intentionally programmed 
+into the course’s content to introduce, emphasize, or reinforce during the course. As an example, 
+ethics may not be a learning objective on your course syllabus nor intentionally introd uced, 
+emphasized or reinforced in the coverage of your course material, but it is incidentally covered 
+or discussed as part of the other topics that are programmed into your course.  
+Notes:  
+(a) Students will write a reflective essay at the end of the course  
+(b) Students will create a Prezi and present it to class  
+(c) Course objective 4, 5, and 6. Students will learn to use the tools that they need to perform 
+data analysis, one of the traits in the critical thinking rubric.  
+(d) Course objectives 1 -6. (e) NA  
+(f) Course objectives 7 and 8  
+ USFSP Policies:  
+Honor System:  
+Under the USF Honor System, each student is expected to observe complete honesty in all 
+academic matters.   Violation of the Honor System will be referred to the Honor 
+Council.   Note:   The followin g are violations of the Honor Code:   Copying another student’s 
+homework, signing another student’s name on the attendance roster, copying another group’s 
+disk or written work, using another student’s computer disk to print out your assignment, 
+copying anot her student’s file onto your disk, and misrepresenting a reason for a missed 
+exam.   Punishment for academic dishonesty may result in an automatic “F” or “FF” in the course 
+or action that may result in suspension or expulsion. See the USFSP Policy on Academ ic 
+Integrity of Students at page 51 of the following 
+links:  http://www.usfsp.edu/catalog/files/2017/12/USFSP -2017 -18-Undergraduate -Academic -
+Catalog .pdf 
+Students with Disabilities:  
+Please notify your instructor by the second class meeting if you have a learning disability or 
+require special assistance with this course.   Confidential personal and learning assistance 
+counseling are made available to stu dents through the Division of Student Affairs.   Contact R. 
+Barry McDowell, St. Petersburg Campus: Student Life Center (SLC 1203) (727) 873 -4990, 
+(mcdowell@usfsp.edu) for more information. Students who need extended time on exams need 
+to inform the Disabili ties Office at least seven (7) school days (Monday -Friday) in advance of 
+the scheduled exam, so that the Disabilities Office has adequate time to inform me.  
+Religious Observances:  
+Students who anticipate the necessity of being absent from class due to the observance of a major 
+religious holiday must provide notice of the date(s) to the instructor, in writing, by the second 
+class meeting.  
+Copyrights:    
+Students who wish to audiotape lectures can do so with direct permission from the professor, but 
+tapes and lectures may not be sold or posted online. No videos or photos can be taken in the 
+classroom.   
+Incomplete Grades:  
+An “I” grade may be given to an undergraduate student only when a small portion of the 
+student’s work (normally 30% or less) is incomplete due to circumstances beyond the control of 
+the student and only when a student is otherwise earning a passing grade.   “I” grades are to be 
+used only in emergency situations and cannot to be used as a means of avoiding a poor grade. 
+Normally these are only for medical emergencies and require a signed letter from a medical professional that the student was prevented from a ttending class. The student must petition the 
+professor before the week of final exams for a grade of “I” to be given.  
+Grade Forgiveness:  
+Undergraduate grade forgiveness is limited to three USFSP courses with no more than one repeat 
+per course.   Accountin g majors can use the forgiveness only once in upper level accounting 
+courses. There is NO grade forgiveness at the Graduate Level.  
+Withdrawal:  
+No “W” grades can be obtained after the official drop or withdrawal date. All students enrolled 
+as of the withdr awal date, will receive a letter grade of A, B+, B, C+, C, C -, D+, D or F.  
+Electronic Plagiarism Detection:  
+Students are hereby notified that the instructor intends to use electronic plagiarism detection 
+services in this course. By registering for and part icipating in this course, students consent to 
+their work being sent to, analyzed by and stored in any plagiarism detection service.  
+Emergency Preparedness:  
+In the event of an emergency, it may be necessary for USF to suspend normal operations. During 
+this time, USF may opt to continue delivery of instruction through methods that include but are 
+not limited to: Canvas, Elluminate, Skype, and email messaging and/or an alternate schedule. It 
+is the responsibility of the student to monitor Canvas site for each class for course specific 
+communication, and the main USF, College, and department websites, emails, and MoBull 
+messages for important general information.  
+Bomb Threat or other Disruption:  
+All scheduled classes will be held in an alternate room in the case  of a bomb scare, fire alarm or 
+other disruption. Students will gather outside of the classroom building at a designated area in 
+the parking lot so that an alternative room may be announced.  
+Supporting Crime Victims and Violence Against Women Act (VAWA):  
+If you are the victim of a crime, USFSP is ready to assist you in the manner that you determine is 
+best for you. Please know that, as a USF employee, I am obligated by Federal law to 
+immediately report any incidents of sexual assault, dating & domestic viol ence, and stalking 
+relayed to me – including the victim’s name – to the USFSP Police Department and/or the 
+USFSP Dean of Students. If you desire confidentiality, there are campus and community 
+resources listed below that will respect that decision.  
+ Confid ential Resources  Non-Confidential Resources  
+USFSP Victim Advocacy Services  
+Available: 24hrs/7days  
+Tel: 727 -698-2079  USFSP Police Department  
+Tel: 727 -873-4140 or  
+USFSP Wellness Center (SLC 2000)  
+M/T/W/F: 8am – 5pm  
+Thurs: 9:30am – 5pm  
+Tel: 727-873-4422  Dean of Students & Director of Residence Life 
+& Housing : Dr. Jacob Diaz PNM  
+Tel: 727 -873-4823  
+deanofstudents@usfsp.edu  
+Rape Crisis Center of Pinellas County  
+Tel: 727 -530-7273  
+PEMHS: 727 -541-4628  Pinellas County Sheriff  
+Tel: 727 -582-6200 or 91 1 
+  
+  St. Petersburg Police Department  
+Tel: 727 -893-7780 or 911  
+If you are not sure what to do, you are strongly encouraged to contact the USFSP Victim 
+Advocate to confidentially explore your options including: Injunctions & Protective Orders on 
+campus; Changes in Accommodations, Living Arrangements, Class Schedules, & 
+Transportation; Assistance with Academic Issues – missed classes, late assignments, etc.   
+Academic Integrity  
+Academic integrity is the foundation of the University of South Florida’ s commitment to the 
+academic honesty and personal integrity of its university community. Academic integrity is 
+grounded in certain fundamental values, which include honesty, respect, and fairness. Broadly 
+defined, academic honesty is the completion of all academic endeavors and claims of scholarly 
+knowledge as representative of one’s own efforts. The process for faculty reporting of academic 
+misconduct, as well as the student’s options for appeal, are outlined in detail in USF Regulation 
+3.027 . 
+Academic Grievance Procedure  
+The purpose of these procedures is to provide all undergraduate and graduate students taking 
+courses  at the University of South Florida an opportunity for objective re view of facts and events 
+pertinent to the cause of the academic grievance. An “academic grievance” is a claim that a 
+specific academic decision or action that affects that student’s academic record or status has 
+violated published policies and procedures, or has been applied to the grievant in a manner 
+different from that used for other students.  
+ Disability Access  
+Students with disabilities are responsible for registering with Students Accessibilty Services 
+(SAS) (SVC 1133) in order to receive academic acc ommodations. SAS encourages students to 
+notify instructors of accommodation needs at least five (5) business days prior to needing the 
+accommodation. A letter from SAS must accompany this request. Please visit the 
+Student  Accessibility Services website  for more information.  
+Disruption to Academic Progress  
+Disruptive students in the academic setting hinder the educational process. Disruption of the 
+academic process ( USF Regulation 3.025 ) is defined as the act, words, or general conduct of a 
+student in a classroom or other academic environment which in the reasonable estimation of the 
+instructor: (a) dire cts attention away from the academic matters at hand, such as noisy 
+distractions, persistent, disrespectful or abusive interruption of lecture, exam, academic 
+discussion, or general University operations, or (b) presents a danger to the health, safety, or 
+well-being of self or other persons.  
+Food and Housing Insecurity  
+We recognize that student facing financial difficulty in securing a stable place to live and/or in 
+affording sufficient groceries may be at risk of these financial issues affecting their perf ormance 
+in classes. Students with these needs are urged to contact Feed -A-Bull ( feedabull@usf.edu  or 
+their website ), or Student Outreach and Support ( socat@usf.edu  or their website ).  
+Intellectual Freedom and Viewpoint Diversity Act (House Bill 233)   
+Preliminary Guidance Document  
+Students may, without prior notice, record video or audio of a class lecture for a class in which 
+the student is enrolled for their own personal, educational use. A class lecture is defined as a 
+formal or methodical oral presentation as part of a university course inten ded to present 
+information or teach enrolled students about a particular subject. Recording class activities other 
+than class lectures, including but not limited to lab sessions, student presentations (whether 
+individually or part of a group), class discus sion, clinical presentations such as patient history, 
+academic exercises involving student participation, test or examination administrations, field 
+trips, private conversations between students in the class or between a student and the faculty 
+member is p rohibited. Recordings may not be used as a substitute for class participation and 
+class attendance and may not be published or shared without the written consent of the faculty 
+member. Failure to adhere to these requirements may constitute a violation of t he USF Student 
+Conduct Code .  
+Religious Observances  
+All students have a right to expect that the University will reasonably accommodate their 
+religious observances, practices and beli efs (USF Policy 10 -045). The University of South 
+Florida, through its faculty, will make every attempt to schedule required classes and examinations in view of customarily observed relig ious holidays of those religious groups or 
+communities comprising USF’s constituency. Students are expected to attend classes and take 
+examinations as determined by the university. No student shall be compelled to attend class or sit 
+for an examination at a day or time prohibited by his or her religious belief. However, students 
+should review the course requirements and meeting days and times to avoid foreseeable 
+conflicts, as excessive absences in a given term may prevent a student from completing the 
+academic requirements of a specific course. Students are expected to notify their instructors at 
+the beginning of each academic term if they intend to be absent for a class or announced 
+examination, in accordance with this Policy.  
+Sexual Misconduct / Sexual Ha rassment  
+USF is committed to providing an environment free from sex discrimination, including sexual 
+harassment and sexual violence ( USF Policy 0 -004). The USF Center for Victim Advocacy is a 
+confidential resource where you can talk about incidents of sexual harassment and gender -based 
+crimes including sexual assault, stalking, and domestic/relationship violence. This confidential 
+resource can help you without having to report your situati on to the  Title IX Office unless you 
+request that they make a report. Contact the USF Center for Victim Advocacy : 813 -974-5757. 
+Please be aware that in compliance with Title I X and under the USF Policy, educators must 
+report incidents of sexual harassment and gender -based crimes including sexual assault, stalking, 
+and domestic/relationship violence. If you disclose any of these situations personally to an 
+educator, he or she is  required to report it to the Title IX Office. For more information about 
+Title IX, a full list of resources, or to report incidents of sexual harassment, sexual violence, 
+relationship violence or stalking visit: usf.edu/title -ix 
+Statement of Academic Continuity  
+In the event of an emergency, it may be necessary for USF to suspend normal operations. During 
+this time, USF may opt to continue delivery of instruction through methods that include, but are 
+not limited to: Canvas, Teams, email messaging, and/or an alternate schedule. It is the 
+responsibility of the student to monitor the Canvas for each class for course -specific 
+communication, and the USF, College, and Department websites, emails, and ALERTUSF  
+messages for important general information ( USF Policy 6 -010). 
+ 

@@ -1,0 +1,254 @@
+QMB 2100 ECONOMIC AND BUSINESS STATISTICS 1  
+Spring Semester 2023 – 3 Credits  
+ Instructor:           Mark Dummeldinger                                                                                            
+Office Hours:     All office hours will be held using the MSTeams link in Canvas:   Wednesdays from 
+6:30 -7:00 PM and on Sunday evenings that projects are due from  8:00 – 9:00 PM  
+E-mail:                    mdummeld@usf.edu  - put QMB 2100 in the subject line  
+STAT Lab:             Graduate assistants are available during a variety of times each week to answer 
+questions you have about the class. Please consult the MSTe ams link in Canvas  for the schedule each 
+week.         
+Covid -19 Procedures  
+All students must comply with university policies and posted signs regarding COVID -19 mitigation 
+measures, including wearing face coverings and maintaining social distancing during in-person 
+classes.   Failure to do so may result in dismissal from class, referral to the Office of Student Conduct 
+and Ethical Development, and possible removal from campus.  
+Additional details are available on the University’s Core Syllabus Policy Statemen ts 
+page:  https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx Links  to an external  
+site. 
+Class Recording  
+Classes will be recorded and st reamed online. Student’s voice and video will be included in the class 
+recording. It is the student’s responsibility to make sure the privacy of their surroundings and 
+background is maintained.  
+Online Proctoring  
+Quizzes and examinations may be conducted us ing online proctoring tools. Keeping the audio and 
+video (microphone and camera) on during such exams and quizzes is a must. If the student is not 
+willing to use these, the student is asked not to register for this course. Any student may elect to drop 
+or withdraw from this course before the end of the drop/add period. Online exams and quizzes within 
+this course may require online proctoring. Therefore, students will be required to have a webcam 
+(USB or internal) with a microphone when taking an exam or qui z. Students understand that this 
+remote recording device is purchased and controlled by the student and that recordings from any 
+private residence must be done with the permission of any person residing in the residence. To avoid 
+any concerns in this regar d, students should select private spaces for the testing. The University 
+library and other academic sites at the University offer secure private settings for recordings, and 
+students with concerns may discuss the location of an appropriate space for the re cordings with their 
+instructor or advisor. Students must ensure that any recordings do not invade any third -party privacy 
+rights and accept all responsibility and liability for violations of any third -party privacy concerns. 
+Setup information will be provi ded prior to taking the proctored exam. For additional information 
+about online proctoring you can visit the online proctoring student FAQ 
+at http://www.usf.edu/innovative -education/resources/student -services/online -proctoring.aspx Links  
+to an external  site. 
+TEXTS:  
+Statistics for Business and Economics; McClave, Benson, and Sincich; Prentice Hall, 14th  Edition. You 
+will need either a textbook  or electronic version  of the text.  Please not that this is the same text used for the QMB 3200 Business and Economics Stat II class you 
+are required to take in the MUMA College of Business.   
+Statistics for Business and Economics, Student Solutions Manual ; Nancy S. Boudreau, Prentice Hall, 
+14th  Edition;  Optional  
+STATISTIX for Windows Analytical Software - available at the bookstore for PCs or  free for everyone 
+(recommended)  on the USF Application Gateway or on  library computers.  
+COURSE OBJECTIVE AND PURPOS E 
+Catalog Description of the course:  
+Data description; exploratory data analysis; introduction to probability; binomial and normal 
+distributions; sampling distributions; estimation with confidence intervals; tests of hypotheses; 
+control charts for quality improvement.  
+Purpose of the course:  
+The purpose of the course is to prepare students to appreciate the role statistics plays in data analysis 
+and decision making in various business environments. Being the first course, it focuses on 
+Descriptive Statistics, Inferential Statistics, and Quality Control. In particular, this course covers 
+descriptive statistics and then introduces the concepts and methods of: probability, probability 
+distributions, sampling distributions, estimation, hypothesis testin g, inference, and control charts for 
+quality improvement.    
+Learning Goals  
+This course is part of the University of South Florida’s Foundations of Knowledge and Learning Core 
+Curriculum.   It is certified for Quantitative Reasoning and for the following dim ensions:   Critical 
+Thinking, Inquiry -based Learning, Scientific Process, and Quantitative Literacy.  
+The following Learning Goals will be met in this course:  
+1. The student will understand the concepts of data collection, summary statistics, and 
+statistical in ferential techniques and be able to apply these concepts to real data to use 
+sample information to make inferences about populations of interest.  
+2. The students will be able to differentiate between the two types of statistical techniques 
+and be able to appl y each when appropriate.  
+3. The student will understand the difference between ethical data analysis and using data to 
+distort or mislead.  
+4. The student will be able to summarize data graphically and perform data analysis to 
+compute measures of central tendency  as well as dispersion.  
+5. The student will be able to make sound decisions based on basic probability techniques.  
+6. The student will learn discrete and continuous probability distributions, and be able to read 
+and utilize statistical tables.  
+7. The student will b ecome proficient at working with the sampling distributions and the 
+Central Limit Theorem.  
+8. The student will be able to compute and interpret point and confidence interval estimates.  
+9. The student will be able to Conduct hypothesis tests, draw inferences, and  appreciate the 
+importance of statistical inference.  
+10. The student will Learn the concepts of process control, the role of statistics, and be able to 
+construct/use control charts for quality improvement    
+COURSE POLICIES  
+The course is comprised of four Learning Modules that must each be completed within a specified 
+time -period. For each Learning Module, you will be measured in the following ways:  
+1. Competency Checks:  Each module will contain various competency checks to ensure that 
+you are comprehending the material being provided. Each Competency Check will be 
+completed within Canvas. You will have two attempts to complete the competency checks 
+and they must be completed before the indicated due date (see Schedule below).  Answers 
+are posted  after the due date, so no late competency checks are accepted (for any 
+reason).   
+2. Computer Projects:  Each Module contains a hands -on computer project that will require 
+you to perform statistical analyses on real data using the computer (Statistix 
+software) .  You will be given (electronically) project assignments in Canvas and you will 
+upload your projects to us (demonstrations of how to compete assignments and how to 
+upload will be provided) on -or-before the indicated due date (see Schedule below).  Late 
+projects are accepted but will receive a 10% deduction for each day late (for any reason).  
+3. Exams: Each Module will conclude with an exam that tests the material covered in that 
+Module.   Exams will be open book and notes, bust must be completed alone.  All exam s will 
+be given anytime during the two -day window shown in the schedule below.   
+4. Grading:  The point distribution will be as follows:  
+Project 1:                 30 points  
+Exam 1:                     50 points  
+Project 2:                 20 points  
+Exam 2:                     50 points  
+Project 3:                 30 points  
+Exam 3:                     50 points  
+Project 4:                 20 points  
+Exam 4:                     80 points  
+Online Competency Checks:  Due throughout the course, 70 points total.  
+The total points possible throughout the entire semester is 400 points.  
+  5. Grading:  Grades assigned for the semester will be based on the following scale:  
+386 – 400 points                  A+ 
+366 – 385 points                  A 
+358 – 365 points                  A- 
+346 – 357 points                  B+ 
+326 – 345 points                  B 
+318 – 325 points                  B- 
+306 – 317 points                  C+ 
+286 – 305 points                  C 
+278 – 285 points                  C- 
+266 – 277 points                  D+ 
+246 – 265 p oints                  D 
+238 – 245 points                  D- 
+       0 – 237 points               F 
+6. Schedule:  Listed below are the due dates that need to be met for the semester. As you 
+finish one module, the next will become available to you to continue moving forward.    
+Module 1:   Available January 9 – February 5  
+                        Competency Checks due by  2/2 
+                        Project 1 due by  1/29  
+                        Exam 1 – given anytime on  2/3 or 2/4  
+Module 2:  Available February 4 – March 5  
+                        Competency Checks due by  3/2 
+                        Project 2 due by  2/26  
+                        Exam 2 – given anytime on  3/3 or 3/4  
+Module 3:   Available  March 4 – April 9  
+                        Competency Checks due by  4/6 
+                        Project 3 due by  4/2 
+                        Exam 3 – given anytime on  4/7 or 4/8  
+Module 4:   Available  April 8 – April 30  
+                        Competency Checks due by  4/27  
+                        Project 4 due by  4/23  
+                        Exam 4 – given anytime on  4/28 or 4/29  7. Assigned Homework Problems:  The following is a list of recommended problems the 
+student should attempt to master the necessary skills presented during the class. While not 
+collected, these problems enable the student to test their knowledge of the statistical 
+methods introduced in both the lectures and the text.   Other problems should be worked in 
+areas causing difficulty.   A solutions manual to the odd numbered problems is available to 
+the student at the bookstore and online and answers to these problems are posted within 
+Canvas.   
+Note:   To reduce confusion. Note that problem 2 in Chapter 1 is listed in the text as Exercise 1.2. 
+Problem 20 will be listed as Exercise 1.20.  
+CHAPTER  SECTIONS COVERED  ASSIGNED PROBLEMS  
+1 1.1, 1.2, 1.3, 1.5, 1.6, 1.7  2, 5, 6, 7, 8, 20, 29, 37 a/b/c  
+2 2.1 - 2.7, 2.10  4, 5, 17, 21, 22,  23, 33, 41, 48, 51,  68, 69 , 71, 79, 85, 
+88, 90, 93, 97,  100, 108, 112, 114  
+3 Selected Topics  46, 47, 48, 62 (a and b only)  
+4 4.1 – 4.3, 4.5 – 4.7 1, 3, 13, 14, 21, 22, 45, 49, 50, 51, 52, 189,  85, 89,  92, 
+94, 99, 101, 111,  120, 123  
+5 5.1 – 5.3 1, 15, 17, 18, 19, 24, 29, 32  
+6 6.1 - 6.5, 6.7          1, 2, 5, 6, 7, 10,  12, 18 (a -d only),  24, 25, 
+26, 29, 33,  41, 45, 47, 51,  60, 62, 64, 66, 67, 70, 
+98, 133 
+7 7.1 - 7.7 1-7, 10, 19, 20, 21, 23, 25, 29, 30, 33, 36,  42, 44, 
+51, 54, 55, 56, 64 , 66, 69, 71, 77  
+8 8.1 - 8.4, 8.6  3, 12, 21, 23, 33, 37, 41, 49 , 51, 81, 83  
+13 Follow notes  Follow notes  
+Exercises designated in  red indicate the problem requires extensive computer assistance. Printouts 
+for these problems are posted in Canvas, and should be consulted while attempting these problems. 
+As another option, students could attempt to generate the p rintouts themselves using the Statistix 
+software. Demonstrations on how to use the software are posted online.  
+  
+  University Policies:  
+Policies about accessibility, religious observances, academic grievances, academic misconduct, and 
+several other topics are governed by a central set of policies, which apply to all classes at 
+USF:  https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx Links  to an 
+external  site. 
+  
+ "I" GRADE:   Students who are unable to complete all req uirements of the course for circumstances 
+beyond their control may request to receive an "I" grade to allow for completion of the remaining 
+coursework the next semester(s).  
+USF Undergraduate:  http://ugs.usf.edu/policy/IGradePolicy.pdf Links  to an external  site. 
+FINAL EXAMINATIONS:  USF Policy 10 -005 Links  to an external  site.: All final examinations are to be 
+scheduled in accordance with the University's final examination policy.  
+EARLY NOTIFICATION REQUIREMENT FOR OBSERVED RELIGIOUS HOLIDAYS:  
+USF Policy 10 -045 Links  to an external  site.: Students who anticipate the necessity of being absent 
+from class due to the observation of a major religious observance must provide notice of the date(s) 
+to the instructor, in writing, at th e beginning of the term.  
+GENDER -BASED CRIMES/SEXUAL MISCONDUCT/SEXUAL HARASSMENT (INCLUDING SEXUAL 
+VIOLENCE ): USF Policy 0 -004 Links  to an external  site.. USF has a commitment to the safety and 
+well-being of our students. Please be aware that educators must r eport incidents of sexual 
+harassment and gender -based crimes including sexual assault, stalking, and domestic/relationship 
+violence that come to their attention. I am required to report such incidents in order for the Office of 
+Student Rights and Responsib ilities or the Office of Diversity, Inclusion, and Equal Opportunity can 
+investigate the incident or situation as a possible violation of the USF Sexual Misconduct/Sexual 
+Harassment Policy and provide assistance to the student making the disclosure. If you  disclose in 
+class or to me personally, I must report the disclosure and will assist you in accessing available 
+resources.  
+The Center for Victim Advocacy and Violence Prevention, the Counseling Center and Student Health 
+Services are confidential resources where you can talk about such situations and receive assistance 
+without the incident being reported.  
+• Center for Victim Advocacy and Violence Prevention:  
+o (813) 974 -5757  
+o http://sa.usf.edu/advocacy Links  to an external  site. 
+• Counseling Center  
+o (813) 974 -2831  
+o http://usf.edu/student -affairs/counselin g-center Links  to an external  site. 
+• Student Health Services  
+o (813) 974 -2331  
+o http://usf.edu/student -affairs/student -health -services Links  to an external  site. 
+ GENERAL ATTENDANC E POLICY:  USF General Attendance Policy  Links  to an external  
+site.: Students are expected to attend classes. Faculty must inform students of attendance 
+requirements on syllabi. Instructors should accommodate excused absences by making arrangements 
+with students ahead of time (when possible) or by providing a reasonable amount of time to make up 
+missed work.  
+ADDITIONAL ACCESSIBILITY ACCOMODATION POLICIES   Accommodated Qui zzes, Tests  and Exams:  SAS administers more than 7,000 exams to the USF 
+community each academic year. The student is responsible for scheduling accommodated tests and 
+exams with SAS. Students must schedule with SAS at least one full week before the request ed test 
+date. Students who miss this deadline complete a Late Exam Request Form requiring an instructor 
+signature. SAS schedules late exam requests as space allows and as close to the original test date as 
+possible.  
+Due to the volume of tests and exams SAS  manages, SAS cannot provide accommodated testing 
+space for "pop" or unscheduled quizzes. Consult with SAS for information on accommodating 
+unscheduled quizzes.  
+ Make -up Exams:  Students who are taking a make -up exam due to disability reasons (medical issue s, 
+scheduling conflicts with other courses and extended exam time, disability related appointments etc.) 
+should be allowed to take a make -up exam within 10 business days of the student's return to classes. 
+SAS schedules make -up exams as space allows.  
+ Onli ne Proctoring such as Proctorio:  Consult with SAS prior to a student who utilizes 
+accommodations using Proctorio. Some SAS students have atypical testing behaviors. Other SAS 
+students utilize adaptive software that does not collaborate well with Proctorio software.  
+ Laptop or Electronic Device Usage:  If prohibiting laptop, phone or electronic device usage in class, 
+keep in mind that some SAS students utilize such devices for note taking and recording. Still others 
+have medical applications on cell phones th at the student cannot turn off (blood sugar monitors, 
+medication alerts etc.) Policies that indicate, "Only those with accommodations may use such devices" 
+inadvertently draw attention to the student with the accommodation. SAS suggests using language 
+that indicates, "Students utilizing laptops, cell phones or other electronic devices for non -academic 
+reasons during class time may be penalized . . . ."  
+Clicker Accessibility:  Consult with SAS about alternatives to clicker points. Many SAS students have 
+disabilities that affect the ability to answer clicker questions.  
+Attendance/Participation Accommodations Apply to all courses – Even on -line:  If a student has 
+attendance or participation accommodations, SAS provides an "Attendance/Participation 
+Accommodat ion Form" as part of the student's accommodation letter. This form is tool intended to 
+guide a conversation between a student and instructor about missed courses, missed deadlines and 
+the procedures to follow when requesting extensions. The accommodation d oes not allow a student 
+to miss an indefinite number of classes or deadlines. Instructors may always consult with SAS to 
+determine what is reasonable.  
+Accessible Materials:  USF policy requires that all course materials be accessible to students. Per the 
+USF Caption and Media Access Policy, all media sources must be captioned prior to use. SAS 
+encourages faculty to consider document accessibility. Use the "Style" functions in Microsoft Word 
+and the OCR functions in Adobe to ensure that all course documents a re accessible to those who 
+utilize screen reading technology. See the SAS Accessibility Guide for more 
+information:  www.sas.usf.edu   Links  to an external  site.(under resources).  
+ 

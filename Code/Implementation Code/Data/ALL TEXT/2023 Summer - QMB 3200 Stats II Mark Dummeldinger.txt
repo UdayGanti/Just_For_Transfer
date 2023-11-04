@@ -1,0 +1,114 @@
+QMB 3200 - Economic and Business Statistics II
+ 
+Mark Dummeldinger                                                                     
+Summer 2023 Office Hours:   MW 11:30 - 12 in CIS 
+Project Due Dates: 6:00 - 6:30 pm in MSTeams
+E-mail:  mdummeld@usf.edu          - Please use the Subject of QMB 3200 in any emails that you send me
+Teaching Assistant: Mesh
+Office Hours: Mondays and Wednesdays 2:00 - 4:00 in CIS 1036.
+                     Tuesdays: 10 am - 12 pm and Thursdays 2-4 pm on MSTeams, 
+ Required Text:    Statistics for Business and Economics, 14th edition, McClave, Benson, and Sincich
+Required Software:    Statistix for Windows, available for purchase or online at USF Application Gateway (FREE!)
+Optional Text:    Student Solution Manual, Boudreau, packaged with the book or sold separately
+PREREQUISITES: MAC 2233 / MAC 2241, QMB 2100.
+STA 2023 can serve as equivalent to QMB 2100.
+ 
+COURSE DESCRIPTION: This is a Core course for all Business Majors.
+Catalog Description of the course: Simple linear regression and correlation, multiple regression and model building, forecasting models, analysis of variance, chi-square tests, nonparametric methods.
+Purpose of the course: QMB 3200 is the second course in Statistics. It builds upon the foundation established in your first course in Statistics (QMB 2100 or its equivalent). The purpose of QMB 3200 is to prepare students to appreciate the role statistics plays in business analytics and decision making. In particular, the course emphasizes and prepares students to “learn”, “interpret”, and “be ready to apply” the concepts and methods, rather than learn calculations alone.
+ 
+
+COURSE OBJECTIVES:  Through this course, students would develop a working knowledge and expertise on how to apply statistical methods on business problems. In particular, students will be able to:
+Strengthen fundamentals, formulate hypothesis from the problem statement, and learn to perform analyses,
+Interpret statistical results generated from a selected software program and communicate the findings in simple terms to the decision-maker.
+Identify opportunities for and learn to apply statistical tests on Categorical data such as contingency analysis and goodness of fit tests
+Explain the basis and apply Analysis of Variance (ANOVA) techniques on data from experiments/observational studies in business
+Identify application opportunities and learn to perform simple linear and multiple regression analyses, extract valuable information, and apply the results for predictions and improved business decision-making.
+ 
+COURSE STUDENT LEARNING OUTCOMES:  At the conclusion of the course students should be able to:
+Develop hypothesis from a problem statement, choose an appropriate statistical technique to apply given the problem context, perform the analysis; and most importantly, interpret the reports/results, and develop well-reasoned and evidence-based conclusions
+Learn to perform hypotheses tests on categorical data using Chi-Square goodness of fit tests and tests of independence
+Understand the principles of designed experimentation, identify an appropriate experimental design to perform Analysis of Variance (ANOVA) on data from experimental/observational studies; develop hypothesis statements, perform the analysis, understand, and interpret ANOVA output from a select software; and develop conclusions
+Develop both simple and multiple regression models from given data, understand and interpret regression analysis output from a select software package, test hypotheses and infer relationships between variables, and make predictions on response.
+ 
+COURSE POLICY
+1.  Exams:  There will be two graded opportunities given during the semester.  The dates of these opportunities are given below. The exams will be given live in class. They will be open book/open note exams. 
+2.  Computer Projects:  Four computer projects will be assigned during the semester. You will be required to perform statistical analyses on real data using the computer (Statistix software).  You will be given (electronically) project assignments in Canvas and you will submit the project online by the due dates shown below. Projects can be turned in thru email late, but will incur a 20% penalty for each day it is received late.
+3.  Online Competency Assessments: Four online assessment checks will be provided throughout the semester to make sure you are staying current with the material being presented in class. These assessments will be done within Canvas and will allow two attempts. Due dates for these assessments are shown below. Answers to the assessments will be given after the due date shown, so no late assessments are allowed.
+Grading:  The point distribution will be as follows:
+Assessment 1: Due 5/24 , 20 points - online
+Project 1: Due 5/24, 40 points - online
+Assessment 2: Due 5/28 , 30 points - online
+Project 2: Due 5/29, 60 points - online
+Exam 1: In Class 5/31 , 50 points 
+Assessment 3: Due 6/11, 20 points - online
+Project 3: Due 6/11, 40 points - online
+Assessment 4: Due 6/18 , 30 points - online
+Project 4: Due 6/18, 60 points - online
+Exam 2: In Class 6/21, 50 points 
+Grades will be based on the following grading scale:
+            96.50 - 100%               A+
+            91.50 – 96.49%           A
+            89.50 – 91.49%           A-
+            86.50 – 89.49%           B+
+            81.50 – 86.49%           B
+            79.50 – 81.49%           B-
+            76.50 – 79.49%           C+
+            71.50 – 76.49%           C        
+            69.50 – 71.49%           C-
+            66.50 – 69.49%           D+
+            61.50 – 66.49%           D
+            59.50 – 61.49%           D-
+                   0 – 59.49%           F
+If you are close to the next higher grade at the end of the semester, I will look at your final exam to determine if I should bump your grade up.
+ 
+4.  Schedule:  The following is an outline of where we should be for each of the classes this summer.  
+         
+
+5.  Assigned Exercises:  These exercises should help the student understand the topics covered in class.
+               Chapter 1:        15, 31, 37
+               Chapter 2:        51, 79,102
+                Chapter 6:        Means: 16, 18 (a-d), 37, 125, Proportions: 47, 48
+               Chapter 7:        Means: 32, 42, 55, 145, Proportions: 71, 73
+               Chapter 8:        Means: 16, 21, 109, Proportions: 49, 51 (not part d)
+               Chapter 9:        31, 33, 43, 49
+               Chapter 10:     13, 43, 46
+               Chapter 11:      24, 41, 58, 92, 110
+               Chapter 12:      11, 18 a-d, 28, 30, 34, 40 a-d, 43, 63, 68, 120, 149
+               Homework problems listed in red should be solved using the STATISTIX software. Printouts for these exercises are available in Canvas.
+6.  Getting Help: I am available both before and after class to help you with any questions you might have. The Stat Lab is available for help as well.
+7.  Miscellaneous:
+Missed Classes: It is the responsibility of the student to get copies of the class notes from fellow students for any classes missed. Permission is not granted for sale of any class notes or tapes of class lectures from any entity.
+Missed Exams:  Makeup exams will be administered provided the following criteria are met:
+The student must provide a documented excuse explaining the reason for the absence.
+The student must contact the instructor via phone (message) or email prior to the missed exam.
+The makeup exam will be administered on the first available day after the scheduled exam to the student.
+The makeup exam will cover the same topics, but may be a different format than the in-class exam.
+S/U Contracts:  S/U contracts may be entered into by non-business students during the term’s first three weeks.
+Cell Phones:  Please be considerate by turning all electronic devices to silent mode during class time.  If calls must be taken, please exit the class when taking calls.
+
+University Policies:
+Information regarding these policies are standard items, many of which can be included as a hyperlink (www.ugs.usf.edu/ugc/standard_policies.htm (Links to an external site.)) if so desired. Some are only necessary if applicable.
+Final Examinations Policy - all final examinations are to be scheduled in accordance with the University's final examination policy.
+http://www.ugs.usf.edu/policy/FinalExams.pdf (Links to an external site.)
+General Attendance Policy
+http://www.ugs.usf.edu/policy/GeneralAttendance.pdf (Links to an external site.)
+Early Notification Requirement for Observed Religious Days - Students who anticipate the necessity of being absent from class due to the observation of a major religious observance must provide notice of the date(s) to the instructor, in writing, at the beginning of the term.
+http://www.ugs.usf.edu/policy/ReligiousDays.pdf (Links to an external site.)
+Academic Integrity of Students (please be aware that policies for undergraduate and graduate students differ).
+http://regulationspolicies.usf.edu/regulations/pdfs/regulation-usf3.027.pdf (Links to an external site.) 
+Disruption of the Academic Process
+http://regulationspolicies.usf.edu/regulations/pdfs/regulation-usf3.025.pdf (Links to an external site.)
+Gender-Based Crimes - Educators must report incidents of gender-based crimes including sexual assault, sexual harassment, stalking, dating violence and domestic violence. If a student discloses in class, in papers, or to an instructor, the instructor is required by law to report the disclosure. The Center for Victim Advocacy and Violence Prevention (Links to an external site.) (813-974-5757) is a confidential resource where you can talk about such situations and receive assistance in confidence. Additional confidential resources on campus are: the Counseling Center (Links to an external site.) (813-974-2831) and Student Health Services (Links to an external site.) (813-974-2331).
+Student Academic Grievance Procedures
+http://www.ugs.usf.edu/policy/StudentAcademicGrievanceProcedures.pdf (Links to an external site.)
+Students with Disabilities - Students with disabilities are responsible for registering with Students with Disabilities Services (SDS) in order to receive academic accommodations. SDS encourages students to notify instructors of accommodation needs at least 5 business days prior to needing the accommodation. A letter from SDS must accompany this request.
+See student responsibilities: http://www.sds.usf.edu (Links to an external site.)
+See instructor responsibilities: http://www.asasd.usf.edu/instructorresponsibilities.asp?refer=FACULTY (Links to an external site.)
+Turnitin Privacy policy
+In order to comply with privacy laws, students are not required to include personal identifying information, such as your name, in the body of the document. Submitting to the SafeAssign Global Reference Database allows papers from other institutions to be checked against your paper to protect the originality of your work across institutions. Please follow your instructor's instructions carefully regarding what identifying information to include.
+Blackboard Quick Reference Guide - Submitting SafeAssignments (Links to an external site.)
+University Emergency Policy
+In the event of an emergency, it may be necessary for USF to suspend normal operations. During this time, USF may opt to continue delivery of instruction through methods that include but are not limited to: Blackboard, Elluminate, Skype, and email messaging and/or an alternate schedule. It's the responsibility of the student to monitor Blackboard site for each class for course specific communication, and the main USF, College, and department websites, emails, and MoBull messages for important general information.
+ 
+

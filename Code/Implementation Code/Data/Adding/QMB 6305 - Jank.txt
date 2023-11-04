@@ -1,0 +1,401 @@
+7/21/23, 2:17 PM Syllabus for QMB6305.030F23.81776 Managerial Decision Analysis
+https://usﬂearn.instructure.com/courses/1827668/assignments/syllabus 1/13Course Syllabus
+ Edit
+QMB 6305-030: Managerial Decision Analysis
+ 
+INSTRUCT OR: Prof. W olfgang Jank
+Office:             CIS 2063
+Phone:             813.974.6762
+Email:              wjank@usf.edu
+Office Hours:  please make an appointment with me. 
+                   
+University Course Description:  A study of the general concepts of interval estimation, hypothesis
+testing, correlation and multiple regression with an emphasis on applications, concepts and interpretation
+of results. See also usfweb.usf.edu/academic-programs/details/prefix/QMB/code/6305
+Course Pre-reqs:  NA
+Course Purpose: The practice of business is changing. Due to increasing desktop computing power
+and companies amassing massive amounts of data, business decisions made by companies are
+becoming more and more data based. This holds in many sectors, but in particular in banking,
+insurance, investment, retailing, eCommerce and direct marketing. Because of this new approach to
+business, companies are in need of people with a new set of computational skills. There is also an
+increasing notion that in order to stay competitive, managers need to be re-equipped with long-lost
+analytical skills. Related success stories include companies such as Google, Amazon, Netflix, AT&T,
+Harrah’ s, Capital One or the Boston Red Sox. And the reason that these few companies are so
+successful is that they have access to a pool of people with special analytical skills and tools, tools that
+are related to the exploration and analysis of business data.
+ 
+Student Learning Outcomes:  In this course, you will learn basic analytical principles that can guide a
+manager in making complex decisions.  A good decision uses sound reasoning and takes into account
+all of the relevant data that is available at the time the decision is to be made.  In order to arrive at a
+good decision, a manager must be able to:
+Identify an underlying analytical structure  in a seemingly complex and amorphous decision problem
+Understand the trade-offs  involved in the decision7/21/23, 2:17 PM Syllabus for QMB6305.030F23.81776 Managerial Decision Analysis
+https://usﬂearn.instructure.com/courses/1827668/assignments/syllabus 2/13Understand the role of uncertainty  and risk in the decision-making process
+Analyze available data to understand relationships  among variables and to create predictions
+Use available computing technology  to arrive at optimal solutions.
+ 
+Starting from basic principles, you will learn about data exploration and visualization, methods for data &
+decision modeling, and risk analysis. The course is very hands-on, and emphasis is placed on
+understanding when to use which method. This course will also allow you to better interact with
+personnel specializing in analytics. In addition, you will learn how to implement data-driven decision
+making using one of the most powerful software packages.
+ 
+INSTRUCT OR:
+Wolfgang Jank is the Anderson Professor of Global Management in the Department of Information
+Systems and Decision Sciences, College of Business Administration, at the University of South Florida.
+Before joining USF , Professor Jank was an Associate Professor in the Department of Decisions,
+Operations & Information Technologies and the Director of the Center for Complexity in Business at the
+Robert H. Smith School of Business, University of Maryland. He is interested in applying ideas from
+statistics and data mining to problems in electronic commerce, marketing, and operations management.
+Dr. Jank has authored over seventy refereed articles and three books, and presented his work at
+national and international meetings. Dr . Jank received his Master ’s degree from the Technical University
+of Aachen (Germany) and his PhD in Statistics from the University of Florida. He has been involved in a
+variety of consulting projects and he is on the advisory board of several private companies. Prof. Jank is
+teaching classes in data analytics in dif ferent programs. While at the University of Maryland, he has
+received numerous awards including the top 15% teaching award for teaching MBA  core classes.
+ 
+Required T exts/Reading Materials: We will use two dif ferent books for this course. The books will be
+used simultaneously in that one book covers strategic aspects of business analytics from a high-level
+point of view; the other book has more of an operational flavor in that it conveys hands-on ideas for data-
+modeling. The two books are
+Business Analytics for Managers  by Jank, Springer , 201 1 (ISBN 978-1-4614-0405-7).
+Competing on Analytics by Davenport and Harris, Harvard Business School Press, 2007 (ISBN 142-
+2-1033-23)  
+PLEASE NOTE THAT THE EMBA  OFFICE WILL  PROVIDE YOU WITH YOUR TEXTBOOKS  – YOU
+WILL  NOT  HAVE TO PURCHASE THEM YOURSEL VES.
+INTERACTIVE POLLING DEVICE7/21/23, 2:17 PM Syllabus for QMB6305.030F23.81776 Managerial Decision Analysis
+https://usﬂearn.instructure.com/courses/1827668/assignments/syllabus 3/13In addition to the above two books, we will also make extensive use of interactive response devices
+(“clickers”). Clickers allow me to receive feedback from the entire class instantly; they also allow you to
+gauge your own progress relative to your peers. Background stories on clickers can be found e.g. here
+http://news.cnet.com/New-for-back-to-school-Clickers/2100-1041_3-5819171.html
+(http://news.cnet.com/New-for-back-to-school-Clickers/2100-1041_3-5819171.html)
+DATA MINING SOFTW ARE
+We will use the software R for analyzing and mining our data. R is free! In fact, R is an open-source
+based software and as such grows much faster than any commercial software solution. R is one of the
+most powerful and popular software solutions for mining business data. In fact, large analytical
+companies such as Google or AT&T use R. R is also becoming more and more popular among
+government agencies (such as the DOD). R is powerful,  yet it is free – this combination makes it a
+winning proposition for many companies, especially during times of tightening budgets and financial
+stress.
+ 
+Installing R Commander:
+Please see the "Getting Started" module for detailed instructions. 
+ 
+COURSE WEBSITE
+I will use the course website (hosted by 'Canvas’) to distribute various files as necessary (e.g., course
+documents, data, assignments and solutions). Please be sure to visit Canvas on a regular basis.
+COURSE FORMAT
+Class meetings include lectures, discussions, team presentations and in-class projects.  Each class
+meeting requires extensive reading  to be completed before class.  Please refer to the schedule at the
+end of this syllabus for the reading assigned for each class.
+The lesson plan for each class is designed to complement  and leverage  the assigned readings, not
+merely replicate the ideas contained in the readings.  You will find the pace of the class to be
+uncomfortably rushed if you have not completed the reading assigned for that class.
+ 
+Completion of assigned readings will be checked in two ways. One is via class discussion ; the other is
+via specifically designed test questions, administered via the “Clickers” (see also earlier topic), and to be
+answered by the entire class. Performance on both will af fect your participation grade .
+ 7/21/23, 2:17 PM Syllabus for QMB6305.030F23.81776 Managerial Decision Analysis
+https://usﬂearn.instructure.com/courses/1827668/assignments/syllabus 4/13We will discuss both hands-on implementation  of data-driven ideas as well as more high-level,
+strategic concepts  of data analytics. Strategic discussions of data analytics will be led by student
+teams  using chapters from the text “Competing on Analytics.” In every meeting, a dif ferent chapter will
+be discussed. To that end, I will post questions pertaining to each chapter . For every meeting, one or two
+student teams will prepare a short presentation based on these questions and discuss their answers and
+solutions in class.
+ 
+At the end of some class meetings, we will conduct in-class projects . In-class projects serve the
+purpose for you to immediately practice the theoretical concepts learned in class. It will also give you an
+opportunity to get clarification and instant feed-back from the instructor and the class. Since class time is
+valuable, time for these projects will be limited. It is thus essential that you show up prepared. Projects
+will be posted before class and you are expected to have downloaded instructions & data and you are
+also expected to have attempted to solve the problem(s). In other words, you are expected to already
+have a good sense of the problem before the start of the project  so you can hit the ground running.
+ 
+Grade Categories and W eights: Your final numerical score for the semester will be determined by
+various deliverables according to the following system of weights:
+                                    Attendance & Class Participation                  5%
+                                    W eekly Team Presentation                            20%
+                                    Individual Assignments (3x)                           45%
+                                    Team Project.                                                 30 %
+                                                                                                                             --------
+                                                                                                                             100 %
+                                                                                                                              --------
+ 
+For each component, you will receive a numerical score, but not a letter grade.  The overall letter grade
+for the semester will be determined by the table below .                                                         
+ 
+Grading Scale: 
+Letter Grade Percent Score7/21/23, 2:17 PM Syllabus for QMB6305.030F23.81776 Managerial Decision Analysis
+https://usﬂearn.instructure.com/courses/1827668/assignments/syllabus 5/13A 95% - 100%
+A- 90% - 95%
+B+ 87% - 90%
+B 83% - 87%
+B- 80% - 83%
+C+ 77% - 80%
+C 73% - 77%
+C- 70% - 73%
+D+ 67% - 70%
+D 63% - 67%
+D- 60% - 63%
+F Below 60%
+ 
+ 
+ATTENDANCE & CLASS P ARTICIP ATION
+Effective participation consists of not only responding to questions raised by the instructor but also
+asking thoughtful questions and responding to contributions from your fellow-students.
+ 
+Quality of participation is more important than quantity .  However , you will not earn credit in this
+component, if you rarely speak in class.  Quality of participation includes:
+Evidence of reading and prior analysis; Relevance of comments; Ability to listen and relate to input from
+other students; Ability to lead discussion into previously unexplored areas; Ability to admit error; Ability to
+intellectually interact with other students (and not just the instructor).7/21/23, 2:17 PM Syllabus for QMB6305.030F23.81776 Managerial Decision Analysis
+https://usﬂearn.instructure.com/courses/1827668/assignments/syllabus 6/13 
+Attendance and participation will be captured in part by the interactive polling system . Special emphasis
+will be placed on participation during the in-class projects .
+ 
+WEEKL Y TEAM PRESENT ATIONS
+Every week, a dif ferent team (or set of teams) will take the lead discussing select chapters from the text
+“Competing on Analytics.” Please refer to the detailed weekly schedule at the end of this syllabus. The
+team(s) will prepare a short presentation (based on a set of questions that I will distribute) and present
+their answers and solutions in class. While the presentation is primarily lead by one team of students, the
+remaining class is also encouraged to share additional/alternate views.
+ 
+INDIVIDUAL  ASSIGNMENTS
+Several times throughout the course, an individual assignment will be due. The primary purpose of these
+assignments is for students to have the opportunity to practice the concepts learned in class, and to
+implement them using real data and real software. Individual assignments are expected to be solved
+rather quickly and not to consume much of your time. Careful participation during the in-class projects
+will allow you to solve the individual assignments more ef ficiently .
+ 
+TEAM ASSIGNMENT : TEAM P APER & TEAM PRESENT ATION  
+The team assignment consists of two components: a team paper  and a team presentation  (to be held
+during our last in-class meeting).
+The team paper consists of a comprehensive exercise in which you will use all of the methods &
+concepts learned in class and apply them to a decision making situation. In particular , your task will be to
+identify a data-driven decision scenario, collect appropriate data, analyze the data and derive actionable
+insights from your analyses. The data-driven decision scenario should relate to a real-world problem at
+your workplace and you should collect real data to address (and propose solutions) to the problem. Your
+final deliverable should contain answers to the following questions
+What is the nature of the business problem that you are addressing? Why is the problem important?
+Why is it dif ficult (i.e. why has it not been addressed before)?
+How did you identify a suitable data-source for your problem? Why is the data relevant for your
+problem? W ould other data-sources have been possible? Which ones?
+How did you collect and capture the data? How did you assure that the collected data achieves the
+necessary data-quality? W ere there any challenges with collecting the data?7/21/23, 2:17 PM Syllabus for QMB6305.030F23.81776 Managerial Decision Analysis
+https://usﬂearn.instructure.com/courses/1827668/assignments/syllabus 7/13How did you explore the data? What tools did you use to discover patterns and trends in your data?
+What insights did you find? How did these insights af fect your data collection ef forts? How did they
+affect your modeling ef forts?
+How did you go about modeling your data? What are the main research hypotheses that you wanted
+to address with your model? Did your model confirm these hypotheses? Or did it suggest alternate
+findings?
+How did you use your model and data explorations to derive actionable insights? What business
+insight can you derive from your analysis? Did you share these insights with managers/clients at your
+workplace? How did they react to it?
+The deliverable for this assignment is a team paper (10 page limit) and a team presentation.
+Presentations will be held during the last class meeting. The paper is due at the same time.
+It is anticipated that this is the most time-consuming assignment so you are urged to start early . You
+should, as a team, start as soon as possible to lay out a project plan and assign project components to
+individual team members.
+The order for the team presentations will be determined randomly .
+All team members are expected to be present during the presentations.   
+ 
+OTHER USF POLICIES: 
+Covid-19 Procedures
+All students must comply with university policies and posted signs regarding COVID-19 mitigation
+measures, including wearing face coverings and maintaining social distancing during in-person classes. 
+Failure to do so may result in dismissal from class, referral to the Of fice of Student Conduct and Ethical
+Development, and possible removal from campus.
+Additional details are available on the University’ s Core Syllabus Policy Statements
+page: https://www .usf.edu/provost/faculty/core-syllabus-policy-statements.aspx
+(https://www.usf.edu/provost/faculty/core-syllabus-policy-statements.aspx)
+Class Recording
+Classes may be recorded and streamed online. Student’ s voice and video may be included in the class
+recording. It is the student’ s responsibility to make sure the privacy of their surroundings and background
+is maintained.
+OTHER MA TTERS
+The health and safety of students, faculty , staf f and visitors on our campuses is our top priority . In
+response to the current COVID-19 pandemic, the USF community will be working together to support
+compliance with recommended health and safety standards to optimize the learning experience while7/21/23, 2:17 PM Syllabus for QMB6305.030F23.81776 Managerial Decision Analysis
+https://usﬂearn.instructure.com/courses/1827668/assignments/syllabus 8/13minimizing health risks.  The Conduct Expectations for all members of the community may be accessed
+at (Conduct Expected to Support USF Health and Safety Standards  (https://www.usf.edu/general-
+counsel/documents/resources/conduct-expected-to-support-usf-health-and-safety-standards.pdf) ) with
+details provided below .
+Students and faculty will be guided by established USF processes to ensure the safest possible non-
+disruptive environment including the:
+(1) Academic Disruption Regulation  (https://usf.app.box.com/v/usfregulation3025) which provides for an
+immediate removal or restriction from a classroom setting with academic sanctions and/or
+(2) Student Conduct Regulation  (https://usf.app.box.com/v/usfregulation60021) to address conduct that
+is inconsistent with the expectations as outlined below .
+ 
+OTHER USF COURSE POLICIES
+"I" GRADE:
+Students who are unable to complete all requirements of the course for circumstances beyond their
+control may request to receive an "I" grade to allow for completion of the remaining coursework the next
+semester(s).
+USF Tampa Undergraduate: http://ugs.usf.edu/policy/IGradePolicy .pdf
+(http://ugs.usf.edu/policy/IGradePolicy.pdf)
+USF Tampa Graduate: http://www .grad.usf.edu/policies_sect7_full.php
+(http://www.grad.usf.edu/policies_sect7_full.php)
+USFSM: http://usfsm.edu/catalog/academics/academic-policies-regulations/graduate-grading-
+system/incomplete-i/  (http://usfsm.edu/catalog/academics/academic-policies-regulations/graduate-
+grading-system/incomplete-i/)
+USFSP  Undergraduate: http://regulationspolicies.usf.edu/policies-and-procedures/pdfs/policy-1 1-
+004.pdf  (http://regulationspolicies.usf.edu/policies-and-procedures/pdfs/policy-11-004.pdf)
+USFSP  Graduate: http://regulationspolicies.usf.edu/policies-and-procedures/pdfs/policy-1 1-
+004.pdf  (http://regulationspolicies.usf.edu/policies-and-procedures/pdfs/policy-11-004.pdf)
+FINAL  EXAMINA TIONS
+USF System Policy 10-005  (http://regulationspolicies.usf.edu/policies-and-procedures/pdfs/policy-10-
+005.pdf)
+All final examinations are to be scheduled in accordance with the University's final examination policy .
+ACADEMIC INTEGRITY  OF STUDENTS
+USF System Regulation 3.027  (http://regulationspolicies.usf.edu/regulations/pdfs/regulation-
+usf3.027.pdf)
+Knowledge and maintenance of the academic standards of honesty and integrity as set forth by the7/21/23, 2:17 PM Syllabus for QMB6305.030F23.81776 Managerial Decision Analysis
+https://usﬂearn.instructure.com/courses/1827668/assignments/syllabus 9/13university are the responsibility of the entire academic community , including the instructional faculty ,
+staff, and students.
+DISRUPTION OF ACADEMIC PROCESS
+USF System Regulation 3.025  (http://regulationspolicies.usf.edu/regulations/pdfs/regulation-
+usf3.025.pdf)
+Although disruptive student conduct is already prohibited by the Student Code of Conduct, the purpose
+of this policy is to clarify what constitutes disruptive behavior in the academic setting, what actions
+faculty and relevant academic of ficers may take in response to disruptive conduct, and the authority of
+the Of fice of Student Rights and Responsibilities or designated of fice handling conduct issues in Student
+Affairs to initiate separate disciplinary proceedings again students for disruptive conduct.
+STUDENT ACADEMIC GRIEV ANCE PROCEDURES
+USF System Policy 10-002  (http://regulationspolicies.usf.edu/policies-and-procedures/pdfs/policy-10-
+002.pdf)
+The purpose of these procedures is to provide all students taking courses within the USF System an
+opportunity for objective review of facts and events pertinent to the cause of the academic grievance An
+"academic grievance" is a claim that a specific academic decision or action that af fects that student's
+academic record or status has violated published policies and procedures, or has been applied to the
+grievant in a manner dif ferent than that used for other students.
+EARL Y NOTIFICA TION REQUIREMENT FOR OBSER VED RELIGIOUS HOLIDA YS
+USF System Policy 10-045  (http://regulationspolicies.usf.edu/policies-and-procedures/pdfs/policy-10-
+045.pdf)
+Students who anticipate the necessity of being absent from class due to the observation of a major
+religious observance must provide notice of the date(s) to the instructor , in writing, at the beginning of the
+term.
+GENDER-BASED CRIMES/SEXUAL  MISCONDUCT/SEXUAL  HARASSMENT (INCLUDING SEXUAL
+VIOLENCE)
+USF System Policy 0-004  (http://regulationspolicies.usf.edu/policies-and-procedures/pdfs/policy-0-
+004.pdf)
+USF has a commitment to the safety and well-being of our students. Please be aware that educators
+must report incidents of sexual harassment and gender-based crimes including sexual assault, stalking,
+and domestic/relationship violence that come to their attention. I am required to report such incidents in
+order for the Of fice of Student Rights and Responsibilities or the Of fice of Diversity , Inclusion, and Equal
+Opportunity can investigate the incident or situation as a possible violation of the USF Sexual
+Misconduct/Sexual Harassment Policy and provide assistance to the student making the disclosure. If
+you disclose in class or to me personally , I must report the disclosure and will assist you in accessing
+available resources.
+The Center for V ictim Advocacy and V iolence Prevention, the Counseling Center and Student Health
+Services are confidential resources where you can talk about such situations and receive assistance7/21/23, 2:17 PM Syllabus for QMB6305.030F23.81776 Managerial Decision Analysis
+https://usﬂearn.instructure.com/courses/1827668/assignments/syllabus 10/13without the incident being reported.
+Center for V ictim Advocacy and V iolence Prevention:
+(813) 974-5757
+http://sa.usf.edu/advocacy  (http://sa.usf.edu/advocacy)
+Counseling Center
+(813) 974-2831
+http://usf.edu/student-affairs/counseling-center  (http://usf.edu/student-affairs/counseling-
+center)
+Student Health Services
+(813) 974-2331
+http://usf.edu/student-affairs/student-health-services  (http://usf.edu/student-affairs/student-
+health-services)
+GENERAL  ATTENDANCE POLICY
+USF General Attendance Policy  (http://ugs.usf.edu/policy/GeneralAttendance.pdf)
+Students are expected to attend classes. Faculty must inform students of attendance requirements on
+syllabi. Instructors should accommodate excused absences by making arrangements with students
+ahead of time (when possible) or by providing a reasonable amount of time to make up missed work.
+DISABILITY  ACCESS
+USF System Policy 0-108  (http://regulationspolicies.usf.edu/policies-and-procedures/pdfs/policy-0-
+108.pdf)
+Students with disabilities are responsible for registering with Students with Disabilities Services (SDS) in
+order to receive academic accommodations.
+SDS encounters similar dif ficulties with course syllabi each semester . Highlighted here are some issues
+to consider as faculty members develop syllabi:
+Accommodated Quizzes, T ests and Exams
+SDS administers more than 7,000 exams to the USF community each academic year . The student is
+responsible for scheduling accommodated tests and exams with SDS. Students must schedule with SDS
+at least one full week before the requested test date. Students who miss this deadline complete a Late
+Exam Request Form requiring an instructor signature. SDS schedules late exam requests as space
+allows and as close to the original test date as possible.
+Due to the volume of tests and exams SDS manages, SDS cannot provide accommodated testing space
+for "pop" or unscheduled quizzes. Consult with SDS for information on accommodating unscheduled
+quizzes.
+Make-up Exams
+Students who are taking a make-up exam due to disability reasons (medical issues, scheduling conflicts
+with other courses and extended exam time, disability related appointments etc.) should be allowed to7/21/23, 2:17 PM Syllabus for QMB6305.030F23.81776 Managerial Decision Analysis
+https://usﬂearn.instructure.com/courses/1827668/assignments/syllabus 11/13take a make-up exam within 10 business days of the student's return to classes. SDS schedules make-
+up exams as space allows.
+Online Proctoring such as Proctorio
+Consult with SDS prior to a student who utilizes accommodations using Proctorio. Some SDS students
+have atypical testing behaviors. Other SDS students utilize adaptive software that does not collaborate
+well with Proctorio software.
+Laptop or Electronic Device Usage
+If prohibiting laptop, phone or electronic device usage in class, keep in mind that some SDS students
+utilize such devices for note taking and recording. Still others have medical applications on cell phones
+that the student cannot turn of f (blood sugar monitors, medication alerts etc.) Policies that indicate, "Only
+those with accommodations may use such devices" inadvertently draw attention to the student with the
+accommodation. SDS suggests using language that indicates, "Students utilizing laptops, cell phones or
+other electronic devices for non-academic reasons during class time may be penalized . . . ."
+Clicker Accessibility
+Consult with SDS about alternatives to clicker points. Many SDS students have disabilities that af fect the
+ability to answer clicker questions.
+Attendance/Participation Accommodations Apply to all courses – Even on-line
+If a student has attendance or participation accommodations, SDS provides an "Attendance/Participation
+Accommodation Form" as part of the student's accommodation letter . This form is tool intended to guide
+a conversation between a student and instructor about missed courses, missed deadlines and the
+procedures to follow when requesting extensions. The accommodation does not allow a student to miss
+an indefinite number of classes or deadlines. Instructors may always consult with SDS to determine what
+is reasonable.
+Accessible Materials
+USF policy requires that all course materials be accessible to students. Per the USF Caption and Media
+Access Policy , all media sources must be captioned prior to use. SDS encourages faculty to consider
+document accessibility . Use the "Style" functions in Microsoft W ord and the OCR functions in Adobe to
+ensure that all course documents are accessible to those who utilize screen reading technology . See the
+SDS Accessibility Guide for more information: www .sds.usf.edu (under resources).
+ 
+ 
+Course Schedule: 
+(all below readings from "Business Analytics for Managers" by Jank;  for reading assignments
+from the book "Competing on Analytics/Davenport & Harris, please see weekly team
+presentations)7/21/23, 2:17 PM Syllabus for QMB6305.030F23.81776 Managerial Decision Analysis
+https://usﬂearn.instructure.com/courses/1827668/assignments/syllabus 12/13Course Summary:
+Date Details Due
+Sat Aug 26, 2023 First Day Attendance Quiz
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 2 7 6 6 8 / a s s i g n m e n t s / 1 4 2 8 2 6 4 9 )due by 11:59pm
+ Getting Started Quiz
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 2 7 6 6 8 / a s s i g n m e n t s / 1 4 2 8 2 6 4 1 )due by 11:59pm
+ In-class Project 1 Quiz
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 2 7 6 6 8 / a s s i g n m e n t s / 1 4 2 8 2 6 4 5 )due by 11:59pm
+Fri Sep 8, 2023 Individual Assignment 1
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 2 7 6 6 8 / a s s i g n m e n t s / 1 4 2 8 2 6 4 3 )due by 11:59pm
+ Individual Assignment 2
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 2 7 6 6 8 / a s s i g n m e n t s / 1 4 2 8 2 6 3 7 )due by 11:59pm 
+Meet # Topic Weekly Reading *
+1 Introduction; Exploring & Discovering Data Ch.1,2&7
+2Basics of Data Modeling (I); Fitting and Interpreting
+Regression Models Ch.3.1&3.2
+3Basics of Data Modeling (II); Identifying and Selecting
+Important PredictorsCh.3.3&3.4
+4 Making Models More Flexible (I); Dummy V ariables Ch.4.1
+Making Models More Flexible (II);  Interaction Terms Ch.4.2
+5 Wrap-up;  Team Project Presentations NA
+* all readings from "Business Analytics for Managers" by
+Jank
+ 7/21/23, 2:17 PM Syllabus for QMB6305.030F23.81776 Managerial Decision Analysis
+https://usﬂearn.instructure.com/courses/1827668/assignments/syllabus 13/13Date Details Due
+Sat Sep 23, 2023 Individual Assignment 3
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 2 7 6 6 8 / a s s i g n m e n t s / 1 4 2 8 2 6 3 9 )due by 11:59pm
+ Team Project Feedback
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 2 7 6 6 8 / a s s i g n m e n t s / 1 4 2 8 2 6 4 7 )due by 11:59pm
+ Attendance & Participation
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 2 7 6 6 8 / a s s i g n m e n t s / 1 4 2 8 2 6 5 1 )due by 11:59pm
+ Please submit your course
+evaluations
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 2 7 6 6 8 / a s s i g n m e n t s / 1 4 2 8 2 6 5 3 )due by 11:59pm
+ Team Data Project (Paper &
+Prez)
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 2 7 6 6 8 / a s s i g n m e n t s / 1 4 2 8 2 6 5 5 )due by 11:59pm
+ Weekly T eam Presentation
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 2 7 6 6 8 / a s s i g n m e n t s / 1 4 2 8 2 6 5 7 )due by 11:59pm

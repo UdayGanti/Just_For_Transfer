@@ -1,0 +1,16 @@
+He ZhangAssistant Professorhezhang@usf.eduRoom: CIS 2067Phone: (813) 974-6930VitaHe Zhang is an assistant professor in the School of Information Systems and Management,
+               teaching courses on health care information systems, operations and supply chain processes,
+               and computational methods.Zhang's research interests include health care information management, data mining,
+               and operations management. His work has been published in journals including Management
+               Information Systems Quarterly (MISQ), Mathematical Programming, Decision Support Systems
+               and ACM Transaction on Management Information Systems. He has presented at numerous
+               conferences, including meetings of INFORMS (Institute for Operations Research and
+               the Management Sciences), Workshop on Information Technologies and Systems (WITS),
+               Conference on Health IT and Analytics (CHITA) and Winter Conference on Business Analytics
+               (WCBA).Zhang earned a PhD in industrial engineering and management sciences from Northwestern
+               University and a master's degree in management science and engineering from Stanford
+               University, as well as additional undergraduate and graduate degrees from Tsinghua
+               University.TeachingISM 3431 Operations & Supply Chain ProcessesISM 6930 Healthcare Information SystemsISM 6930 Computational Methods in ISDSResearchOnkar Malgonde, He Zhang, Balaji Padmanabhan and Moez Limayem, (2017), "Two-Sided
+                  Recommendations on Digital Platforms,"MIS Quarterly,  R&R.Manish Agrawal, Kaushal Chari and He Zhang, (forthcoming), "Optimal Allocation of
+                  SecurityControls,"ACM Transaction on MIS.Sanjay Mehrotra and He Zhang, (forthcoming), "Models and Algorithms for Distributionally
+                  Robust Least Squares Problems,"Mathematical Programming.SERVICEMember, INFORMSMember, SIAM

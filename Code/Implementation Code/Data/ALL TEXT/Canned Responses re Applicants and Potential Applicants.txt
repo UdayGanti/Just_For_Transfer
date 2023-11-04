@@ -1,0 +1,94 @@
+Canned Responses  re Applicants and Potential Applicants  
+ 
+Interest  
+ 
+Response 1: Sent out when a potential applicant approaches us with questions about the MS 
+BAIS program.  
+Hi, 
+Thank you for your interest in our program.   Can I ask you to look at the MS BAIS web site 
+(https://www.usf.edu/business/graduate/ms -bais/index.aspx ) as it will answer many of the 
+questions you will have?   The FAQ page may prove especially useful.  
+Once you hav e done so, and there are questions remaining, please feel free to contact us again.  
+ 
+Prerequisite Review:  
+ 
+Response 1: Sent out when the applicant  has not registered for orientation yet . 
+Hi, 
+Thank you for your request to do a prerequisite check.  
+However, a ccording to my records you have not yet registered for orientation, and I cannot do 
+the prerequisite check until you do so. So, please register for orientation and send me an email 
+once you have done so. I can then do the prerequisite check.  
+Thanks.  
+ 
+Respo nse 2: Sent out after we have completed the prerequisite review.  We obviously filter out 
+the prerequisites that the applicant has met.  
+Hi,  
+Thank you for your request to do a prerequisite check.  
+I have reviewed your transcripts and resume from your appli cation, and you have  the following 
+prerequisites to complete:    • Systems Analysis and Design - - This has to be completed before you can take Advanced 
+Systems Analysis and Design  
+• Database Design -- This has to be completed before you can take Advanced Databa se 
+Systems  
+• Object Oriented Programming -- This has to be completed before you can take 
+Distributed Information Systems  
+• Economics  
+• Financial Accounting  
+• Statistics - This has to be completed before you can take Analytical Methods for Business  
+You can find a l ink with courses you can take to satisfy the prerequisites at 
+https://usf.box.com/s/9qoqve46ew4re0gdlrsrdmwts8enefdl  
+It is of course possible that I overlooked something in either your resume or your transcript that 
+would allow us to waive more prerequisites.   If so, please let me know within 30 days of receipt 
+of this email. Please do so by responding to this message, a nd do not create a message from 
+scratch.  
+ 
+Response 3: Sent out if applicant has met all prerequisites.  
+Hi, 
+Thank you for your request to do a prerequisite check.  
+I have reviewed your transcripts and resume from your application, and you met all prerequisi tes. 
+I look forward to seeing you on campus.  
+ 
+Response 4: Sent after an applicant has sent a certificate of completion for the assigned 
+courses.  If the applicants still has outstanding prerequisites, we adjust the message to make 
+them aware of the remaini ng prerequisites.  
+Hi, 
+Thanks for sending the certificates. You have now met all prerequisites and I look forward to 
+seeing you on campus.  
+ 
+ 
+ Registration for First Semester  
+Before we can register students for the first semester, they must  
+1. Complete the academic integrity course.  
+2. Clear their insurance hold.  
+3. Clear their immunization hold, and  
+4. Send us their visa if they are an international student, or let us know that they are n ot. 
+Response 1: Sent when we receive a student’s visa but they have not complete the other steps 
+yet.  We again edit it to make sure it reflects which of the first 3 steps above they still have to 
+complete.  
+Hi, 
+Congratulations on getting your visa and than k you for sending it to us.  
+According to my records, you still need to complete the academic integrity course and clear the 
+insurance and immunization holds. You can do so at  
+www.SHS.usf.edu  
+Once you have done so, ca n you let me know so that I can register you for the first semester 
+courses.  
+I look forward to seeing you on campus.  
+ 
+Response 2: Sent when we receive a student’s visa and they have completed the other steps 
+yet.  We again edit it to make sure it reflects which of the first 3 steps above they still have to 
+complete.  
+ 
+Hi, 
+Thank you for sending us your visa and clearing your holds. I registered you for the first three 
+courses. Can you check it out on OASIS and let me know if you see any problems?  
+Although we strongly recommend against it, if you really want to take a fourth course, please let 
+me know. We highly recommend that you take ISM 6124 Advanced Systems Analysis and 
+Design.  
+I look forward to seeing you on campus.  Response 3: In order to ensu re that we can control which courses students register for in their 
+first semester, we place a COB hold on their records.  Although this is explained in the next 
+steps email that they receive, we still get plenty of emails asking us about the COB hold.  
+ 
+Hi, 
+As explained in the next steps email, we use the COB hold to make sure we can register you for 
+the first semester classes. We will remove it when registration for the next semester opens up.  
+Han 
+ 

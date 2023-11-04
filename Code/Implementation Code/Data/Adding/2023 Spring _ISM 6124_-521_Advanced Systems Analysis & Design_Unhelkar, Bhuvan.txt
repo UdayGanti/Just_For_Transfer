@@ -1,0 +1,466 @@
+2023 Spring _ISM 6124_ Advanced Systems Analysis & Design _Unhelkar , Bhuvan .Docx  Page 1 of 10 
+  
+ 
+ 
+ 
+ 
+ 
+ 
+Semester:    Spring , 202 3 
+Class Meeting Days:   Online  
+Class Meeting Time:   Online  
+Class Meeting Location:  Online  
+Instructor:    Dr. Bhuvan UNHELKAR  
+Office Location:    C225, College of Business, Sarasota -Manatee Campus  
+Office Hours:     Online  
+Phone :    MS Teams (   (Canvas messages  Preferred)  
+Email:     bunhelkar@usf.edu   
+ 
+ 
+ 
+I. Welcome!  
+ 
+Welcome to the Course: Advance System Analysis & Design (ASAD). This course is designed to 
+equip you with the professional  skills of designing software systems beyond simply writing  good 
+code and create a database . Most large -scale software development (and maintenance) work 
+requires excellence in "modelling" the software - that is, create good designs and validating them 
+before  writing code.  The entire course revolves around designing great software models  that 
+immediately increase the quali ty and value of your software solution . Software models also 
+reduce rework and improve the productivity. Modeling is a lso a great way to enhance 
+communications within a software development project - especially if such project is 
+"outsourced" to another de velopment shop.  
+ 
+ 
+ 
+II. Course Prerequisites  
+ 
+This course has no officially set pre -requisites. Students are, however, expected to have good 
+understanding of software development. This course does NOT include any programming – 
+however, you need to have a good i dea of ANY programming language in order to maximize the 
+value to derive from this course. Appreciation of programming concepts will obviously help you 
+in creating great software designs. An important soft -skill you will need, however, is ability to 
+collab orate with fellow students in a Team. This is a n important prerequisite, if you like. Please 
+be prepared to collaborate to design  ONLINE.  Course ISM 6124: 
+Advance System Analysis & Design (ASAD)  
+3 Credit Hours  
+Muma College of Business  
+ 
+COURSE SYLLABUS  
+Last Updated: 1/24/2023  
+ 
+ 
+2023 Spring _ISM 6124_ Advanced Systems Analysis & Design _Unhelkar , Bhuvan .Docx  Page 2 of 10 
+  
+III. Course Purpose   
+ 
+This course provides a robust grounding in the principles and practices of Object -Oriented  (OO)  software 
+modelling  in order to produce great software system designs . This course uses the ISO 19505 standard for 
+software modeling - the Unified Modeling Language (UML) as the modeling stand ard for designs. 
+The StarUML is used as an opensource modeling tool (although you are welcome to use 
+Microsoft's Visio or any other tool especially if you are already working in a software project).   
+Any advanced effort at systems analysis and design is based on user requirements  and development of 
+corresponding design s. Due to the fast -paced nature of this course, we will not be developing detailed 
+requirements – but directly jumping to the designs from the problem statements. We do d evelop an 
+approach to  Architecture of the solution and also verify  and validate designs.   
+ 
+As part of pre -reading and developing a better understanding of the purpose of this course, please  
+open the textbook for this course  Software Engineering with UML - and go through the Preface 
+(Pages xxiii to xxvi) . These pages of t he text book will tell you some more on my views o f 
+software modeling and why I consider this as an important course to build you up as a software 
+professional.   
+ 
+ 
+ 
+IV. How to Succeed in this Course  
+ 
+Successful students should follow several practical tips before each online session:  
+ 
+1. Check Canvas and emails daily for announcements  
+2. Close down other programs and apps before class begins  
+3. When possible, plug in to a wired internet connection, rather than rely on WiFi  
+4. Read the instruction page for the Discussion  questions, Team collaborations, and Quizzes  
+5. Work in Team Projects where required in a collaborative manner. ONLINE collaboration 
+requires discipline and responsibility towards the entire team . This is a CRUCIAL 
+learning objective and learning experience o f this course.  
+6. Submit ALL assignments (discussion questions) in time and NOT wait for any reminders  
+7. Attempt ALL assignments  – please do NOT leave any assignments un -attempted even though 
+you may doing very well in the ones you have already attempted. Making an honest attempt at 
+all assignments and achieving a minimum score (as specified in each assignment) is absolutely 
+crucial  for success in this course.  
+8. For any delays in submission, please reach out to your professor promptly and explain the 
+reasons (except in medical emergencies where you simply can’t reach out)  
+9. Maintain high -level of honesty and ethical behavior throughout the course  
+10. Maintain total respect towards your Professor / Instructor and your fellow students  
+11. If new to Canvas, read this guide  
+ 
+ 
+V. Student Learning Outcomes  
+ 
+At the completion of this course, students will be able to:   
+ 
+1. Demonstrate the knowledge of systems design with specific focus software modelling  
+2. Undertake advanced designs of  high-quality software systems and applications   
+ 
+2023 Spring _ISM 6124_ Advanced Systems Analysis & Design _Unhelkar , Bhuvan .Docx  Page 3 of 10 
+ 3. Undert ake systematic modeling of requirements and solutions design using the principles of Object -
+Orientation and the Unified Modeling Language (UML) standard  
+4. Demonstrate the ability to use of a Software Modeling tool in a team environment in order to create 
+practical OO designs with UML  
+5. Recognize the importance of Architecture, Patterns, Reuse and Granularity in system designs.  
+6. Demonstrate the ability to develop a Quality assurance and Testing strategy for an advanced software 
+solution.  
+7. Undertake team work and communicate effectively in a team environment to enable delivery of software 
+solutions within given time constraints  
+ 
+ 
+VI. Required Texts and/or Readings and Course Materials  
+ 
+Required  (Note: This text book is made FREELY available by USF’s Textbook Adoption Program (TAP). 
+Please see Canvas course for details on how to download this material for your study :  
+Unhelkar , B., (2018), Software Engineering with UML, CRC Press, (Taylor and Francis Group /an 
+Auerbach Book), Boca Raton, FL, USA . Foreword Scott  Ambler. ISBN 978 -1-138-29743 -2 
+ 
+ 
+ 
+VII. Supplementary (Optional) Texts and Materials  
+ 
+- Fowler, M., UML distilled:3rd Edition Addison -Wesley  
+- Unhelkar , B., “The Art of Agile Practice” , (CRC Press, 2013)  
+- Unhelkar , B., (2005), “Verification and Validation for Quality of UML Models”, John Wiley and Sons , 
+(Wiley Interscience), July, 2005; Clothbound, Pages 290+. ISBN: 0471727830 (Foreword by Prof. Brian 
+Henderson -Sellers, UTS, Sydney, Australia)  
+- Unhelkar , B., (2003),  “Process Quality Assurance for UML -based Projects” Pearson Education 
+(Addison -Wesley ), Boston, 2003; (394 Pages + CD. Foreword by Vicki P. Rainey, Raytheon 
+Corporation, USA). ISBN 9 780201 -758214  
+ 
+Other materials (including Youtube/Ted talk videos etc.) w ill be shared in class.  
+ 
+ 
+VIII. PERFORMANCE  EVALUATION AND GRADING:  
+ 
+Student performance is evaluated based their regularity in posting to and participating in the classroom 
+Discussion questions around the weekly study topics. Performance is also evaluated through Team Project and 
+quizzes.  
+ 
+Please note that late assignment s will be accepted only with fully justified and documented reasons as per 
+university guidelines.  Also, please note, late assignments will be penalized in order to maintain equitability 
+with fellow students.  
+ 
+A late submission of Assignment/quiz will not be considered valid and all points forfeited if: (a) Student has 
+been reminded  once  and yet no action is taken by the student ; (b) Assignment solution has been discussed in the 
+class, (c) Correct answers to the assignment / quiz have been provided to the c lass.  
+ 
+The relative weights for each of these components in determining the final grade are as follows (please also 
+note the key evaluation rubric description,  next to the percentages):  
+  
+ 
+2023 Spring _ISM 6124_ Advanced Systems Analysis & Design _Unhelkar , Bhuvan .Docx  Page 4 of 10 
+ Discussion Questions  and online participation 30% (Critical Thinking, Communication) . There are 6 
+discussion questions – one in each study week of the course. These are essay style posts made by you as 
+you apply your critical thinking skills in discuss ing and reflect ing on th e question provided.  What is learnt 
+in the  modules AND what is explored/researched /experimented by you goes into these discussion posts.  
+The discussion question s are posted at the end of the relevant module and, in some cases, derived from the 
+end of the book chapter. You  read the question carefully, think, reflect, research and post an  answer. After 
+posting your answer , you will be able to see the posts made by your fellow students. Once you see the 
+posts from fellow students , select at least one post , read it carefully and offer a critique . This posting and 
+counter -posting of discussions  is an important learning mechanism. Through participating in these 
+discussion questions students are able to consolidate their knowledge , observe different  thinking a nd 
+interpret ation by fellow students and how they themselves may have a unique viewpoint on the topic being 
+discussed. Written c ommunications skills are further sharpened especially in an online format through this 
+exercise.  
+In order to encourage you to p ost early to enable a discussion to happen sooner, first couple of posts will 
+get additional, bonus points.  
+Students need to note that it is important to score at least 40% points in this assessment task in order to pass 
+this course. Not submitting a disc ussion post  is not acceptable in this course. Maintaining UTMOST 
+courtesy towards your fellow students and your professor as you enter these discussions is also a vital 
+requirement of this assignment. Please note that this is an individual assignment and e ach student is 
+graded based on her/his work.  
+ 
+ 
+Team Project  30% (Critical Thinking, Team Work, Communication)  – The team project forms an 
+absolutely critical part of evaluation  in this course. Students are put together in a team (typically 5 
+students) and provided with a case study problem statement. You apply the knowledge gained in the 
+modules to the case study and  put together the deliverables in the form of a Report  and a Model of the 
+System  at the end of the course. A template for the report, which is a combination of some description and 
+mostly the diagrams drawn, is provided. Your report showcases your understanding of how you have 
+worked through the designs in a ‘near rea l life’ case study (that is provided). Please further ensure that your 
+report is  professional  looking and free from basic English errors  (like spelling mistakes  and formatting ). 
+The report and the Model submi tted will be assessed TOGETHER. There is no pres entation of the work.  
+Since this is an online course, it’s vital that students start collaborating with each other online as soon as 
+they start the study. Reaching out to fellow students in the team and responding to their messages is integral 
+to a good, collaborative online work environment. This online collaboration is a mandatory requirement of 
+this course as it will require students to not only use their critical thinking skills but also learn, develop and 
+apply their ability to communicate online and work in an online team environment.   
+Students need to note that it is important to score at least 40% points in this Team Project assignment in 
+order to pass this course. Not submitting this assignment is not acceptable in this course. Please note 
+further that this is a TEAM assignment and single, common points are awarded to the ENTIRE TEAM.  
+ 
+2 Quizzes  (Mid -term & Final) 30% (Critical Thinking)  – These two quizzes (Mid -term 15% and End -term, 
+15%) are primarily multiple -choice online qui zzes which are based on the material covered in the Modules. 
+Students apply critical thinking skills to the questions  resulting in validation and consolidation of their 
+knowledge gained. The Mid -term and End -term quizzes are exclusive to each other – which  means the 
+modules covered by the Mid -term quiz are not again required to be covered in the End -term or Final quiz. 
+Quizzes are drawn from a pool of questions – therefore questions may change for each student in each 
+attempt of the quiz.  Students need to n ote that it is important to score at least 40% points in this assignment 
+in order to pass this course. Not appearing in the quizzes  is not acceptable in this course. Please note that 
+this is an individual assignment and each student is graded based on her/ his work.  
+ 
+Attitude, Professional Behavior 10% (Team Work, Communication) – The points awarded in this 
+assessment task are dedicated to your attitude and professional behavior during the course. Working in the 
+Team without friction, submitting all assessment tasks in time, ensuring total respect and courtesy towards 
+fellow students and professor will all form the criteria for this assessment.  
+ 
+Total  100%   
+ 
+2023 Spring _ISM 6124_ Advanced Systems Analysis & Design _Unhelkar , Bhuvan .Docx  Page 5 of 10 
+  
+A grade will be determined based on the total of possible points earned, as follows:  
+ 
+A 90-100; B 80 -89; C 70 -79; D 60 -69; F 0 -59.  
+ 
+Further granularity of the grades with + and – will be part of the final grade.  
+ 
+ 
+Important Note: This course requires you to attempt ALL assessments listed above (Discussion questions, 
+Team Project and Quizzes). Leaving any of these assessment items un -attempted will mean an “I” for 
+Incomplete grade.  For example, sometimes, a student has excellent points in some assessment tasks and 
+that he/she will proceed with  an assumption that a  “0” point score for a quiz or team project  is okay 
+because overall points are good . This is not an acceptable situation in this course. All assessment items 
+MUST be attempted in all honesty by the students  with a minimum of 40% points .  
+Important Note#2: Late submissions WILL incur a penalty.  
+ 
+IX. Course Schedule  
+ 
+ 
+* Note: The Schedule is subject to small changes as we progress through the semester.  
+(Please  see the  DATES and Modules corresponding to the Weekly Activities  on CANVAS – under Schedule ) 
+ 
+ 
+ 
+X. Standard University Policies  
+ 
+Policies about disability access, religious observances, academic grievances, academic 
+integrity and misconduct, academic continuity, food insecurity, and sexual harassment are 
+governed by a central set of policies that apply to all classes at USF. These m ay be 
+accessed at: https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx   
+ 
+XI. Covid -19 Procedures  
+ 
+All students must comply with university policies and posted signs regarding COVID -19 
+mitigation measures, including wearing face coverings and maintaining social distancing  
+during in -person classes . Failure to do so may result in dismissal from class, referral to the 
+Office  of Student Conduct an d Ethical Development , and possible removal from campus.  
+ 
+ 
+Additional details are available on the University ’s Core Syllabus Policy Statements page : 
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx  
+ 
+The health and safety of students, faculty, staff and visitors on our campuses is our top 
+prior ity. In response to the current COVID -19 pandemic, the USF community will be 
+working together to support compliance with recommended health and safety standards 
+to optimize the learning experience while minimizing health risks.  The Conduct 
+Expectations for all members of the community may be accessed at  Conduct  Expected  to 
+Support  USF Health  and Safety  Standards  with details provided below:   
+ 
+2023 Spring _ISM 6124_ Advanced Systems Analysis & Design _Unhelkar , Bhuvan .Docx  Page 6 of 10 
+ Students and faculty will be guided by established USF processes to ensure the safest 
+possible non -disruptive environment including the:  
+(1) Academic  Disruption  Regulation  which provides for an immediate removal or 
+restriction from a classroom setting with academic sanctions and/or  
+(2) Student  Conduct  Regulation  to addr ess conduct that is inconsistent with the 
+expectations as outlined below:  
+1. Complete  daily  screening  as requested.  Anyone experiencing one or more COVID -19 
+symptoms should not be on campus or, if a resident, should not be outside their 
+residence hall room an d should contact a medical provider immediately and follow 
+their guidance. Please inform your instructor prior to the beginning class if your 
+screening indicates the need for further evaluation and you will not be in class.  
+2. Wear  face  coverings.  All members  of the USF community are required to wear face 
+coverings while in classrooms or any other shared space, including specified public or 
+common -use areas where social distancing guidelines cannot be followed. See this 
+link on  How  To Make  A Face  Mask . If you have to use a disposable face mask, please 
+discard it in a trash receptacle immediately after use.  
+3. Maintain  social  distancing.  All students, faculty, staff and guests are required to 
+maintain a safe distance from one another. Social distancing is maintained in all 
+indoor and outdoor spaces which are owned or controlled by USF.  Stay at least 6 feet 
+(about 2 arms’ length) from other people, do not gather in groups, stay out of 
+crowded places and avoid mass gatherings. See the CDC for information on  Social  
+Distancing . Please sit in only designated areas in class and do not move chairs or 
+desks in classrooms or common spaces.  
+4. Practice  good  hand  hygiene.  Individuals should wash their hands with soap and water 
+for at least 20 seconds as often as possible or use personal ha nd sanitizers containing 
+at least 60% alcohol. Hand sanitizer stations are available throughout the campus. If 
+you see one, use it! See the CDC recommendations on  Hand  Hygiene . 
+5. Disinfect  your  classroom  space.  Students and faculty are responsible for disinfecting 
+areas within their workspaces by cleaning these at the beginning and end of each 
+class. This includes desk tops, seats, and equipment used during class. Disinfecta nt 
+supplies will be provided. If paper towels are used to disinfect, they must be 
+discarded in a trash receptable immediately after use.  
+   
+ 
+2023 Spring _ISM 6124_ Advanced Systems Analysis & Design _Unhelkar , Bhuvan .Docx  Page 7 of 10 
+  
+GRADING, EVALUATION AND ATTENDANCE POLICIES :  
+ 
+A. Per USF policy, you receive a graded assignment or examination prior to the semester’s drop/withdraw 
+date. 
+B. Specifically state the value of and the manner in which each assignment in the syllabus will be evaluated or 
+graded. Periodic reports on project progress are a contributing factor to the final grade.  
+C. The course grade includes an assessment on how well you have demonstrated the five learning outcomes 
+listed above. We will use the straight A,B,C,D and F system, point system.  
+D. This course does not require any class attendance. However, periodic updates on project progress, issues 
+encountered, hurdles, etc. will be communicated – and, in rare cases, a face -to-face meeting organized 
+by the faculty in charge.  
+E. The notes, videos, quizzes etc. provided for your study in this class is intellectual property o f the 
+faculty. Students are NOT permitted to post the study material and quizzes anywhere online on the 
+internet.   
+ 
+USF System Policies  
+ 
+Policies are available in the USF Catalog  and at regulationspolicies.usf.edu .  
+ 
+ 
+A. Academic Dishonesty : The University considers any form of plagiarism or cheating on exams, 
+projects, or papers to be unacceptable behavio r. Please review  the USF System Regulation USF3.027 
+Academic Integrity of Students  and the USF System Regulation USF6.0021 Student Code of Conduct . 
+ 
+B. Academic Disruption : The University does not tolerate behavior that disrupts the learning process.  
+Pleas e review USF System Regulation USF3.025 Disruption of Academic Policy .  
+ 
+C. Contingency Plans : In the event of an emergency, it may be necessary for USF (SM)  to sus pend 
+normal operations.  During this time, USF (SM)  may opt to continue delivery of instruction through 
+methods that include but are not limited to: Canvas, online conferencing/collaboration tools , email 
+messaging , and/or an alternate schedule. It  is the re sponsibility of the student to monitor Canvas for 
+each of their class es for course specific communication, as well as  the USF (SM)  website, their student 
+email  account , and MoBull  messages for important general in formation. The USF hotline at 1 (800) 
+992-4231 is updated with pre -recorded information during an emergency.  See the Campus Police 
+Website  for further information.  
+ 
+D. Accessibility  Accommodation : Students ar e responsible for registering with the Office of Students 
+Accessibility Services (SDS) in order to receive academic accommodations. Reasonable notice must 
+be given to the SDS office (typically 5 working days) for accommodations to be arranged. It is the 
+responsibility of the student to provide each instructor with a copy of the official Memo of 
+Accommodation.  Contact Informati on: Students Accessibility Services  Coordinator, 941 -359-4714, 
+disabilityservices@sar.usf.edu , http:// USF (SM) .edu/disability -services/   
+   
+E. Fire Alarm Instructions : At the beginning of each semester please note  the emergency exit maps 
+posted in each classroom.  These signs are marked with the primary evacuation route (red) and 
+secondary evacuation route (orange) in case the building needs to be evacuated. See Emergency 
+Evacuation Procedures . 
+ 
+F. Religious Observances : USF (SM)  recognizes the right of students and faculty to observe major 
+religious holidays.  Students who anticipate the necessity of bein g absent from class for a major 
+religious observance must provide notice of the date(s) to the instructor, in writing, by the second week 
+of classes.  Instructors canceling class for a religious observance should have this stated in the syllabus 
+with an app ropriate alternative assignment.  
+  
+ 
+2023 Spring _ISM 6124_ Advanced Systems Analysis & Design _Unhelkar , Bhuvan .Docx  Page 8 of 10 
+ G. Protection  of Students  Against Discrimination  and Harassment: 
+1. Sexual Misconduct/S exual Harassment Reporting: USF (SM)  is committed to providing 
+an environment free from sex discrimination, including sexual harassment and sexual violence 
+(USF System Policy 0-004). 
+2. Other  Types of Discrimination and Harassment: USF (SM)  also is committed to 
+providing an environment free from discrimination and harassment based on race, 
+color, marital status, sex, religion, national origin, disability, age, genetic information, 
+sexual orientation, gender identity and expression, or veteran status (USF System Policy 
+0-007). 
+ 
+ 
+H. Web Portal Information:  Every newly enrolled USF student receives an official USF e -mail account.  
+Students receive official USF correspondence and Canvas course information via that address.  The 
+web portal is accessed at http://my.usf.edu.  
+ 
+GENERAL INSTRUCTION FOR STUDENTS : 
+ 
+A. Academic Support Services:  
+The Information Commons  provides students with individual and group study spaces, computers, 
+printers, and various media equipment for temporary use.  The Information Commons is staffed by 
+librarian s, learning sup port faculty, tutors, and technology and e -learning specialists. Students 
+challenged by the rigors of academic writing, mathematics, or other course content are urged to contact 
+their professors early in the semester to chart out a plan for academic succes s, and/or regularly use the 
+tutoring services provided by Learning Support Services  (http://www. USF 
+(SM) .edu/academics/academic -resources/information -common s/tutoring.aspx ) which are provided at 
+no cost to students.   
+ 
+B. Career Success Center:  
+Students can explore careers through activities such as job shadowing, mentoring, and internships.  
+Whether students will be pursuing graduate school or seeking employment, Career Services can help 
+develop a plan to reach their next destination.  Students can prepare professional documents, practice 
+for the interview and attend employer or graduate school information sessions.  Access these resources 
+or schedule an appointment with career advisors at www.USF.edu/career -services . 
+ 
+ 
+End of Semester Student Evaluations:  
+All classes at USF make use of an online system for students to provide feedback to 
+the University regarding the course. These surveys will be made available at the end of 
+the semester, and the University will notify you by email when the response window 
+opens. Your participation is highly encouraged and valued .  
+ 
+Turnitin.com:   
+In this course,  turnitin.com  MAY be utilized . Turnitin  is an automated system which 
+instructors may  use to quickly and easily compare each student's assignment with 
+billions of web sites, as well as an enormous database of student papers that grows 
+with each submission. Accordingly, you will be expected to submit all assignments in 
+electronic format. Af ter the assignment is processed, as instructor I receive a report 
+from turnitin.com that states if and how another author’s work was used in the 
+assignment. For a more detailed look at this process visit http://www.t urnitin.com . 
+Assessments are due at turnitin.com the same day as in class.  
+  
+ 
+2023 Spring _ISM 6124_ Advanced Systems Analysis & Design _Unhelkar , Bhuvan .Docx  Page 9 of 10 
+  
+XII. Learning Support : Sarasota -Manatee Campus  
+ 
+ 
+Counseling and Wellness Center  
+The Counseling and Wellness Center is a confidential resource where you can talk 
+about incidents of  discrimination and harassment, including sexual harassment, 
+gender -based crimes, sexual assault, stalking, and  domestic/relationship violence. Call 
+941-487-4254  
+ 
+The Counseling and Wellness Center is a confidential resource where you can talk about incidents of 
+discrimination and harassment, including sexual harassment, gender-based crimes, sexual assault, 
+stalking, and domestic/relati onship violence. This confidential resource can help you without having to 
+report your situation to either the Office of Student Rights and Responsibilities (OSRR) or the Office of 
+Diversity, Inclusion, and Equal Opportunity (DIEO),  unless you request that they make a report. 
+ 
+Please  be aware that in compliance with Title IX and under the USF System Policy, educators  must 
+report incidents of discrimination and harassment, including sexual harassment, gender-based crimes, 
+sexual assault, stalking, and domestic/rela tionship violence. If a student d iscloses any of these situations 
+in class, in papers, or to a faculty member personally , he or she is  required to report it to OSSR  or DIEO  
+for investigation. Students who are victims or who have knowledge of such discrimination or harassment 
+are encouraged to report it to either OSSR or D I E O . The Deputy Coordinator for USF (SM)  is 
+Allison Dinsmore, Coordinator of Students Accessibility Services & Student Advocacy, 941 -359-4714 or 
+adinsmore1@sar.usf.edu . 
+ 
+Campus Resources: 
+Counseling Center and Wellness Center 941-487-4254  
+Victim Advocate (24/7) 941-504-8599  
+ 
+List of off-campus resources: 
+HOPE Family Services: 941-755-6805  
+Safe Place & Rape Crisis Center (SPARCC) – Sarasota:  941-365-1976 
+Centerstone:  941-782-4800; 24-hr Hotline 941-708-6059  
+ 
+Victim Advocate  
+A Victim Advocate is available 24/7 by calling (941) 504 -8599. For assistance leave a 
+message with your phone number and your call will be returned as soon as possible. 
+The Victim Advocate is available to assist victims of crime, sexual assault, and partner 
+violence.  
+ 
+ 
+ 
+XIII. Important Dates to Remember  
+ 
+All the dates related to the course, including and especially the assignments are posted on 
+Canvas. Please to note that the schedule appearing in this document and the dates place d 
+on Canvas are tentative . While every attempt is made to hold on to the initial dates 
+posted, they CAN be changed at the discretion of the professor.  In terms of the overall  
+ 
+2023 Spring _ISM 6124_ Advanced Systems Analysis & Design _Unhelkar , Bhuvan .Docx  Page 10 of 10 
+ University dates, please b e sure to get the newest dates from the Registrar: 
+https://www.usf.edu/registrar/calendars/   
+ 
+ 
+End of Syllabus  
+ 

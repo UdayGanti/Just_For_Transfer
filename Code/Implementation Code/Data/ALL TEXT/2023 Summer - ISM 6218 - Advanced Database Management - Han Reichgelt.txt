@@ -1,0 +1,262 @@
+5/14/23, 8:16 AM Syllabus for ISM6218.360U23.50246 Advanced Database Management
+https://usﬂearn.instructure.com/courses/1806132/assignments/syllabus 1/8Course Syllabus
+Downloadable version: 
+ 
+Advanced
+Database
+Management
+ISM 6218
+Summer 2023
+ 
+Instructor :Han Reichgelt, PhD
+OfficeLPH 430 St Petersburg
+CIS 2071 Tampa
+Office phone +1 727-873-4786
+Cell phone +1 678-314-4432
+Email reichgelt@usf.edu
+Classroom N/A Online
+Time: 10:00-1:00 Selected Saturdays and Sundays (see provisional schedule)
+Office hours1:00-2:00 on Lecture Days
+10:00-1:00 on non Lecture Days, or by appointment
+ 
+Course Description:
+As organizations gather and access more and more data, the issue of knowledge management in general
+and business intelligence and data analytics in particular takes on an increasing importance for
+organizational success.  The importance of data for organizational success obviously raises the question
+how to manage the data.  
+This course examines a myriad of questions related to this, including
+How do you decide which data to store in the first place?
+What is the best way to store the data?
+How can you retrieve data from the data store?
+How do you secure data?5/14/23, 8:16 AM Syllabus for ISM6218.360U23.50246 Advanced Database Management
+https://usﬂearn.instructure.com/courses/1806132/assignments/syllabus 2/8Course Objectives:
+At the conclusion of this course, students are expected to be able to:
+1. Describe the widely used relational database model.
+2. Write queries using SQL.
+3. Design and document database systems using entity-relationship diagram (ERD) tools.
+4. Implement database systems using SQL  data definition statements and integrity constraints.
+5. Apply various techniques such as index structures and optimization modes to improve query
+performance.
+6. Contrast a variety of alternative (NoSQL) database models with the relational model with regards to
+workload fit.
+7. Create and query a NoSQL  database
+Course Material
+Required:
+NONE
+We will of course rely heavily on Canvas.  The Canvas privacy policy is
+at https://www .canvaslms.com/policies/privacy  (https://www.canvaslms.com/policies/privacy) .
+NOTE: The course is designed for a Windows platform.  If you are a Mac user , let me know as soon as
+possible because we have set up an alternative in the form of a V irtual Desktop.  It will take a few days for
+you to get access to the VM.
+Grading:
+You will be assessed through a number of group and individual assignments, as well as a reflective essay
+on what you learned in the course and how you could use the competencies acquired in the course in your
+professional career .
+In general, the individual assignments will be relatively structured and will typically have a single right
+answer .  The group assignments, on the other hand, will be less structured and will require some
+discussion among the group members.  Also, there will be in general be more than one right answer .
+ Groups will consist of 4 to 6 group members, and I will ask you to assess individually assess the
+participation of the group members in each project.  Your individual grade will then be determined based on
+the grade of the group assignment and the contribution you made to the group project.
+The inclusion for a reflective essay may need some justification. Research (see e.g.
+http://www .cmu.edu/teaching/principles/learning.html
+(http://www.cmu.edu/teaching/principles/learning.html) ) has shown that learning improves considerably ,
+especially for adult students, if students reflect on their learning and how they could use the competencies
+and knowledge that they acquired in a course through their own careers. There will be more details on what
+to include in the essay later on in the course.5/14/23, 8:16 AM Syllabus for ISM6218.360U23.50246 Advanced Database Management
+https://usﬂearn.instructure.com/courses/1806132/assignments/syllabus 3/8Your grade will be determined as follows:
+Assessments total
+Individual Assignments 280
+Group Assignments 300
+Reflective essay 50
+Total 630
+Your raw numerical grade will be converted to a letter grade according to the following table:
+A+>= 96.5% <= 100%
+A >= 93% < 96.5%
+A- >= 90% < 93%
+B+>= 86.5% < 90%
+B >= 83% < 86.5%
+B- >= 80% < 83%
+C+>= 76.5% < 80%
+C >= 73% < 76.5%
+C- >= 70% < 73%
+D+>= 66.5% < 70%
+D >= 63% < 66.5%
+D- >= 60% < 63%
+F < 60%
+(https://usflearn.instructure.com/courses/1585264/files/117703528/download?wrap=1)
+(https://usflearn.instructure.com/courses/1585264/files/117703528/download?wrap=1)
+ 
+Provisional Schedule
+Date Topics Assessments Deadlines
+Individual Group
+May 13Course Introduction
+Database Design
+Entity Relationship DiagramsERD Exercise in
+draw .io May 18
+ERD Exercise in
+draw .ioMay 19
+May 14 Mapping ERD to Logical
+Designs, NormalizationScreenshots May 195/14/23, 8:16 AM Syllabus for ISM6218.360U23.50246 Advanced Database Management
+https://usﬂearn.instructure.com/courses/1806132/assignments/syllabus 4/8SQL Server 2022 Developer Logical and Physical
+Designs for Individual
+ERDMay 25
+Logical and Physical
+Designs for Group
+ERDMay 26
+May 20 SQL 1Details in Module May 29
+Details in Module May 30
+May 21 SQL 2Details in Module  Jun 1
+Details in Module Jun 9
+May 27 No Scheduled Class
+May 28 No Scheduled Class
+Jun 3Database Administration
+Improving Database
+PerformanceDetails in Module  Jun 9
+None  
+Jun 4No-SQL  Databases
+Mongo DBReflection Paper Jun 9
+Jun 10 No Scheduled Class
+Jun 1 1 No Scheduled Class
+ 
+Course Policies
+Contacting the Instructor:
+The easiest way to contact me is through CANV AS. I typically log in at least once a day , and often more
+frequently . You can also reach me by email as reichgelt@usf.edu or on my mobile +1 678-314-4432. I will
+normally answer you within 24 hours and often more quickly , unless I have indicated through a course
+announcement that I may not be able to. 5/14/23, 8:16 AM Syllabus for ISM6218.360U23.50246 Advanced Database Management
+https://usﬂearn.instructure.com/courses/1806132/assignments/syllabus 5/8Communications from the Instructor:
+I will in general communicate with you through course emails and course announcements, and it is
+therefore crucial that you log in at least twice a week to make sure that there are no new messages from
+me.  I will also communicate with you by leaving comments on the various assignments that you complete.
+ It is important that you read these even if you earned the maximum grade on the assignment because I
+often make some comments on how you could further improve the assignment.
+University Policies:
+There are a number of university policies that apply to all courses, including this one.  Please refer to
+https://www .usf.edu/provost/faculty/core-syllabus-policy-statements.aspx
+(https://www.usf.edu/provost/faculty/core-syllabus-policy-statements.aspx)
+for those policies.
+Honor System :
+Under the USF Honor System, each student is expected to observe complete honesty in all academic
+matters.  V iolation of the Honor System will be referred to the Honor Council.  Note: The following are
+violations of the Honor Code:  Copying another student’ s homework, signing another student’ s name on the
+attendance roster , copying another group’ s disk or written work, using another student’ s computer disk to
+print out your assignment, copying another student’ s file onto your disk, and misrepresenting a reason for a
+missed exam.  Punishment for academic dishonesty may result in an automatic “F” or “FF” in the course or
+action that may result in suspension or expulsion. See the USF Policy on Academic Dishonesty &
+Disruption of the Academic Process at https://usf.app.box.com/v/usfregulation3027
+(https://usf.app.box.com/v/usfregulation3027)  
+Students with Accessibility Issues :
+Please notify your instructor by the second class meeting if you have a learning disability or require special
+assistance with this course. 
+We have made every ef fort to make the course material as accessible as possible.  However , we rely
+heavily Canvas in this course.  Consult https://community .canvaslms.com/docs/DOC-2061
+(https://community.canvaslms.com/docs/DOC-2061)  for the accessibility practices policies for Canvas.  If you
+run into accessibility problems with either , please contact me.
+S/U Grades :
+This course cannot be taken on an S/U basis.
+Title IX and Responsible Employees:
+All USF faculty (adjunct, TA, etc) are designated Responsible Employees. If you have experienced sexual
+harassment, sexual violence, relationship violence or stalking, Responsible Employees are here to listen
+and connect you to resources. When a disclosure is made to a Responsible Employee, they will notify the
+Title IX Of fice on your behalf and that of fice will send you an email with your rights, policies, and resources
+(if it is safe to do so). You are not obligated to respond to this email and The Title IX Of fice does not share5/14/23, 8:16 AM Syllabus for ISM6218.360U23.50246 Advanced Database Management
+https://usﬂearn.instructure.com/courses/1806132/assignments/syllabus 6/8information about the report unless requested by the discloser or as required to address imminent risk to
+members of our community .
+Confidential Resources  (listed below) are available and will not be required to notify the Title IX of fice of
+disclosures of sexual harassment. If you are not sure what to do, you are encouraged to contact V ictim
+Advocacy to confidentially explore your options including: injunctions & protective orders; changes in
+accommodations, living arrangements, class schedules, & transportation; assistance with academic Issues-
+missed classes, late assignments, etc. The Title IX Of fice can also provide academic, on-campus housing
+and USF workplace accommodations, as well as other supportive measures.
+Confidential Resources Non-Confidential Resources
+Victim Advocacy in the W ellness Center
+SLC 2200
+727-873-4432
+https://www .stpetersburg.usf.edu/student-
+life/wellness/victim-advocacy-services/index.aspx
+(https://www.stpetersburg.usf.edu/student-life/wellness/victim-
+advocacy-services/index.aspx)  Title IX
+813-974-4373
+https://www .usf.edu/title-ix/
+(https://www.usf.edu/title-ix/)
+Counseling at the W ellness Center
+SLC 2200
+727-873-4422
+https://www .stpetersburg.usf.edu/student-
+life/wellness/psychological-services/index.aspx
+(https://www.stpetersburg.usf.edu/student-
+life/wellness/psychological-services/index.aspx)  Student Outreach & Support
+PMB 101
+727-873-4278
+https://www .stpetersburg.usf.edu/stu
+life/student-outreach-program/
+(https://www.stpetersburg.usf.edu/studen
+life/student-outreach-program/)  
+Ombudsman
+Free, confidential conflict resolution
+PNM 105B
+727-873-4184
+https://wwwtest.stpetersburg.usf.edu/resources/ombuds.aspx
+(https://wwwtest.stpetersburg.usf.edu/resources/ombuds.aspx)  Student Conduct & Ethical Development
+PNM 101B
+727-873-4278
+Usfsp-conduct@usf.edu  (mailto:Usfsp-
+conduct@usf.edu)
+https://www .usf.edu/student-
+affairs/student-conduct-ethical-
+development/about-us/contacts.aspx
+(https://www.usf.edu/student-affairs/stude
+conduct-ethical-development/about-
+us/contacts.aspx)  
+Student Health Services at the W ellness Center
+SLC 2200
+727-873-4422
+https://www .stpetersburg.usf.edu/student-Dean of Students
+PNM 101
+727-873-4278
+https://www .stpetersburg.usf.edu/stu
+life/dean-of-students/5/14/23, 8:16 AM Syllabus for ISM6218.360U23.50246 Advanced Database Management
+https://usﬂearn.instructure.com/courses/1806132/assignments/syllabus 7/8Course Summary:
+Date Details Due
+Thu May 18, 2023 Individual ERD
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 0 6 1 3 2 / a s s i g n m e n t s / 1 3 9 9 1 0 5 1 )due by 11:59pm
+Fri May 19, 2023 Group ERD
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 0 6 1 3 2 / a s s i g n m e n t s / 1 3 9 9 1 0 3 7 )due by 11:59pm
+ Group ERD Performance
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 0 6 1 3 2 / a s s i g n m e n t s / 1 3 9 9 1 0 3 9 )due by 11:59pm
+Thu May 25, 2023 Individual Logical and Physical
+Design Assignment
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 0 6 1 3 2 / a s s i g n m e n t s / 1 3 9 9 1 0 5 3 )due by 11:59pm
+ Screenshots
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 0 6 1 3 2 / a s s i g n m e n t s / 1 3 9 9 1 0 6 1 )due by 11:59pm
+Fri May 26, 2023 Group Logical Design
+Performance Assessment
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 0 6 1 3 2 / a s s i g n m e n t s / 1 3 9 9 1 0 4 1 )due by 11:59pm
+ Logical and Physical Design
+Group Assignment.
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 0 6 1 3 2 / a s s i g n m e n t s / 1 3 9 9 1 0 5 7 )due by 11:59pm
+Mon May 29, 2023 Individual Assignment
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 0 6 1 3 2 / a s s i g n m e n t s / 1 3 9 9 1 0 4 5 )due by 11:59pm
+Tue May 30, 2023 Group Database Performance
+Assessment
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 0 6 1 3 2 / a s s i g n m e n t s / 1 3 9 9 1 0 3 3 )due by 11:59pm
+ Group DB Assignment
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 0 6 1 3 2 / a s s i g n m e n t s / 1 3 9 9 1 0 3 5 )due by 11:59pmlife/wellness/index.aspx
+(https://www.stpetersburg.usf.edu/student-life/wellness/index.aspx)  (https://www.stpetersburg.usf.edu/studen
+life/dean-of-students/)  
+Additional policies are available from the USF System Provost W ebsite (  https://www .usf.edu/provost/)
+(https://www.usf.edu/provost/)5/14/23, 8:16 AM Syllabus for ISM6218.360U23.50246 Advanced Database Management
+https://usﬂearn.instructure.com/courses/1806132/assignments/syllabus 8/8Date Details Due
+Thu Jun 1, 2023 Individual SQL  SELECT
+Assignment
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 0 6 1 3 2 / a s s i g n m e n t s / 1 3 9 9 1 0 5 5 )due by 11:59pm
+Fri Jun 9, 2023 Group Business Report
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 0 6 1 3 2 / a s s i g n m e n t s / 1 3 9 9 1 0 3 1 )due by 11:59pm
+ Group Report Performance
+Assessment
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 0 6 1 3 2 / a s s i g n m e n t s / 1 3 9 9 1 0 4 3 )due by 11:59pm
+ Individual Assignment Module 5
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 0 6 1 3 2 / a s s i g n m e n t s / 1 3 9 9 1 0 4 9 )due by 11:59pm
+ Reflection Paper
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 0 6 1 3 2 / a s s i g n m e n t s / 1 3 9 9 1 0 5 9 )due by 11:59pm

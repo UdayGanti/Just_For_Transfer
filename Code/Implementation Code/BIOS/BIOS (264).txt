@@ -1,0 +1,21 @@
+Rouzbeh BehniaAssistant Professorbehnia@usf.eduCampus: Sarasota-ManateeRoom: C266Phone: 941-359-4605VitaPersonal WebsiteRouzbeh is an assistant professor in the School of Information Systems and Management
+               (SISM) at USF.His research spans the areas of cybersecurity, blockchain, and applied cryptography.
+               He has worked on developing highly efficient authentication schemes for low-end embedded
+               IoT devices. His research has also focused on solutions to address the data privacy
+               versus utilization dilemma. In the realm of post-quantum security, he has developed
+               several efficient cryptographic schemes with post-quantum security. His work has resulted
+               in a number of patents and has been published in top CS venues such as ACM CCS, IEEE
+               TDSC, ACM AsiaCCS, ACSAC, etc.Rouzbeh has earned a PhD in Computer Science from the University of South Florida
+               advised by Attila Yavuz.TeachingISM 4323 Information Security and IT Risk ManagementISM4263/6930 Cloud Solution ArchitecturesISM 7911 MIS Research Seminar IIResearchBehnia, R., & Yavuz, A. A. (2021). Towards Practical Post-quantum Signatures for Resource-Limited
+                  Internet of Things. In Annual Computer Security Applications Conference (ACSAC) (pp.
+                  119-130). ACM.Behnia, R., Postlethwaite, E. W., Ozmen, M. O., & Yavuz, A. A. (2021). Lattice-Based
+                  Proof-of-Work for Post-Quantum Blockchains. In Data Privacy Management, Cryptocurrencies
+                  and Blockchain Technology (CBT2021) (pp. 310-318). Springer, Cham.Behnia, R., Ozmen, M. O., & Yavuz, A. A. (2018). Lattice-based public key searchable
+                  encryption from experimental perspectives. IEEE Transactions on Dependable and Secure
+                  Computing (TDSC), 17(6), 1269-1282. IEEE.Behnia, R., Ozmen, M. O., Yavuz, A. A., & Rosulek, M. (2018). Tachyon: Fast signatures
+                  from compact knapsack. In Proceedings of the 2018 ACM SIGSAC Conference on Computer
+                  and Communications Security (ACM CCS) (pp. 1855-1867). ACM.ServiceReviewer - IEEE Transactions on Dependable and Secure Computing (IEEE TDSC)Reviewer - IEEE Transactions on Information Forensics and Security (IEEE TIFS)Reviewer - IEEE Internet of Things JournalReviewer - ACM Transactions on Internet Technology (TOIT)Selected PatentsRouzbeh Behnia, Muslum Ozmen and Attila A. Yavuz, Efficient Identity-based and Certificateless
+                  Cryptosystems, USF- 19A051, Serial No: 16/442,467, Patent No: 10,673,625, File Date:
+                  06/16/2019, Issue Date: 06/02/2020, Status: Issued.Attila A .Yavuz, MuslumO.Ozmen and Rouzbeh Behnia,"Energy-Aware Digitial Signatures",USF-
+                  19A001,Serial No: 16/273,828, Patent No: 10,547,455, File Date: 02/12/2019, Issue
+                  Date: 01/28/2020, Status: Issued.

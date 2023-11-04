@@ -1,0 +1,237 @@
+  
+ 
+ 
+ 
+ 
+ 
+Instructor:  Giti Javidi  
+Office Location:  C217  
+Office Hours:  By appointment  
+Phone Number:  941-359-4257  
+Email:  javidi@usf.edu  Semester:  Summer 202 3 
+Class Meeting Days:  Asynchronous  
+Class Meeting Time:  Asynchronous  
+Class Meeting Location:  Canvas  
+ 
+ 
+ 
+ 
+COURSE OBJECTIVE :  
+The exchange of information between computer applications is called Business Data Communications (Data 
+Comm for short). Data comm technologies provide  the underlying  plumbing  that enable  computer  applications  
+to access  resources  on remote  computers.  The primary  goal of this course  is to answer  the question  “How  does 
+the IT infrastructure  work?”.  A big  part of it is, “how  do computers  talk to  each other?  The course  is designed  
+for students  in all majors  who are interested  in computer  networking.  The course  will focus  on concepts  in 
+business  data communications  that are likely  to stand  the test of time.  Upon  completion  of the course,  students  
+will have  the foundation  to evaluate  and utilize  most  current  data communication  technologies.  
+ 
+REQUIRED TEXTBOOK:   
+ Business  Data  Communications  and IT Infrastructures  (3rd Edition),  Manish  Agrawal  and Clinton  
+Daniel,  eISBN:  978-1-943153 -78-7, Paperback  ISBN: 978-1-943153 -79-4, 
+https://www.prospectpressvt.com/textbooks/Agrawal -Data -Comm -3-0 
+ 
+COURSE POLICIES: Technology and Media  
+• Canvas: This course will be offered via USF's learn ing management system (LMS), Canvas. If you 
+need help  learning how to perform various tasks related to this course or other courses being offered in 
+Canvas, please view the following videos or consult the Canvas help guides. You may also contact 
+USF's IT d epartment at (813) 974 -1222 or help@usf.edu . The course will include recorded lectures, 
+reading assignments, tests (midterm and Final), quizzes, discussions and homework (posted on 
+CANVAS).  
+•    Recorded videos and instru ctor notes : Course participants are not are not permitted to sell notes or 
+video recording of class lectures.  
+•    Honorlock:  Online  exams  and quizzes  within  this course  will require  online  proctoring.  Therefore,  
+students  will be required  to have  a webcam  (USB  or internal)  with a microphone  when  taking  an exam  
+or quiz.  
+ 
+COURSE STRUCTURE:  
+• Please  know  about  instructor’s  Outlook  filter,  send emails  accordingly  for priority  attention.  
+• Student  name(s),  course  title and deliverable  identification  must  be clearly  stated  in all deliverables  and 
+any email  correspondence. This  is good  etiquette  a and saves  my time in looking  up relevant 
+information.  Violation  is penalized . 
+• Assignments  are based  on end of chapter  questions.  Submissions  must  be made  using  Canvas  by 11:55  
+ISM 4220  
+Business Data Communications  
+School of Information Systems and Management 
+Information Assurance and Cybersecurity 
+Management Program  
+  pm each Sunday  of the week.  There  is absolutely  no quality -of-service  assurance  I can provide  on the 
+grading  of assignments  delivered  through  other  channels  (email  etc.) 
+• Assignments  will be graded  in part on following  the guidelines  of professional  communications.  Sloppy  
+submissions  may be returned  WITHOUT  grading.  This is in  response  to the consistent  demands  of all  
+area employers.  
+• Assignments  are to be submitted  on Canvas  by the end of the day on the due date.  Late submissions  are 
+not accepted.  
+ 
+LATE WORK POLICY  
+The instructor  will accommodate  students  who have  to miss quizzes,  assignments  or tests due to medical  
+emergencies  in the immediate  family  or job-related  s situations. These are the only conditions under which 
+accommodation will be considered in real -time during the semester. Should such situations arise, the student  
+must  provide  necessary  documentation  before  the missed  deliverable  can be rescheduled.  Specifically,  Bulls  
+games  are no grounds  for make -ups. 
+ 
+Academic  accommodations  for disabilities  in consultation  with the Office  of Students  with Disabilities  
+Services  will be provided  following  university  procedures.  
+ 
+GRADING SCALE  
+USF policy requires that all students receive a graded assignment or examination prior to the semester’s 
+drop/withdraw date . Student performance for this course will be evaluated based on quizzes , exams , 
+assignments, quizzes , lab exercises, and discussion participation , as detailed below. Below is a summary for 
+the determination of the final grade and an explanation for each component:  
+ 
+Item  Weight  
+Assignments   20% 
+Final Paper  20% 
+Quizzes   20% 
+Midterm Exam  20% 
+Final Exam  20% 
+ 
+A+ = 9 8-100; A  = 92-97; A- = 90-91; B+ = 8 8-89; B  = 82-87; B- = 80-81;  
+C+ = 78-79; C = 7 2-77; C- = 70-71; D+ = 68 -69; D = 6 2- 67; D- = 60-61; F = 59 or below  
+   
+ 
+STUDENT EXPECTATIONS  
+• Attendance Policy : There is no live lecture attendance requirement. Everything will be placed on 
+Canvas.  
+• Course Hero/Chegg Policy:  The USF Policy on Academic Integrity  specifies that students may not use 
+websites that enable cheating, such as by uploading or downloading material for this purpose. Thi s does 
+apply specifically to Chegg.com and CourseHero.com – any use of these websites (including uploading 
+proprietary materials) constitutes a violation of the academic integrity policy.  
+• End of Semester Student Evaluations:  All classes at USF make use of  an online system for students 
+to provide feedback to the University regarding the course. These surveys will be made available at the 
+end of the semester, and the University will notify you by email when the response window opens. 
+Your participation is ex pected and valued.  
+• Turnitin.com:  In this course, turnitin.com will be utilized. Turnitin is an automated system which 
+instructors may use to quickly and easily compare each student's assignment with billions of web sites, 
+as well as an enormous database o f student papers that grows with each submission. Accordingly, you 
+will be expected to submit all assignments in both hard copy and electronic format. After the 
+assignment is processed, as instructor I receive a report from turnitin.com that states if and how another 
+author’s work was used in the assignment. For a more detailed look at this process visit 
+http://www.turnitin.com . Essays are due at turnitin.com the same day as in class.  
+• Syllabus Terms:  All students  must  review  the syllabus  and the requirements,  including  the online   terms  and video  testing  requirements,  to determine  if they wish  to remain  in the course.  Enrollment  in 
+the course  is an agreement  to abide  by and accept  all terms.  Any student  may elect  to drop or withdraw  
+from  this course  before  the end of the drop/add  period.   
+• Honorlock  for the Exams:  Online  exams  and quizzes  within  this course  will require  online  proctoring.  
+Therefore,  students  will be required  to have  a webcam  (USB  or internal)  with a microphone  when  
+taking  an exam  or quiz.  Students  understand  that this remote  recording  device  is purchased  and 
+controlled  by the student  and that recordings  from  any private  residence  must  be done  with the 
+permission  of any person  residing  in the residence.  To avoid  any concerns  in this regard,  students  
+should  select  private  spaces  for the testing.  Students  with concerns  may discuss  location  of an 
+appropriate  space  for the recordings  with their instructor  or advisor.  Students  must  ensure  that any 
+recordings  do not invade  any third -party  privacy  rights  and accept  all responsibility  and liability  for 
+violations  of any third -party  privacy  concerns.  Student s are strictly  responsible  for ensuring  that they 
+take all exams  using  a reliable  computer  and high-speed  internet  connection.  Setup  information  will be 
+provided  prior  to taking  the proctored  exam.  To use Honorlock,  students  are required  to download  and 
+install the Honorlock  Google  Chrome  extension . For additional  information  please  visit the USF  
+online  proctoring  student  FAQ  and Honorlock  student  resources .  
+ 
+STANDARD UNIVERSITY POLICIES  
+Policies about disability access, religious observ ances, academic grievances, academic integrity and 
+misconduct, academic continuity, food insecurity, and sexual harassment are governed by a central set of 
+policies that apply to all classes at USF. These may be accessed at: https://www.usf.edu/provost/faculty/core -
+syllabus -policy -statements.aspx   
+ 
+WEB PORTAL INFORMATION  
+Every newly enrolled USF student receives an official USF e -mail account.  Students receive official USF 
+correspondence and Canvas course information via that address. The web portal is accessed at http://my.usf.edu . 
+ 
+GENE RAL INSTRUCTION FOR STUDENTS  
+• Academic Support Services:  
+The Information Commons  provides students with individual and group study spaces, computers, 
+printers, and various media equipment for temporary use.  The Information Commons is staffed by 
+librarians, learning support faculty, tutors, and technology and e -learning specialists. S tudents 
+challenged by the rigors of academic writing, mathematics, or other course content are urged to 
+contact their professors early in the semester to chart out a plan for academic success, and/or 
+regularly use the tutoring services provided by Learning  Support Services 
+(http://www.usfsm.edu/academics/academic -resources/information -commons/tutoring.aspx ) which 
+are provided at no cost to students.  
+• Career S uccess Center:  
+Students can explore careers through activities such as job shadowing, mentoring, and internships.  
+Whether students will be pursuing graduate school or seeking employment, Career Services can 
+help develop a plan to reach their next destinat ion.  Students can prepare professional documents, 
+practice for the interview and attend employer or graduate school information sessions.   Access 
+these resources or schedule an appointment with career advisors at www.usfsm.edu/career -services . 
+ 
+LEARNING SUPPORT and CAMPUS OFFICES  
+ 
+Tampa 
+Campus  
+ Tutoring Hub: The Tutoring Hub offers free tutoring in several subjects  to USF 
+undergraduates. Appointments are recommended, but not required. For more information, 
+email asctampa@usf.edu   
+Writing Studio: The Writing Studio is a free resource for USF undergraduate and 
+graduate students. At the Writing Studio, a trained writing consultant will work 
+individually with you, at any point in the writing process from brainstorming t o editing. 
+Appointments are recommended, but not required. For more information or to make an 
+appointment, email writingstudio@usf.edu   
+Counseling Center: The Counseling Center promotes the wellbeing of the camp us  community by providing culturally sensitive counseling, consultation, prevention, and 
+training that enhances student academic and personal success. Contact information is 
+available online .  
+Center for Victim Advocacy: The Center for Victim Advocacy empowers survivors of 
+crime, violence, or abuse by promoting the restoration of decision making, by advocating 
+for their rights, and by offering support and resources. Contact information is available 
+online .  
+St. Petersburg 
+Campus  
+ Student Success Center : The Student Success Center provides free tutoring and writing 
+consultations. Contact information is available online .  
+Wellness Center : The Wellness Center provides counseling and medical services, as well 
+as prevention programs and victim advocacy. Contact informat ion is available online .  
+Sarasota -
+Manatee 
+Campus  
+ Tutoring and Writing Support: Learning Support Services provides free tutoring and writing 
+consultations for a variety of courses and subjects such as, Accounting, Biology, Chemistry, 
+Finance, Math & Statistics, Physics, and Spanish. Make an appointment online .  
+Counseling and Wellness Center: The Counseling and Wellness Center is a confidential 
+resource where you can talk about incidents of di scrimination and harassment, including 
+sexual harassment, gender -based crimes, sexual assault, stalking, and domestic/relationship 
+violence. Call 941 -487-4254  
+Victim Advocate: A Victim Advocate is available 24/7 by calling (941) 504 -8599. For 
+assistance le ave a message with your phone number and your call will be returned as soon 
+as possible. The Victim Advocate is available to assist victims of crime, sexual assault, and 
+partner violence.  
+ 
+COURSE FAQ  
+How to communicate with me? You can either (i ) send me an email directly or through Canvas, or (ii) call/text 
+me or (iii) set up an appointment to see me in my office. When emailing directly or through Canvas, please 
+write the appropriate subject and include your name at the bottom of the email. The emails should be composed 
+professionally and the language should be courteous and respectful.  
+  
+How NOT to communicate with me?  
+1. Please do not email me from a non -USF email account.  
+2. Please do not submit deliverables to me through email. All deliverables must be submitted through 
+Canvas.  
+3. Please do not reply to an email that I send to the entire class without changing the subject line, unless 
+your question is about that subject. If you are using the “Reply” button as a means to get my email 
+address in the “To” line, please change the subject line and also delete all previous text from that email, 
+if your email pertains to something else.  
+ 
+How will I communicate with you? I will send announcements through Canvas. The announcements should 
+arrive in your inbox. If you send me an email through Canvas, I will respond back through Canvas. If you send 
+me an email directly, I will respond back to your email address. I will make every attempt to reply to your 
+emails within 24 hours during weekdays. I cannot guar antee a response within 24 hours on weekends. 
+Occasionally emails do tend to go to my Spam Mail folder so if you have not received my response within 24 
+hours, please either resend your email or call my office phone number and leave a message in case I am not in 
+my office. I will provide feedback on your assignments through Canvas.  
+ 
+How to Succeed in this Class?    
+• Check Canvas and emails daily for announcements: I will periodically send emails and announcements. 
+I encourage you check them daily.  
+• Read the s yllabus:   It is a lot of trouble  to prepare so detailed a syllabus. You should assume I had a reason 
+for it. I want to make sure that you understand the course structure and expectations and have your 
+questions answered on the first week. This will help us  all have a more productive semester. Please 
+read every word  in this syllabus by end of the first week and ask me any questions.  
+• Complete the reading assignments:   You will get a lot more out of this class if you complete the assigned 
+readings. In my expe rience, students who don't complete the reading either never complete it or try to cram  it all in just before the exams. That doesn't work. Most of the time, unsatisfactory grades are due to 
+procrastination than any other cause. Please give yourself ample time each week to complete the assigned 
+readings for this class.  
+• Watch the recorded lectures/external videos:  Some modules will include recorded lectures and LinkedIn 
+Learn videos. The lectures that are prepared by me contain topics that I think are the mo st important in the 
+course. Please watch them.  
+• Do not procrastinate on completing assignments /labs :  You cannot pass the course without doing at least 
+most of the assignments. The homework assignments build upon one another. If you get behind, you will 
+find it very difficult to catch up.  
+• Complete the quizzes:  Completing the quizzes will prepare you for the exams. So, I encourage you to 
+complete them by the due dates.  
+• The bottom line “Do not procrastinate. ” 
+ 

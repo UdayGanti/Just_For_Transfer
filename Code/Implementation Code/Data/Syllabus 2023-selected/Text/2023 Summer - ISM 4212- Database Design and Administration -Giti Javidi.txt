@@ -1,0 +1,285 @@
+  
+ 
+ 
+ 
+ 
+ 
+Instructor:  Giti Javidi  
+Office Location:  C217  
+Office Hours:  By appointment  
+Phone Number:  941-359-4257  
+Email:  javidi@usf.edu  Semester:  Summer 202 3 
+Class Meeting Days:  Asynchronous  
+Class Meeting Time:  Asynchronous  
+Class Meeting Location:  Canvas  
+ 
+ 
+ 
+ 
+COURSE DECRIPTION :  
+From Course Catalog: “This course is an introduction to the concepts and principles of database management. It 
+is intended to provide potential designers, users, and managers of data -base systems with an understanding of 
+physical vs. logical representation s, data modeling, implementation, and data management. Database skills are 
+developed through both individual and team projects.”  
+ 
+“In this course, students will be introduced to the design, construction, and use of relational databases. The 
+content of the  course has been selected to provide students with the knowledge and analytical skills in this 
+subject that are needed to successfully enter professional management information systems careers.”  
+ 
+PREREQUISITE:  ISM 3113 Systems Analysis and Design (with a grade of “C” or better)  
+ 
+REQUIRED TEXTBOOK  
+• MindTap for Shellman/Afyouni/Pratt/Last's, A Guide to SQL, 1 term Printed, 10th Edition, Cengage, 
+ISBN:  9780357419748  (you will be provided an online access code to the e -book and the lab exrecises)  
+ 
+OPTIONAL READING  
+• Fundamentals of Database Management Systems, 2nd ed., by Mark L. Gillenson. W iley (2012).  
+• T-SQL, 3ed., Itzik Ben -Gan, Microsoft Press (2016). Beginning Microsoft SQL Server 2012 
+Programming, by Paul Atkinson and Robert Vieira. Wiley (2012).  
+• Database Systems Design, Implementation, and Management, 13th ed., by Coronel, Morris, Rob. 
+Cengage (2019). Database Concepts, 7th ed., Kroenke, Auer. Pearson (2015).  
+ 
+STUDENT LEARNING OUTCOMES  
+Upon completion of this course, students should be able to:  
+• recognize the role of data management in the modern business organization  
+• demonstrate modeling skills used to identify organizational data structures  
+• describe the fundamental principles of relational database technology  
+• employ Structured Query Language to manipulate data in relational databases  
+• apply database techno logy to typical Business Analytics needs of organizations  
+• identify the primary organizational responsibilities of database professionals  
+• summarize the major issues affecting database design and use in environments involving client/server 
+databases, distrib uted databases, and data warehouses  
+ISM 4212  
+Database Administration & Design  
+School of Information Systems and Management 
+Information Assurance and Cybersecurity 
+Management Program  
+   
+MINDTAP : Assignments, Quizzes, and Exercises  
+Our primary source in this course is MindTap (for the database design practice, quizzes, and assignments). 
+MindTap comes wi th a full access to the interactive ebook (readable online or off), study tools, and plenty of 
+opportunities to practice developing databases . Student assignments in MindTap will be graded manually by the 
+instructor and grades will be automatically recorde d on Canvas.  
+• You must complete the reading assignments, quizzes, and assignments in MindTap.   
+• You must complete practice exercises (not graded) and assignments (graded).  
+• You are also required to watch the “Visualize Videos” which are woven into the course  to help 
+understand core concepts with detailed animations and narrated audio.  
+• Each week, you must  review key concepts with interactive flashcards.  
+• There are ample opportunities for you to practice designing databases  and apply what you have learned 
+each week with various quizzes and coding activities.  
+ 
+COURSE POLICIES: Technology and Media  
+• Canvas: This course will be offered via USF's learning management system (LMS), Canvas. If 
+you need help  learning how to perform various tasks related to this course or other courses 
+being offered in Canvas, please view the following videos or consult the Canvas help guides. 
+You may also contact USF's IT department at (813) 974 -1222 or help@usf.edu . The course 
+will include recorded lectures, reading assignments, tests (midterm and Final), quizzes, 
+discussions and homework (posted on CANVAS).  
+•    Recorded videos and instructor notes : Course participants are not are not permi tted to sell 
+notes or video recording of class lectures.  
+•    Honorlock:  Online  exams  and quizzes  within  this course  will require  online  proctoring.  
+Therefore,  students  will be required  to have  a webcam  (USB  or internal)  with a microphone  
+when  taking  an exam  or quiz.  
+•    Windows Based Laptop:  You must have a Windows based laptop, otherwise, you will not be 
+able to complete all the required assignments for this course.  
+ 
+GRADING POLICY  
+ 
+WARNING: There is NO extra credit. There is NO rounding. What you get is what you get. You have all the 
+assignments before you. There is no a dditional work available to you if you fail to complete the actual assignments.  
+ 
+The instructor  will accommodate  students  who have  to miss quizzes,  assignments  or tests due to medical  
+emergencies  in the immediate  family  or job-related  s situations. These are the only conditions under which 
+accommodation will be considered in real -time during the semester. Should such situations arise, the student  
+must  provide  necessary  documentation  before  the missed  deliverable  can be rescheduled.  Specifically,  Bulls  
+games  are no grounds  for make -ups. 
+ 
+Academic  accommodations  for disabilities  in consultation  with the Office  of Students  with Disabilities  Services  
+will be provided  following  university  procedures.  
+ 
+Late  work  receives  a zero grade  until  submitted.  For each  day an assignment  is late, 1% will be deducted  
+from  the assignment  grade.  This,  however,  does  not apply  in the case of the final  project,  which  will be due 
+right  before  the final grades  are due, so there’s  not much  I can  do for you there.  
+ 
+GRADING SCALE  
+USF policy requires that all students receive a graded assignment or examination prior to the semester’s 
+drop/withdraw date (please refer to important dates on page 1 of this syllabus). Student performance for this 
+course will be evaluated based on quizzes , exams , assignments, quizzes , lab exercises, and discussion 
+participation , as detailed below. Below is a summary for the determination of the final grade and an explanation 
+for each component:  
+  Item  Weight  
+MindTap Database 
+Assignments /quizzes  20 
+Tablea u Assignments  5 
+Canvas Database Assignments  35 
+Canvas Quizzes  10 
+Exams  30 
+ 
+A+ = 9 8-100; A  = 92-97; A- = 90-91; B+ = 8 8-89; B  = 82-87; B- = 80-81;  
+C+ = 78-79; C = 7 2-77; C- = 70-71; D+ = 68 -69; D = 6 2- 67; D- = 60-61; F = 59 or below  
+   
+STUDENT EXPECTATIONS  
+• Attendance Policy : There is no live lecture attendance requirement. Everything will be placed on 
+Canvas.  
+• Course Hero/Chegg Policy:  The USF Policy on Academic Integrity  specifies that students may not use 
+websites that enable cheating, such as by uploading or downloading material for this purpose. Thi s does 
+apply specifically to Chegg.com and CourseHero.com – any use of these websites (including uploading 
+proprietary materials) constitutes a violation of the academic integrity policy.  
+• End of Semester Student Evaluations:  All classes at USF make use of  an online system for students 
+to provide feedback to the University regarding the course. These surveys will be made available at the 
+end of the semester, and the University will notify you by email when the response window opens. 
+Your participation is ex pected and valued.  
+• Turnitin.com:  In this course, turnitin.com will be utilized. Turnitin is an automated system which 
+instructors may use to quickly and easily compare each student's assignment with billions of web sites, 
+as well as an enormous database o f student papers that grows with each submission. Accordingly, you 
+will be expected to submit all assignments in both hard copy and electronic format. After the 
+assignment is processed, as instructor I receive a report from turnitin.com that states if and how another 
+author’s work was used in the assignment. For a more detailed look at this process visit 
+http://www.turnitin.com . Essays are due at turnitin.com the same day as in class.  
+• Syllabus Terms:  All students  must  review  the syllabus  and the requirements,  including  the online  
+terms  and video  testing  requirements,  to determine  if they wish  to remain  in the course.  Enrollment  in 
+the course  is an agreement  to abide  by and accept  all terms.  Any student  may elect  to drop or withdraw  
+from  this course  before  the end of the drop/add  period.   
+• Honorlock:  Online  exams  and quizzes  within  this course  will require  online  proctoring.  Therefore,  
+students  will be required  to have  a webcam  (USB  or internal)  with a microphone  when  taking  an exam  
+or quiz.  Students  understand  that this remote  recording  device  is purchased  and controlled  by the 
+student  and that recordings  from  any private  residence  must  be done  with the permission  of any person  
+residing  in the residence.  To avoid  any concerns  in this regard,  students  should  select  private  spaces  for 
+the testing.  Students  with concerns  may discuss  location  of an appropriate  space  for the recordings  with 
+their instructor  or advisor.  Students  must  ensure  that any recordings  do not invade  any third -party  
+privacy  rights  and accept  all responsibility  and liability  for violations  of any third -party  privacy  
+concerns.  Student s are strictly  responsible  for ensuring  that they take all exams  using  a reliable  
+computer  and high-speed  internet  connection.  Setup  information  will be provided  prior  to taking  the 
+proctored  exam.  To use Honorlock,  students  are required  to download  and install the Honorlock  
+Google  Chrome  extension . For additional  information  please  visit the USF  online  proctoring  student  
+FAQ  and Honorlock  student  resources .  
+ 
+TABLEAU REQUIREMENT  
+One of the strategic priorities at the Muma College of Business is “Distinctive Analytics and Creativity”.  The 
+Citizen Data Science (CDS) Certificate program was implemented based on the strategic priorities to provide 
+opportunities to Muma graduates to be data scientists. The Tableau projects that you will d o throughout your time 
+at the Muma College of Business will provide the opportunities to learn five of the top ten skills:  
+• Analytical and critical thinking   • Problem -solving using data  
+• Critical Analysis  
+• Creativity  
+• Reasoning  
+ 
+In this course, students are requ ired to complete a Tableau project. After the completion of the projects, students 
+will be able to:  
+• get business insights from the data analysis that you can visualize and explain to others who are not 
+data-savvy  
+• increase acumen in complex problem -solving  
+• improve creativity and critical business decision making ability  
+• develop logical reasoning  
+ 
+STANDARD UNIVERSITY POLICIES  
+Policies about disability access, religious observances, academic grievances, academic integrity and 
+misconduct, academic continuity, food insecurity, and sexual harassment are governed by a central set of 
+policies that apply to all classes at USF. These m ay be accessed at: https://www.usf.edu/provost/faculty/core -
+syllabus -policy -statements.aspx   
+ 
+WEB PORTAL INFORMATION  
+Every newly enrolled USF student receives an official USF e -mail account.  Students receive official USF 
+correspondence and Canvas course information via that address. The web portal is accessed at http://my.usf.edu . 
+ 
+GENE RAL INSTRUCTION FOR STUDENTS  
+• Academic Support Services:  
+The Information Commons  provides students with individual and group study spaces, computers, 
+printers, and various media equipment for temporary use.  The Information Commons is staffed by 
+librarians, learning support faculty, tutors, and technology and e -learning specialists. Students 
+challenged by the rigors of academic writing, mathematics, or other course content are urged to 
+contact their prof essors early in the semester to chart out a plan for academic success, and/or 
+regularly use the tutoring services provided by Learning Support Services 
+(http://www.usfsm.edu/academics/academic -resources/information -commons/tutoring.aspx ) which 
+are provided at no cost to students.  
+• Career Success Center:  
+Students can explore careers through activities such as job shadowing, mentoring, and internships.  
+Whether  students will be pursuing graduate school or seeking employment, Career Services can 
+help develop a plan to reach their next destination.  Students can prepare professional documents, 
+practice for the interview and attend employer or graduate school infor mation sessions.   Access 
+these resources or schedule an appointment with career advisors at www.usfsm.edu/career -services . 
+ 
+LEARNING SUPPORT and CAMPUS OFFICES  
+ 
+Tampa 
+Campus  
+ Tutoring Hub: The Tutoring Hub offers free tutoring in several subjects  to USF 
+undergraduates. Appointments are recommended, but not required. For more info rmation, 
+email asctampa@usf.edu   
+Writing Studio: The Writing Studio is a free resource for USF undergraduate and 
+graduate students. At the Writing Studio, a trained writing consultant will work 
+individually with you,  at any point in the writing process from brainstorming to editing. 
+Appointments are recommended, but not required. For more information or to make an 
+appointment, email writingstudio@usf.edu   
+Counseling Center:  The Counseling Center promotes the wellbeing of the campus 
+community by providing culturally sensitive counseling, consultation, prevention, and 
+training that enhances student academic and personal success. Contact information is 
+available online .  
+Center for Victim Advocacy: The Center for Victim Advocacy empowers survivors of  crime, violence, or abuse by promoting the restoration of decision making, by advocati ng 
+for their rights, and by offering support and resources. Contact information is available 
+online .  
+St. Petersburg 
+Campus  
+ Student Success Center : The Student Success Center provides free tutoring and writing 
+consultations. Contact information is available online .  
+Wellness Center : The Wellness Cente r provides counseling and medical services, as well 
+as prevention programs and victim advocacy. Contact information is available online .  
+Sarasota -
+Manat ee 
+Campus  
+ Tutoring and Writing Support: Learning Support Services provides free tutoring and writing 
+consultations for a variety of courses and subjects such as, Accounting, Biology, Chemistry, 
+Finance, Math & Statistics, Physics, and Spanish. Make an appointment online .  
+Counseling and Wellness Center: The Counseling and Wellness Center is a confidential 
+resource where you can talk about incidents of di scrimination and harassment, including 
+sexual harassment, gender -based crimes, sexual assault, stalking, and domestic/relationship 
+violence. Call 941 -487-4254  
+Victim Advocate: A Victim Advocate is available 24/7 by calling (941) 504 -8599. For 
+assistance le ave a message with your phone number and your call will be returned as soon 
+as possible. The Victim Advocate is available to assist victims of crime, sexual assault, and 
+partner violence.  
+ 
+COURSE FAQ  
+How to communicate with me? You can either (i) send me an email directly or through Canvas, or (ii) call/text 
+me or (iii) set up an appointment to see me in my office. When emailing directly or through Canvas, please 
+write the appropriate subject and inclu de your name at the bottom of the email. The emails should be composed 
+professionally and the language should be courteous and respectful.  
+  
+How NOT to communicate with me?  
+1. Please do not email me from a non -USF email account.  
+2. Please do not submit deliverables to me through email. All deliverables must be submitted through 
+Canvas.  
+3. Please do not reply to an email that I send to the entire class without changing the subject line, unless 
+your question is about that subject. If you  are using the “Reply” button as a means to get my email 
+address in the “To” line, please change the subject line and also delete all previous text from that email, 
+if your email pertains to something else.  
+ 
+How will I communicate with you? I will send an nouncements through Canvas. The announcements should 
+arrive in your inbox. If you send me an email through Canvas, I will respond back through Canvas. If you send 
+me an email directly, I will respond back to your email address. I will make every attempt to  reply to your 
+emails within 24 hours during weekdays. I cannot guarantee a response within 24 hours on weekends. 
+Occasionally emails do tend to go to my Spam Mail folder so if you have not received my response within 24 
+hours, please either resend your em ail or call my office phone number and leave a message in case I am not in 
+my office. I will provide feedback on your assignments through Canvas.  
+ 
+How to Succeed in this Class?    
+• Check Canvas and emails daily for announcements: I will periodically send ema ils and announcements. 
+I encourage you check them daily.  
+• Read the syllabus:   It is a lot of trouble  to prepare so detailed a syllabus. You should assume I had a reason 
+for it. I want to make sure that you understand the course structure and expectations a nd have your 
+questions answered on the first week. This will help us all have a more productive semester. Please 
+read every word  in this syllabus by end of the first week and ask me any questions.  
+• Complete the reading assignments:   You will get a lot more  out of this class if you complete the assigned 
+readings. In my experience, students who don't complete the reading either never complete it or try to cram 
+it all in just before the exams. That doesn't work. Most of the time, unsatisfactory grades are due to 
+procrastination than any other cause. Please give yourself ample time each week to complete the assigned 
+readings for this class.   • Watch the recorded lectures/external videos:  Some modules will include recorded lectures and LinkedIn 
+Learn videos. The lec tures that are prepared by me contain topics that I think are the most important in the 
+course. Please watch them.  
+• Do not procrastinate on completing assignments /labs :  You cannot pass the course without doing at least 
+most of the assignments. The homework  assignments build upon one another. If you get behind, you will 
+find it very difficult to catch up.  
+• Complete the quizzes:  Completing the quizzes will prepare you for the exams. So, I encourage you to 
+complete them by the due dates.  
+• The bottom line “Do not  procrastinate. ” 
+ 

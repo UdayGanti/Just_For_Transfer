@@ -1,0 +1,169 @@
+
+
+
+
+
+
+
+
+ISM 6218
+Database Administration and Design
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ISM 6218: Database Design and Administration
+Fall 2023
+
+INSTRUCTOR:	SCPO H. S. Hyman, PhD                		E-Mail: hhyman@usf.edu
+Office: CIS 2006	                 	                              Hours: Wednesdays After Class
+	
+COMMUNICATION POLICY and METHODS: I follow a standard business week, which means 0800 – 1700, Monday through Friday, with a lunch break sometime in the middle. I will generally make myself available to you for office “drop-ins” during the business day when not in an actual class or other meetings or activity. There are specific office hours reserved for you as posted above. I have found that most questions can be answered quickly, such as the need for an extension, or a clarification about an assignment, or a work stoppage error that you have not been able to resolve. A more complex question may require a live response either in office or in class. 
+If you choose to contact me through email, the response time will be no later than the close of the next business day. This means if you send me an email at 0800 on Friday, I will respond to that email no later than 1700 the next business day, Monday. If Monday is a holiday, then Tuesday is the next business day. Keep this in mind when timing your requests and inquiries. I do not stand-by on my email server 24/7 waiting for new mail to arrive in my inbox. In fact, I do not have email notifications turned on, I check my email at the start of the business day for whatever arrived during the overnight cycle, and then again at midday break for currency. Anything arriving after 1200 will not be seen by me until the start of the next business day. 
+I am here to support you and get you to the skill level where you need to be, within reasonable expectations. If you just follow the guidelines as set out here in the syllabus, the directions and materials posted with the assignments, you will have no trouble succeeding here. 
+
+MANDATORY FALL 2021 SYLLABUS STATEMENT: COVID-19 PROCEDURES
+Whatever the posture may be for Fall of 2021, all students must comply with university policies and posted signs regarding COVID-19 mitigation measures, including wearing face coverings and maintaining social distancing during in-person classes.  Failure to do so may result in dismissal from class, referral to the Student Conduct Office, and possible removal from campus.
+
+Additional details are available on the University’s Core Syllabus Policy Statements page: https://www.usf.edu/provost/faculty/core-syllabus-policy-statements.aspx
+
+MANDATORY FALL 2021 SYLLABUS STATEMENT: CLASS RECORDING
+Classes may be, but are not guaranteed to be recorded or live streamed online. Any and all Student voices, faces and videos may be included in the class recordings. Students themselves may in fact be recording a class session and I might not even know. It is the student’s responsibility to make sure the privacy of their surroundings and background is maintained. If a student is recording any part of a live class, it is the responsibility of that student to pause the recording when another student is speaking, so that the student speaking is not being recorded without their consent. 
+
+
+
+
+
+
+
+
+TEXTBOOKS:	I have listed here a few books that do a good job explaining database design fundamentals and querying. The “official” textbook for the undergrad class (ISM4212) is the Gillenson book. In my experience, I have found that there really is no good textbook for a database class. The books I list below are practical applied works. 
+	In this course, I teach the fundamentals based on my own experiences designing and building databases since 2010. If you are new to database and this is your first experience with the subject and concepts, then I strongly recommend the T-SQL book; it may be the best book on the market for learning the basics. 
+	For those of you who plan to work in this field as SQL Developers, I highly recommend the Atkinson book. I use it almost every day in my work. 
+	You may also find the Window Functions book helpful as well when we cover that week in the class. It will also be very useful on the job for those of you pursuing work in this domain.
+	
+	Required:	T-SQL, 3ed., Itzik Ben-Gan, Microsoft Press (2016).
+
+Recommended:	T-SQL Window Functions, 2ed, Itzik Ben-Gan, Microsoft Press (2020).
+
+                              	T-SQL Querying (Developer Reference), Ben-Gan et al. Microsoft Press (2015).
+
+Beginning Microsoft SQL Server 2012 Programming, by Paul Atkinson and Robert Vieira.  Wiley (2012). 
+      
+EQUIPMENT:	Required: You must bring a Windows based laptop to the class. If you do not bring a Windows based laptop, you will not be able to complete all the required assignments for this course. 
+
+DESCRIPTION:	From Graduate Catalog Course Inventory: “This course covers core business database technologies. Topics include database design, transaction processing, parallelism, and distributed databases. Emerging business intelligence technologies are covered. A database system is used for projects.”
+
+PREREQUISITE:    ISM 6217 or ISM 4212 or equivalent (Check with your advisor if this applies to you)
+
+OUTCOMES:           This course covers advanced database design, development and administration.    At the completion of this course students should be able to demonstrate the following:
+Application of ERDs to complex database design decisions.
+Knowledge of, and implementation of, the 7 normal forms to schemas and table designs.
+Use of complex operators such as Apply, Intersect, Except, CTE, Nested Queries, Temp Tables, Variable Tables.
+Knowledge and use of: Parameterized SQL, Optimization, DM_Exec, Query Performance, Query Store, Execution plans, Hints.
+Use of temporal tables, Tracking changes, history tables. 
+Creating an Azure SQL database with logins, users and roles. 
+Deploying a database to a remote cloud server (Azure).
+Creating schemas and permissions. 
+Transactions, Rollback, Concurrency control, Locking, Indexing and Partition strategies.
+Parallelism.
+
+
+REQUIREMENTS:	Database Assignments 
+	Software Installation Assignments
+	Database Projects
+
+GRADING: 
+
+WARNING: There is NO extra credit. There is NO rounding. What you get is what you get. You have all the assignments before you. There is no additional work available to you if you fail to complete the posted assignments, correctly and on time. You get once chance to do your work. This class is not an exercise in iteration until you get it right. 
+
+
+
+Assessment/Feedback on your performance: This section is explained here so that everyone knows where they stand in the class at any given time. Your letter grade is direct feedback to you of how well you can create a design, build a database from that design and execute select statements to produce result sets. We offer you many assignments throughout the course of the 10-weeks so that there is a very robust sample of your performance to measure. 
+‘A’ level work means that you can correctly create a documented design (diagrams and notation), correctly build tables with constraints (DDL), and create select statements and programmable objects that produce correct result sets based on a narrative of business transaction workflows and required reports (DML) – there may be minor flaws that will not impact performance significantly. 
+‘B’ level work means you can create documentation and build tables, create select statements for reporting content, and yet have some significant flaws that may impact performance of the database.
+‘C’ level work means your documented design and build has major flaws that will cause the database to fail, or you are not able to correctly create select statements to produce required content without errors. 
+Below ‘C’ level means you have not demonstrated a minimum amount of competence for creating a database design and build or you cannot create select statements that can execute without error, or you fail to produce correct result sets. 
+
+
+
+
+RUBRIC: Here is a more specific breakdown of how your database assignments are evaluated by percentage:
+Narrative documents meet formatting requirements as listed below and continuing onto the next page (7): 20%.
+Screen captures not readable, too small, hard to follow, or arrows crossing over: 20% minor infraction, 30% major infraction. 
+ERD, EERD diagrams not missing tables, have correct notation: 20%.
+ERD, EERD diagrams have correct cardinality and optionality: 10%.
+RS has correct tables, arrows, and notation: 20%.
+RS matches EERD: 10%.
+DD has correct tables, notation, data types and constraints, defaults and checks: 20%.
+DD matches RS: 10%.
+Database diagram has correct tables and referential integrity; PKs and FKs correct: 20%.
+Database has correct tables, referential integrity: 30%.
+Database has correct constraints, indexes and unique keys are created correctly: 20%. 
+Select statements execute with no errors: 20%.
+Select statements produce result sets: 20%.
+Views and Stored Procedures have correct logic and produce correct content: 20%
+Result sets produced are correct (aggregators, advanced operators): 10% - 20%.
+SSDT reports include query builder: 20%.
+SSDT reports produce correct result sets: 20%.
+SSDT reports formatted with proper columns, fonts and spacing: 20%. 
+
+Formatting Requirements: 
+
+This is a technical course that applies the rigor of design and documentation to the creation and development of a database from scratch. As such, you will be assessed based on the quality of your work, thoroughness in your treatment of the subject matter, presentation, and content. Prior experience with our graduates has informed us that the assignments and documents you create here are effectively used in job interviews. 
+
+I have one standard that I use to judge your work: Would Muma College of Business be embarrassed that you took this to your job interview or brought this back to your employer to show what you have accomplished during your time here?
+
+To give you some guidance for what is considered to be acceptable work for university level, a list of items is included below for your review. The formatting items on this list are similar to what you will find in a request for proposal (RFP) or request for information (RFI), or other requirements-based documentation – all taken from actual industry practices. 
+
+The reason for these formatting rules is so that everyone knows the standard for which their work will be judged. This also provides a fair and equal means for comparing the work between individuals. This puts everyone on the same footing. These are the rules and requirements that control your submissions:
+
+Document submissions must be typed, using Times New Roman, 12-point font, with double space. 
+All document submissions must be in Word or PDF file format, this includes any diagrams created with Visio or other diagramming methods. 
+Every individual written assignment should have a cover page containing your name, assignment title, date and course name. NO OTHER items should be on your cover page. This maintains the identity of your work when collected into one giant stack. 
+Your work must be well organized, using headers and titles to divide paragraphs and sections for clarity. You may consider the use of a variety of fonts and colors (when appropriate) for presentation.
+You must use complete sentences. Use of bullets only when appropriate for content lists. 
+I should not be the first set of eyes on your paper: Typos and grammatical errors will count against you if they impact the overall delivery of the work. I use the automated system TurnItIn to check for plagiarism, cut and pasting, grammar and spelling.
+Formatting is important. Your work may be 100% correct, but if presented in the wrong format, or difficult for the reviewer to read, it might receive negative feedback, up to and including, rejection for failure to follow directions. 
+Any screen captures or figures must be centered, have a border framing the content, and be accompanied by a 2 – 3 sentence descriptive narrative below what is depicted. Above all, it must be readable, or it will not receive credit. 
+Your work must be thoughtful and demonstrate thorough thinking through of the problem as well as your proposed method for solving it. 
+Your work must be original. 
+Your work must be accompanied by a list of the sources when relying on others for your foundation. APA is standard, but any style is accepted as long as it is consistent. 
+Your work must be easy to read (readability). 
+I should not have to hunt for your work; if you submit a “giant digital garbage can” for me to rummage through in order to find your assignment, you will not receive credit. I cannot grade what I cannot find.
+Your work must be clear and to the point. I do not require a minimum amount of content, but you must include enough content to demonstrate to me that you have put satisfactory thought and effort into your work.
+If your submission does not meet the requirements of the assignment or fails to follow directions, it is eligible to be awarded zero credit. Multiple submissions are not accepted. You get one chance to do your work correctly and on time. 
+I reserve the right to reject ANY assignment submission that I believe does not meet any requirement in this list, is not your own work, or fails to meet the standards for competent, university level work. 
+Assignments are due on the date and time posted. 
+Late work receives a zero grade until submitted. Any late submission will receive a 20% penalty per day until submitted. A day is defined as a 24-hour cycle commencing from the deadline. This means that after 5 consecutive days past a deadline, the maximum awarded for a late assignment is zero. Eastern Time Zone is controlling. 
+
+COURSE AND CLASSROOM CONDUCT: 
+
+Academic integrity is an absolute course requirement. (See link to USF Academic Integrity policy below.)  Any instance of academic dishonesty will result, at the least, in a grade of zero being assigned to the work involved.  This policy covers both the Exams and all Assignments. It is your responsibility to ensure that you do make your work available to other students. 
+
+
+UNIVERSITY POLICIES
+
+In addition to the specific course policies listed above, information on the following university standard course policies can be found at the web address shown for each item:
+
+Final Examinations – http://www.ugs.usf.edu/policy/FinalExams.pdf
+General Attendance – http://www.ugs.usf.edu/policy/GeneralAttendance.pdf
+Religious Days – http://www.ugs.usf.edu/policy/ReligiousDays.pdf
+Academic Integrity – http://www.ugs.usf.edu/policy/AcademicIntegrityOfStudents.pdf
+Academic Disruption – http://www.ugs.usf.edu/policy/DisruptionOfAcademicProcess.pdf
+Academic Grievance – http://www.ugs.usf.edu/policy/StudentAcademicGrievanceProcedures.pdf
+Students with Disabilities –
+http://www.usf.edu/student-affairs/student-disabilities-services/documents/sds-staff-handbook.pdf
+
+

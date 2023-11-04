@@ -1,0 +1,304 @@
+© 202 3 Ronald K. Satterfield  
+ QMB -6305 -350 
+Managerial Decision Analysis  
+Spring 2023 
+ 
+Instructor:  Dr. Ronald K. Satterfield      
+Office:   CIS 2054  
+Office Hours:  Announced on Canvas.   All office hours will be held via MS -Teams.  
+E-mail:  rsatterf@usf.edu  (The Canvas email function is a bit cumbersome.  Please email 
+me directly at this address rather than going through Canvas.)     
+ 
+ 
+TEXTBOOK  
+Jank,  Wolfgang,  "Business Analytics for Managers", Springer, 2011 (ISBN 978 -1-4614 -0405 -7).  
+You can obtain this boo k directly at  https://www.amazon.com/Business -Analytics -Managers -Use-
+R/dp/1461404053/ref=sr_1_1?keywords=wolfgang +jank&qid=1651935209&sr=8 -1 
+ 
+SOFTWARE   
+We will use the software R for analyzing and mining our data. R is free! In fact, R is an open -
+source based software and as such grows much faster than any commercial software solution. R is 
+one of the most powerful and popular software solutions for minin g business data. In fact, large 
+analytical companies such as Google and AT&T use R. R is also becoming more and more popular 
+among government agencies (such as the DOD). R being both powerful  and free makes it a 
+winning proposition for many companies, espe cially during times of tightening budgets and 
+financial stress.   To simplify use of R even more for you we will use the graphical user interface 
+(GUI) R Commander for this course.  PLEASE   CHECK OUT THE FIRST COURSE MODULE 
+M0 ON HOW TO INSTALL R AND R COMMA NDER.  
+ 
+COURSE DESCRIPTION  
+ 
+About the course.   The nature of business is changing. Due to increasing computing power and 
+companies amassing massive amounts of data, business decisions are becoming more and more 
+data driven. Moreover, not only is more and more data becoming available, the nature of the data 
+is also changing. While in the past, most data arrived in the form of static flat tables, data is now 
+becoming increasingly dynamic, streaming and augmented with information that was not available 
+previously (geographical information, temporal information, network information). Moreover, 
+data has become more complex and is now available at different layers or hierarchies. For instance, 
+while companies may have individual -level information about their employees, this individual 
+layer is often augmented by company -level information across different industries. Data is also 
+different in that it may combine static and dynamic information. For instance, data from online 
+auctions involve static attributes (s uch as the product sold) as well as dynamic attributes (such as 
+the incoming bids or the price changes during the auction). Combining static and dynamic 
+information is not trivial and calls for new methods suitable to extract all information that such 
+data carry.   In this course, we introduce the basics of statistics.   We discuss how to use statistics to 
+understand business problems, and to assist in decision making.    
+ 
+Objectives : In this class, you will learn different methods and models to address such d ata 
+challenges. Starting with methods for data exploration and -visualization, you will learn how to 
+build statistical models around the patterns in your data. In addition, we will also discuss how to 
+© 202 3 Ronald K. Satterfield  
+ incorporate uncertainty into decision -making via confid ence intervals and hypothesis testing. The 
+course is very hands -on and will involve several data -driven projects that are to be solved using 
+state-of-the-art data mining software.  
+Learning Outcomes: Several learning outcomes are anticipated from this cours e: 
+• To apply methods and concepts related to statistical modeling and statistical data mining . 
+• To identify and discuss when to use a particular method and to learn about its limitations . 
+• To implement methods and concepts on real data using state -of-the-art software . 
+ 
+About the instructor .  The instructor for your course is Dr. Ronald K Satterfield, a long -time faculty member in the 
+Muma College of Business at USF.  Dr. Satterfield has taught a number of different courses in a variety of formats 
+to a variety of audiences in his time at the University. His primary involvements are with the MBA, MS -BAIS, and 
+DBA degree programs.  He has taught Managerial Decision Analysis on number of times in live, hybrid, and all -
+online formats. While Dr. Satterfield is the In structor of Record for this offering of the course, the course materials 
+were built by Dr. Wolfgang Jank of the Muma College of Business at USF.  Dr. Jank is a world -renowned 
+statistician known for his prowess in both teaching and research in the field. Th e course follows Dr. Jank’s design 
+and it is his voice you will hear on the course lecture videos. Should you have any questions about the course 
+material or assignments please direct them to Dr. Satterfield as he is your designated instructor for the cour se. 
+  
+ 
+COURSE ASSIGNMENTS  AND DELIVERABLES  
+PLEASE NOTICE THAT ALL ASSIGNMENTS ARE INDIVIDUAL ASSIGNMENTS; 
+NO TEAM WORK OR OUTSIDE HELP IS ALLOWED  
+• Homework Quizzes : Four homework quizzes are to be completed individually by 
+each student. These quizzes involve you taking a data set and using statistical analysis 
+tools to answer a series of multiple -choice questions. The primary purpose of these 
+assignments is  to give you students to have the opportunity to practice the concepts 
+learned in class, and to  show your ability to use them with real data and real software.  
+• Online Discussion : Our online discussion will be facilitated via Canvas. The 
+discussion will focus on hig h-level aspects of analytics and data mining. Students will 
+be asked to share both their own experience with analytics as well as their opinion 
+based on research of companies in the Tampa Bay area and beyond. Our online 
+discussion has four different compon ents, distributed over the four modules of this 
+course.  
+o Etiquette Guidelines:  
+o General Communication Guidelines 1. Act professionally in the way you 
+communicate. Treat your instructors and peers with respect, the same way 
+you would do on a face -to-face envi ronment. Respect other people’s ideas 
+and be constructive when explaining your views about points you may not 
+agree with. 2. Be sensitive. Be respectful and sensitive when sharing your 
+ideas and opinions. There will be people in your class with different 
+linguistic backgrounds, political and religious beliefs or other general 
+differences. 3. Proofread and check spelling. Doing this before sending an 
+email or posting a thread on a discussion board will allow you to make 
+sure your message is clear and thought ful. Avoid the use of all capital 
+letters, it can be perceived as if you are shouting, and it is more difficult to 
+read. 4. Keep your communications focused and stay on topic. Complete 
+your ideas before changing the subject. By keeping the message on focus  
+you allow the readers to easily get your idea or answers they are looking © 202 3 Ronald K. Satterfield  
+ for. 5. Be clear with your message. Avoid using humor or sarcasm. Since 
+people can’t see your expressions or hear your tone of voice, meaning can 
+be misinterpreted.  
+o Email and Discus sion Board Guidelines: 1. Use the subject line 
+effectively by using a meaningful line of what your email or discussion is 
+about. 2. Keep your emails and postings related to the course content. You 
+should not post anything personal on a discussion board, un less is 
+requested by the instructor. 3. Any personal, course or confidential issues 
+should be directly communicated to the instructor via email. The 
+discussion boards are public spaces; therefore any issues should not be 
+posted there.  
+ 
+• Course Project:   
+Your course project consists of a data -driven business problem of your choice. To 
+that end, please identify one (or more) research questions and collect data relevant to 
+answering those questions. More specifically, please carefully describe the business 
+problem that you are trying to solve, why it is important and relevant, and why it is 
+difficult (because if it wasn't difficult then there probably wouldn't even be a reason 
+to address it). Then identify and describe the data (and its source) that you will use  to 
+answer your research questions. The goal of this project is that you use all of the tools 
+learned in this course (i.e. data exploration, confidence intervals, hypothesis testing 
+and regression models) to answer your research questions.   
+This project is  divided into two parts:   
+- In the first part, you make a video proposal for your project.   
+- In the second part  you will present your final project findings. In this you will 
+demonstrate the analyses you have undertaken and explain the results.  
+ 
+ 
+GRADING  
+Your final grade for the course is based on your performance outlined above. The weights given 
+to each of these components are as follows : 
+ 
+First Day Attendance & Getting Ready  2% 
+Homework Quizzes (4)  40% 
+Online Discussions (4)  28% 
+Course Projec t 30% 
+ 
+For each component, you will receive a numerical score, but not a letter grade. The overall letter 
+grade for the semester will be determined by the table below.  
+  
+ © 202 3 Ronald K. Satterfield  
+ Letter Grade  Percent Score  
+A 93% - 100% 
+A- 90% - 93% 
+B+ 87% - 90% 
+B 83% - 87% 
+B- 80% - 83% 
+C+ 77% - 80% 
+C 73% - 77% 
+C- 70% - 73% 
+D+ 67% - 70% 
+D 63% - 67% 
+D- 60% - 63% 
+F Below 60%  
+ 
+ 
+COURSE SCHEDULE  
+Course Exercise  Due Date  
+First Day Attendance Quiz  1/12/23 
+Getting Started Quiz  1/12/23 
+Module 1 Quiz  1/18/23  
+Module 2 Quiz  2/2/23  
+Module 3 Quiz  2/17/23  
+Project Proposal Due  2/17/23  
+Module 4 Quiz  3/3/23  
+Final Project Deliverable Due  3/3/23  
+  © 202 3 Ronald K. Satterfield  
+ Course Policies  
+ 
+Late Work Policy   
+There are no opportunities in this course for late submission of assignments or to do 
+“make -up” work if assignments are missed. A late assignment is lost points. Please plan 
+accordingly.  
+ 
+Extra Credit Policy   
+There are no opportunities for extra credit in this course.  Your focus should be on the 
+primary work in the course.  
+ 
+Grades of "Incomplete"   
+An “I” grade may be awarded to a student when 1) arrangements are made prior to the 
+end of the semester, 2) in the judgment of the instructor a valid reason is offered for 
+granting an Incomplete, and 3) a clear path to a standard grade is agreed to by the 
+instructor and the student which will result in successful completion of course 
+requirements by the end of the succeeding semester.  “I” grades not replaced  by the end 
+of the  subsequent  semester will be changed to “IF”  and are a failing grade for the course . 
+ 
+Email  
+The primary means of communication between instructor and students between live class 
+meetings will be email.  “Blast emails” will occasionally be sent by the inst ructor to all 
+students via Canvas.  Students can feel free to email their instructor with questions at any 
+time.  Please anticipate a response time of 24 hours to email queries.   
+ 
+Canvas  
+Canvas will be used in this course to disseminate materials turn in  weekly assignments 
+and return graded assignments.  If you need help learning how to perform various tasks 
+related to this or other courses in Canvas, please consult the Canvas help guides. You 
+may also contact USF's IT support at (813) 974 -1222 or help@usf.edu . 
+ 
+Laptop Usage  
+Laptop/Tablet usage is encouraged in this course given the nature of the material.   
+ 
+Classroom Recording  
+Audio and/or video recordings of lectures are prohibited, as is the live streaming of 
+lectu res or dissemination of lectures via conference calling technologies.  
+ 
+Phone Usage  
+Students are asked to place their mobile phones on “silent” and to step outside the 
+classroom to take any important calls.   
+ 
+Academic Integrity  and Academic Misconduct  
+Academic integrity is the foundation of the University of South Florida System’s 
+commitment to the academic honesty and personal integrity of its university 
+community. Academic integrity is grounded in certain fundamental values, which 
+include h onesty, respect, and fairness. Broadly defined, academic honesty is the 
+completion of all academic endeavors and claims of scholarly knowledge as © 202 3 Ronald K. Satterfield  
+ representative of one’s own efforts. The final decision on an academic integrity 
+violation and related academi c sanction at any USF System institution shall affect and 
+be applied to the academic status of the student throughout the USF System, unless 
+otherwise determined by the independently accredited institution.   The process for 
+faculty reporting of academic mi sconduct, as well as the student’s options for appeal, 
+are outlined in detail in USF System Regulation 3.027.  
+ 
+In our course assignments the professor h as several methods for penalizing those who 
+engage in academic misconduct.  Among these methods the professor can 1) award 0 
+points for an assignment on which a student has engaged in misconduct, 2) award an F 
+in the entire course, or 3) award a special FF  grade in the course.  An FF appears 
+permanently on the student's transcript as a special designation showing the student 
+failed the course for reasons of academic misconduct.  
+ 
+Disruption to Academic Process   
+Disruptive students in the academic setting hin der the educational process. Disruption 
+of the academic process is defined as the act, words, or general conduct of a student in a 
+classroom or other academic environment which in the reasonable estimation of the 
+instructor: (a) directs attention away from  the academic matters at hand, such as noisy 
+distractions, persistent, disrespectful or abusive interruption of lecture, exam, academic 
+discussion, or general University operations, or (b) presents a danger to the health, 
+safety, or well -being of self or o ther persons.  
+ 
+Student Academic Grievance Procedures   
+The purpose of these procedures is to provide all undergraduate and graduate students 
+taking courses within the University of South Florida System an opportunity for 
+objective review of facts and events  pertinent to the cause of the academic grievance. 
+An “academic grievance” is a claim that a specific academic decision or action that 
+affects that student’s academic record or status has violated published policies and 
+procedures or has been applied to th e grievant in a manner different from that used for 
+other students.  
+ 
+Disability Access  
+Students with disabilities are responsible for registering with Students with Disabilities 
+Services (SDS) to receive academic accommodations. SDS encourages students to  
+notify instructors of accommodation requests at least 5 business days prior to needing 
+the accommodation. A letter from SDS must accompany this request.  
+ 
+Sexual Misconduct/Sexual Harassment Reporting  
+USF is committed to providing an environment free from sex discrimination, including 
+sexual harassment and sexual violence ( USF System Policy 0 -004). The USF Center for 
+Victim Advocacy and Vio lence Prevention is a confidential resource where you can 
+talk about incidents of sexual harassment and gender -based crimes including sexual 
+assault, stalking, and domestic/relationship violence. This confidential resource can 
+help you without having to re port your situation to either the Office of Student Rights 
+and Responsibilities (OSSR) or the Office of Diversity, Inclusion, and Equal 
+Opportunity (DIEO), unless you request that they make a report. Please be aware that in 
+compliance with Title IX and und er the USF System Policy, educators must report 
+incidents of sexual harassment and gender -based crimes including sexual assault, © 202 3 Ronald K. Satterfield  
+ stalking, and domestic/relationship violence. If you disclose any of these situations in 
+class, in papers, or to me personally,  I am required to report it to OSSR or DIEO for 
+investigation. Contact the USF Center for Victim Advocacy and Violence Prevention: 
+(813) 974 -5757.  
+ 
+Attendance Policy   
+Students are expected to exhibit professionalism through regular attendance and on -
+time a rrivals to class lectures.   
+ 
+Religious Observances  
+All students have a right to expect that the University will reasonably accommodate 
+their religious observances, practices and beliefs. If you observe religious holidays, you 
+should plan your allowed abs ences to include those dates.  
+ 
+Sexual Misconduct/Sexual Harassment Reporting  
+USF is committed to providing an environment free from sex discrimination, including 
+sexual harassment and sexual violence ( USF System Policy 0 -004). The USF Center for 
+Victim Advocacy and Violence Prevention is a confidential resource where you can 
+talk about incidents of sexual hara ssment and gender -based crimes including sexual 
+assault, stalking, and domestic/relationship violence. This confidential resource can 
+help you without having to report your situation to either the Office of Student Rights 
+and Responsibilities (OSSR) or the  Office of Diversity, Inclusion, and Equal 
+Opportunity (DIEO), unless you request that they make a report. Please be aware that in 
+compliance with Title IX and under the USF System Policy, educators must report 
+incidents of sexual harassment and gender -based crimes including sexual assault, 
+stalking, and domestic/relationship violence. If you disclose any of these situations in 
+class, in papers, or to me personally, I am required to report it to OSSR or DIEO for 
+investigation. Contact the USF Center for Vic tim Advocacy and Violence Prevention: 
+(813) 974 -5757.  
+ 
+Attendance Policy   
+Students are expected to exhibit professionalism through regular attendance and on -
+time arrivals to class lectures.   
+ 
+Religious Observances  
+All students have a right to expect that  the University will reasonably accommodate 
+their religious observances, practices and beliefs. If you observe religious holidays, you 
+should plan your allowed absences to include those dates.  
+ 
+ 
+ 
+ 

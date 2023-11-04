@@ -1,0 +1,326 @@
+  
+QMB -3200 (001, 002, 003, 004)  
+Business & Economic Statistics II – Spring 2023 
+  
+Instructor:          Kim Johnson, Ph.D.   
+E-mail:               kimj @usf.edu  
+Office:               CIS 20 54B  
+Office Hours :    Mondays 1:50pm -2:50pm and on Wednesdays  by appointment  
+                           
+ 
+ 
+PREREQUISITES: MAC 2233 / MAC 2241, QMB 2100.  
+STA 2023 can serve as equivalent to QMB 2100.  
+Students should have earned a “C” grade or better (and not C -) in QMB 2100 or STA 2023. 
+ 
+ 
+COURSE DESCRIPTION:  This is a Core course for all Business Majors.  
+ 
+Catalog Description of the course:  Simple linear regression and correlation, multiple regression and model 
+building, forecasting models, analysis of variance, chi -square tests, nonparametric methods.  
+ 
+Purpose of the course:  QMB 3200 is the second course in Statistics. It builds upon the foundation established in 
+your first course in Statistics (QMB 2100 or its equivalent). The purpose of QMB 3200 is to prepare students to 
+appreciate the role statistics plays in business analytics and decision making. In particular, the course emphasizes 
+and prepares students to “learn”, “interpret”, and “be ready to apply” the concepts and methods, rather than learn 
+calculations alone.  
+ 
+ 
+COURSE OBJECTIVES:   Through this course, students would develop a working knowledge and expertise on 
+how to apply statistical methods on business problems. In particular, students will be able to:  
+1. Strengthen fundamentals, formulate hypothesis from the problem statement, and learn to perform analyses,  
+2. Interpret statistical results generated from a selected software program and communicate the findings in simple 
+terms to the decision -maker.  
+3. Identify opportunities for and learn to apply statistical tests on Categorical data such as  contingency analysis and 
+goodness of fit tests  
+4. Explain the basis and apply Analysis of Variance (ANOVA) techniques on data from experiments/observational 
+studies in business  
+5. Identify application opportunities and learn to perform simple linea r and multiple regression analyses, extract 
+valuable information, and apply the results for predictions and improved business decision-making  
+6. Analyze Time-series patterns and learn to apply forecasting methods for various business applications  
+ 
+ 
+ 
+COURSE STUDENT LEARNING OUTCOMES :  At the conclusion of the course students should be able to:  
+1. Develop  a hypothesis from a problem statement, choose an appropriate statistical technique to apply given the 
+problem context, perform the analysis; and most importantly, interpret the reports/results, and develop well -
+reasoned and evidence-based conclusions  
+2. Learn to perform hypotheses tests on categorical data using Chi -Square goodness of fit tests and tests of 
+independence  Understand the principles of designed experimentation, identify an appropriate experimental design 
+to perform Analysis of Variance (ANOVA) on d ata from experimental/observational studies; develop hypothesis 
+statements, perform the analysis, understand, and interpret ANOVA output from a select software; and develop 
+conclusions  
+3. Develop both simple and multiple regression models from given data, understand and interpret regression analysis 
+output from a select software package, test hypotheses and infer relationships between variables, and make 
+predictions on response.  
+4. Develop an understanding for patterns in Time Series data, select appropriate forecasting techniques given the 
+pattern, develop forecasts and forecast accuracy measures to identify the best forecasting method  
+ 
+ 
+ 
+TOPICS TO BE COVERED:  
+• Review of Concepts and Topics (Probability Distributions, Estimation, and Hypothesis Testing) from 
+QMB 2100 that are important for QMB 3200  
+• Categorical Data Analysis – Chi-square Tests  
+• Analysis of Variance  
+• Simple Linear Regression  
+• Multiple Regression  
+• Time Series Analysis and Forecasting  
+ 
+ 
+ 
+MATERIALS  
+(Required) Statistics for Business & Economics (13th or  later  edition), Pearson Education, McClave, Benson, 
+and Sincich. Copies of this text are available for purchase at the USF Bookstore and other  retailers. B oth a hard 
+copy and an electronic version are available.   
+ 
+(Required) STATISTIX 10.0  This software can be purchased for Windows only. I t is also available for free 
+using the apps.usf.edu gateway (Mac or Windows) . It is highly recommended  that you purchase and install  
+this software on your laptop or one that is available to you. Application Gateway can be problematic,  and 
+students are responsible for having reliable access to the STATISTIX program. Issues relating to the 
+Application Gateway should be directed to USF Information Technology ( https://www.usf.edu/it/ ), NOT THE 
+INSTRUCTOR OR THE TAs.   
+ 
+(Recommended) Pro-Copy Packet  A spiral -bound course packet is available for purchase from Pro- Copy 
+located at 5219 E. Fowler Avenue, Tampa, FL 33617. This packet includes course notes, practice exam  questions , 
+and more. Historically, students have found the Pro- Copy packet extremely useful.  
+  
+(Required) Student Data Set  – each student is required to collect and enter into an Excel spreadsheet or directly 
+into Statistix 10 a data set consisting of 75 used automobiles, 25 each from three different models of vehicles of 
+your choice (for example, Toyota Camry, Honda Accord, and Nissan Altima). For each vehicle, you will enter 
+the asking price, the number of miles, whether it was made in the year 2015 or earlier (enter as 0) or 2016 or later  
+(enter as 1), and the vehicle model (label a s 1, 2, or 3). When entering the asking price and mileage, please use 
+numbers only without dollar signs or commas. Information regarding the requirements for the Student Data Set 
+will be posted to  the Resources module in Canvas. You will receive more instruction regarding this data set during 
+the first week of class and will begin collecting your data then; you do not need to have this data already collected 
+at the start of class.  
+  
+COURSE POLICIES   
+ 
+Format  
+This is a “live” class and you are expected to be present for class meetings. A weekly Module will be published 
+by 8:00am every Monday morning. This Module will outline the expectations for the week regarding topics 
+covered, quizzes, exams, and assignments.  
+ 
+Attendance   
+Regular attendance is expected. There is a strong correlation between class attendance and performance. While 
+attendance does not count towards your grade, attendance will be taken at every class.  
+ 
+Document Signatures  
+If at any time during the semester you require the instructor’s signature on a document , you will need to submit 
+the document  virtually via DocuSign (look under the Business Systems tab on the MyUSF homepage) or bring a 
+paper copy either before/after class or during my office hours.  
+ 
+Communic ation  
+I will communicate with you via Canvas  messaging and announcement s. It is important that you check Canvas 
+on at least a daily basis. If you don’t read the announcements, you will very likely mis s important 
+information! 
+ 
+When you have a question, plea se first refer to the syllabus and the announcements; often we get questions that 
+are covered on the syllabus or were just discussed in an announcement. If your question is still unanswered, send 
+a message through Canvas addressed to your T As. If they are unable to help you, they will refer you to me. DO 
+NOT COPY ME IN YOUT CORESPONDENCE WITH THE TAs, AND DO NOT EMAIL ME 
+DIRECTLY UNLESS YOU’VE ALREADY TRIED YOUR TAs AND WERE UNABLE TO GET THE 
+HELP YOU NEED!  
+ 
+Office Hours  
+Please feel free to come to see me in my office between 2:50pm and 3:50pm on Monday. These times are set 
+aside specifically for students, and I am happy to meet with you to discuss anything at all. I am  also sometimes  
+available on Wednesdays  by appointment . I do not meet with students via TEAMS . 
+ 
+Late Work  
+Project submissions  are accepted up to three days after the due date at a penalty of 10% per day; no assignments 
+will be accepted after this point. Exams can only be made up with a doctor’s note or other documentation provided 
+within 24 hours of the exam date. If you are aware  in advance  that will need to miss an exam and have a valid 
+excuse, contact your TA ahead of time. We are much more likely to allow you to take an exam in advance 
+than we are to allow  you to make up a n exam  you have already missed . IF YOU DO NOT CONTACT ME 
+WITH 24 HOURS OF THE EXAM YOU WILL NOT BE ALLOWED TO MAKE IT UP. I reserve the right 
+to assess a penalty for an exam makeup, makeup exams will not necessarily be in the same format as the standard 
+exam, and ALL makeup exams will be taken in my office during my office hours. Q uizzes cannot be made up for 
+any reason (instead of providing makeup quizzes I allow the two lowest quiz grades to be dropped).   
+Cheating  The policy for this course for students caught cheating is as follows: At minimum, the student will 
+receive a 0 on the relevant assignment  and be prevented from dropping the course. Zeros given for 
+academic integrity violations cannot be dropped. At a maximum, the student will receive an FF course 
+grade and the case will be turned over to USF for further action. ( See USF Regulation- 3.026, Academic 
+Integrity of Students  and last page of syllabus). Falsifying documents (e.g., excuse letters, doctor’s notes, etc.) 
+will be treated as cheating. Assisting another student with quizzes or exams or sharing your work with other 
+students for them to submit as their own constitutes cheating.  It is YOUR responsibility to safeguard your work 
+and not allow others to access it. THERE ARE NO EXCEPTIONS TO THIS POLICY!  
+ 
+Extra Credit  and Grade Adjustment 
+ 
+There will be no extra credit or  curving of grades  unless  the final course average is below 75%, in which case 
+points will be added to each student’s score until the course average is 75%.  I round final course grades up or 
+down to the nearest whole number  (89.4 becomes 89; 89.5 becomes 90) .  
+ 
+STAT LAB  
+ 
+Stat Lab is a tutoring service offered by the TAs. This is available both in -person and via Teams. Scheduling, 
+locatio n, and further details regarding Stat Lab will be posted under the Resources Module in Canvas. You are 
+highly encouraged to utilize this excellent resource ! The TAs are highly knowledgeable and are there to help you 
+succeed in this class.  
+ 
+  
+ASSIGNMENTS  
+ 
+There will be 7 Quizzes, 3 Project Submissions, and 4 Exams. The due dates and times of these assignments will 
+be found in the Course Schedule. Any changes will be noted in  a Canvas announcement, so make sure to 
+check for course announcements daily.  
+ 
+ 
+Quizzes  
+There will be 7 Quizzes. Your two lowest quiz grades will be dropped, so if you miss a quiz for any reason, that 
+will be one of your drops; quizzes cannot  be made up. Quizzes are worth 20 points each and in total wil l account 
+for 2 5% of your grade. They consist of 5 multiple choice and true/false items, are open book, and you have 30 
+minutes to complete them. Quizzes will open on Monday morning at 8:00am and close on Friday evening at 
+11:59pm, and you may take your quiz at any time during this period. Make sure to mark your calendars so you 
+don’t forget to take your quizzes!  
+ 
+Project  
+You are required to complete a Course Project that will consist of 3 separate Project Submissions. The Project 
+involves creating your own data set, using the Statistix 10 software to run analyses on your data, and interpreting 
+the output. The Project Submissions are worth 120  points t otal (30% of your final grade ), 40 points  each. The 
+entire Project must be submitted; no dropped Project grades are allowed. Late Project Submissions are allowed at 
+a 10% penalty per day or portion of a day it is late for up to three days after the due dat e. It is highly recommended  that you do not wait until the last minute to complete your Project Submissions! These assignments must be typed 
+and submitted as a single .doc or docx.; NO OTHER TYPES OF FILES WILL BE ACCEPTED. These 
+assignments will be submit ted via Turnitin to assess for plagiarism.  It is your responsibility to make sure that you 
+SUBMIT THE CORRECT FILE. If you submit an incorrect, incomplete, or unreadable file you MAY possibly 
+be given the opportunity to re -submit (at the TAs’ discretion),  but you will be penalized 25%, no exceptions. 
+Check the document you are submitting to make sure it is the correct one!  If you have submitted the 
+incorrect document and are informed of this by your TA, you have 24 hours to submit the correct file. After 
+this point your work WILL NOT be accepted for any reason.  
+ 
+ 
+Exams  
+There will be four exams, and your lowest exam grade will be dropped. Exams are worth 60 points (15%) each 
+for a total of 45% of your total grade.  If you know you’ll need to miss an exam, reach out to your TAs IN 
+ADVANCE and we MAY allow you to take the exam early. If you miss an exam, have an excuse that your TA 
+or the instructor finds acceptable , and can document the reason for missing the exam, a makeup may be allowed . 
+Except for e xtraordinary circumstances (for example, you are in a coma) you must reach out to a TA or the 
+instructor WITHIN 24 HOURS AFTER  THE SCHEDULED END  OF THE DAY OF THE EXAM . If you 
+do not do so you will not be given a makeup. Makeup exams are no more difficult than the standard exams but 
+they will likely be in a different format, and will be given in my office during office hours, no exceptions. All 
+exams (except makeups) are posted to Canvas and taken virtually; you do not need to come to class on exam days. 
+Exams are taken during your regularly scheduled class period and are open -book/open- note (ONLY the textbook, 
+the ProCopy Notes, the lecture slides and other resources post ed to Canvas, and any notes you have taken are 
+allowed, NOT other people or the internet). There is no “final” exam for this class, only four non- cumulative 
+exams, each counting the same amount .  
+ 
+ 
+Grading  
+ 
+A total of 400 points can be earned in this cours e, 100 for the top five quizzes, 120 for the three project 
+submissions, and 180 points for the top three exams ). To obtain your percentage grade, just divide your total 
+points earned by 400. Grades will be  assigned as follows:  
+  
+Percentages  Points  Letter  Percentages  Points  Letter  
+97.00 -100.0  388-400.00  A+  77.00 -79.99  308-319.99  C+  
+93.00-96.99  372-387.99  A  73.00-76.99  292-307.99  C  
+90.00 -92.99  360-371.99  A-  70.00 -72.99  280-291.99  C-  
+87.00 -89.99  348-359.99  B+  67.00 -69.99  268-279.99  D+  
+83.00-86.99  332-347.99  B  60.00 -66.99  240-267.99  D  
+80.00 -82.99  320-331.99  B-  00.00 -59.99  000-239.99  F  
+  
+ 
+ 
+ 
+ How to Succeed in this Class  
+ 
+First and foremost, regular class attendance is critical for good performance. If at all possible , be on time 
+and stay for the entire class, and try your best to stay focused and pay attention. All PowerPoint slides are 
+posted to Canvas prior to class, so there is no need to attempt to write down everything on the slides; in fact, 
+this will likely be counterproductive because if you’re busy doing this you likely won’t be able to pay much 
+attention to what the instructor is saying about the information on those slides.  
+ If it is not possible for you to  make it  to class physically , try to “atte nd” via Teams. Do keep in mind that 
+this is not a virtual class , and if there happen to be technical issues with Teams I will not spend class time 
+trying to get Teams working properly; you are not “owed” access to the class via Teams. Also, I do not monitor 
+the chat during the lecture, so if you ask a question in the chat I will likely not get it unless someone present in 
+the classroom notices and alerts me.  
+ Regarding studying, the ProCopy packet  can be helpful, as well as the quizzes. Often quiz question s will 
+be reworded and put on the exams. If the answer to a True/False question is “ False,” think about what could be 
+changed about the question to make the correct answer be “True.” If the answer to a multiple -choice question is 
+“B,” think about what coul d be changed to make the correct answer one of the other options. Practice Questions 
+will be posted to Canvas prior to each exam --treat these like “practice exams.” After you’ve checked to see 
+which ones you missed, make sure you understand WHY you missed them, and revisit that part of the material 
+in the slides. Do the same with these questions as was mentioned above regarding analyzing each question more 
+deeply and finding ways to make the other answers correct. Exam questions are very similar to  the prac tice 
+questions.  
+ Make sure you start your project assignments early and do a good job on them.  You have more 
+control over your project submission grades than anything else; make these points count. Do not “blow off” the 
+project assignments; this is the Nu mber 1 way students have killed their average in the past.  
+ If you need help, seek it out. GO TO STAT LAB, the TAs are there to help you.  
+ If you are doing all of  the above and still not doing as well as you would like, come and see me during 
+my office hours.  Don’t wait until the last few weeks of class to do this; it’s too late at that point. I may be able 
+to find or provide extra help for a student who seeks it e arly in the semester; there’s nothing I can or will do for 
+you the last week of classes.  
+ 
+ 
+USF GUIDELINES AND POLICIES   
+  
+University Policy On Academic Dishonesty Each individual is expected to earn his or her degree on the basis 
+of personal effort. Consequently, any form of cheating on examinations or plagiarism on assigned papers 
+constitutes unacceptable deceit and dishonesty. This cannot be tolerated in the University community and will be 
+punishable, according to the seriousness of the offense, in conformity with this rule. More information about the 
+policies  regarding academic dishonesty can be obtained  from  
+http://www.ugs.usf.edu/policy/AcademicIntegrityOfStudents.pdf   
+  
+Cheating is defined as follows: (a) the unauthorized granting or receiving of aid during the prescribed period of a 
+course -graded exercise: students may not consult written materials such as notes or books, many not look at the 
+paper of another student, nor consult orally with any other student taking the same test; (b) asking another person 
+to take an examination in his or her place; (c) taking an examination for or in place of another student; (d) stealing 
+visual concepts, such as drawings, sketches, diagrams, musical programs and scores, graphs, maps, etc. and 
+presenting them as  one's own; (e) stealing, borrowing, buying, or disseminating tests, answer keys or other examination material except as officially authorized, research papers, creative papers, speeches, etc.; (f) stealing 
+or copying of computer programs and presenting them as one's own.  
+  
+ 
+University Statement on Delivery of Instruction in event of Emergency  In the event of an emergency, it may 
+be necessary for USF to suspend normal operations. During this time, USF may opt to continue delivery of 
+instruction through met hods that include but are not limited to: CANVAS, Elluminate, Skype, and email 
+messaging and/or an alternate schedule. It’s the responsibility of the student to monitor CANVAS site for each 
+class for course specific communication, and the main USF, College, and department websites, emails, and 
+MoBull messages for important general information.   
+  
+Final Examinations Policy  All final examinations are to be scheduled in accordance with the University's final 
+examination policy. http://www.ugs.usf.edu/policy/Fi nalExams.pdf   
+  
+General Attendance Policy  Information about the general attendance policy at USF may be obtained from the 
+following link: http://www.ugs.usf.edu/policy/GeneralAttendance.pdf   
+  
+Early Notification Requirement for Observed Religious Days “No student shall be compelled to attend class 
+or sit for an examination at a day or time prohibited by his or her religious belief. In accordance with the University 
+policy on observance of religious holy days, students are expected to notify their instructor s if they intend to be 
+absent for a class or announced examination prior to the scheduled meeting.” Students must provide notice of the 
+date(s) to the instructor, in writing, at the beginning of the term. http://www.ugs.usf.edu/policy/ReligiousDays.pdf   
+ 
+Disruption of the Academic Process Information about this policy may be obtained from the following link:  
+http://www.ugs.usf.edu/policy/DisruptionOfAcademicProcess.pdf   
+  
+Student Academic Grievance Procedures Information about the policies regarding student academic grievance 
+procedures may be obtained from the following link: 
+http://www.ugs.usf.edu/policy/StudentAcademicGrievanceProcedures.pdf   
+  
+Students with Disabilities  Students with disabilities are responsible for registering with Students with Disabilities 
+Services (SDS) in order to receive academic accommodations. SDS encourages students to notify instructors of 
+accommodation needs at least 5 business days prior to n eeding the accommodation. A letter from SDS must 
+accompany this request. Contact SDS at 813- 974-4309 or www.sds.usf.edu  
+  
+Grades of “incomplete”  The current university policy concerning incomplete grades will be followed in this 
+course. Incomplete grades are given only in extreme situations where unexpected emergencies prevent a student 
+from completing the course and the remaining work can be completed in the next semester. Your instructor is the 
+final authority on whether you qualify for an incomplete. In complete work must be finished by the end of the 
+subsequent semester. If work is not finished by this deadline university policy is that the “I” automatically reverts 
+to an “F”.  
+  
+Sexual misconduct/sexual harassment  USF is committed to providing an environment free from sex 
+discrimination, including sexual harassment and sexual violence (USF System Policy 0- 004). The USF Center for 
+Victim is a confidential resource where you can talk about incidents of sexual harassment and gender -based crimes 
+including se xual assault, stalking, and domestic/relationship violence. This confidential resource can help you without having to report your situation to either the Office of Student Rights and Responsibilities (OSSR) or the 
+Office of Diversity, Inclusion, and Equal Opportunity (DIEO), unless you request that they make a report. Please 
+be aware that in compliance with Title IX and under the USF System Policy, educators must report incidents of 
+sexual harassment and gender -based crimes including sexual assault, stalkin g, and domestic/relationship violence. 
+If you disclose any of these situations in class, in papers, or to me personally, I am required to report it to OSSR 
+or DIEO for investigation. Contact the USF Center for Victim Advocacy and Violence Prevention: (813)  974-
+5757.  
+ 
+ 
+ 

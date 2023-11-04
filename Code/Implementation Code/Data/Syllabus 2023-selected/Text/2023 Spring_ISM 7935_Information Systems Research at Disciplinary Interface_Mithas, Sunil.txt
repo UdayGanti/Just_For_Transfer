@@ -1,0 +1,980 @@
+Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         1 of 18 
+ 
+ 1  
+Syllabus1 
+ISM 7935:  Information Systems Research at Disciplinary Interfaces  
+Spring 2023  
+Meeting time/ dates: Fridays , 5-845 pm; Meets: 2/6 -5/4/23 (12 weeks)  Tentative  and subject to 
+change  
+Venue: CIS 2074 
+School of Information Systems and Management  
+Muma College of Business, University of South Florida 
+ 
+Professor: Dr. Sunil Mithas                                                                           
+E-mail: smithas@usf.edu                                                                     
+Website:  https://www.usf.edu/business/about/bios/mithas -sunil.aspx  
+Office: CIS 2061       
+Office Hours: By appoint ment  
+ 
+University Course Description: Verbatim from USF’s course inventory  
+The purpose of this seminar is to familiarize you with the current academic discourse involving 
+information systems and related areas for you to conduct or inform your independent research in these 
+areas. We will focus on some major areas that I believe offer interesting and significant opportunities 
+to identify and tackle some first -order questions.  
+(Source:  https://usfweb.usf.edu/academic -programs/details/prefix/ISM/code/7935 )2 
+ 
+Course Prerequisites:  Verbatim from the catalog   
+None , Permission Required for Enrollment  
+ 
+ 
+COURSE OBJECTIVE  
+This course offers a survey of current research involving information systems. The purpose of this seminar is 
+to familiarize you with the current academic discourse involving information systems and related areas for 
+you to conduct or inform  your independent research in these areas. We will focus on some major areas that I  
+believe offer interesting and significant opportunities  to identify and tackle some first -order questions.   
+ 
+STUDENT LEARNING OUTCOMES  
+After taking this course, students  should be able to:   
+ Describe current academic discourse and empirical research in selected domains to critically evaluate 
+theoretical arguments, use or critique these arguments in their research, and evaluate the links between 
+theoretical arguments and empirical methods  
+ Explore and develop research ideas to internalize what they learn through r eadings and discussions 
+and to make progress towards publishing the most promising ideas   
+ 
+ASSIGNED READINGS   
+I have selected some readings to give you an exposure to theories, concepts, and empirical work to present an 
+overview of a particular research stream. Most of the required readings should be available electronically 
+through the library, and instructor will provide any readings or other working papers that you are unable to 
+locate there.  
+ 
+                                                 
+1 The syllabus is tentative and subject to change. Any changes will be announced in class and/or documented via 
+Canvas/email. We will discuss any changes to schedule if there are any scheduling conflicts that the instructor may run 
+into over the semester. Some sessions may be conducted using Teams.  
+2  http://ugs.usf.edu/course -inventory/   Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         2 of 18 
+ 
+ 2 COURSE STRUCTURE AND CONDUCT  
+The class will be highly inter active and discussion -oriented. It is required that all participants complete all 
+required readings prior  to coming to class. Assuming no legitimate reason, failure to do the readings will result 
+in the participant being excused from the class meeting and docked one letter grade each time.  In order to 
+achieve our goal, it is not sufficient to simply read the articles but t o think about them critically. Often this 
+requires readin g the articles more than once.  
+ 
+Grading  
+ 
+The final grade will be based on performance on summary of papers assigned to you, your performance 
+as a session discussant, class participation, and term paper. Late assignments are not accepted.  
+ 
+ 30% : Session summaries and class participation  
+While all  students are expected to read all papers and contribute to discussion in each class, 
+each student will lead the discussion for his or her assigned papers.  In the lead role, the 
+student in charge of a particular paper should bring a 1- 2 page summary of th e assigned 
+paper(s) to class.  In general, such a summary should provide a brief overview of the research 
+questions, theoretical framework, hypotheses, what authors found, contributions, relationship 
+of the paper with other papers and findings, and potenti al extensions (or future research that 
+can overcome the limitations of that paper).  Talk about both positives and negatives of the 
+paper and offer your conjectures on why the paper was published or what may make this paper 
+publishable (if it is a working paper). I certainly want to see a section on some “doable” future 
+research projects that will extend or improve what this paper was trying to do. Just a summary 
+and “copy and paste” of paper’s tables and figures is not acceptable-- we are looking for your 
+critique and value added comments . Students will bring hard copies of their summary for 
+everyone to the class and post a soft copy of the summary on course website.   
+ 
+You are expected to have a healthy skepticism in critiquing a paper, but I also encourage  you 
+to be “constructive” and always have a remedial and reasonable suggestion accompanying 
+your critique that will make a paper better or how future research can overcome the limitations 
+of the paper that you will be discussing.  Being positive does not, however, mean that we will 
+shy away from discussing what may be considered as flaws in theoretical justifications, 
+empirical aspects or writing. But whenever you point to those, tell us how you would have 
+approached those issues given the same research question and the data to which authors had 
+access.   
+ 
+Beyond leading the discussion of the paper assigned to you, each of you should identify the 
+unifying themes of that week’s readings to develop a mental map of the “state of the art” in 
+that area to identif y potential dis sertation topics that will significantly advance that stream of 
+work.  
+ 
+• 70% : Term Paper  
+ 
+Develop an original research proposal or paper (not more than 20 pages double spaced with 
+Tables, Figures and References) on any phenomenon of your lik ing that addresses some IT 
+related issue (broadly construed). Your paper must address the following issues:  
+ 
+1. What is the research question? Why is it interesting? How will an answer to this 
+question change how we think about that issue theoretically or how we may like to 
+manage that particular issue in a better way than we otherwise would? Discuss both 
+theoretical and managerial relevance very briefly. [Introduction]  
+2. How has it been studied in the prior literature? What is your research model and how 
+do your hypotheses make new theoretical or empirical contributions? [Literature 
+Review, Research Model]  
+3. How will you test your hypotheses? [Research Method or Design]  Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         3 of 18 
+ 
+ 3 4. What results do you expect to find or have found? [Results]  
+5. What is unique, new and valuable about your proposed study? What are the key 
+contributions? What are the research and managerial implication s? What are the 
+limitations of your proposed study? How can you extend your research further? 
+[Discussion, Limitations and Suggestions for Future Research]  
+ 
+ 
+Please be prepared to report your progress every week in class and incorporate the feedback 
+from instructor and classmates to continuously improve your work.   
+ 
+ 
+GRADING SCALE  
+ 
+Grading scale:  A+: Over 95%, A: 93 -95%, A -: 90-93%, B+: 87- 90%, B: 83- 87%, B -: 80-83%, C+: 77- 80%, 
+C: 73 -77%, C -: 70-73%, D+: 67- 70%, D: 63- 67%, D -: 60-63%, F: Below 60%  
+ 
+Stude nts typically earn B letter grades for good performance and for meeting all expectations; the A grades 
+are for extraordinarily excellent performance when students exceed expectations. The final letter grades will 
+be based on the distribution of course poin ts at the end of the semester and instructor’s overall assessment of 
+your performance relative to your classmates.   
+ 
+ 
+About the Instructor  
+ 
+Sunil Mithas  is a World Class Scholar and Professor at the Muma College of Business at the University of 
+South Florida. He also serves as Director (Rankings and Reputation) at the Muma College of Business. 
+Previously, Sunil was the Ralph J. Tyser Professor of Informat ion Systems at the Robert H. Smith School of 
+Business at the University of Maryland, where he served as Associate Chair, and co -directed two Centers 
+namely Center for Digital Innovation, Technology and Strategy and the Center for Excellence in Service. He 
+is a Visiting Professorial Fellow at the UNSW Business School, Sydney, and has held visiting positions at 
+the University of California, Davis,  UNSW, University of Mannheim, and HKUST, Hong Kong. Identified 
+as an MSI Young Scholar by the Marketing Science Institute, Sunil is a Distinguished Fellow of the 
+Information Systems Society of INFORMS, and ranks among the foremost information systems scholars in 
+the world. He is the author of two books, and h is research published in top journals and conferences have  
+won multiple best -paper awards, and  featured in practice -oriented publications such as the MIT Sloan 
+Management Review, Management Business Review, and Bloomberg.  Mithas serves as a Senior Editor of 
+MIS Quarterly and Department Editor of Production and O perations Management , and an Editorial Board 
+member at the Journal of Management Information Systems . Earlier he served on the Editorial Board of 
+Information Systems Research . He has consulted and conducted research with a range of organizations 
+including A. T. Kearney, EY, Johnson & Johnson, the Social Security Administration, U.S. Census Bureau, 
+and the Tata Group. H e is a frequent keynote speaker in corporate and academic settings. Mithas had a 
+decade- long successful career in the corporate world in engi neering, marketing, and general management 
+positions before he dedicated himself to an academic career. He earned his PhD from the Ross School of 
+Business at the University of Michigan and an engineering degree from IIT, Roorkee.  
+More details are at https://www.usf.edu/business/about/bios/mithas -sunil.aspx  
+ 
+ 
+  Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         4 of 18 
+ 
+ 4 Session -wise Meeting Plan  
+We will only discuss the readings marked with an asterisk in this course, other papers are listed for your 
+contextual awareness and convenience and we may discuss them briefly if time permits. If you have read 
+any of the assigned papers (those with asterisk) in some other seminar then let me know promptly and 
+depending on the composition of the class and in what context you may have read that paper, I will decide 
+whether to still discuss that paper or some other paper (feel free to suggest a better substitute). I may 
+add/delete/modify some readings as the course progresses, or ch ange the sequence of sessions as I get a 
+better sense of your interests and needs. I encourage you to share and point to other readings that you think 
+add to this course or reinforce or provide an alternative perspective.  
+ 
+Session 1:  Overview and Orientat ion  
+ 
+Read syllabus, and the readings marked with asterisk for class 1. Please post any deliverable 
+to course website under Assignments.  
+ 
+*Tarafdar, M., Shan, G., Thatcher, J. B., and Gupta, A. 2022. "Intellectual Diversity in IS Research: 
+Discipline -Based  Conceptualization and an Illustration from Information Systems Research," 
+Information Systems Research  (33:4), pp. 1490- 1510 
+ 
+*Tarafdar, M., and Davison, R. M. 2018. "Research in information systems: Intra -disciplinary and 
+inter-disciplinary approaches," Journal of the Association for Information Systems  (19:6), pp. 523-
+551 
+ 
+*Sidorova, A., Evangelopoulos, N., Valacich, J., and Ramakrishnan, T. 2008. "Uncovering the 
+intellectual core of the information systems discipline," MIS Quarterly  (32:3), pp. 467- 482 
+ 
+*Jain, H., Padmanabhan, B., Pavlou, P. A., and Santanam, R. T. 2021. "Editorial for the Special 
+Section on Humans, Algorithms, and Augmented Intelligence: The Future of Work, Organizations, 
+and Society," Information Systems Research  (32:3), pp. 675- 687 
+ 
+ISR cfp  (31 Oct 2023) : Analytical Creativity: https://pubsonline.informs.org/page/isre/calls -for-
+papers  
+ 
+Misq cfp  (1 July 2023) : Registered reports:  
+https://misq.umn.edu/call_for_papers/registered- reports  
+ 
+Leidner, D. E. 2020. "What's in a contribution?," Journal of the Association for Information Systems  
+(21:1), pp. 238- 245 
+ 
+Kinney,  W. R. 2019. "The Kinney three paragraphs (and more) for accounting Ph.D. students," 
+Accounting Horizons  (33:4), pp. 1- 14 
+ 
+ 
+Session 2:  Opportunities for Research at the IT and Strategy  Interface 
+ 
+Come to class with at least three "interesting" research topics, write these three topics in three 
+separate paragraphs explaining your key idea (1 -2 pages).  
+ 
+*Yang, Y., Liu, C.- W., and Mithas, S. 2022. "Dual Information Technology Strategy and Firm 
+Performance: Insights from a Deep Learning Approach," in: Workin g paper, HKUST  
+ 
+*Bharadwaj, A., El Sawy, O., Pavlou, P., and Venkatraman, N. 2013. "Digital Business Strategy: 
+Toward a Next Generation of Insights," MIS Quarterly  (37:2), pp. 471- 482 
+ Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         5 of 18 
+ 
+ 5 *Mithas, S., and Rust, R. T. 2016. "How Information Technology Strategy and Investments Influence 
+Firm Performance: Conjectures and Empirical Evidence," MIS Quarterly  (40:1), pp. 223- 245 
+ 
+*Tan, B., Ng, E., Hamedani, M. F., Mithas, S., and Tan, F. 2020. "Surviving in the Networked 
+Economy: Configurations of Competitive Strategies for Platform Resilience," in: Working paper, 
+University of Sydney. Sydney  
+ 
+Park, Y., and Mithas, S. 2020. "Organi zed Complexity of Digital Business Strategy: A 
+Configurational Perspective," MIS Quarterly  (44:1), pp. 85- 127 
+ 
+Mithas, S., Tafti, A. R., and Mitchell, W. 2013. "How a Firm’s Competitive Environment and 
+Digital Strategic Posture Influence Digital Business S trategy," MIS Quarterly  (37:2), pp. 511- 536 
+ 
+Saldanha, T., Lee, D., and Mithas, S. 2020. "Aligning Information Technology and Business: The 
+Differential Effects of Alignment During Investment Planning, Delivery, and Change," Information 
+Systems Research  (31:4), pp. 1260- 1281 
+ 
+Mithas, S., Park, Y., and Saldanha, T. 2020. "Digital Strategy, and Discretionary Expenditures: 
+Novel Insights From a Configurational Approach," Academy of Management Annual Meeting (7- 11 
+August 2020) , Vancouver, Canada  
+ 
+Mithas, S., and Park, Y. 2019. "On Generalizability of Configurations of Digital and Organizational 
+Capabilities for High Performance: Evidence from India and United States," Proceedings of the 
+INFORMS Conference on Information Systems and Technology  2019 (Oct 19 -20), M. Fan, S. Hill, 
+S. Ransbotham, R. Santanam, V. Todri and H. Zhang (eds.), Seattle, WA: Information Systems 
+Society.  
+ 
+Dhyne, E., Konings, J., Van den bosch, J., and Vanormelingen, S. 2021. "The return on 
+information technology: Who benefits m ost?," Information Systems Research (32:1), pp. 
+194-211.  
+ 
+ 
+ 
+Session 3 :  Opportunities for Research at the IT and Marketing Interface  
+ 
+Improve your term -paper write -up and research design continually.  
+ 
+*Yadav, M., and Pavlou, P. 2014. "Marketing in Computer -Mediated Environments: Research 
+Synthesis and New Directions," Journal of Marketing (78:1), pp. 20- 40 
+*Mithas, S., Krishnan, M. S., and Fornell, C. 2016. "Information Technology, Customer Satisfaction, 
+and Profit: Theory a nd Evidence," Information Systems Research  (27:1), pp. 166- 181 
+*Anderson, E.W., Fornell, C., and Rust, R.T. "Customer satisfaction, productivity, and profitability: 
+Differences between goods and services," Marketing Science (16:2) 1997, pp 129- 145 
+ 
+*Morges on, F. V., Hult, G. T. M., Mithas, S., Keiningham, T. L., and Fornell, C. 2020. "Turning 
+Complaining Customers into Loyal Customers: Moderators of the Complaint Handling – Customer 
+Loyalty Relationship," Journal of Marketing (84:5), pp. 79- 99 
+ 
+Srinivasan, S., and Hanssens, D. M. 2022. "Marketing and firm value," Foundations and 
+Trends in Marketing (17:2), pp. 57- 138 
+ Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         6 of 18 
+ 
+ 6 Tuli, K., and Bharadwaj, S. "Customer Satisfaction and Stock Returns Risk" Journal of Marketing 
+(73:Nov) 2009, pp 184- 197. 
+ 
+Lariviere, B., Kei ningham, T. L., Aksoy, L., Yalcin, A., Morgeson, F. V., and Mithas, S. 2016. 
+"Modeling Heterogeneity in the Satisfaction, Loyalty Intention and Shareholder Value Linkage: A 
+Cross -Industry Analysis at the Customer and Firm Level," Journal of Marketing Resea rch (53:1), pp. 
+91-109 
+Hult, G. T. M., Morgeson, F. V., Morgan, N., Mithas, S., and Fornell, C. 2017. "Do managers know 
+what their customers think and why?," Journal of the Academy of Marketing Science  (45:1), pp. 37-
+54 
+Pang, M.- S., Mithas, S., and Lucas, H. C. 2017. "High -Touch and High- Tech Strategies for 
+Delivering Government Services and Recovering from Service Failures," in: Working 
+Paper, Fox School of Business, Temple University  
+ 
+Morgeson, F.V., Mithas, S., Keiningham, T.L., and Aksoy, L. "An Investi gation of the Cross -
+National Determinants of Customer Satisfaction," Journal of the Academy of Marketing Science 
+(39:2) 2011, pp 198- 215 
+ 
+Mithas, S., Krishnan, M.S. and Fornell, C. "Why Do Customer Relationship Management 
+Applications Affect Customer Satis faction?" Journal of Marketing (69:4) 2005, pp 201- 209. 
+ 
+Srinivasan, S., and Hanssens, D.M. "Marketing and firm value: Metrics, methods, findings, and 
+future directions," Journal of Marketing Research (XLVI:June) 2009, pp 293- 312 
+ 
+Anderson, E.W., and Mansi , S.A. "Does Customer Satisfaction Matter to Investors? Findings from 
+the Bond Market," Journal of Marketing Research (43:5) 2009  
+ 
+Morgeson, F.V., Van Amburg, D., and Mithas, S. "Misplaced Trust? Exploring the Structure of the 
+E-Government -Citizen Trust Re lationship," Journal of Public Administration Research and Theory  
+(21:2) 2011, pp 257- 283 
+ 
+Morgeson, F.V., and Mithas, S. "Does E -Government Measure up to E -Business? Comparing End -
+User Perceptions of U.S. Federal Government and E -Business Websites," Public 
+Administration Review  (69:4) 2009, pp 740- 752. 
+ 
+ 
+Session 4:  Opportunities for Research at the IT and Innovation  Interface 
+ 
+Do a brief literature review on the most promising idea from the last class to make a case why 
+your idea, if pursued, will ma ke an important contribution. Also identify at least one 
+background/exemplar paper that relates to your idea in some way. Develop a Table that contrasts 
+your study with 3 -4 prior studies explaining your novel/incremental contribution.  
+ 
+Submit front end of  the paper with an interesting title, Abstract, Introduction, Background and 
+Theory section with research model, and 2 -3 formal hypotheses (3 -5 pages).  
+ 
+ 
+*Foerderer, J., Kude, T., Mithas, S., and Heinzl, A. 2018. "Does Platform Owner's Entry Crowd Out 
+Innovation? Evidence from Google Photos," Information Systems Research  (29:2), pp. 444- 460 
+ 
+*Ravichandran, T., Han, S., and Mithas, S. 2017. "Mitigating Diminishing Returns to R&D: The 
+Role of Information Technology in Innovation," Information Systems Research  (28:4), pp. 
+812-827 
+ Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         7 of 18 
+ 
+ 7 *Huang, P., Tafti, A., and Mithas, S. 2018. "Platform Sponsor’s Investments and User Contributions 
+in Knowledge Communities: The Role of Knowledge Seeding," MIS Quarterly  (42:1), pp. 213- 240 
+ 
+*Saldanha, T., Sahaym, A., Mithas, S., Andrade Rojas, M. G., Kathuria, A., and Lee, H.- H. 2020. 
+"Turning Liabilities of Global Operations  Into Assets: IT -enabled Social Integration Capacity and 
+Exploratory Innovation," Information Systems Research  (31:2), pp. 361- 382 
+ 
+Saldanha, T., et al. (2021). "How Information and Communication Technology Shapes the 
+Influence of Culture on Innovation: A Country -level Analysis." Journal of Management 
+Information Systems  38(1): 108- 139 
+ 
+Saldanha , T., Mithas, S., and Krishnan, M. S. 2017. "Leveraging Customer Involvement for Fueling 
+Innovation: The Role of Relational and Analytical Information Processing Capabilities," MIS 
+Quarterly  (41:1), pp. 267- 286 
+ 
+Rahmati, P., Tafti, A., Mithas, S., & Sachde v, V. (2021). How Does Positioning of Information 
+Technology Firms in Strategic Alliances Influence Returns to R&D Investments? Journal of 
+the Association for Information Systems , 22(2), 383- 417 
+  
+Nambisan, S., Lyytinen, K., Majchrzak , A., and Song, M. 2017. "Digital innovation management: 
+Reinventing innovation management research in a digital world," MIS Quarterly  (41:1), pp. 
+223-238 
+ 
+Gómez, J., Salazar, I., and Vargas, P. 2017. "Does Information Technology Improve Open 
+Innovation Pe rformance? An Examination of Manufacturers in Spain," Information Systems 
+Research  (28:3), pp. 661- 675 
+ 
+Tambe, P.B., Hitt, L.M., and Brynjolfsson, E. "The Extroverted Firm: How External Information 
+Practices Affect Innovation and Productivity," Management Science (58:5) 2012, pp 843-
+859 
+ 
+Fichman, R.G., Dos Santos, B.L., and Zheng, Z.E. "Digital innovation as a fundamental and 
+powerful concept in the information systems curriculum," MIS Quarterly  (38:2) 2014, pp 
+329-353 
+ 
+Session 5:  Opportunities for Research at the IT and Ambidexterity  Interface 
+ 
+Revise and Refine the front end of the paper with an interesting title, Abstract, Introduction, 
+Background and Theory section with research model, and 2 -3 formal hypotheses. Add a more 
+detailed justification of hypo theses, at least 2 -3 mechanisms for each hypothesis, about 1 page per 
+hypothesis (4 -5 pages).  
+ 
+ 
+*Raisch, S., and Birkinshaw, J. 2008. "Organizational ambidexterity: Antecedents, outcomes and 
+moderators," Journal of Management  (34:3), pp. 375- 409 
+ 
+*O'Reilly III, C. A., and Tushman, M. L. 2013. "Organizational ambidexterity: Past, present, 
+future," Academy of Management Perspectives (27:4), pp. 324- 338 
+ 
+*Kude, T., Mithas, S., Schmidt, C. T., and Heinzl, A. 2019. "How Pair Programming Influences 
+Team Performance: The Role of Backup Behavior, Shared Mental Models, and Task 
+Novelty," Information Systems Research  (30:4), pp. 1145- 1163 
+ Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         8 of 18 
+ 
+ 8 *Lee, O.- K., Sambamurthy, V., Lim, K. H., and Wei, K. K. 2015. "How does IT ambidexterity 
+impact organizational agility?," Information Systems Research  (26:2), pp. 398- 417 
+ 
+Liu, C.- W., Kude, T., and Mithas, S. 2015. "How Strategy and Governance Choices Influence 
+Innovation Succe ss in Software Products and Services," Proceedings of the 35th 
+International Conference on Information Systems (Dec 13- 16), T. Carte, A. Heinzl and C. 
+Urquhart (eds.), Forth Worth, Texas: Association for Information Systems  
+ 
+Tiwana, A. 2010. "Systems Devel opment Ambidexterity: Explaining the Complementary and 
+Substitutive Roles of Formal and Informal Controls " Journal of Management Information 
+Systems (27:2), pp. 87- 126 
+ 
+Gregory, R. W., Keil, M., Muntermann, J., and Mahring, M. 2015. "Paradoxes and the nat ure of 
+ambidexterity in IT transformation programs," Information Systems Research  (26:1), pp. 57-
+80 
+ 
+Mithas, S., Whitaker, J., Lee, D., Srivastava, S. C., and Arora, R. 2015. "Managing Trade -offs in 
+Innovation Outcomes: Evidence from a Leading Conglomerate ,"  
+ 
+Birkinshaw, J., and Gibson, C. "Building ambidexterity," MIT Sloan Management Review  (Summer) 
+2004, pp 47- 55 
+ 
+Kude, T., Foerderer, J., Mithas, S., &  Heinzl, A. (2022). How Deadline Orientation and Architectural 
+Modularity Influence Software Quality and Job Satisfaction. Journal of Operations Management , 
+Forthcoming  
+ 
+Session 6:  Opportunities for Research at the IT and Operations/ SCM Interface  
+ 
+Each student will have 10 -15 minutes to present his or her preliminary research proposals to 
+the class so far. As a class, we will discuss each research idea and provide feedback and 
+suggestions. 
+ 
+Begin to identify and collect some preliminary data or think abo ut research design/ 
+econometric issues.  
+ 
+Kumar, S., and Tang, C. S. 2022. "Expanding the boundaries of the discipline: The 30th-
+anniversary issue of Production and Operations Management," Production and Operations 
+Management  (31:12), pp. 4257- 4261 
+ 
+*Mithas, S., Chen, Z. -L., Saldanha, T., & Silveira, A. D. O. (2022). How Will Artificial Intelligence 
+and Industry 4.0 Emerging Technologies Transform Operations Management? . Production and 
+Operations Management  (31) pp. 4475- 4487  
+ 
+*Eroglu, C., and Hofer, C. 2011. "Lean, leaner, too lean? The inventory- performance link revisited," 
+Journal of Operations Management  (29), pp. 356- 369. 
+ 
+*Eroglu, C., and Hofer, C. 2014. "The effect of environmental dynamism on returns to inventory 
+leanness," Journal of Operatio ns Management  (32), pp. 347- 356 
+ 
+*Mithas, S., Tafti, A., and Lee, D. 2020. "Information Technology Investments, Inventories and Firm 
+Performance," in: Working Paper  
+ 
+Kumar, S., Mookerjee, V., and Shubham, A. 2018. "Research in operations management and 
+information systems interface," Production and Operations Management  (27:11), pp. 1893- 1905 Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         9 of 18 
+ 
+ 9  
+Khuntia, J., Saldanha, T., Mithas, S., and Sambamurthy, V. 2018. "Information Technology and 
+Sustainability: Evidence from an Emerging Economy," Production and Operat ions Management  
+(27:4), pp. 756- 773 
+ 
+Chen, H., Frank, M. Z., and Wu, O. Q. 2005. "What actually happened to the inventories of American 
+companies between 1981 and 2000?," Management Science  (51:7), pp. 1015- 1031 
+ 
+Gaur, V., Fisher, M. L., and Raman, A. 2005. "An Econometric Analysis of Inventory Turnover 
+Performance in Retail Services," Management Science  (51:2), pp. 181- 194 
+ 
+Duan, Y., Yao, Y., and Huo, J. 2015. "Bullwhip effect under substitute products," Journal of 
+Operations Management  (36), pp. 75- 89 
+Mishra, S., Modi, S., and Animesh, A. 2013. "The Relationship between Information Technology 
+Capability, Inventory Efficiency, and Shareholder Wealth: A Firm -Level Empirical Analysis," 
+Journal of Operations Management  (31:6), pp. 298- 312 
+ 
+Campo, K., Gijsbrechts, E., and Nisol, P. 2003. "The impact of retailer stockouts on whether, how 
+much, and what to buy," International Journal of Research in Marketing (20:3), pp. 273- 286 
+ 
+Adjerid, I., Adler -Milstein, J., and Angst,  C. 2018. "Reducing Medicare Spending Through Electronic 
+Health Information Exchange: The Role of Incentives and Exchange Maturity," Information Systems 
+Research  (29:2), pp. 341- 361 
+ 
+Mithas, S., and Jones, J. L. 2007. "Do Auction Parameters Affect Buyer Surplus in E -Auctions for 
+Procurement?," Production and Operations Management  (16:4), pp. 455- 470 
+ 
+Whitaker, J., Mithas, S., and Krishnan, M. S. 2007. "A Field Study of RFID Deployment and Return 
+Expectations," Production and Operations Management  (16:5), pp. 599- 612 
+ 
+Mithas, S., Jones, J.L. and Mitchell, W. "Buyer intention to use Internet -enabled reverse auctions:  
+The role of asset specificity, product specialization, and non- contractibility," MIS Quarterly (32:4) 
+2008, pp 705- 724 
+ 
+Khuntia, J., Mithas, S., and Agarwal, R. 2017. "How Service Offerings and Operational Maturity 
+Influence the Viability of Health Information Exchanges," Production and Operations Management  
+(26:11), pp. 1989- 2005  
+ 
+Bardhan, I. R., Mithas, S., and Lin, S. 2007. "Performance Impacts  of Strategy, Information 
+Technology Applications, and Business Process Outsourcing in US Manufacturing Plants," 
+Production and Operations Management  (16:6), pp. 747- 762 
+ 
+Session 7: Opportunities for Research at the IT and HR/ Labor Economics Interface  
+ 
+Improve your term -paper write -up and research design continually.  
+ 
+*Engelen, A., Rieger, V., Wehner, C., M., and Heidemann, F. 2022. "Is organizational commitment 
+to IT good for employees? The role of industry dynamism and concentration," MIS Quarterly  (46:4), 
+pp. 2387- 2404 
+ 
+*Tambe, P. B., Ye, X., and Cappelli, P. 2020. "Paying to Program? Engineering Brand and High- Tech 
+Wages," Management Science  (66:7), pp. 3010- 3028 
+ Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         10 of 18 
+ 
+ 10 *Mithas, S., Liu, C., and Kadian, A. 2020. "How No- Poaching Collusion among Big Tech Firms 
+Influences Wages of IT Professionals: Theory and Evidence," Workshop on Information Systems 
+Economics (WISE), Dec 16- 19, Hyderabad, India  
+ 
+*Mithas, S., Chen, Y., Liu, C., &  Han, K. (2022). Are Foreign and Domestic Information Technology 
+Professionals Complements or Substitutes? . MIS Quarterly  (46:4), pp. 2351- 2366  
+ 
+Langer, N., Gopal, R., and Bapna, R. 2020. "Onward and Upward? An Empirical Investigation of 
+Gender and Promot ions in Information Technology Services,"  Information Systems Research  (31:2), 
+pp. 383- 398 
+ 
+Mehra, A., Langer, N., Bapna, R., and Gopal, R. 2014. "Estimating returns to training in the 
+knowledge economy: A firm -level analysis of small and medium enterprise s," MIS Quarterly  (38:3), 
+pp. 757- 771 
+ 
+Malgonde, O., Saldanha, T., & Mithas, S. (2022). Resilience in the Open Source Software 
+Community: How Pandemic and Unemployment Shocks Influence Contributions to Others’ 
+and One’s Own Projects. MIS Quarterly , Forthcoming 
+ 
+Tafti, A., Rahmati, P., Mithas, S., & Krishnan, M. S. (2022). How Human Resource and IS Practices 
+Amplify the Returns on IT Investments, Journal of the Association for Information Systems , 
+23(5), 1150- 1183. https://doi.org/10.17705/1jais.00758  
+ 
+Ge, C., Goh, K. Y., and Mithas, S. 2020. "How Do STEM Degrees Influence Geographic, Industry, 
+Occupation, and Upward Mobility of IT Workers?," Proceedings of the INFORMS Conference on 
+Information Syst ems and Technology  2021 (Nov 7- 8), J. Bockstedt, W.W. Duan, R. Garg, P. Huang, 
+M. Lin and L. Rhue (eds.), Washington, DC: Information Systems Society  
+ 
+Mithas, S., and Lucas, H.C. "Are Foreign IT Workers Cheaper? U.S. Visa Policies and Compensation 
+of Information Technology Professionals," Management Science  (56:5) 2010, pp 745- 765 
+ 
+Mithas, S., and Krishnan, M. S. 2008. "Human Capital and Institutional Effects in the Compensation 
+of Information Technology Professionals in the United States," Management Science (54:3), pp. 415-
+428 
+ 
+Whitaker, J., Mithas, S., and Liu, C.- W. 2019. "Beauty is in the Eye of the Beholder: Toward a 
+Contextual Understanding of Compensation for IT Professionals Within and Across Geographies," 
+Information Systems Research  (30:3), pp. 892- 911 
+ 
+Mithas, S., and Whitaker, J. "Is the World Flat or Spiky? Information Intensity, Skills and Global 
+Service Disaggregation," Information Systems Research  (18:3) 2007, pp 237- 259 
+ 
+Kim, K., Mithas, S., Whitaker, J., and Roy, P.K. "Industry- Specifi c Human Capital and Wages: 
+Evidence from the Business Process Outsourcing Industry," Information Systems Research  (25:3) 
+2014, pp 618- 638 
+ 
+Atasoy, H., Banker, R. D., and Pavlou, P. A. 2016. "On the longitudinal effect of IT use on firm -level 
+employment," I nformation Systems Research  (27:1), pp. 6- 26 
+ 
+Kerr, W.R., and Lincoln, W.F. "The supply side of innovation: H -1B visa reforms and US ethnic 
+invention," Journal of Labor Economics  (28:3) 2010, pp 473- 508 
+ 
+Tambe, P.B., and Hitt, L.M. "Now IT's personal: Offs horing and the shifting skill composition of the 
+US information technology workforce," Management Science (58:4) 2012, pp 678- 695 
+ Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         11 of 18 
+ 
+ 11 Simon, H. A. 1960. "The corporation: Will it be managed by machines?," in Management and the 
+Corporations 1985, M.L. Anshen a nd G.L. Bach (eds.). New York: McGraw -Hill, pp. 17- 55 
+ 
+Kerr, S.P., and Kerr, W.R. "Economic impacts of immigration: A survey," Finnish Economic Papers  
+(24:1) 2011, pp 1- 32. 
+ 
+Friedberg, R.M., and Hunt, J. "The impact of immigrants on host country wages, employment and 
+growth," Journal of Economic Perspectives  (9:2) 1995, pp 23- 44 
+ 
+Freeman, R.B. "People flows in globalization," Journal of Economic Perspective (20:2) 2006, pp 145-
+170. 
+ 
+Matloff, N. "On the need for reform of the H -1B non- immigrant work visa in computer -related 
+occupations," University of Michigan Journal of Law Reform  (36:4) 2003, pp 815- 914 
+ 
+Orrenius, P.M., and Zavodny, M. "Does immigration affect wages? A look at occupation- level 
+evidence," Labour Economics  (14) 2007, pp 757- 773 
+ 
+ 
+Session 8:  Opportunities for Research at the IT and Finance Interface  
+ 
+Improve your term -paper write -up and research design continually.  
+ 
+*Liu, C.- W., Mithas, S., Pan, Y., and Hsieh, J. J. P.- A. 2020. "Mobile Apps and Portfolio Diversity: 
+Evidence from a Quasi -Natura l Experiment in China," in: Working Paper, University of South 
+Florida. Tampa  
+ 
+*Odean, T. 1999. "Do investors trade too much?," American Economic Review  (89:5), pp. 1279- 1298. 
+ 
+*Aboody, D., and Lev, B. "Information asymmetry, R&D, and insider gains," Journal of Finance  (6) 
+2000, pp 2747- 2766 
+ 
+*McAlister, L., Srinivasan, R., and Kim, M. "Advertising, Research and Development, and Systematic 
+Risk of the Firm," Journal of Marketing (71:1) 2007, pp 35- 48 
+ 
+Ge, R., Zheng, Z. E., Tian, X., and Liao, L. 2021. "Human -Robot Interaction: When Investors Adjust 
+the Usage of Robo -Advisors in Peer -to-Peer Lending," Information Systems Research  (Forthcoming)  
+ 
+Shiller, R. J. 2004. "Speculative asset prices," American Economic Review  (104:6), pp. 1486- 1517 
+ 
+Liu, C.- W., H sieh, J. P.- A., Mithas, S., and Pan, Y. 2020. "Do Financial Advisors Matter? Online 
+Channels and Investors’ Holdings of Lottery- like Securities," in: Working paper, Indiana University  
+Pan, Y., Mithas, S., Hsieh, J. J. P.- A., and Liu, C.- W. 2020. "The Online Channel, Trading Behavior, 
+and Customer Profitability in Financial Services: Evidence from an Emerging Market"  
+ 
+Barber, B. M., and Odean, T. 2013. "The Behavior of Individual Investors," in Handbook of 
+Economics of Finance (Volume 2), G. Constatinides, H. Harris and R. Stulz (eds.). Elsevier 
+Publishing, pp. 1533- 1570. 
+ 
+Barber, B. M., and Odean, T. 2002. "Online Investors: Do the Slow Die First?," Review of Financial 
+Studies  (15:2), pp. 455- 488 
+ 
+Kahneman, D., and Tversky, A. 1979. "Pros pect Theory: An Analysis of Decision under Risk," 
+Econometrica  (47:2), pp. 263- 291 Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         12 of 18 
+ 
+ 12  
+Fornell, C., Mithas, S., Morgeson, F.V. and Krishnan, M.S. "Customer Satisfaction and Stock Prices: 
+High Returns, Low Risk," Journal of Marketing  (70:1) 2006, pp 3- 14  
+ 
+Fornell, C., Mithas, S., and Morgeson, F. V. 2009. "The Economic and Statistical Significance of 
+Stock Returns on Customer Satisfaction," Marketing Science (28:5), pp. 820- 825 
+ 
+Bianchi, M., and Tallon, J.- M. 2018. "Ambiguity Preferences and Portfolio Choices:  Evidence from 
+the Field," Management Science  (Forthcoming)  
+ 
+Dewan, S., Shi, C., and Gurbaxani, V. "Investigating the Risk- Return Relationship of Information 
+Technology Investment," Management Science  (53:12) 2007, pp 1829- 1842 
+ 
+Dewan, S., and Ren, F. "Inf ormation Technology and Firm Boundaries: Impact on Firm Risk and 
+Return Performance," Information Systems Research  (22:2) 2011, pp 369- 388 
+ 
+Dewan, S., and Ren, F. "Risk and Return of Information Technology Initiatives: Evidence from 
+Electronic Commerce Ann ouncements," Information Systems Research  (18:4) 2007, pp 370- 394 
+ 
+Kothari, S.P., and Warner, J.B. "Econometrics of event studies," in: Handbook of empirical corporate 
+finance, E. Eckbo (ed.), Elsevier, Amsterdam, 2007, pp. 3- 36 
+ 
+ 
+Session 9:  Opportunities  for Research at the IT and Accounting Interface  
+Improve your term -paper write -up and research design continually.  
+ 
+* Xue, L., Mithas, S., and Ray, G. 2021. "Commitment to IT investment plans: The interplay of real 
+earnings management, IT decentralization and corporate governance," MIS Quarterly  (45:1), pp. 
+193-224  
+ 
+*Van Peteghem, M., Joshi, A., Mithas, S., Bollen, L., and Haes, S. d. 2019. "Does Board IT 
+Competence Matter for Firm Performance? Theory and Evidence," in: Working paper, 
+School of Business and Economics, Maastricht University, Netherlands  
+ 
+*Anderson, M.C., Banker, R.D., and Janakiraman, S. "Are selling, general, and administrative costs 
+"sticky"? ," Journal  of Accounting Research (41:1) 2003, pp 47- 63 
+ 
+*Anderson, M.C., Banker, R.D., and Ravindran, S. "Value Implications of Investments in 
+Information Technology," Management Science  (52:9) 2006, pp 1359- 1376  
+ 
+Kim, K., Mithas, S., and Kimbrough, M. 2017. "Information Technology Investments, and Firm Risk 
+Across Industries: Evidence from the Bond Market " MIS Quarterly (41:4), pp. 1347- 1367 
+ 
+Mithas, S., Liu, C.- W., Kimbrough, M. D., and Tafti, A. 2020. "Informat ion Technology 
+Investments and Management Forecasts: Theory and Evidence," in: Proceedings of the 41st 
+International Conference on Information Systems, E. Karahanna, S. Sarker and G. Oestreicher -
+Singer (eds.). Hyderabad, India: Association for Information Systems 
+ 
+Dorantes, C.A., Li, C., Peters, G.F., and Richardson, V.J. "The effect of enterprise systems 
+implementation on the firm information environment," Contemporary Accounting Research  (30:4) 
+2013, pp 1427- 1461 
+ 
+Gordon, L.A., Loeb, M.P., and Sohail, T. "Market Value of Voluntary Disclosures Concerning 
+Information Security" MIS Quarterly  (34:3) 2010, pp 567- 594. 
+ Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         13 of 18 
+ 
+ 13 Li, C., Peters, G., Richardson, V.J., and Watson, M.W. "The consequences of information 
+technology control weaknesses on management information systems: The case of Sarbanes- Oxley 
+internal control reports," MIS Quarterly  (36:1) 2012, pp 179- 204 
+ 
+Chang, H., Ittner, C.D., and Paz, M.T. "The Multiple Roles of the Finance Organization: 
+Determinants, Effectiveness, and the Moderating Influence of Information System Integration," 
+Journal of Management Accounting Research (Forthcoming) 2014 
+ 
+Kobelsky, K., Richards on, V.J., Smith, R.E., and Zmud, R.W. "Determinants and consequences of 
+information technology budgets," Accounting Review  (83:4) 2008, pp 957- 995 
+ 
+Feng, M., Li, C., and McVay, S. "Internal control and management guidance," Journal of 
+Accounting and Econom ics (48:190- 209) 2009.  
+ 
+Eberhart, A., Maxwell, W., and Siddique, A. "A Reexamination of the Tradeoff between the Future 
+Benefit and Riskiness of R&D Increases," Journal of Accounting Research  (46:1) 2008, pp 27- 52. 
+ 
+Masli, A., Peters, G.F., Richardson, V.J ., and Sanchez, J.M. "Examining the potential benefits of 
+internal control monitoring technology," Accounting Review  (85:3) 2010, pp 1001 -1034  
+ 
+Meyer, M.M. "Measuring performance in Economic Organizations," in: The Handbook of Economic 
+Sociology, N.J. Smel ser and R. Sewdberg (eds.), Princeton University Press, Princeton, NJ, 1994, 
+pp. 556- 578 
+ 
+Ittner, C.D. "Does measuring intangibles for management purposes improve performance? A review 
+of the evidence," Accounting and Business Research (38:3) 2008, pp 261- 272. 
+ 
+Ittner, C.D., and Larcker, D.F. "Innovations in performance measurement: Trends and research 
+implications," Journal of Management Accounting Research (Fall) 1998, pp 205- 238 
+ 
+ 
+Session 10 : Opportunities for Research at the IT and Globalization/ International Business Interface  
+Improve your term -paper write -up and research design continually.  
+ 
+*Mithas, S., Whitaker, J. W., and Tafti, A. R. 2017. "Information Technology, Revenues and 
+Profits: Exploring the Role of Foreign and Domestic Operations," Information Systems 
+Research  (28:2), pp. 430- 444 
+ 
+*Yu, J., Han, K., and Mithas, S. "The Role of Information Technology as a Firm -Specific 
+Advantage in Internationalization of Firms: Theory and Evidence," in: Working paper, 
+McGill University , Montreal, 2020.  
+ 
+*Kirca, A. H., Hult, G. T. M., Roth, K., Cavusgil, S. T., Perryy, M. Z., Akdeniz, M. B., Deligonul, 
+S. Z., Mena, J. A., Pollitte, W. A., Hoppner, J. J., Miller, J., and White, R. C. 2011. "Firm -Specific 
+Assets, Multinationality, and Financial Performance: A Meta- Analytic Review and Theoretical 
+Integration," Academy of Management Journal  (54:1), pp. 47- 72 
+ 
+*Kirca, A. H., Hult, G. T. M., Deligonul, S. Z., Perryy, M. Z., and Cavusgil, S. T. 2012. "A 
+Multilevel Examination of the Drivers of Firm Multinationality: A Meta -Analysis," Journal 
+of Management  (38:2), pp. 502- 530. 
+ 
+Nachum, L., and Zaheer, S. ""The Persi stence of Distance? The Impact of Technology on MNE 
+Motivations for Foreign Investment," Strategic Management Journal  (26:8) 2005, pp 747-
+767. 
+ Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         14 of 18 
+ 
+ 14 Yang, Q., Mudambi, R., and Meyer, K.E. "Conventional and Reverse Knowledge Flows in 
+Multinational Corporations,"  Journal of Management  (34:5) 2008, pp 882- 902. 
+ 
+Rangan, S., and Sengul, M. "Information technology and transnational integration: Theory and 
+evidence on the evolution of the modern multinational enterprise," Journal of International 
+Business Studies (40) 2009, pp 1496- 1514 
+ 
+Bloom, N., Sadun, R., and Van Reenen, J. "Americans Do IT Better: US Multinationals and the 
+Productivity Miracle," American Economic Review  (102:1) 2012, pp 167- 201 
+ 
+Bloom, N., and Van Reenen, J. "Measuring and explaining management pra ctices across firms and 
+countries," Quarterly Journal of Economics  (122:4) 2007, pp 1351- 1408 
+ 
+Lewin, A.Y., Massini, S., and Peeters, C. "Why are companies offshoring innovation? The emerging 
+global race for talent," Journal of International Business Studies  (40) 2009, pp 901- 925 
+ 
+ 
+ 
+Session 11 :  Opportunities for Research Related to AI/ Ethics/ Fairness etc  
+ 
+Improve your term -paper write -up and research design continually.  
+ 
+• Huang, M.- H., Rust, R. T., &  Maksimovic, V. (2019). The feeling economy: Managing in the next 
+generation of artificial intelligence (AI). California Management Review , 61(4), 43 -65 
+• Introduction Chapter: Barocas, S., Hardt, M., & Narayanan, A. (2022). Fairness and Machine 
+Learning: Li mitations and Opportunities, https://fairmlbook.org/  
+• Obermeyer, Z., Powers, B., Vogeli, C., and Mullainathan, S. 2019. "Dissecting racial bias in an 
+algorithm used to manage the health of populations," Science (366:6464), pp. 447- 453 
+• Angwin, J., Larson, J., Mattu, S., & Kirchner, L. (2016). Machine bias, 
+https://www.propublica.org/article/machine -bias-risk-assessments- in-criminal -sentencing . 
+ProPublica (23 May 2016)  
+• Kleinberg, J., Ludwig, J., Mullainathan, S., & Sunstein, C. R. (2019). Discrimination in the Age of 
+Algorithms (February 2019). NBER Working Paper No. w25548, Available at SSRN: 
+https://ssrn.com/abstract=3332296 . In NBER (Ed.).  
+• Mittelstadt, B., Russell, C., & Wachter, S. (2019). Explaining Explanations in AI  Proceedings of the 
+Conference on Fairness, Accountability, and Transparency (FAT* ’19), New Y ork, NY, US  
+• Bender, E. M., Gebru, T., McMillan- Major, A., Shmargaret, & Shmitchell. (2021). On the Dangers 
+of Stochastic Parrots: Can Language Models Be Too Big? Conference on Fairness, Accountability, 
+and Transparency (FAccT ’21), March 3–10, 2021, Virtua l Event, Canada, New York, NY, US  
+• Mithas, S., Murugesan, S., & Seetharaman, P. (2020). What is Your Artificial Intelligence Strategy? 
+IEEE IT Professional , 22(2), 4 -9 
+• Mithas, S., Kude, T., & Whitaker, J. W. (2018). Artificial Intelligence and IT Professionals, 
+https://ieeexplore.ieee.org/document/8509563 . IEEE IT Professional , 20(5), 6- 13 
+ 
+Session  12:  Final Session  
+ 
+Draft final paper and presentation in class  
+Final paper due 8 May 2023 (tentatively) or as announced in class and/or via Canvas/email . 
+ 
+ 
+ Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         15 of 18 
+ 
+ 15  
+Additional or A lternative Sessions D epending on Student s’ Interest  
+Session X 1: Opportunities for Research at the IT and Transformation Interface  
+ 
+Develop the most promising research idea from the last class, and present the revised research 
+question. Submit front end of the paper with an interesting title, Abstract, Introduction, and 
+Conceptual Model section with research model, and 2 -3 tentative hypotheses (2 -3 pages).  
+ 
+*Vial, G. 2019. "Understanding digital transformation: A review and a research agenda," Journal of 
+Strategic Information Systems  (28:2), pp. 118- 144. 
+ 
+*Wessel, L., Baiyere, A., Ologeanu- Taddei, R., Cha, J., and Blegind- Jensen, T. 2021. "Unpacking 
+the difference between digital transformation and IT -enabled organizational 
+transformation,"  Journal of the Association for Information Systems  (22:1), pp. 102- 129 
+ 
+*Romanelli, E., and Tushman, M. "Organizational transformation as punctuated equilibrium: An 
+empirical test," Academy of Management Journal  (37:5) 1994, pp 1141- 1166 
+ 
+*Newman, K. L. 2000. "Organizational transformation during institutional upheaval," Academy of 
+Management Review  (25:3), pp. 602- 619 
+ 
+Lee, D., Tan, B., and Mithas, S. 2023. "Driving Digital Transformation," in Digital Strategies and 
+Organizational Change, R.G. Djavanshir (ed.). Singapore: World Scientific Publishing  
+ 
+Orlikowski, W.J. "Improvising organizational trans formation over time: A situated change 
+perspective," Information Systems Research  (7:1) 1996, pp 63- 92 
+ 
+Besson, P., & Rowe, F. (2012). Strateg izing information systems -enabled organizational 
+transformation: A transdisciplinary review and new directions. Journal of Strategic Information 
+Systems, 21 , 103- 124 
+ 
+Brown, S. L., and Eisenhardt, K. M. 1997. "The Art of Continuous Change: Linking Complexi ty 
+Theory and Time -Paced Evolution in Relentlessly Shifting Organizations," Administrative Science 
+Quarterly  (42:1), pp. 1- 34 
+ 
+Anderson, P., and Tushman, M. "Technological discontinuities and dominant designs: A cyclical 
+model of technological change," Adm inistrative Science Quarterly (35) 1990, pp 604- 632 
+ 
+Wischnevsky, J. D., and Damanpour, F. 2006. "Organizational transformation and performance: An 
+examination of three perspectives," Journal of Managerial Issues  (XVIII:1), pp. 104- 128 
+ 
+Gersick, C.J.G. "Re volutionary Change Theories: A Multilevel Exploration of the Punctuated 
+Equilibrium Paradigm," Academy of Management Review  (16:1) 1991, pp 10- 36 
+ 
+Tushman, M., and Anderson, P. "Technological discontinuities and organizational environments," 
+Administrative  Science Quarterly (32) 1986, pp 439- 465 
+ 
+Tushman, M.J., and Romanelli, R. "Organizational evolution: A metamorphosis model of 
+convergence and reorientation," in: Research in Organizational Behavior,  L.L. Cummings 
+and B.M. Staw (eds.), JAI Press, Greenwich , CT, 1985, pp. 171- 222 
+ 
+ 
+ 
+ Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         16 of 18 
+ 
+ 16  
+Here are some policies documented in the syllabus as suggested or required by USF.   
+ 
+Class Policies:  
+ 
+Communication : Please check course website frequently for updated postings and course related 
+communications.  If you have any appropriate and course -related question, first check syllabus or course 
+website to ensure that you are not asking something that is already ment ioned in the syllabus or website. If 
+you are not able to find answer to your question, then post your question under Discussions at Canvas 
+(Canvas>Discussions>"General Questions")  so that TA and/or I can answer your question appropriately 
+via that channel or in the next class meeting. If you need to send me an email then please mention your cell 
+phone number in the message of your email so that I can call you if necessary (if the question pertains to 
+your group work, please copy all your teammates so that I  can reply to all).  
+ 
+Class Attendance and Etiquette:  I do not take formal attendance in class but I do keep track of who is 
+coming to class and who is not. Skipping classes means that you will miss valuable content that we cover in 
+class and you will do po orly in the exams. Also, please do not disrupt the class by coming to class late or 
+leaving early, arrive 5 minutes early rather than 5 minutes late. If you skip classes or engage in disruptive 
+side conversations, don’t expect much sympathy from me at the end of the semester.  
+ 
+Cell Phones:  While in class, turn your cell phones, iPods etc to silent mode, and step out of the class if you 
+must take or make an important phone call. See USF’s official policy on class disruption at 
+http://www.ugs.usf.edu/policy/DisruptionOfAcademicProcess.pdf .  
+ 
+Free Riders in Teamwork (if applicable):  Team members who do not come to team meetings or contribute 
+satisfactorily to their assigned team work in a timely manner will receive at least one letter grade lower than 
+the rest of their team. There will be no make -ups for free riders.  
+ 
+Your Suggestions : Administration will request you to provide comments regarding various aspects of the 
+course toward the conclusion of the course, but those comments come too late to make any mid -course 
+corrections. Hence, please discuss with me any ideas that can potentially improve your learning experience 
+during the semester. Because the instructor also has responsibili ty for learning experience of the entire class 
+and to ensure that course objectives are met while maintaining rigor, it may not be feasible to accept all 
+suggestions. Even if your suggestions are not accepted, they can still help us to design other courses  or 
+activities in future so feel free to suggest from your side.  
+ 
+Please understand that this syllabus constitutes a CONTRACT  between you and me.  By registering for this 
+class, you are agreeing to the terms and conditions as stated in this contract.  These terms will be strictly 
+enforced, without exceptions.  If you find these terms unreasonable, you can drop the class and take it in a 
+different semester with a different professor.  
+ 
+ 
+Other Policies Required or Suggested by USF for All Courses3 
+Academic Int egrity : Academic integrity is the foundation of the University of South Florida System’s 
+commitment to the academic honesty and personal integrity of its university community. Academic integrity 
+is grounded in certain fundamental values, which include hone sty, respect, and fairness. Broadly defined, 
+academic honesty is the completion of all academic endeavors and claims of scholarly knowledge as 
+representative of one’s own efforts. The final decision on an academic integrity violation and related 
+academic s anction at any USF System institution shall affect and be applied to the academic status of the 
+student throughout the USF System, unless otherwise determined by the independently accredited 
+institution. The process for faculty reporting of academic miscon duct, as well as the student’s options for 
+appeal, are outlined in detail in USF System Regulation 3.027 . 
+                                                 
+3 Not all USF po licies are listed in the syllabus to save space, students should refer to this link for current or updated 
+policies in effect:  https://www.usf.edu/provost/faculty/cor e-syllabus -policy -statements.aspx  Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         17 of 18 
+ 
+ 17  
+I have a zero -tolerance policy  for plagiarism or cheating.  Plagiarism includes claiming/editing others’ work 
+and presenting it as your own, lifting materials from the Internet or other sources without attribution, and 
+many others. Per USF policy, any such behavior will result in a zer o grade for that grade component for the 
+first offense, F grade in the class and report to the Dean’s Office for the second offense, and dismissal from 
+the program for third offense. There will be no make up for any plagiarized work. See USF’s academic 
+integrity policy at http://www.ugs.usf.edu/policy/AcademicIntegrityOfStudents.pdf . 
+ 
+Disruption to Academic Progress: Disruptive students in the academic setting hinder the education al 
+process. Disruption of the academic process is defined as the act, words, or general conduct of a student in a 
+classroom or other academic environment which in the reasonable estimation of the instructor: (a) directs 
+attention away from the academic mat ters at hand, such as noisy distractions, persistent, disrespectful or 
+abusive interruption of lecture, exam, academic discussion, or general University operations, or (b) presents 
+a danger to the health, safety, or well -being of self or other persons.  
+ 
+Academic Grievance Procedure: The purpose of these procedures is to provide all undergraduate and 
+graduate students taking courses within the University of South Florida System an opportunity for objective 
+review of facts and events pertinent to the cause of  the academic grievance. An “academic grievance” is a 
+claim that a specific academic decision or action that affects that student’s academic record or status has 
+violated published policies and procedures, or has been applied to the grievant in a manner di fferent from 
+that used for other students.  
+ 
+Disability Access: Students with disabilities are responsible for registering with Students with Disabilities 
+Services (SDS) (SVC 1133) in order to receive academic accommodations. SDS encourages students to 
+notify instructors of accommodation needs at least five (5) business days prior to needing the 
+accommodation. A letter from SDS must accompany this request.  
+ 
+Sexual Misconduct / Sexual Harassment : USF is committed to providing an environment free from sex 
+discrimination, including sexual harassment and sexual violence ( USF System Policy 0 -004). The USF 
+Center for Victim is a confidential resource where you can t alk about incidents of sexual harassment and 
+gender -based crimes including sexual assault, stalking, and domestic/relationship violence. This confidential 
+resource can help you without having to report your situation to either the Office of Student Rights and 
+Responsibilities  (OSSR) or the Office of Diversity, Inclusion, and Equal Opportunity  (DIEO), unless you 
+request that the y make a report. Please be aware that in compliance with Title IX and under the USF System 
+Policy, educators must report incidents of sexual harassment and gender -based crimes including sexual 
+assault, stalking, and domestic/relationship violence. If you d isclose any of these situations in class, in 
+papers, or to me personally, I am required to report it to OSSR or DIEO for investigation. Contact the USF 
+Center for Victim Advocacy and Viol ence Prevention : (813) 974- 5757. 
+ 
+Religious Observances : All students have a right to expect that the University will reasonably 
+accommodate their religious observances, practices and beliefs ( USF System Policy 10 -045). The USF 
+System, through its faculty, will make every attempt to schedule required classes and examinations in view 
+of customarily observed religious holidays of those religious groups or communi ties comprising the USF 
+System’s constituency. Students are expected to attend classes and take examinations as determined by the 
+USF System. No student shall be compelled to attend class or sit for an examination at a day or time 
+prohibited by his or her religious belief. However, students should review the course requirements and 
+meeting days and times to avoid foreseeable conflicts, as excessive absences in a given term may prevent a 
+student from completing the academic requirements of a specific course.  Students are expected to notify 
+their instructors at the beginning of each academic term if they intend to be absent for a class or announced 
+examination, in accordance with this Policy.  
+ 
+Statement of Academic Continuity : In the event of an emergency, it may be necessary for USF to suspend 
+normal operations. During this time, USF may opt to continue delivery of instruction through methods that 
+include, but are not limited to: Learning Management System, online conferencing, email messaging, and/or 
+an alter nate schedule. It is the responsibility of the student to monitor the Learning Management System for Syll_DiscpIntrfcs_Spr2023_21Jan2023v2km         18 of 18 
+ 
+ 18 each class for course- specific communication, and the main USF, College, and Department websites, emails, 
+and MoBull messages for important general information ( USF System Policy 6 -010). For additional 
+guidance on emergency protective actions and hazards that affect the University, please visit 
+www.usf.edu/em   
+ 
+End of Semester Student Evaluations:  All classes at USF make use of an online system for students to 
+provide feedback to the University regarding the course. These surveys will be made available at the end of 
+the semester, and the University will notify you by email when the response window opens. Your 
+participation is highly encouraged and valued.  
+ 
+Campus Free Expression (Fall 2022) : The following statement was crafted as a suggested 
+statement to include for courses that engage in discussions and instruction which students may find 
+uncomfor table, unwelcome, disagreeable, or even offensive. These discussions are intended to be 
+objective. Additional guidance related to HB 7 “Individual Freedom Act” can be found online.  
+It is fundamental to the University of South Florida’s mission to support an environment where 
+divergent ideas, theories, and philosophies can be openly exchanged and critically evaluated. 
+Consistent with these principles, this course may involve discussion of ideas that you find 
+uncomfortable, disagreeable, or even offensive.  
+ 
+In the instructional setting, ideas are intended to be presented in an objective manner and not as an 
+endorsement of what you should personally believe. Objecti ve means that the idea(s) presented can 
+be tested by critical peer review and rigorous debate, and that the idea(s) is supported by credible 
+research.  
+ 
+Not all ideas can be supported by objective methods or criteria. Regardless, you may decide that 
+certai n ideas are worthy of your personal belief. In this course, however, you may be asked to 
+engage with complex ideas and to demonstrate an understanding of the ideas. Understanding an 
+idea does not mean that you are required to believe it or agree with it.  
+ 
+COVID Addendum  
+All students must comply with university policies and posted signs regarding COVID -19 mitigation 
+measures, including wearing face coverings and maintaining social distancing.   Failure to do so may result 
+in dismissal from class, referral to the Student Con duct Office, and possible removal from campus.  
+Students must follow USF’s policies in effect at all times and refer to the following websites for updates and 
+latest information:  
+https://www.usf.e du/coronavirus/index.aspx  
+https://www.usf.edu/general -counsel/documents/resources/conduct -expected -to-support -usf-health -
+and-safety -standards.pdf  
+ 
+Note that we may record live class lectures and discussions, and these recordings will be made available to 
+students enrolled in the class, to assist those who cannot attend the live session or to serve as a resource for 
+those who would like to review content that was presented. Some activities may require you to turn on your 
+video camera, and/or your audio as directed by the instructor. The instructor may use online proctoring for 
+online exams and quizzes. Therefore, you will be required to have a computer and a webcam (USB or 
+internal) with a microphone when taking an exam or quiz. If you do not have access to a computer or 
+webcam, you are required to notify your instructor. Students understand that this remote recording device i s 
+purchased and controlled by the student and that recordings from any private residence must be done with 
+the permission of any person residing in the residence. To avoid any concerns in this regard, you should 
+select private spaces for the testing, ensur e that any recordings do not invade any third party privacy rights, 
+and accept all responsibility and liability for violations of any third party privacy concerns. You are strictly 
+responsible for ensuring that you take all exams from a computer (not mobil e device) with a high speed 
+internet connection and camera.  
+ 

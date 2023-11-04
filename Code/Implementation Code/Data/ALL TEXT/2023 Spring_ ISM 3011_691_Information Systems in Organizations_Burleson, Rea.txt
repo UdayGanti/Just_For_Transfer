@@ -1,0 +1,362 @@
+ Printable Version: 
+Information Systems in
+Organizations - ISM3011
+Spring 2023
+Instructor:Rea Burleson MSEM CISSP
+University of South Florida, St Petersburg Campus
+OfficeBAY 241
+Office phoneteams calling rea@usf.edu
+FaxTBD
+Emailrea@usf.edu
+ClassroomWednesdays LPH217
+Time:630PM Wednesday 
+Office hours I would be happy to meet with you by appointment,  either in person or virtually. 
+Please see the policy on contacting course instructor below
+Syllabus Subject to change!
+Course Prerequisites
+CGS2100 (or equivalent)
+Course Description
+The course entitled "Information Systems in Organizations" is an introduction to the language, concepts, structures and
+processes involved in developing information systems, including fundamentals of computer-based technology and the use of
+software to support managerial decisions.
+Course Goals and Objectives:
+ISM3011 has two main goals, namely
+1. To help you understand how organizations use technology to achieve their business goals, and
+2. To familiarize you with certain information technologies that are commonly used in the business world.
+The course objectives follow from these goals. Thus, on successfully completing this course, you will be able to:
+1. Discuss the various types of information systems used in organizations, the business value of these systems, and the
+expertise necessary to manage these systems.
+2. Discuss how information systems can help organizations achieve their strategic objectives.
+3. Describe and use the language, concepts, structures, and processes involved in developing and protecting information
+systems.
+4. Identify the processes that organizations use to manage their information systems.
+5. Identify the processes that organizations use to develop their information systems.
+6. Identify current and potential future trends in technology and the impact on businesses and society.
+7. Recognize the systems, network, and organizational requirements for supporting business operations, social media and
+electronic commerce.
+8. Use technology to implement small-scale business applications that can be used in support of managerial decision making.
+9. Develop a simple web site to support a business.
+Required Textbook and SoftwareThis course requires the following textbook and software.
+Using MIS. 12th Edition by D. Kroenke & R. Boyle. Prentice Hall.  I recommend that you get the electronic version through
+Follett Discover/Access.
+Microsoft Office 365 (Word, Excel, PowerPoint, Access)
+Tableau
+The course uses a number of technologies, including:
+1. Microsoft Word
+2. Microsoft Excel
+3. Microsoft Access
+4. Adobe Dreamweaver
+5. WinSCP
+6. Tableau
+7. Global Protect (VPN)
+8. VMWare Horizon Client
+All these technologies are available on the computers in the computer labs at the St Pete campus of USF but you will need to
+make sure you get account with Adobe to use Dreamweaver and with Tableau.  The page Installing the Technology in module 0
+gives more details. However, as we go through the course, we will also show how to access these technologies on your
+computer, whether it is a PC or a Mac, through a virtual machine if necessary.
+In case you are concerned about privacy issues, here are the links to the privacy policies of the different technology that we will
+be using:
+Technology Privacy Policy
+Canvashttps://www.canvaslms.com/policies/privacy
+Windows
+Officehttps://privacy.microsoft.com/en-US/privacystatement
+GlobalProtecthttps://www.paloaltonetworks.com/resources/datasheets/product-privacy-datasheets
+Virtual Boxhttps://www.virtualbox.org/wiki/PrivacyPolicy
+Tableauhttps://www.tableau.com/privacy
+Dreamweaverhttp://www.dwfaq.com/policies.asp 
+WinSCPhttps://winscp.net/eng/docs/privacy 
+Global
+Protecthttps://docs.paloaltonetworks.com/globalprotect/8-0/globalprotect-admin/host-information/about-host-
+information/what-data-does-the-globalprotect-agent-collect 
+VMWarehttps://www.vmware.com/help/privacy.html 
+Accessing the Textbook
+This course is participating in the Follett ACCESS program for the Spring 2023 term. The Follett ACCESS program will allow you
+to gain access to the required materials for the course at a discounted price before January 9. After that point, the discounted
+price will no longer be available. Students are not required to opt-in. If you decide to not opt-in, you can purchase through the
+bookstore, or another 3 party.
+There will be two ways to get your materials through Follett ACCESS (Opt-in), to the discounted materials.
+1. You will receive an email from the Bookstore notifying you of your enrollment in Follett ACCESS course. Click the link in the
+email to the opt-in portal, enter your USF ID, and opt-in to the materials.
+2. You can also copy and paste the following link into your browser and access the Bookstore Customer Opt-in portal
+at http://includedcp.follett.com:80/optin/2095
+After opting-in, wait 24-48 hours. Then, login to www.redshelf.comto access your eBook.  The charge for the materials will be
+posted directly to your OASIS account and is eligible to be paid through financial aid awards. If you drop the course during the
+add/drop period, no charges will appear.
+Please see the Follett ACCESS Student Guide PP in Canvas or this video https://youtu.be/nmDs6c_7rj0for a step-by-step
+guide of how to opt-in and additional information.
+Grading:
+Your grade will be determined based on a number of assessments.  For example, for most modules, there will be a multiple
+choice quiz typically related to the first goal of the course, and a deliverable related to the second goal of the course.  The course
+also has two skills test, and will ask you to create a business portfolio, which will be based on the deliverables you submitted
+during the semesters. You are also asked to post a number of articles related to technology, at least one of which has to be a
+follow-up from or a reaction to an article posted by one of your class mates.  Details on each of them can be found in therdassessments themselves.  Moreover, the relationship between each of these assessments and the course objectives will be
+clear.
+You will also be asked to submit a paper in which you reflect on your experience in the course.  While this is obviously not directly
+related to the course outcomes, research indicates that asking students enrolled in an online course to write such a paper
+improves their learning (see e.g https://www.cmu.edu/teaching/principles/learning.html).  The paper does not have to be
+more than 3 pages long, and I would strongly recommend that you makes some notes at the end of each week, in which you think
+about what you learned and how we could improve the module you just completed. Your final paper could then be based on these
+notes. 
+Excel deliverables contain formulas that take cell data and provides a calculated output.  If your excel spreadsheets
+contain manually entered/calculated data without the use of the required formulas you will receive a 0 for the
+assignment.  
+The Business Portfolio is a collection of all the previous assignments, with all errors corrected.  If you do nothing
+more than submit uncorrected prior assignments, you will not receive more that 1/2 credit.
+The deliverables all must be submitted by the due date and in the proper Canvas upload location.  Deliverables
+emailed to me will receive a 0 for the assignment.  Emails will not be an acceptable option to submit deliverables.
+Assignments are to be submitted in the proper format.  Screen shots from phones, webpages etc are not permitted
+unless specifically called for in the assignment.  
+The weight of each of the assessments is given below:
+Type of
+assessmentPointsNumberTotal
+Points
+Technology News
+Posts5 points6 30
+Course Policies
+Quiz10 points1 10
+Quizzes 10 points12120
+Excel Deliverables10 points3 30
+Access
+Deliverables15 points3 45
+Tableau
+Deliverables10 points3 30
+Web Deliverables10 Points2 20
+Other Deliverables10 Points4 40
+Excel test 1001100
+Access test 1001100
+Reflection paper 351 35
+Technology Paper 1001100
+Business Portfolio 1401120
+TOTAL 800
+I will turn the numeric grade that you earn in the course into a letter grade using the following scale:
+A+>= 96.5%<= 100%
+A>= 93%< 96.5%
+A->= 90%< 93%
+B+>= 86.5%< 90%
+B>= 83%< 86.5%
+B->= 80%< 83%
+C+>= 76.5%< 80%
+C>= 73%< 76.5%
+C->= 70%< 73%
+D+>= 66.5%< 70%
+D>= 63%< 66.5%
+D->= 60%< 63%
+F < 60%Course Schedule
+Syllabus Subject to change!
+All the module in the course are open and you are free to complete the course ahead of schedule.  However, there are deadlines
+for the various tasks associated with the module (e.g, quizzes, deliverables, etc). However, I would like to remind you that a
+deadline is the latest possible date by which you can submit your work. You always can, and indeed are encouraged to, submit
+material well in advance of the deadline. This will enable you to spread out your work load over the entire semester. It would also
+help you avoid any problems that may arise because of glitches with the technology. We will use the following schedule:
+ModuleTitle Technologies
+0Getting StartedInstalling Office 365, Tableau,
+Obtaining Adobe ID, Access to VM1st day
+attendance
+1/11
+1Importance of
+Management
+Information
+SystemsLogo in PowerPoint 1/18
+2Strategy and
+Information
+SystemsMicrosoft Excel - Summing across
+worksheets, formatting1/25
+3Business
+Intelligence
+SystemsMicrosoft Excel - VLOOKUP and IF
+functions, charts2/1
+4Hardware,
+Software, and
+Mobile SystemsMicrosoft Excel - Conditional
+formatting, more Excel functions,
+pivot tables2/8
+5Database
+ProcessingMicrosoft Access - Creation of a
+database and single table queries2/15
+6The Cloud Microsoft Access - Advanced queries2/22
+7Collaboration
+Information
+SystemsMicrosoft Access - Reports and forms3/1
+8Processes,
+Organizations and
+Information
+SystemsDreamweaver - Web pages with
+images and tables3/8
+9Social Media
+Information
+SystemsDreamweaver - Facebook like
+buttons and uploading web pages to
+a web server3/22
+10Information
+Security
+ManagementTableau Workbook 3/29
+11Information
+Systems
+ManagementTableau Description
+Tableau Video4/12
+12Development
+ProcessesN/A 4/19
+13aExcel Skills TestN/A 4/29
+13bAccess Skills TestN/A 5/1
+14Technology PaperN/A 5/3
+15Business PortfolioN/A 5/4
+16Reflection PaperN/A 5/4
+Syllabus Subject to change!
+Other important dates:Jan 9th Spring Classes Start.
+Jan 16th Dr. Martin Luther King, Jr. holiday; no classes & USF offices closed.
+Mar 13-19: Spring Break
+Mar 7  Midterm Grades Due
+April 22-28 test free week
+April 28th Last Day of Classes
+Final Exam Week 4/29 - 5/4
+May 9: End of the semester., grades due
+Course Policies
+Contacting the Instructor:
+The easiest way to contact me is through CANVAS. I typically log in at least once a day, and often more frequently, and this
+includes weekends. You can also reach me by TEAMS via rea@usf.edu or Teams Calling . I will normally answer you within 24
+hours and often more quickly, unless I have indicated through a course announcement that I may not be able to. I would be more
+than happy to meet you in person as well if that is what you prefer. Contact me if you want to do so, we can meet in person or
+online.  If necessary, we can also set up a conference in Canvas or in Teams, which will allow you to share your computer screen
+with me.
+Communications from the Instructor:
+I will use a number of different tools to contact you.  In particular, I will use course announcements, send emails, and, most
+importantly, leave detailed feedback on the various deliverables and other assignments.  In many cases, I will leave feedback
+even if you received a perfect score on an assignment.  It is therefore important that you always check on a graded assignment,
+even if the score was perfect.  If you do not plan to log into the course at least 3 times a week, make sure that you forward the
+announcements and course emails to an email address that you use daily.  To do so, go into settings in your USF account by
+clicking the cog wheel in the top left hand corner, selecting View All Outlook Settings at the bottom and then selecting Forwarding.
+Deadlines:
+Are firm.  No late submittals will be accepted.  Only those that reach out to me Prior to the deadline or provide a medical note, I
+may or may not accommodate.  If you contact me after the deadline without valid reason and I do allow a late submittal will
+receive a 50% reduction in grade.  It is not fair to those that worked hard to submit on time to accept your late submissions at
+full credit.
+ I would therefore urge you to try to meet all the deadlines because it will be difficult to catch up if you fall behind. 
+A few more points:
+1. I will try to grade every submission within 24 hours.  However, I will give priority to assignments that were submitted by the
+deadline for that assignment.  So, if you miss a deadline, you may therefore have to wait a little longer before you get
+feedback, and I cannot guarantee a 24 hours turn-around time.
+2. Since the technology is still not 100% reliable, I would encourage you not to wait until the last moment before you start
+working on your assignments. Also, as you are working, please save your work often, preferably both on your computer and
+on some back-up storage device, such as a USB drive.
+3. Remember that deadlines are the last day by which you should complete a task.  There is nothing preventing you from
+completing a task before the deadline.  Indeed, given that the official deadlines for many of the larger assignments are at the
+end of the course, it does make sense to try to complete some of these earlier.  I will make course announcements and use
+the feedback box on the relevant deliverables to tell you when we have covered the material necessary for one of the larger
+assignments, such as the Excel or Access Skills Test.
+University Policies
+There are a number of university policies that apply to all courses, including this one.  Please refer to
+https://www.usf.edu/provost/faculty/core-syllabus-policy-statements.aspx
+for those policies.
+Honor System:
+Under the USF Honor System, each student is expected to observe complete honesty in all academic matters. Violation of the
+Honor System will be referred to the Honor Council. Note: The following are violations of the Honor Code: Copying another
+student’s homework, signing another student’s name on the attendance roster, copying another group’s disk or written work,
+using another student’s computer disk to print out your assignment, copying another student’s file onto your disk, and
+misrepresenting a reason for a missed exam. Punishment for academic dishonesty may result in an automatic “F” or “FF” in the
+course or action that may result in suspension or expulsion. See the USF Policy on Academic Dishonesty & Disruption of the
+Academic Process at http://regulationspolicies.usf.edu/regulations/pdfs/regulation-usf3.027.pdf.
+Students with accessibility issues:
+Please notify your instructor by the second class meeting if you have a learning disability or require special assistance with this
+course.  Confidential personal and learning assistance counseling are made available to students through the Wellness Center onthe USF St Petersburg Campus (727-873-4422 Option 1) or through Student Accessibility Services (727-873-4837, usfsp-
+sas@usf.edu).
+The course has been designed to be in compliance with the USF policy on accessibility
+at http://www.usf.edu/diversity/documents/usf_minimum_electronic_and_web_accessibility_standards_mewas3_2013.pdf
+However, we will be using a number of different technologies, and the table below gives links to the accessibility policies for each:
+Technology Accessibility Policy
+Canvas https://community.canvaslms.com/docs/DOC-2061
+Windows Officehttps://www.microsoft.com/enable/microsoft/mission.aspx
+Tableauhttps://www.tableau.com/products/accessibility
+GlobalProtectCould not find any
+Virtual Boxhttp://www.oracle.com/us/corporate/accessibility/index.html
+Dreamweaverhttp://www.adobe.com/accessibility.html 
+WinSCPCould not find any
+Global ProtectCould not find any
+VMWarehttps://www.vmware.com/help/accessibility.html 
+If you run into problems accessing any of the technologies used in the course, please contact me and we will find a solution.
+Copyrights:
+None of the material in this course may be copied and sold.
+Incomplete grades:
+An “I” grade may be given to an undergraduate student only when a small portion of the student’s work (normally 30%(1-2
+deliverables or less) is incomplete due to circumstances beyond the control of the student and only when a student is otherwise
+earning a passing grade. “I” grades are to be used only in emergency situations and cannot to be used as a means of avoiding a
+poor grade. Normally these are only for medical emergencies and require a signed letter from a medical professional that the
+student was prevented from attending class. The student must petition the professor before the week of final exams for a grade of
+“I” to be given. This needs to be in discussion with instructor well before the end of the semester.
+Grade forgiveness:
+Grade forgiveness is limited to three USF courses with no more than one repeat per course. 
+Emergency preparedness:
+In the event of an emergency, it may be necessary for USF to suspend normal operations. During this time, USF may opt to
+continue delivery of instruction through methods that include but are not limited to: Canvas, Elluminate, Skype, and email
+messaging and/or an alternate schedule. It is the responsibility of the student to monitor Canvas site for each class for course
+specific communication, and the main USF,, College, and department websites, emails, and MoBull messages for important
+general information.
+Title IX and Responsible Employees:
+All USF faculty (adjunct, TA, etc) are designated Responsible Employees. If you have experienced sexual harassment, sexual
+violence, relationship violence or stalking, Responsible Employees are here to listen and connect you to resources. When a
+disclosure is made to a Responsible Employee, they will notify the Title IX Office on your behalf and that office will send you an
+email with your rights, policies, and resources (if it is safe to do so). You are not obligated to respond to this email and The Title
+IX Office does not share information about the report unless requested by the discloser or as required to address imminent risk to
+members of our community.
+Confidential Resources (listed below) are available and will not be required to notify the Title IX office of disclosures of sexual
+harassment. If you are not sure what to do, you are encouraged to contact Victim Advocacy to confidentially explore your options
+including: injunctions & protective orders; changes in accommodations, living arrangements, class schedules, & transportation;
+assistance with academic Issues-missed classes, late assignments, etc. The Title IX Office can also provide academic, on-
+campus housing and USF workplace accommodations, as well as other supportive measures.
+Confidential Resources Non-Confidential Resources
+Victim Advocacy in the Wellness Center
+SLC 2200
+727-873-4432
+https://www.stpetersburg.usf.edu/student-life/wellness/victim-
+advocacy-services/index.aspx Title IX
+813-974-4373
+https://www.usf.edu/title-ix/
+Counseling at the Wellness Center
+SLC 2200
+727-873-4422Student Outreach & Support
+PMB 101
+727-873-4278https://www.stpetersburg.usf.edu/student-
+life/wellness/psychological-services/index.aspx https://www.stpetersburg.usf.edu/student-
+life/student-outreach-program/ 
+Ombudsman
+Free, confidential conflict resolution
+PNM 105B
+727-873-4184
+https://wwwtest.stpetersburg.usf.edu/resources/ombuds.aspx Student Conduct & Ethical Development
+PNM 101B
+727-873-4278
+Usfsp-conduct@usf.edu 
+https://www.usf.edu/student-
+affairs/student-conduct-ethical-
+development/about-us/contacts.aspx 
+Student Health Services at the Wellness Center
+SLC 2200
+727-873-4422
+https://www.stpetersburg.usf.edu/student-
+life/wellness/index.aspx Dean of Students
+PNM 101
+727-873-4278
+https://www.stpetersburg.usf.edu/student-
+life/dean-of-students/ 
+OFF CAMPUS CONFIDENTIAL OFF CAMPUS NONCONFIDENTIAL
+Suncoast Center
+Rape Crisis Center
+2188 58th St N
+Clearwater, FL 33760
+727-388-1220
+https://www.suncoastcenter.org/sexual-assault-services Pinellas County Sheriff’s Office
+10750 Ulmerton Rd
+Largo, FL 33778
+Nonemergency: 727-582-6200
+Emergency: 911
+https://www.pcsoweb.com/
+CASA
+Domestic Violence Shelter
+1011 First Ave North St. Petersburg, FL 33705
+24/7 Hotline: 727-895-4912
+https://www.casapinellas.org St. Petersburg Police Department
+1301 First Ave North
+St. Petersburg, FL 33705
+Nonemergency: 727-893-7780
+Emergency: 911
+https://police.stpete.org/
+Additional policies are available from the USF System Provost Website ( https://www.usf.edu/provost/)

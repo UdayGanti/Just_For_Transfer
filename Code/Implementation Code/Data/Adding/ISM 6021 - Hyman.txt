@@ -1,0 +1,101 @@
+ISM 6021: Management Information Systems
+Fall 2023
+
+
+ Course Objectives:	
+
+
+This course is designed to introduce students to the opportunities and challenges of using information technologies (IT) in contemporary businesses.  We will examine strategic and technological issues related to the selection, deployment, and utilization of IT in today’s business environment.  Examples of topics covered in class include enterprise resource planning systems, business intelligence, knowledge management, electronic commerce, IT project management, enterprise IT architecture, and IT outsourcing.
+
+ Course Materials and Assignments:	
+
+
+There is no textbook. Instead there is a reading list that we will cover during the course. 
+Your written work will consist of Team-Based assignments that will be completed weekly. These consist mostly, and not all, team briefings to the rest of the class in the form of PPT presentations.
+You will form a team during the first day of class:
+Teams should have 3 members. 
+Your team must choose a name and a motto. Your team name should be your “brand.”
+Your team motto should reflect what you wish to accomplish during this semester.
+You must choose a team lead who will be responsible for delivering your products and for coordinating team meetings and member tasks. 
+You must hold weekly team meetings with minutes (submitted weekly to instructor).
+You must deliver a weekly update for the instructor to monitor your progress.
+
+MANDATORY SPRING 2021 SYLLABUS STATEMENT: COVID-19 PROCEDURES
+All students must comply with university policies and posted signs regarding COVID-19 mitigation measures, including wearing face coverings and maintaining social distancing during in-person classes.  Failure to do so may result in dismissal from class, referral to the Student Conduct Office, and possible removal from campus.
+Additional details are available on the University’s Core Syllabus Policy Statements page: https://www.usf.edu/provost/faculty/core-syllabus-policy-statements.aspx
+
+MANDATORY SPRING 2021 SYLLABUS STATEMENT: CLASS RECORDING
+Classes will be recorded and streamed online. Any and all Student voices, faces and videos will be included in the class recordings. It is the student’s responsibility to make sure the privacy of their surroundings and background is maintained.
+
+
+
+
+
+
+
+
+ Grading:	
+
+
+  Grading Rubric
+Expectations (How your work will be judged):
+
+This course is designed to introduce you to the rigor of research and documentation as applied to the application of IT to business, technology and innovation. As such, you will be assessed based on quality of your work, thoroughness in your treatment of the subject matter, presentation, and content. 
+
+I have one standard that I use to judge your work: Would I be embarrassed that you took this to your job interview?
+
+To give you some guidance for what it considered to be acceptable work for University, Graduate level, here is a list of items describing formatting requirements for work submissions, and deadlines that must be followed. 
+
+You will find that many “requests for proposal” (RFP) and “requests for information” (RFI) formatting rules practiced in industry are very similar to what has been listed below. These are habits and routines we would like to instill in you sooner rather than later for your success as a graduate from Muma:
+
+Submissions must be typed, using New Times Roman, 12-point font, with double space. 
+Multiple pages must be stapled or bound only. Loose pages will not be accepted. 
+Every assignment should have a cover page containing the assignment title, date and course name. No other items may be on the cover page except:
+Individual assignments must contain the individual’s name, 
+Team assignments must identify the team lead and all team members listed in alphabetical order and must state the team name and motto. 
+Team assignments shall have only one submission per team. It may be submitted by any member of the team. 
+You should use headings and paragraphs where appropriate and also use a variety of fonts and colors (when appropriate) for presentation.
+You must use complete sentences. 
+I should not be the first set of eyes on your paper: Typos and grammatical errors will count against you.
+Your work must be thoughtful and demonstrate critical thinking and problem solving. 
+Your work must be well organized, using headers and titles.
+Your work must be easy to read (readability). 
+Your work must be clear and to the point. I do not require a minimum amount of content, but you must include enough content to demonstrate to me that you have put satisfactory thought and effort into your work.
+
+Grading scale:	
+
+
+
+
+ General Class Policies:	
+
+This course considers, evaluates and analyzes information technology in the full complexity of rich business environments with real business issues at work. Consequently, this class uses a case discussion format that relies heavily on the proactive participation and active engagement of all of the students in the online class environment. We will not rely on lectures by the professor or powerpoint presentations. Instead, each student will be given opportunities to open one or more discussions, present work, and volunteer information and contribution to class discussions.
+
+Free Rider Policy: Team members who do not show up for team meetings or contribute satisfactorily to their respective team projects may receive a lower grade than the rest of their team based on peer evaluations.
+
+Early Notification Requirement for Observed Religious Days - Students who anticipate the necessity of being absent from class due to the observation of a major religious observance must provide notice of the date(s) to the instructor, in writing, at the beginning of the term.
+http://www.ugs.usf.edu/policy/ReligiousDays.pdf
+Academic Integrity of Students
+http://www.ugs.usf.edu/policy/AcademicIntegrityOfStudents.pdf
+Disruption of the Academic Process
+http://www.ugs.usf.edu/policy/DisruptionOfAcademicProcess.pdf
+Gender-Based Crimes - Educators must report incidents of gender-based crimes including sexual assault, sexual harassment, stalking, dating violence and domestic violence. If a student discloses in class, in papers, or to an instructor, the instructor is required by law to report the disclosure.
+The Center for Victim Advocacy and Violence Prevention (813-974-5757) is a confidential resource where you can talk about such situations and receive assistance in confidence. Additional confidential resources on campus are: the Counseling Center (813-974-2831) and Student Health Services (813- 974-2331).
+Student Academic Grievance Procedures
+http://www.ugs.usf.edu/policy/StudentAcademicGrievanceProcedures.pdf
+Students with Disabilities - Students with disabilities are responsible for registering with Students with Disabilities Services (SDS) in order to receive academic accommodations. SDS encourages students to notify instructors of accommodation needs at least 5 business days prior to needing the accommodation. A letter from SDS must accompany this request.
+See student responsibilities: http://www.sds.usf.edu
+See instructor
+responsibilities:     http://www.asasd.usf.edu/instructorresponsibilities.asp?refer=FACULTY
+SafeAssign Privacy policy
+In order to comply with privacy laws, students are not required to include personal identifying information, such as your name, in the body of the document. Submitting to the SafeAssign Global Reference Database allows papers from other institutions to be checked against your paper to protect the originality of your work across institutions. Please follow your instructor's instructions carefully regarding what identifying information to include.
+Blackboard Quick Reference Guide - Submitting SafeAssignment
+
+University Emergency Policy
+In the event of an emergency, it may be necessary for USF to suspend normal operations. During this time, USF may opt to continue delivery of instruction through methods that include but are not limited to: Blackboard, Elluminate, Skype, and email messaging and/or an alternate schedule. It's the responsibility of the student to monitor Blackboard site for each class for course specific communication, and the main USF, College, and department websites, emails, and MoBull messages for important general information.
+
+Copyrights: Presentation slides and other materials for this class are copyrighted materials. You can use them for your own study, but you are not allowed to distribute, sell, or use these materials for any other purpose without the express written consent of the professor.
+
+Seeking Help: If you need my help or advice, please seek help early. Drop me an e-mail or schedule time with me during office hours. I’m here to help you learn and get the best grades that you can.
+
+

@@ -1,0 +1,61 @@
+Matthew MullarkeyProfessor of InstructionDirector, DBA Programmmullarkey@usf.eduRoom: CIS 1040Phone: (813) 974-4653VitaMatthew Mullarkey is a Professor of instruction in the School of Information Systems
+               and Management and the director and co-founder of the Doctor of Business Administration
+               program at the Muma College of Business at the University of South Florida.Mullarkey is a Fulbright core research scholar, an extraordinary associate professor
+               in the Centre for Applied Research in Management at the North West University (South
+               Africa), an IIIS interdisciplinary Fellow, a member of the advisory board for the
+               Innovation Value Institute at the National University of Ireland Maynooth, a member
+               of the governance committee for the USF Institute of Applied Engineering, and a Fellow
+               at Tampa General Hospital Research (the academic medicine partner for USF).Mullarkey has been awarded more than $7 million as the principal investigator in research
+               and industry partnership grants and $4.25 million as PI or co-PI on competitive NSF
+               grant funded research.He has more than 30 peer reviewed articles in leading journals and conference proceedings
+               includingINFORMS Journal on Computing,European Journal of Information Systems,IEEE Transactions on Engineering Management,Information Systems Frontiers,Communications of the Association for Information Systems,Journal of Research in Innovative Teaching & Learningand CORS/INFORMS International Conference, International Conference on Design Science
+               Research in Information Systems, International Conference on Secure Knowledge Management
+               in Artificial Intelligence, International Conference on Data Mining Workshops, and
+               ACM Conference on Computer Supported Cooperative Work, among others.Mullarkey’s research is centered on the guided, emergent design of innovative technology
+               systems, processes, products and services across disciplines and industries including
+               healthcare, manufacturing, technology, defense, energy, nonprofit and government.
+               Recent research topics include innovations and applications for healthcare, smart
+               cities, IoT, cybersecurity, data science, entrepreneurship, case research and technology
+               education.Mullarkey earned a PhD Business Administration (Information Systems) from the University
+               of South Florida, an MBA (International Operations) from the University of South Carolina,
+               a master's degree in Systems Management (Information Systems) from the University
+               of Southern California, and, a bachelor's degree in Engineering from the United States
+               Military Academy (West Point).Prior to joining the faculty of the USF Muma College of Business, Mullarkey spent
+               30 years in industry as a CEO, COO, CFO, EVP Operations, managing director, and general
+               manager primarily in the automotive, medical device, and engineered materials industries
+               in Fortune 1000 and start-up businesses. He is a serial entrepreneur having started
+               and exited four businesses in diverse areas of technology, home services, and management
+               consulting. Mullarkey has been an executive-in-residence for a major private equity
+               firm focused on healthcare and a named officer at two NYSE listed Fortune 1000 medical
+               device firms. Early in his career, Mullarkey was a decorated officer in the U.S. Army
+               awarded the meritorious service medal, the Ranger Tab, and the Airborne, Pathfinder,
+               Jungle Warfare and Expert Infantryman Badges.TeachingMullarkey has been co-Major Professor for 12 doctoral candidates, a doctoral dissertation
+               committee member for an additional 14 doctoral candidates, and an external evaluator
+               for multiple international doctoral candidates. Mullarkey teaches successfully at
+               all levels of student education including undergraduate, graduate masters, and doctoral
+               coursework.Current Courses:GEB 6930 Case Method Publication (DBA)GEB 6930 Interview Research Methods (DBA)MAR 7931 Research Article Publication (DBA)ISM 6155 Enterprise Information Systems (EMBA)ISM 6021 Management Information Systems (MBA)ResearchRay, A., Jank, W., Dutta, K., Mullarkey, M. (2023) An LSTM+ Model for Managing Epidemics:
+                     using population mobility and vulnerability for forecasting COVID-19 hospital admissions.INFORMS Journal on Computing, 35(2), 440-457.Wallace, J., Mullarkey, M., Hevner, A. (2023) Patient health locus of control: the
+                     design of information systems for patient-provider interactions,European Journal of Information Systems, 32(1). 52-63.Tarpey, R.J., Mullarkey, M.T.  (2023) Engineering Innovative Clinical Resource Management
+                     By Design: A guided Emergent Search Through a Complex Adaptive System of Systems,IEEE Transactions on Engineering Management, 70(3). 927-941.Daniel, C., Agrawal, M., Mullarkey, M. (2023) RQ Labs: a cybersecurity workforce skills
+                     development framework,Information Systems Frontiers, 25(2). 431-450.Mullarkey, MT (2023) Global National Security Institute Summit, 8th Great Power Competition
+                     Conference, “Industry Use and Advancement of UAVs” Panel Moderator, Tampa, FL, 28
+                     September 2023.view moreMullarkey, MT (2023) United Nations General Assembly 78, Digital Health Symposium,
+                        “First Principles of Transformative Digital Healthcare Adoption”, Manhattan, NY, 27
+                        September 2023.Mullarkey, MT (2023) Design Science Research Conference (DESRIST), Panel Session “Engaging
+                           with Practitioners in the Conduct of Design Science Research”, Pretoria, SA, 2 June
+                           2023.Mullarkey, MT (2023) Special Operations Command (SOCOM) “Dragon’s Lair” Innovation
+                           Pitch Competition, USF Discovery and Innovation Center, Tampa, FL, 29 March 2023.Mullarkey, MT (2023) “Hope for AI in Healthcare”, Florida Blue/Guidewell/USF Data
+                           and AI for Health and Wellness, Inaugural Forum on AI and Data for Healthcare, Guidewell
+                           Innovation Center, Orlando, FL, 26 January 2023.Mullarkey, MT (2023) “Healthcare Leadership through Operations Management”, USF-TGH
+                           People Development Institute, Inaugural Business of Healthcare, USF Health Surgery
+                           Resident Leadership Program, Tampa, FL, 16 January 2023.Kutz, D., Cumbie, B., Mullarkey, M. (2022) Incorporating the student perspective in
+                           designing a virtual team classroom environment: an elaborated action design science
+                           research approach.Journal of Research in Innovative Teaching and Learning. Vol. ahead-of-print No. ahead-of-print.Mullarkey, M. T. (2021) Book Chapter: Divide and Conquer: an innovative methodology
+                           to case writing with impact.Case Method for Digital Natives, Eds A.K. Dey & S. Mishra. Bloomsbury India, New Delhi, India.185-212.Emmanuel, E., Cudden, J., Mullarkey, M. (2021). When smart bins meet a smart city.Muma Case Review6(14). 1-35.Guerin, M., Mullarkey, M. & Cudden, J. (2021). City telecoms potential: 5G challenges
+                           for a smart city.Muma Case Review6(15). 1-30.Dowling, C.M., Mullarkey, M. & Clarke, S. (2021). A district approach to smart mobility.Muma Case Review6(13). 1-18.Hamilton, J. & Mullarkey, M. (2021). Enabling cities to harness the full potential
+                           of the Internet of Things.Muma Case Review6(16). 1-25.Miller T.C., Morgera S.D., Saddow S.E., Takshi A., Mullarkey M.T., Palm M. (2021)
+                           Neurological connections and endogenous biochemistry - potentially useful in electronic-nose
+                           diagnostics for coronavirus diseases.Neuroimmunol Neuroinflammation, 2021:8.Mullarkey, M.T., Hevner A.R. (2019) An elaborated action design research process model,European Journal of Information Systems, 28:1. 6-20.ServiceCo-Principal Investigator on the 2018-Current NSF I-Corps Site Grant2016 recipient of the NSF I-Corps National grant as mentorUSF I-Corps Site CommitteeUSF I-Corps Site instructorInstructor, coach and mentor with USF Connect, Tampa Bay WAvE, Florida-Israel Business
+                  Accelerator (FIBA), and the Greater Tampa Chamber of Commerce Startup ScholarsBoard member with the USF Institute for Research in Art Community Advisory Council,
+                  the West Point Society Florida West Coastpast board member of Tampa Bay Tech, Speak Up Tampa Bay & the Tampa Bay Community
+                  Network, and, the CEO Council of Tampa Bay

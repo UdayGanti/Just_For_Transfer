@@ -1,0 +1,45 @@
+
+Kaushik Dutta
+
+Professor (Muma Fellow)Associate Dean of Undergraduate and International RelationsInterim Director, School of Information Systems and Managementduttak@usf.eduRoom: CIS 2079BPhone: (813) 974-6338VitaPersonal HomepageLinkedIn
+Kaushik Dutta has 22 years of professional and research experience in the field of
+                  enterprise IT infrastructure, data analytics and big data systems. He is professor in and chair of the School of Information Systems and Management. His current
+               research interest is big data analytics. Dutta's primary expertise combines operations
+               research and data mining techniques with computer science systems knowledge to efficiently
+               handle big data and manage large IT infrastructure. He has been the mentor of two
+               startups out of USF in the NSF-iCorps program.
+Prior to joining USF, Dutta was a tenured associate professor at National University
+               of Singapore and Florida International University. Before starting out on his academic
+               path, he pursued a career in engineering, most recently as the chief technology officer
+               and vice president of engineering of Mobilewalla, a NUS-incubated and Madrona-funded
+               company that developed big-data-based mobile advertisement platforms.
+Dutta earned a PhD in management information systems from the Georgia Institute of
+               Technology and a master's degree in computer science from the Indian Statistical Institute.
+               He received a bachelor's degree in electrical engineering from Jadavpur University.
+Teaching
+
+ISM 6930 - Big Data and E-Commerce (MS MIS) 
+ISM 6930 - Advanced Database (MS MIS)  
+
+Research
+
+Chatterjee, S., Byun, J., Dutta, K., Pedersen, R. U., Pottathil, A., & Xie, H., (2018),
+                  "Designing an Internet-of-Things (IoT) and Sensor-Based In-Home Monitoring System
+                  for Assisting Diabetes Patients: Iterative Learning from Two Case Studies," European Journal of Information Systems, Volume 27, Issue 6.
+X.Xu, K.Dutta, C.Ge, (2018), "Do Adjective Features from User Reviews Address Sparsity
+                  and Transparency in Recommender systems?" Electronic Commerce Research and Applications, Volume 29, Pages 113-123
+S. Adikari, K. Dutta, (2018), "A New Approach to Real Time Bidding in Online Advertisements:
+                  Auto Pricing Strategy," online published INFORMS Journal of Computing 
+X. Xiaoying, K. Dutta, A. Datta, C. Ge, (2017), "Identifying Functional Aspects from
+                  User Reviews for Functionality-Based Mobile App Recommendation," Journal of the Association for Information Science and Technology, 69(2), 242-255.
+A. Mukherjee, R. P. Sundraraj, K. Dutta, (2017), Apriori-Rule-Based-in-App Ad-Selection
+                  Online Algorithm for Improving Supply Side Platform Revenues," ACM Transactions on Management Information Systems (TMIS), Volume 8 Issue 2-3.
+
+Google Scholar: https://scholar.google.com/citations?user=gqfV2KsAAAAJ&hl=en
+Service
+
+Special issue guest editor, ACM Transactions on Management Information Systems, 2018
+Special issue guest editor, IEEE Transactions on Engineering Management, 2018
+Review board member, Journal of Association of Information Systems, 2017-present
+Area editor (database), Elsevier Journal of Systems and Software, 2007-16
+

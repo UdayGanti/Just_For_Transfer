@@ -1,0 +1,262 @@
+8/7/23, 1:02 PM Syllabus for ISM6419.901F23.80374 Data Visualization
+https://usﬂearn.instructure.com/courses/1812328/assignments/syllabus 1/9Course Syllabus
+ Edit
+ISM 6419
+Data V isualization
+Fall 2023
+BAIS Students
+ 
+Instructor :Han Reichgelt, PhD
+OfficeLPH 430 St Petersburg
+CIS 2071 Tampa
+Office
+phone727-873-4786
+678-314-4432 (preferred)
+Email reichgelt@usf.edu
+Classroom BSN 2304
+Time: Wednesdays 6:30-10:15
+Office
+hoursMondays 10:00-12:00 pm  (https://teams.microsoft.com/l/meetup-
+join/19%3ameeting_ODRhYzE2OGQtMzllZC00MWQ2LTkxZDYtOTAzN2UzMjdmZTkx%40thread.v
+context=%7b%22Tid%22%3a%22741bf7de-e2e5-46df-8d67-
+82607df9deaa%22%2c%22Oid%22%3a%221b3ef0f3-b0ad-44bd-8a43-d3804d2e3d10%22%7d) (in
+person at CIS 2071 via Teams)
+Mondays 6:00-8:00  (https://teams.microsoft.com/l/meetup-
+join/19%3ameeting_NWI4ZGUzNjItZmUwNS00MmEzLWIyOGMtOTU0YjhlMWRiZWRh%40thread.
+context=%7b%22Tid%22%3a%22741bf7de-e2e5-46df-8d67-
+82607df9deaa%22%2c%22Oid%22%3a%221b3ef0f3-b0ad-44bd-8a43-d3804d2e3d10%22%7d) pm
+Teams)
+Thursdays 2:00-5:30  (https://teams.microsoft.com/l/meetup-
+join/19:meeting_MWQ1MTU1ZGItMDYyOC00ZjM0LWI4MGQtZGFjOWJjOWJiNmYx@thread.v2/0?
+context=%7B%22Tid%22:%22741bf7de-e2e5-46df-8d67-82607df9deaa%22,%22Oid%22:%221b3e
+b0ad-44bd-8a43-d3804d2e3d10%22%7D) (in person at CIS 2071 or via Teams).
+Also available at other times by appointment.
+ 
+No content. Not visible to students8/7/23, 1:02 PM Syllabus for ISM6419.901F23.80374 Data Visualization
+https://usﬂearn.instructure.com/courses/1812328/assignments/syllabus 2/9Course Catalog Description:
+The course provides an overview of the data and information visualization discipline.  Using a hands-on
+approach, readings and lectures will cover various visualizations principles and tools.
+Expanded Course Description:
+As organizations gather and access more and more data, the issue of knowledge management in
+general and business intelligence and data analytics in particular takes on an increasing importance for
+organizational success. However , while the various business intelligence tools often of fer important
+information, in order for such information to be useful from an organizational point of view , it needs to be
+presented in a way that is accessible. Data/Information visualization is widely used in several industries,
+including business, engineering, and media disciplines to help people analyze and understand what the
+data is telling us. The visualization field has grown exponentially over the last few years, and thus there
+are more tools available to help us quickly and ef ficiently create compelling ways to understand data.
+This course examines how to present insights gained through the application of business intelligence
+techniques in the most ef fective way to tell stories that can improve the quality of leadership decisions.
+Course Objectives:
+At the conclusion of this course, students are expected to be able to:
+1. Discuss the importance of data visualization in improving data-driven organizational decision-making.
+2. Distinguish between truthful visualizations and misleading visualizations, and discuss what makes a
+visualization truthful or misleading.
+3. Use data visualization tools to produce quality visualizations.
+4. Create visualizations in at least one programming language.
+5. Use widely used data visualization tools to clearly , effectively and compellingly communicate insights
+to improve organizational decision making.
+Course Material
+Required:
+NONE
+Optional:
+Healy , K. (2019) Data V isualization: A Practical Introduction. Princeton, NJ: Princeton University
+Press
+Henley , A.J. & W old, D. (2018)  Learn Data Analysis with Python: Lesson in Coding  .  Apress. (An
+electronic version of the book is included in the course)8/7/23, 1:02 PM Syllabus for ISM6419.901F23.80374 Data Visualization
+https://usﬂearn.instructure.com/courses/1812328/assignments/syllabus 3/9Milligan, J. (2016) Learning T ableau 10 (2nd Edition) . Packt Publishing (Electronic copy available
+from USF library)
+Nussbaumer Knaflic, C. (2015) Story T elling with Data . Wiley
+Where appropriate, we will also include links to additional optional material online.
+We will of course rely heavily on Canvas.  The Canvas privacy policy is
+at https://www .canvaslms.com/policies/privacy  (https://www.canvaslms.com/policies/privacy) .
+Grading
+You will be assessed using a number of dif ferent assessment tools, including
+A number of smaller projects.
+Initial posts in discussion forums.
+Participation in Classroom discussions.
+The larger project in which you will conduct data analysis and data visualization on a data set,
+preferably of your own choosing, and
+A reflective essay on what you learned in the course and how you could use the competencies
+acquired in the course in your professional career .
+Unless otherwise indicated, the deadline for all the assignments is Monday .  This will give enough time to
+grade the assignments so that we discuss any general issues that arise from the assignment in class.
+The link of most of the assessments to the course objectives will be clear . The only assessment
+instrument that needs justification is the reflective essay . Research (see
+e.g. http://www .cmu.edu/teaching/principles/learning.html
+(http://www.cmu.edu/teaching/principles/learning.html) ) has shown that learning improves considerably ,
+especially for adult students, if students reflect on their learning and how they could use the
+competencies and knowledge that they acquired in a course through their own careers. There will be
+more details on what to include in the essay later on in the course.
+Since the project is such a large part of the overall grade for the course, you are welcome to submit an
+early draft of the project, and there will be a number of graded discussions in which you are asked to
+report on the progress of your project and on any issues that you may be running into.  The project will
+consist of a written report and several visualizations in whatever tool you choose (T ableau or Power BI). 
+You will also be asked to make a project presentation, consisting of a 5-minute video.
+Your grade will be determined as follows:
+Assessment Total
+Mini projects 3408/7/23, 1:02 PM Syllabus for ISM6419.901F23.80374 Data Visualization
+https://usﬂearn.instructure.com/courses/1812328/assignments/syllabus 4/9Posts in discussion
+forums70
+Participation in classroom
+discussions60
+Reflective essay 30
+Project Presentation 30
+Final Project 200
+Total 730
+Your raw numerical grade will be converted to a letter grade according to the following table:
+A+>= 96.5%  
+A >= 93% < 96.5%
+A- >= 90% < 93%
+B+>= 86.5% < 90%
+B >= 83% < 86.5%
+B- >= 80% < 83%
+C+>= 76.5% < 80%
+C >= 73% < 76.5%
+C- >= 70% < 73%
+D+>= 66.5% < 70%
+D >= 63% < 66.5%8/7/23, 1:02 PM Syllabus for ISM6419.901F23.80374 Data Visualization
+https://usﬂearn.instructure.com/courses/1812328/assignments/syllabus 5/9D- >= 60% < 63%
+F < 60%
+Provisional Schedule
+Date Topics Assessments
+Aug 23M0 Getting Started
+M1 Introduction to Data V isualizationSyllabus Discussion
+Discussion on Misleading and Truthful
+visualizations
+Aug 30M2 Telling Stories with Data and a First
+Introduction to TableauDiscussion on Initial Project Ideas
+Some simple Tableau V isualizations
+Tableau Exercise 1
+Sep 6 M3 Data Preparation in Tableau Tableau Exercise 2
+Sep 13M4 Combining V isualizations, Animations &
+Parameters in TableauDiscussion on Data V isualization and V isual
+Impairment
+Tableau Exercise 3
+Sep 20 M5 Power BI Part 1Project Progress Discussion 1
+Power BI Exercise 1
+Sep 27 M6 Power BI Part 2 Power BI Exercise 2
+Oct 4 M7 Cloud Based Data V isualization ToolsQlik Exercise
+Google Looker Exercise
+Oct 1 1 M8 Data V isualization in Python Python Exercise
+Oct 18 M9 Data V isualization in RR Exercise
+Project Progress Discussion 28/7/23, 1:02 PM Syllabus for ISM6419.901F23.80374 Data Visualization
+https://usﬂearn.instructure.com/courses/1812328/assignments/syllabus 6/9Oct 25  -
+Nov 8ProjectProject report, including visualizations
+Project presentation
+Reflection Paper
+Important dates:
+Sep 4, Labor Day , USF of fices closed.
+Oct 28, Last day to withdraw , No refund and no academic penalty .
+Course Policies
+Contacting the Instructor:
+The easiest way to contact me is through CANV AS. I typically log in at least once a day , and often more
+frequently , and this includes weekends. You can also reach me by email as reichgelt@usf.edu or on my
+mobile 678-314-4432. I will normally answer you within 24 hours and often more quickly , unless I have
+indicated through a course announcement that I may not be able to.  If you want to meet me in person,
+please contact me during my of fice hours or make an appointment.
+Communications from the Instructor:
+In addition to communicating with you in class, I will in general communicate with you through course
+emails and course announcements, and it is therefore crucial that you log in at least twice a week to
+make sure that there are no new messages from me.  I will also communicate with you by leaving
+comments on the various assignments that you complete.  It is important that you read these even if you
+earned the maximum grade on the assignment because I often make some comments on how you could
+further improve the assignment.
+Deadlines:
+I will strictly enforce deadlines and will typically not grade work if it is submitted after the deadline. Since
+the technology is still not 100% reliable, I would encourage you not to wait until the last moment before
+you start working on your assignments. Also, as you are working, please save your work often,
+preferably both on your computer and on some back-up storage device, such as a USB drive. In return,
+you can expect me to grade your work within 48 hours for the larger assignments and more quickly for
+the smaller assignments. 
+Chatbots:
+The course contains a few assignments that require you to create written documents.  The use of
+chatbots to write these documents is not allowed in this course.  If I have evidence that you used a
+chatbot, I will give you an F in the course and you will be reported for violating the academic integrity
+policy .
+University Policies:8/7/23, 1:02 PM Syllabus for ISM6419.901F23.80374 Data Visualization
+https://usﬂearn.instructure.com/courses/1812328/assignments/syllabus 7/9Course Summary:USF has a set of central policies related to student recording class sessions, academic integrity and
+grievances, student accessibility services, academic disruption, religious observances, academic
+continuity , food insecurity , and sexual harassment that apply to all courses at USF .  Be sure to review
+these online at: https://www .usf.edu/provost/faculty/core-syllabus-policy-statements.aspx
+(https://www.usf.edu/provost/faculty/core-syllabus-policy-statements.aspx)   
+Honor System :
+Under the USF Honor System, each student is expected to observe complete honesty in all academic
+matters.  V iolation of the Honor System will be referred to the Honor Council.  Note: The following are
+violations of the Honor Code:  Copying another student’ s homework, signing another student’ s name on
+the attendance roster , copying another group’ s disk or written work, using another student’ s computer
+disk to print out your assignment, copying another student’ s file onto your disk, and misrepresenting a
+reason for a missed exam.  Punishment for academic dishonesty may result in an automatic “F” or “FF”
+in the course or action that may result in suspension or expulsion. See the USF Policy on Academic
+Dishonesty & Disruption of the Academic Process at https://www .usf.edu/graduate-
+studies/students/academic-integrity-of-students  (https://www.usf.edu/graduate-
+studies/students/academic-integrity-of-students/)
+Students with Accessibility Issues :
+Please notify your instructor by the second week if you have a learning disability or require special
+assistance with this course.  For additional information about academic accommodations and resources,
+you can visit the SAS website at https://www .usf.edu/student-affairs/student-accessibility/
+(https://www.usf.edu/student-affairs/student-accessibility/)  
+We have made every ef fort to make the course material as accessible as possible.  However , we rely
+heavily Canvas in this course.  Consult https://community .canvaslms.com/docs/DOC-2061. 
+(https://community.canvaslms.com/docs/DOC-2061)  for the accessibility practices policies for Canvas.  If
+you run into accessibility problems with either , please contact me.
+S/U Grades :
+This course cannot be taken on an S/U basis.
+Title IX and Responsible Employees:
+All USF faculty (adjunct, TA, etc) are designated Responsible Employees. If you have experienced
+sexual harassment, sexual violence, relationship violence or stalking, Responsible Employees are here
+to listen and connect you to resources. When a disclosure is made to a Responsible Employee, they will
+notify the Title IX Of fice on your behalf and that of fice will send you an email with your rights, policies,
+and resources (if it is safe to do so). You are not obligated to respond to this email and The Title IX Of fice
+does not share information about the report unless requested by the discloser or as required to address
+imminent risk to members of our community .8/7/23, 1:02 PM Syllabus for ISM6419.901F23.80374 Data Visualization
+https://usﬂearn.instructure.com/courses/1812328/assignments/syllabus 8/9Date Details Due
+ Data V isualization and V isual
+Impairment in Oral Presentations
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 8 9 9 3 ) 
+ Data V isualization and V isual
+Impairment in W ritten
+Presentations
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 9 0 0 1 ) 
+ Draft Final Report
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 9 0 0 5 ) 
+ Final Project
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 9 0 0 7 ) 
+ Good V isualization
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 8 9 9 9 ) 
+ Initial Project Ideas
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 8 9 9 7 ) 
+ Misleading V isualization
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 8 9 9 5 ) 
+ Power BI Exercise 1
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 8 9 8 1 ) 
+ Power BI Exercise 2
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 8 9 7 7 ) 
+ Project Presentation
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 8 9 9 1 ) 
+ Project Progress Discussion 1
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 8 9 8 7 ) 
+ Project Progress Discussion 2
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 8 9 8 9 ) 
+ Python Exercise
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 8 9 8 5 ) 8/7/23, 1:02 PM Syllabus for ISM6419.901F23.80374 Data Visualization
+https://usﬂearn.instructure.com/courses/1812328/assignments/syllabus 9/9Date Details Due
+ Qlik Quiz
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 8 9 7 9 ) 
+ QUESTIONS Qlik Sense
+Exercise
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 9 0 0 9 ) 
+ R Exercise
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 8 9 7 3 ) 
+ Reflection Paper
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 9 0 1 1 ) 
+ Syllabus Discussion
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 9 0 0 3 ) 
+ Tableau Exercise 1 Part 1
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 9 0 1 3 ) 
+ Tableau Exercise 1 Part 2
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 8 9 8 3 ) 
+ Tableau Exercise 2
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 8 9 7 5 ) 
+ Tableau Exercise 3
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 8 1 2 3 2 8 / a s s i g n m e n t s / 1 4 3 3 8 9 7 1 ) 

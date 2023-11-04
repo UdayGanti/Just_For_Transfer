@@ -1,0 +1,145 @@
+
+
+
+
+
+ISM 6940: 
+Practicum: Information Assurance and Cybersecurity Management
+Section 300, Credit Hours: 3
+
+COURSE SYLLABUS
+
+Semester: Fall 2023
+Class Meeting Days: N/A
+Class Meeting Time: N/A
+Class Meeting Location: N/A
+Instructor: Dr. Varol Kayhan
+Office Location: LPH 428 (St. Pete campus)
+Office Hours: Wednesday 6:00pm-7:00pm (Microsoft Teams)
+Email: vkayhan@usf.edu
+
+
+Course Schedule
+
+* Note: Schedule can be revised upon unforeseen circumstances
+
+University Course Description
+The M.S. in Information Assurance and Cybersecurity Management program requires each student to complete three semester credit hours of “experiential learning” or practicum that allows students to apply knowledge from their program and critically consider/address issues relevant to the cybersecurity field.  Students produce and submit a tangible outcome or artifact to document their experience. This can be in the form of an internship report, an essay, an assessment report, an app, or any other concrete outcome.
+
+Course Prerequisites
+Students must be enrolled in the M.S. in Information Assurance and Cybersecurity Management program through. Students must have an approved Practicum Learning Plan (PLP) on file and have been issued a registration permit through the Muma College of Business.
+
+Course Purpose 
+The goal of this course is to allow students to apply knowledge from their program and critically consider/address issues relevant to the cybersecurity field. Practicum assignments and experiences vary substantially among students enrolled in this class.  The specific objectives and goals are identified in each student’s individual PLP previously submitted as a contractual prerequisite for this course. The experience needs to be linked to either an organizational issue on which student works or a research topic about which the student writes an essay. Another option is that the student develops something, like an algorithm or app, related to cybersecurity. For example, past students have performed cybersecurity assessments for their host organization (example of a practical internship) or have written an essay on cybersecurity in autonomous vehicles (example of a research essay).  Practicums approved for the Cybersecurity program must primarily have an educational focus that distinguishes them from routine employment, and they cannot be applied retroactively for work already performed. 
+
+At the end of the practicum, students must complete and submit the following:
+Practicum deliverable:
+This is a tangible outcome or artifact to document the practicum experience. It can be in the form of an internship report, an essay, an assessment report, an app, or any other concrete outcome.
+Comprehensive review exam:
+This is multiple-choice review exam that is NOT graded in any formal way. Nor it has a cutoff score.  This is intended to serve as a self-assessment exercise.  As the student completes the items, they should identify areas they know well and those where they feel less confident. They will briefly summarize this assessment in a reflective writing exercise in their e-Portfolio.
+e-Portfolio:
+An e-Portfolio is a Canvas hosted website that substitutes for the written comprehensive exam—mandated by the graduate catalog for graduation. Guidelines are provided to help students complete the e-Portfolio requirement. It should require about three hours to complete.
+
+Student Learning Outcomes
+While specific objectives and goals are noted in each student’s individual PLP previously submitted as a contractual prerequisite for this course, the overarching student learning outcomes for this course are as follows.
+
+Upon completion of this course students will be able to:
+Apply classroom knowledge to critically consider and address issues relevant to the field, 
+Provide discipline appropriate evidence of their learning in the course via tangible outcome or artifact that documents their experience.
+
+Required Texts and/or Readings and Course Materials
+There are no required textbooks.
+
+How to Succeed in this Course
+To succeed in this course, students should start working on the components of the agreed upon PLP immediately. Because this is an 8-week course, time will fly. If you procrastinate, you won’t be able to complete the requirements of this course, and thus not be able to graduate.
+
+Communication
+Email is the preferred communication. You can send an email either through Canvas or directly at vkayhan@usf.edu. 
+
+Grading Scale
+Final grades are issued as either “Satisfactory” or “Unsatisfactory”, also known as Pass/Fail.
+
+If students receive “Unsatisfactory,” they start the entire process again, beginning with resubmitting another PLP and retaking the course.
+
+Grade Categories and Weights
+Grade is based on the satisfactory completion of:
+the tangible outcome or artifact (i.e., deliverable) to document the practicum experience,
+the (ungraded) comprehensive review exam,
+e-Portfolio. 
+
+USF Core Syllabus Policies
+USF has a set of central policies related to student recording class sessions, academic integrity and grievances, student accessibility services, academic disruption, religious observances, academic continuity, food insecurity, and sexual harassment that apply to all courses at USF. Be sure to review these online at: https://www.usf.edu/provost/faculty/core-syllabus-policy-statements.aspx  
+
+Course Policies: Grades
+
+Late Work Policy:
+Late work will not be accepted unless there is a documentable excuse such as a doctor’s note.
+
+Grades of "Incomplete": 
+An Incomplete grade ("I") is exceptional and granted at the instructor’s discretion only when students are unable to complete course requirements due to illness or other circumstances beyond their control. The course instructor and student must complete and sign the "I" Grade Contract Form that describes the work to be completed, the date it is due, and the grade the student would earn factoring in a zero for all incomplete assignments. The due date can be negotiated and extended by student/instructor as long as it does not exceed two semesters for undergraduate courses and one semester for graduate courses from the original date grades were due for that course. An "I" grade not cleared within the two semesters for undergraduate courses and one semester for graduate courses (including summer semester) will revert to the grade noted on the contract. 
+
+Rewrite Policy:
+If the final report does not meet the requirements of the PLP, the instructor might ask the student to rewrite/redo final deliverable outlined in the PLP. Failing to rewrite/redo this deliverable will result in an “Unsatisfactory” grade. 
+
+Group Work Policy:
+There is no group work. The final deliverable must be produced individually. 
+
+Course Policies: Student Expectations 
+
+Course Hero / Chegg Policy:
+The USF Policy on Academic Integrity specifies that students may not use websites that enable cheating, such as by uploading or downloading material for this purpose. This does apply specifically to Chegg.com and CourseHero.com – almost any use of these websites (including uploading proprietary materials) constitutes a violation of the academic integrity policy. 
+
+Turnitin.com: 
+In this course, turnitin.com will be utilized. Turnitin is an automated system which instructors may use to quickly and easily compare each student's assignment with billions of web sites, as well as an enormous database of student papers that grows with each submission. Accordingly, you will be expected to submit all assignments in electronic format. After the assignment is processed, as instructor I receive a report from turnitin.com that states if and how another author’s work was used in the assignment. For a more detailed look at this process visit http://www.turnitin.com. Essays are due at turnitin.com the same day as in class. 
+
+Documenting your Sources:
+Give credit to every one of your sources, even if you change information into your own words. When you use a writer's exact wording, put quotation marks around those words and use a citation.
+
+Plagiarism includes writing facts, opinions, or quotations you get from someone else or from books, magazines, newspapers, journals, movies, television, tapes, or the web as if they were your own and without identifying the source. Remember it is your responsibility to cite all sources properly. Unintentional plagiarism still is plagiarism.
+
+Document all sources using the citation style of either the American Psychological Association (APA) or Modern Languages Association (MLA).
+
+You must acknowledge the source of any:
+statistic
+paraphrase
+concrete fact
+direct quotation
+idea other than your own
+opinion held by someone else 
+information not commonly known
+
+If a fact is common knowledge, don't show a source. For instance, no citation is needed for the following sentence: John Adams was the second president.
+
+Punishment for academic dishonesty will depend on the seriousness of the offense and may include receipt of an "F" with a numerical value of zero on the item submitted, and the "F" shall be used to determine the final course grade. It is the option of the instructor to assign the student a grade of F or FF (the latter indicating academic dishonesty) in the course.
+
+References and sources:
+All references and sources used in this course must be academically sound. You may use scholarly journals or refereed articles as academic sources. 
+
+You may not use "pop culture" resources such as People or Psychology Today.
+
+You may not use “entertainment news” sources such as TMZ or eonline.com.
+
+You may not use "wikis" or various search engines "about" sources such as Wikipedia, eHow.com, Ask.com, About.com, WikiAnswers.com, Answers.com, Answers.Yahoo.com, Answers.google.com, Sociology.about.com, Psychology.about.com, CliffNotes.org, etc.
+
+You may not use online dictionaries such as dictionary.com, reference.com, AskJeeves.com, Ask.com, thefreedictionary.com, etc. (too many to list).
+
+The reason is that “wikis” and “abouts” are “open” source encyclopedias – meaning that anyone can post to them. Therefore, you cannot with any degree of accuracy be certain that the information you are citing is correct. They are unreliable as academic sources.
+
+You must meet the five (5) minimum criteria for quoting and citing sources:
+Ensure that if a source is listed in the “References” section, it must appear in the body of the paper at the point where it was cited or used as a reference, each and every time it is used.
+Ensure that if a source is cited or used as a reference in the body of the paper, it must be listed in the References.
+All references/sources listed in the “References” section and cited in the body should be in the same standardized format. (e.g., APA).
+All directly quoted (word-for-word) materials must be contained within quotation marks followed by an in-text citation and a corresponding reference.
+All paraphrased materials must be followed by an in-text citation and a corresponding reference.
+Learning Support and Campus Offices
+Writing Studio
+The Writing Studio is a free resource for USF undergraduate and graduate 
+students. At the Writing Studio, a trained writing consultant will work individually with 
+you, at any point in the writing process from brainstorming to editing. Appointments are 
+recommended, but not required. For more information or to make an appointment, email: writingstudio@usf.edu. 
+Writing studio website for the Tampa campus.
+Writing studio website for the St. Pete campus.
+Writing studio website for the Sarasota-Manatee campus.
+
+
+

@@ -1,0 +1,30 @@
+
+Institute for Data Analytics and Visualization
+The mission for the Institute for Data Analytics and Visualization in the Muma College
+               of Business at the University of South Florida is to serve the communities of St Petersburg
+               and Pinellas County through consulting services in the areas of data analytics and
+               data visualization.
+The center does so by:
+
+conducting applied research,
+addressing business challenges, and
+developing customized professional development courses.
+
+Projects conducted by the institute are supervised by faculty members and, where possible,
+               involve students, thereby giving students valuable hands-on experience in data analytics
+               and data visualization and thus training the next generation of applied data scientists.
+Areas of Expertise
+Faculty members have expertise in:
+
+Database design and development
+Data warehousing
+Data scraping/extraction, transformation, loading
+Data visualization
+Predictive analytics
+Cloud architectures for data storage and analysis
+
+Contact
+
+Han Reichgeltreichgelt@usf.edu727-873- 4786
+Varol Kayhanvkayhan@usf.edu727-873-4006
+

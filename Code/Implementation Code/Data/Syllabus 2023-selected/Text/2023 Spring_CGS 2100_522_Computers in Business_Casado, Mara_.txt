@@ -1,0 +1,294 @@
+  
+ University of South Florida Sarasota -Manatee  
+CGS   2100 , 3 Credit Hours  
+ Computers In Business  
+Spring  2023 – Virtual  
+ 
+Instructor :  Mara Casado  
+Class Meeting time:  No Face -to-face 
+meetings  Time/Classroom: Asynchronous recordings 
+posted weekly in Canvas  
+E-Mail : Please use  Canvas “ Messages ” for 
+ALL course related communications  
+  
+PREREQUISITIES  
+Consult your Advisor for the latest prerequisites  
+ 
+COURSE DESCRIPTION    
+From Course Catalog: “A study of the use and impact of computers in all areas of 
+business organizations. Course includes hands -on experience and the use of software 
+packages for business analysis .” 
+ 
+Computers in Business (CGS 2100) fulfills your General Education Information and 
+Data Literacy course requirement. In this course, you dev elop computer proficiency in 
+the use of business productivity software using Microsoft Office 2019 / Office 365. 
+This course prepares you to use Microsoft Office for coursework assigned in most 
+USF courses and you will attain valuable entry level workforce  skills.  
+The approach this course applies to the applications for Microsoft Office is that you 
+learn by doing; the best way to get familiar with Microsoft Office is to use it. You are 
+introduced to the Microsoft Office applications through modules in Canvas using 
+MindTap. The training assignments are step -by-step tasks that take you through a 
+project but give you a fresh start for the next task should you fail to complete the task. 
+The assigned module projects cover the same skills, but you are graded  on the 
+completed project. The simulation skills training for each module maps to the module 
+learning objectives which are tied to your Student Learning Outcomes. You will be 
+assessed on your completion percentage for each training module and module grader  
+projects as assigned.  
+Once you are oriented and comfortable with MindTap you complete the training for 
+each assigned module which prepares  you for the MindTap Projects. In MindTap you 
+earn points when you complete training and assigned projects. Feedback i s immediate 
+and within the training you have help in the form of a short intro explaining the task, 
+you can observe the task completion by viewing a recording or you can walk through 
+the task with the aid of the simulation in practice  mode.  
+ 
+COURSE STUDENT LEARNING OUTCOMES    
+Upon completion of this course, students should be able to : 
+ 
+• Discuss how information systems can be used to support business organizations.  
+• Navigate and create content‐rich documents using a word processing 
+application.  2  • Create simple to advanced spreadsheets and perform mathematical and financial 
+calculations, build charts and format spreadsheets.  
+• Critically interpret quantitative evidence such as graphs, tables, charts  
+• Use a presentation tool to create presentations.  
+• Create and edit database objects (Tables, Queries, Forms, Reports).  
+• Integrate Word, Access, Excel, and PowerPoint  
+ 
+Required Materials   
+MindTap for The New Perspectives Collection, 
+Microsoft® Office 365® & Office 2019 | 1st Edition |  
+ 
+ 
+   
+Students can start by 
+using the 14 -day free 
+trial. After the 14 days, 
+students must purchase 
+the Access Code .  
+Day 1 of the trial begins 
+January 9th and will 
+expire in 14 days  
+ 
+ 
+CANVAS USE  
+The class syllabus is posted in Canvas, an online course management system. In this 
+class  Canvas will be used for viewing class lectures and submitting assignments.  
+Information on how to use Canvas is available at: http://usfsm.edu/elearning  
+Canvas is accessible via the myUSF online web portal , or directly at 
+http://learn.usf.edu . 
+ 
+PERFORMANCE EVALUATION AND GRADING  
+The relative weights for each of these components in determining the final grade are 
+as follows:  
+  Points  % 
+Concepts Video Trainings  100 2% 
+Application Trainings  600 11%  
+Projects  4,600  87%  
+TOTAL  5,300  100%  
+ 
+A grade will be determined based on the total of possible points earned, as follows: A 
+90%-100%; B 80 %-89%; C 70 %-79%; D 60 %-69%; F 0 %-59%. More granularity with +s 
+and –s will also be part of the final grade.  
+ 
+ 
+ASSIGNMENTS  
+• You must complete the project assignments using Office 365 or Office 2019 . 
+The MindTap/SAM Projects will only accept Microsoft Office files. You can 
+download Office 365 for the PC and Mac at no cost via myUSF. See instructions 
+in Getting Started Module.  
+• Microsoft Access is not included in Office 365 for the MAC and will not work 
+under MAC OS. You will need a  Windows  system to work on the projects for the 
+four assign ed Access modules . 
+ 3   
+ATTENDAN CE POLICY  
+This course is being offered totall y online. Instead of attending class synchronously, 
+you need to participate in this course asynchronously. Students are expected each 
+week to complete all assigned work.  
+  
+Any student may elect to drop or withdraw from this course before the end of the 
+drop/add period. Please note:  March 2 5 is the last day for a student to drop from a 
+course with “W”; no refund, no academic penalty  
+ 
+INCOMPLETE GRADE  
+An Incomplete grade is reserved for those with good reason for having missed a small 
+amount of work and  are agreed to by the student and instructor during the course, as 
+circumstances require. Otherwise, exams not taken,  or assignments not turned in will 
+receive a zero for that grade, and the course grade assigned accordingly. Please note, it 
+is the student’s responsibility to ensure the work is completed before the end of the 
+following semester and the Incomplete changed  to a regular grade. If this is not done 
+before the end of the following semester, the Incomplete automatically becomes an F!  
+ 
+STATEMENT ON ACADEMIC HONESTY   
+The instructor of this course trusts that all students behave in strict compliance with 
+accepted s tandards of academic honesty. A conscious effort is made to ensure that 
+grading standards are fair, and that anyone who makes an honest and consistent 
+attempt to do well in the course will succeed, as, by this time in your degree program, 
+it is expected th at you can do  the work. There will be no tolerance for anyone who 
+attempts to "succeed" by dishonest routes.  
+Academic honesty includes, but is not limited to:  
+• Honesty in taking examinations.  
+• Honesty in completing your assignments yourself. There is no obje ction to 
+some degree of helpful collaboration in completion of assignments; often a 
+rough spot can be overcome with a helpful word. But assignments passed in 
+for grading must be substantially one person's - the submitter's - work. Please 
+note that in many of the assignments for this course, it will be fairly obvious to 
+the instructor when students have collaborated beyond a reasonable degree 
+(having exactly the same wrong answer, for example, is usually a dead 
+giveaway).  
+• Honesty in attributing others' work.  In all submitted work, including papers 
+and presentations, ideas, concepts,  and quotations obtained from other persons' 
+works must be properly attributed. Not doing so constitutes theft of intellectual 
+property.  
+The consequences  for violating this trust will b e severe. Credit will not be given for 
+any work that does not meet the above criteria. In an extreme violation or repeated 
+violations, a failing grade in the course for reasons of academic dishonesty is an 
+appropriate and reasonable penalty.  
+ 
+  4  Tentative Class Schedule  
+ 
+All assignments  are posted in Canvas   
+ Topic s   
+Week 1 (01/09)  Syllabus review , Course Introduction,  How to Register for 
+MindTap in Canvas , Getting Started with MindTap , Technology 
+for Success: Computer Concepts  
+Week 2 (01/1 6) Word Module 1: Creating and Editing a Document  
+Week 3 (01/23)   Word Module 2: Navigating and Formatting a Document  
+Word Module 3: Creating Tables and a Multipage Report  
+Week 4 (01/30)  Word Module 4: Enhancing Page Layout and Design  
+Word Module 5: Working with Templates, Themes, and Styles  
+Week 5 (02/06)  Word Module 6: Using Mail Merge . 
+Word Module 7: Collaborating with Others and Integrating Data  
+Week 6 (02/1 3) Excel Module 1: Getting Started with Excel  
+Excel Module 2: Formatting Workbook Text and Data  
+Week 7 (02/20) Excel Module 3: Performing Calculations with Formulas and 
+Functions  
+Excel Module 4: Analyzing and Charting Financial Data  
+Week 8 (02/2 7)  Excel Module 5: Generating Reports from Multiple Worksheets 
+and Wor kbooks  
+Excel Module 6: Managing Data with Data Tools  
+Week 9 (03/0 6)  Excel Module 7: Summarizing Data with PivotTables  
+Excel Module 8: Performing What -If Analyses  
+Week 10 (03/1 3) SPRING BREAK   3/13/22 - 3/19/22 
+Week 11 (03/28 ) Excel Module 9: Exploring Financial Tools and Functions  
+Excel Module 10: Analyzing Data with Business Intelligence 
+Tools  
+Week 12 (04/04) Access Module 1: Creating a Database  
+Access Module 2: Building a Database and Defining Table 
+Relationships  
+Week 13 (04/11 ) Access Mod ule 3: Maintaining and Querying a Database  
+Access Module 4: Creating Forms and Reports  
+Week 14 (04/18 ) PowerPoint Module 1: Creating a Presentation  
+PowerPoint Module 2: Adding Media and Special Effects  
+PowerPoint Module 3: Applying Advanced Formatting to 
+Objects  
+Week 15 (04/25 )  PowerPoint Module 5: Integrating PowerPoint with Other 
+Programs  
+Office Integration Project  
+Week 16 (05/0 1)  Course Ends - all projects are due  
+** The instructor reserves the right to make modifications to the schedule and 
+will notify the student via Canvas if any changes are made.  
+ 
+ 
+ 5   USFSM AND USF SYSTEM POLICIES   
+ 
+A. Academic Dishonesty :  The University considers any form of plagiarism or 
+cheating on exams, projects, or papers to be unacceptabl e behavior.  Please 
+review the USF System Regulation USF3.027 Academic Integrity of Students  
+and the USF System Regulation USF6.0021 Student Code of Conduct.  
+ 
+B. Academic Disruption : The University does not tolerate behavior that disrupts 
+the learning process.  P lease review USF System Regulation USF3.025 
+Disruption of Academic Policy .  
+ 
+C. Contingency Plans : In the event of an emergency, it may be necessary for 
+USFSM to suspend normal operations.  During this time, USFSM may opt to 
+continue delivery of instruction through methods that include but are not 
+limited to: Canvas, online conferencing/collaboration to ols, email messaging, 
+and/or an alternate schedule. It is the responsibility of the student to monitor 
+Canvas for each of their classes for course specific communication, as well as 
+the USFSM website, their student email account, and MoBull  messages for 
+important general information. The USF hotline at 1 (800) 992 -4231 is 
+updated with pre -recorded information during an emergency.  See the Campus 
+Police Website  for further information.  
+ 
+D. Disabilities Accommodation :  Students are responsible for registering with 
+the Office of Students with Disabilities Services (SDS) in order to receive 
+academic accommodat ions. Reasonable notice must be given to the SDS office 
+(typically 5 working days) for accommodations to be arranged. It is the 
+responsibility of the student to provide each instructor with a copy of the 
+official Memo of Accommodation.  Contact Information :  Disability 
+Coordinator, at 941 -359-4714 or disabilityservices@sar.usf.edu , 
+http://usfsm.edu/disability -services/  
+ 
+E. Fire Alarm Instructions :  At the beginning of each semester please note the 
+emergency exit maps posted in each classroom.  These signs are marked with 
+the primary evacuation route (red) and secondary evacuation route (ora nge) in 
+case the building needs to be evacuated. See Emergency Evacuation 
+Procedures . 
+ 
+F. Religious Observances :  USFSM recognizes the right of students and facul ty 
+to observe major religious holidays.  Students who anticipate the necessity of 
+being absent from class for a major religious observance must provide notice 
+of the date(s) to the instructor, in writing, by the second week of classes.  
+Instructors canceli ng class for a religious observance should have this stated in 
+the syllabus with an appropriate alternative assignment.  
+ 
+G. Protection of Students Against Discrimination and Harassment:    
+1. Sexual Misconduct/S exual Harassment Reporting: USFSM is 
+committed to providing an environment free from sex discrimination, 
+including sexual harassment and sexual violence ( USF System Policy 0 -004). 
+2. Other  Types of Discrimination and Harassment: USFSM also is 6  committed to providing an environment free from discrimination and 
+harassment based on race, color, marital status, sex, religion, national origin, 
+disability, age, genetic information, sexual orientation, gender identity and 
+expression, or veteran status  (USF System Policy 0-007). 
+   
+The Counseling and Wellness Center is a confidential resource where you 
+can talk about incidents of discrimination and harassment, including sexual 
+harassment, gender -based crimes, sexual assault, stalking, and 
+domestic/relationship violence. This confidential resource can help you 
+without having to report y our situation to either the Office of Student Rights 
+and Responsibilities (OSSR) or the Office of Diversity, Inclusion, and 
+Equal Opportunity (DIEO), unless you request that they make a report.   
+   
+Please be aware that in compliance with Title IX and unde r the USF System 
+Policy, educators must report incidents of discrimination and harassment, 
+including sexual harassment, gender -based crimes, sexual assault, stalking, 
+and domestic/relationship violence. If a student discloses any of these 
+situations in cla ss, in papers, or to a faculty member personally, he or she is 
+required to report it to OSSR or DIEO for investigation. Students who are 
+victims or who have knowledge of such discrimination or harassment are 
+encouraged to report it to either OSSR or D I E O . The Deputy Coordinator 
+for USFSM is Allison Dinsmore, Coordinator of Disability Services & 
+Student Advocacy, 941 -359-4714 or adinsmore1@sar.usf.edu .   
+   
+Campus Resources:   
+• Counseling Center and Wellness Center 941 -487-4254   
+• Victim Advocate (24/7) 94 1-504-8599   
+   
+List of off -campus resources:   
+▪ HOPE Family Services: 941-755-6805  
+▪ Safe Place & Rape Crisis Center (SPARCC) – Sarasota:  941-365-1976 
+▪ First Call for Help- Manatee or Sarasota  941-366-5025 or 
+www.uw211manasota.net   
+▪ Centerstone:  941-782-4800; 24-hr Hotline 941-708-6059   
+   
+H. Web Portal Information:   Every newly enrolled USF student receives an 
+official USF e -mail account.  Students receive official USF correspondence 
+and Canvas course information via that address. The web portal is accessed at 
+http://my.usf.edu    
+ 
+I.  Academic Support Services:    
+The Information Commons  provides students with individual and group study 
+spaces, computers, printers, and various media equipment for temporary use.  
+The Information Commons is staffed by librarians, learning support faculty, 
+tutors, and technology and e -learning specialists. S tudents challenged by the 
+rigors of academic writing, mathematics, or other course content are urged to 
+contact their professors early in the semester to chart out a plan for academic 
+success, and/or regularly use the tutoring services provided by Learning  
+Support Services, which are provided at no cost to students.  7  J. Career Success Center :  
+Students can explore careers through activities such as job shadowing, 
+mentoring, and internships.  Whether students will be pursuing graduate 
+school or seeking employme nt, Career Services can help develop a plan to 
+reach their next destination.  Students can prepare professional documents, 
+practice for the interview and attend employer or graduate school information 
+sessions.   Access these resources or schedule an appoi ntment with career 
+advisors at www.usfsm.edu/career -services     

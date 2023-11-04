@@ -1,0 +1,148 @@
+ISM 3232 : Business Application Development  
+Professor: Thomas R. Gill  Office: Remote Virtual (Spring 202 3) 
+Email: thomasgill@usf.edu  Hours:  Tuesday & Thursday, 3 -5 pm.   
+Phone: (813) 416 -5021   
+ 
+Course Objectives:  
+              
+Description as Stated in Course Catalog:  Presentation of business application development 
+using an object -oriented programming language. Good program design techniques are 
+emphasized. Business applications are developed.  
+Learning Outcomes:  After completing this course, you should be  
+• Able to program in C#  
+o Familiar  with basic programming concepts such as variables  and operators.  
+(Week 1 -2) 
+o Famil iar with conditional statements  (Week 3 -4) 
+o Familiar  with loops  (Week 5 -6) 
+o Able to write and implement functions  (Week 7-8) 
+o Able to create class es and instanti ate objects  (Week 9 -12) 
+o Familiar with recursion , sorting, and searching  (Week 13 -14) 
+ 
+Course Materials and Assignments : 
+              
+Textbook:  
+None  
+Individual Assignments:  
+There will be 1-2 assignments per week t esting your knowledge of the source material . The 
+assignments are pass/fail, and you  can resubmit as many times as needed. The deadlines for the se 
+are only suggested.  
+Midterm Exams:  
+There will be three midterm exams . These are pass /fail as well. They can be retaken multiple 
+times within reason, or substituted for a project with the instructor ’s permission.  
+There is no final exam . 
+ 
+ Grading : 
+              
+Assignments and tests are graded pass/fail.  The grades are cumulative , and heavily biased in 
+favor of the beginning of the course. The reason for this is I believe that the basic s of the course 
+are the most i mportant, and I don’t want to punish p eople too much for taking their time. The 
+percentages are laid out as  follows:  
+• Week s 1-5: 70%  
+• Weeks 6 -8: 10%  
+• Weeks 9-12: 10%  
+• Weeks 13 -16: 10%  
+Therefore, if a hypothetical student  completed the first fi ve weeks of the course and didn’t do 
+anythin g for the rest of the s emester, that student would get a C -. If another hypothetical studen t 
+completed the first eight  weeks of the course and didn’t do anythin g for the rest of the s emester, 
+that student would get a B-. So on and so forth.  
+Academic  Integrity  
+ 
+Academic integrity is the foundation of the University of South Florida’s commitment to the 
+academic honesty and personal integrity of its university community. Academic integrity is 
+grounded in certain fundamental values, which include honesty, respect, and fairness. Broadly 
+defin ed, academic honesty is the completion of all academic endeavors and claims of scholarly 
+knowledge as representative of one’s own efforts. The process for faculty reporting of academic 
+misconduct, as well as the student’s options for appeal, are outlined i n detail in  USF  Regulation  
+3.027 . 
+ 
+Academic  Grievance  Procedure  
+The purpose of these procedures is to provide all undergraduate and graduate students t aking 
+courses  at the University of South Florida an opportunity for objective review of facts and events 
+pertinent to the cause of the academic grievance. An “academic grievance” is a claim that a 
+specific academic decision or action that affects that stud ent’s academic record or status has 
+violated published policies and procedures, or has been applied to the grievant in a manner 
+different from that used for other students.  
+ 
+Disability  Access  
+ 
+Students with disabilities are responsible for registering with  Students Accessibilty Services 
+(SAS) (SVC 1133) in order to receive academic accommodations. SAS encourages students to 
+notify instructors of accommodation needs at least five (5) business days prior to needing the 
+accommodation. A letter from SAS must ac company this request. Please visit 
+the Student  Accessibility  Services  website  for more information.   
+Disruption  to Academic  Progress  
+ 
+Disruptive students in the academic setting hinder the educational process. Disruption of the 
+academic process ( USF  Regulation  3.025 ) is defined as the a ct, words, or general conduct of a 
+student in a classroom or other academic environment which in the reasonable estimation of the 
+instructor: (a) directs attention away from the academic matters at hand, such as noisy 
+distractions, persistent, disrespectfu l or abusive interruption of lecture, exam, academic 
+discussion, or general University operations, or (b) presents a danger to the health, safety, or 
+well-being of self or other persons.  
+ 
+Food  and Housing  Insecurity  
+ 
+We recognize that student facing financ ial difficulty in securing a stable place to live and/or in 
+affording sufficient groceries may be at risk of these financial issues affecting their performance 
+in classes. Students with these needs are urged to contact Feed -A-Bull 
+(feedabull@usf.edu  or their  website ), or Student Outreach and Support 
+(socat@usf.edu  or their  website ).  
+ 
+Intellectual  Freedom  and Viewpoint  Diversity  Act (House  Bill 233)  
+ 
+Preliminary  Guidance  Document  
+Students  may, without prior notice, record video or audio of a class lecture for a class in which 
+the student is enrolled for their own personal, educational use. A class lecture is defined as a 
+formal or methodical oral presentation as part of a university course  intended to present 
+information or teach enrolled students about a particular subject. Recording class activities other 
+than class lectures, including but not limited to lab sessions, student presentations (whether 
+individually or part of a group), class discussion, clinical presentations such as patient history, 
+academic exercises involving student participation, test or examination administrations, field 
+trips, private conversations between students in the class or between a student and the faculty 
+membe r is prohibited. Recordings may not be used as a substitute for class participation and 
+class attendance and may not be published or shared without the written consent of the faculty 
+member. Failure to adhere to these requirements may constitute a violatio n of the  USF  Student  
+Conduct  Code .  
+ 
+ 
+ 
+Religious  Observances  
+ 
+All students have a right to expect that the University will reasonably accommodate their 
+religious observances, practices and beliefs ( USF  Policy  10-045). The University of South 
+Florida, through its faculty, will make ever y attempt to schedule required classes and 
+examinations in view of customarily observed religious holidays of those religious groups or 
+communities comprising USF’s constituency. Students are expected to attend classes and take 
+examinations as determined b y the university. No student shall be compelled to attend class or sit for an examination at a day or time prohibited by his or her religious belief. However, students 
+should review the course requirements and meeting days and times to avoid foreseeable 
+conflicts, as excessive absences in a given term may prevent a student from completing the 
+academic requirements of a specific course. Students are expected to notify their instructors at 
+the beginning of each academic term if they intend to be absent for a class or announced 
+examination, in accordance with this Policy.  
+ 
+Sexual  Misconduct  / Sexual  Harassment  
+ 
+USF is committed to providing an environment free from sex discrimination, including sexual 
+harassment and sexual violence ( USF  Policy  0-004). The USF Center for Victim Advocacy is a 
+confidential resource where you can talk about incidents of sexual harassment and gender -based 
+crimes including sexual ass ault, stalking, and domestic/relationship violence. This confidential 
+resource can help you without having to report your situation to the  Title IX Office unless you 
+request that they make a report. Contact the  USF  Center  for Victim  Advocacy : 813 -974-5757. 
+Please be aware that in compliance with Title IX and under the USF Policy, educators must 
+report incidents of sexual harassment and gender -based crimes including sexual assault, stalking, 
+and domestic/relationship violence. If you disclose any of these situations personally to an 
+educator, he or she is required to report it to the Title IX Office. For more information about 
+Title IX, a full lis t of resources, or to report incidents of sexual harassment, sexual violence, 
+relationship violence or stalking visit:  usf.edu/title -ix 
+ 
+Statement  of Academic  Continuity  
+ 
+In the event of an emergency, it may be necessary for USF to suspend normal operations. During 
+this time, USF may opt to continue delivery of instruction through methods that include, but are 
+not limited to: Canvas, Teams, email messaging, and/or an alter nate schedule. It is the 
+responsibility of the student to monitor the Canvas for each class for course -specific 
+communication, and the USF, College, and Department websites, emails, 
+and ALERTUSF  messages for important general information ( USF  Policy  6-010). 
+ 
+ 
+ 

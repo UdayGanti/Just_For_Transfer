@@ -1,0 +1,77 @@
+
+AlertUSF
+
+
+The University of South Florida maintains a comprehensive Emergency Notification System
+               (ENS), called AlertUSF, for the purpose of issuing immediate notification to keep
+               the USF community informed and safe during an emergency situation. There are many
+               components of the system that provide redundant layers of notification to ensure the
+               widest possible distribution of the message, and these system components are regularly
+               tested to ensure proper functionality.
+Upon the report of a dangerous or emergency situation, campus officials will confirm
+               the existence of the threat. These situations may include, but are not limited to:
+               law enforcement issues; hazardous material release; and hazardous weather affecting
+               a USF campus. As soon as USF officials have confirmed that a significant emergency
+               or dangerous situation exists, USF officials will take into account the safety of
+               the campus community; determine what information to release about the situation; and
+               begin the notification process. The University may not immediately issue a notification
+               for a confirmed emergency or dangerous situation if doing so would compromise efforts
+               to assist a victim; contain the emergency; respond to the emergency; or otherwise
+               mitigate the emergency.
+
+REGISTER FOR ALERTUSF TEXT
+AlertUSF text messages are part of the USF Emergency Notification System that allows
+               you to receive emergency updates. All official USF emergency notifications will be
+               sent out through AlertUSF. Faculty, staff, and students are urged to register to receive
+               these text messages.
+To register or update your contact information follow these instructions:
+
+Login to NetID Account Services web site using your NetID.
+Click Manage Emergency Alert Settings.
+Follow instructions to opt in, provide mobile phone number and select campus locations
+                  for alerts.
+Click Submit.
+
+If you have questions, please review our Frequently Asked Questions (FAQ) and Statement of Support.
+
+Components of AlertUSF may vary by campus and include:
+
+Homepage - Emergency messages will be broadcast to the USF institution’s homepage at the affected
+                  campus location(s). The website is the best place to receive the most thorough, accurate
+                  and up-to-date information during an emergency.
+Text Message - Faculty, staff, and students are encouraged to sign-up to receive text alerts.
+                  Sign up using instructions above. 
+Outdoor Notifications - Maintained independently at each campus, outdoor notifications provide strobe,
+                  tone, and loud voice messages audible by outdoor populations through speaker arrays.
+Indoor Notifications - Indoor notification is currently available only within select buildings on the
+                  Tampa and Sarasota-Manatee campuses. Contact your facilities manager for more information.
+Desktop Alerts - Desktop Alerts will appear on desktop computers that are maintained by USF IT and
+                  active when the messages are issued at each campus. If you encounter issues or do
+                  not receive Desktop Alerts on your USF desktop computer, contact IT at help@usf.edu.
+Digital Displays - The Tampa Campus has integrated digital display boards across campus to broadcast
+                  emergency language to the displays.
+Alert Beacons - Designated rooms on the Tampa campus have installed Alert Beacons which provide
+                  tone, strobe, and text.
+AlertUSF Website (Tampa Campus Alerts Only) - www.usf.edu/alertusf. The Alert Website serves as a central repository for emergency related-information
+                  that is released through AlertUSF. The AlertUSF Website will allow the public and
+                  individuals who do not receive AlertUSF Text access to information during and after
+                  an event. 
+
+Additional methods that the University may use to communicate include:
+
+E-mail - E-mail may be used for on-going messaging but will not communicate emergency notifications.
+Social Media - Campus Twitter pages may be used to provide information about the emergency.
+Campus Safety Emergency Hotline - During extended events, recorded information and updates may be available by calling
+                  the appropriate Campus Safety Emergency Hotline.
+
+Emergency Hotline Numbers
+
+USF Tampa: 1-800-992-4231
+USF St. Petersburg: (727) 873-4636
+USF Sarasota-Manatee: (941) 359-4444
+
+The University uses this spectrum of notification methods to reach large numbers of
+               constituents as quickly and efficiently as possible. If an emergency affects only
+               a segment of the campus community, a more limited warning may be issued. Continuing
+               assessments of the situation and additional warnings will occur as appropriate.
+More information on the Emergency Notification System can be found in the Annual Safety Report and the Emergency Management Policy 6-010.

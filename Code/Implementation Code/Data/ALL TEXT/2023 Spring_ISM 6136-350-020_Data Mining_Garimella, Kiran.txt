@@ -1,0 +1,166 @@
+Course Syllabus  
+ Edit  
+ISM 6136 Data Mining  
+Sections 020 and 350  
+Instructor  
+Kiran Garimella, Ph.D.      
+M:      262-909-4192  
+E-mail:  kgarimella@u sf.edu  
+  
+Class Information  
+Location : Online only  
+Time:  No meeting times, asynchronous delivery only  
+Office Hours : By Appt.  or Wednesdays, 6:00 pm - 8:00 pm ET  online . 
+Course Description and Objectives  
+The past few years have seen an unprecedented explosion in the amount of data 
+collected by businesses and have witnessed enabling technologies such as database 
+systems, visualization tools and statistical and machine learning algorithms reach 
+industrial st rength. These trends have spawned a new breed of business analytics 
+systems that go significantly beyond reporting capabilities, to support predictive 
+modeling and the extraction of business insights from data. These trends have also 
+created a new role of “data scientists” who are professionals with expertise in the 
+concepts and tools necessary for the skilled use of these systems. Understanding the 
+power and limitations of these technologies can provide business managers and 
+information systems professiona ls new approaches to support the task of solving hard 
+business problems using data -driven approaches. This course will provide an 
+understanding of fundamental data science concepts, techniques and business 
+applications.  
+General Learning Outcomes  
+• Demonstrat e understanding of specific data mining methods  • Describe different ways in which models can be evaluated  
+• Use data mining tools to build descriptive and predictive models  
+• Analyze a dataset using data analytics methods  
+• Describe global business scenarios wher e data and data mining can be applied  
+Text and Readings  
+There is no textbook. Online links to readings will supplement the custom course 
+content.  
+Course Work & Grading  
+Type of Work  Number  Points Each  Points  % of Total  
+Quiz  5 10  50  20% 
+Final Exam (Cumulative)  1 60  60  24% 
+Individual Assignment  5 10  50  20% 
+Group Project 1  1 30 30  12% 
+Group Project 2 (Final)  1 60  60  24% 
+   250 100%  
+There are six quizzes. The quiz with the least score will be dropped and only the 
+remaining 5 quiz scores will be used for the final grade. Quizzes are open book, but no 
+consultation or online lookup is allowed.  
+  
+Letter Grades (% of total points)  
+Scores w ill be rounded up to the next whole point. To adhere to consistency, academic 
+integrity, and fairness to everyone, requests for extra points in order to get the next 
+higher letter grade for any reason will not be fulfilled. Reasons include, "I need the nex t 
+letter grade otherwise my employer won't reimburse my tuition expenses", "I need to 
+meet my scholarship requirements", or "It's a matter of cultural pride", etc.  
+Exceptions for makeup work are provided only for true, documented emergencies or 
+based on gu idance from the University due to any extraordinary circumstances.  
+Minimum Score  Maximum Score  Letter Grade  
+95% 100%      A+ 
+90%   94%  A 85%   89%    B+ 
+80%   84%  B 
+75%   79%    C+ 
+70%   74% C 
+60%   69% D 
+   0%   59% F 
+  
+Detailed Syllabus (All times in US Eastern Time)  
+Week  Dates  Topic  Task  Available  Due 
+1 Mar 6 - Mar 12  Introduction to Data Mining  
+• Overview of Data 
+Mining  
+• Schedule  
+• Analytic Thinking 
+and Value  First Day of 
+Attendance  Mar 6, 12:00 am ET  Mar 10, 11:59 pm 
+ET 
+Quiz 1  Mar 10, 12:00 am ET  Mar 12, 11:59 pm 
+ET 
+  Mar 13 - Mar 19  Spring Break        
+2 Mar 20 - Mar 26  Structured Analytic Process  
+• The 10 -step Process  
+• Evaluating Models: 
+Scientific Methods  Assignment 1  Mar 6, 12:00 am ET  Mar 20, 11:59 pm 
+ET 
+Quiz 2  Mar 24, 12:00 am ET  Mar 26, 11:59 pm 
+ET 
+3 Mar 27 - Apr 2  Classification  
+• Classifiers  
+ 
+• Evaluating 
+Classifiers  
+ 
+• The Confusion 
+Matrix  Assignment 2  Mar 20, 12:00 am ET  Apr 2, 11:59 pm 
+ET 
+Quiz 3  Mar 31, 12:00 am ET  Apr 2, 11:59 pm 
+ET 
+4 Apr 3 - Apr 9  Decision Trees  
+• Decision Trees & 
+Their Quality  Quiz 4  Apr 7, 12:00 am ET  Apr 9, 11:59 pm 
+ET • Using Decision 
+Trees 
+• Classification & 
+Prediction  
+5 Apr 10 - Apr 16  Neural Networks, Unsupervised 
+Learning (Similarity -Based 
+Learning)  
+• Neural Networks  
+• Clustering & k -
+Means  Assignment 3  Apr 3, 12:00 am ET  Apr 16, 11:59 pm 
+ET 
+Group Project 1  Mar 13, 12:00 am ET  Apr 16, 11:59 pm 
+ET 
+Quiz 5  Apr 14, 12:00 am ET  Apr 16, 11:59 pm 
+ET 
+6 Apr 17 - Apr 23  Association Rules & Market 
+Basket Analysis  Assignment 4  Apr 10, 12:00 am ET  Apr 23, 11:59 pm 
+ET 
+7 
+  Apr 24 - Apr 30  Recommendation Systems  
+• Collaborative 
+Filtering  
+• Recommender 
+Systems  
+  Assignment 5 Apr 17, 12:00 am ET  Apr 30, 11:59 pm 
+ET 
+Quiz 6 (Week 6 
+material - 
+Optional Makeup)  Apr 28, 12:00 am ET  Apr 30, 11:59 pm 
+ET 
+8 May 1 - May 5  Final Project and Exam  Group Project 
+Final Apr 3, 12:00 am ET  May 4, 11:59 pm 
+ET 
+Final Exam  TBD  
+  
+Late Submission  
+One-day late submission on assignments incurs 10% penalty. No late submissions 
+beyond 1 day.  
+Extra Credit and Make Up Work  
+There is no extra credit or make up work available. Quizzes or exams will not be re -
+opened in case of issues with you r computer. It is your responsibility to keep your 
+computer and wifi in full working order. Widespread network failures will be dealt with 
+on a case -by-case basis and in accordance with University guidelines.  Online Exam Proctoring Policy and Notification  
+All students must review the syllabus and the requirements, including the online terms and 
+video testing requirements, to determine if they wish to remain in the course. Enrollment in 
+the course is an agreement to abide by and accept all terms. Any student  may elect to drop or 
+withdraw from this course before the end of the drop/add period.  
+Online exams and quizzes within this course may require online proctoring. Therefore, 
+students will be required to have a webcam (USB or internal) with a microphone when  taking 
+an exam or quiz. Students understand that this remote recording device is purchased and 
+controlled by the student and that recordings from any private residence must be done with 
+the permission of any person residing in the residence.  
+To avoid any concerns in this regard, students should select private spaces for the testing. The 
+University library and other academic sites at the University offer secure private settings for 
+recordings and students with concerns may discuss location of an appropriate  space for the 
+recordings with their instructor or advisor.  
+Students must ensure that any recordings do not invade any third -party privacy rights and 
+accept all responsibility and liability for violations of any third -party privacy concerns.  
+Students are s trictly responsible for ensuring that they take all exams using a reliable 
+computer and high -speed internet connection. Setup information will be provided prior to 
+taking the proctored exam.  To use Honorlock students are required to download and install 
+the Honorlock Google Chrome extension  (Links  to an external  site.) ." For additi onal 
+information please visit the  USF online proctoring student FAQ  (Links  to an external  
+site.)  and Honorlock student resources  
+Policy Statements  
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx Links  to an 
+external  site.. 
+ 

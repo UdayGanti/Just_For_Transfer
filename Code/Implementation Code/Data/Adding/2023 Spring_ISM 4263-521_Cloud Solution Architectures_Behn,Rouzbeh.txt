@@ -1,0 +1,335 @@
+  
+ 
+ 
+ 
+ 
+ 
+Instructor:  Dr. Rouzbeh Behnia  
+Office Location:  Sarasota Campus – C266  
+Office Hours:    Online ( MS Teams) and in -person  (with 
+appointment at  CIS2055) – M 1pm -3pm  
+Phone Number:   941-359-4605  
+Email:  behnia@usf.edu  Semester:  Spring 202 3 
+Class Meeting Days:  Asynchronous Online  
+Class Meeting Time:  Asynchron ous Online  
+Delivery Method:  Asynchronous Online  
+Class Meeting Location:  Online, Off -
+campus  
+ 
+COURSE PREREQUISITES: ISM 4220   
+ 
+COURSE DESCRIPTION:  
+Introduction to cloud architecture  fundamentals, principles and practices and their application in cloud adoption 
+and implementation. Exposure to latest thinking on cloud native architectures, cloud technology service s, cloud 
+performance, and cloud security.  
+ 
+COURSE OBJECTIVES :  
+The objective of this course is to introduce students to cloud  architecture  fundamentals, principles and practices . 
+Students learn to undertake organizational decision s related to cloud adoption and implementation. Students are 
+to be  exposed to latest thinking on cloud native architectures, cloud services, performance  requirements, 
+infrastructure, and security.  Students learn to architect effective and organizationally aligned cloud computing 
+solutions by addressing cloud computing fundamentals, cloud architecture considerations, cloud technology 
+service selection, and cloud computing security controls.  
+ 
+REQUIRED TEXTBOOK:   
+L., J. K., & Goessling, S. (2018).  Architecting cloud computing solutions:  Build cloud strategies that align 
+technology and ec onomics while effectively managing risk . Packt Publishing, Limited.  ISBN: 9781788472425 ,  
+The textbook is available online at the USF library.   
+ 
+Winkler, V. J. (2011). Securing the Cloud: Cloud computer Security techniques and tactics.  Elsevier . ISBN -13: 
+978-1597495929  
+The textbook is available online at the USF library.   
+  
+Christoph Fehling, Frank Leymann, Ralph Retter, Walter Schupeck, and Peter Arbitter. Cloud Computing 
+Patterns. Springer, 2014.   ISBN -13: 978-3709115671  
+The textboo k is available online at the USF library.   
+ 
+ 
+SUPPLEMENTAL READINGS:  
+• External websites and other assigned readings and w eekly instructor notes, videos and/or audio files  
+ ISM 426 3 
+Cloud Solution Architectures  
+School of Information Systems and Management  
+ 
+COURSE SYLLABUS  
+Last Updated: 1/4/2023  
+ COURSE TOPICS: This course will cover the following content areas:  
+• Introduction to cloud computing  
+• Fundamentals  of cloud: IaaS, PaaS, SaaS and AaaS  
+• Cloud computing architectur es – baseline models  
+• Cloud solution reference architectures  
+• Cloud architecture operational requirements  
+• Cloud-native a rchitecture  - the pri nciple of architecting for the c loud 
+• Cloud governance and change management  
+• Security and technical architecture requirements  
+• Legal, regulatory and compliance requirements  
+• Cloud virtualization  
+• Cloud -based services & clients  
+ 
+Student learning outcomes:  
+Upon completion of this course, students will be able to:  
+• Explain cloud computing principles & concepts  
+• Identify the architecture and infrastructure of cloud computing, including SaaS, PaaS,  
+IaaS, public cloud, private cloud, hybrid cloud, etc.  
+• Recognize cloud computing standards  
+• Summarize cloud computing implementation strategies  
+• Design cloud architectures that support specific business cases  
+• Design, modify, and aggregate baseline cloud architectures  
+• Choose the appropriate technologies, algorithms, and approaches for the related  
+issues  
+ 
+COURSE POLICIES: Technology and Media  
+Canvas Technical Support    
+If you have technical difficulties in Canvas, you can find access to the Canvas guides and video resources 
+in the “Canvas Help” page on the homepage of your Canvas course. You can also contact the help desk 
+by calling 813 -974-1222 in Tampa or emailing  help@usf.edu.   
+IT website for the Tampa campus.   
+IT website for the St. Pete campus.   
+IT website for the Sarasota -Manatee campus.   
+ 
+COURSE LOGISTICS:  
+1. Please only use your USF email to email me and use “ISM4263” in the subject line of your 
+email (no spaces) to help me filter emails.  
+2. Deliverables are due by the end of day on the due date (11:59 pm).  
+ 
+Covid Policy (Fall 2022)  
+Students should not attend class if they are ill, particularly if they have fever and/or    
+gastrointestinal symptoms and/or respiratory symptoms such as a sneezing, runny nose, sore throat 
+or coughing.  Students experiencing any of these symptoms should contact Student Health Services 
+immediately (813 -974-2331) for appropriate medical guidance and to obtain a verification of care 
+letter.  To be approved for missed classes, late assignments or missed examinations a verification 
+of care letter must be presented by the student to the faculty member upon return to class.   
+ 
+  First Day Attendance Pol icy 
+Please complete the first day attendance self -introduction discussion no later than the first 
+Thursday of class by 11:59Pm. Students who don’t complete the first day activity run the risk of 
+being dropped from the course.   
+ 
+ 
+GRADING POLICIES  
+• Makeup Ex am Policy : Make up opportunities will only be provided with a valid reason, for instance, 
+medical related emergencies.  
+• Late Submission Policy:  All assigned work is expected to be turned in on time, by 11:59 p.m. of the due 
+date. Late submissions will only be accepted with a valid reason.  It is okay for students to work ahead 
+and complete all assignments, labs, and tests if they desire, but no makeups or extra credit will be offered.   
+• Exam Retention Policy : After exams are graded, the instructor will re view the examination with the 
+class and collect all exams. The exams will be retained for one semester following the current one, and 
+then they will be destroyed.  
+ 
+ 
+GRADING SCALE  
+USF policy requires that all students receive a graded assignment or examina tion prior to the semester’s 
+drop/withdraw date (please refer to important dates on page 1 of this syllabus). Student performance for this 
+course will be evaluated based on tests, assignments, and quizzes, as detailed below. Below is a summary for the 
+determination of the final grade . 
+ 
+A+ = 97 -100; A=94 -96; A - =90-93; B+ = 87 -89; B=84 -86; B - = 80-83;  
+C+=77 -79; C = 74 -76; C - + 70-73; D = 60 - 69; F = 59 or below  
+ 
+GRADE  CATEGORIES  AND WEIGHTS  
+ 
+   
+ 
+ 
+Instructor Feedback Policy & Grade Dissemination  
+ 
+Instructor will respond to email communication relevant to the subject matter within 48 hours during 
+the work week. Instructor will provide feedback on assignments within one week of the posted 
+deadline, and feedback on final project within two weeks of the posted by the final grading per iod. 
+You can access your scores at any time using "Grades" in Canvas  
+ 
+USF Core Syllabus Policies  
+USF has a set of central policies related to student recording class sessions, academic integrity and grievances, Deliverables  Unit weight  Total weight  
+Participation - Discussions (5pts ea.) 
+Lecture knowledge checks (complete 
+or incomplete)  6% 6% 
+Assignments (2) (100 pts ea.)  13% 26% 
+Quizzes (11) (2pts ea.)  2% 22% 
+Test 1 (100pts)  15% 15% 
+Test 2 (100pts)  15% 15% 
+Project (100pts)  16% 16% 
+Total                             100%   student accessibility services, academic disruption, religious observances, academic continuity, food insecurity, 
+and sexual harassment that apply to all courses at USF . These may be accessed on the USF Core Syllabus Policy 
+Statements page  at https://www.usf.edu/provost/faculty/core -syllabus -policy-statements.aspx.   
+ 
+ 
+COURSE POLICIES: STUDENT EXPECTATIONS  
+• Attendance Policy : Attendance is expected for all classes. I will certainly accommodate excused 
+absences by making arrangements with students ahead of time (when possible) or by providing 
+a reaso nable amount of time to make up missed work s. 
+• Course  Hero/Chegg Policy:  The USF Policy on Academic Integrity  specifies that students may 
+not use websites that enable cheating, such as by uploading or downloading material for this 
+purpose. This does apply specifically to Chegg.com and CourseHero.com – any use of these 
+websites (including uploading proprietary mat erials) constitutes a violation of the 
+academic integrity policy.  
+• End of Semester Student Evaluations:  All classes at USF make use of an online system for 
+students to provide feedback to the University regarding the course. These surveys will be made 
+available at the end of the semester, and the University will notify you by email when the 
+response window opens. Your participation is expected and valued.  
+• Turnitin.com:  In this course, turnitin.com will be utilized.  Turnitin is an automated system 
+which ins tructors may use to quickly and easily compare each student's assignment with billions 
+of web sites, as well as an enormous database of student papers that grows with each submission. 
+Accordingly, you will be expected to submit all assignments in both hard  copy and electronic 
+format. After the assignment is processed, as instructor I receive a report from turnitin.com that 
+states if and how another author’s work was used in the assignment. For a more detailed look at 
+this process visit http://www.turnitin.com . Essays are due at turnitin.com the same day as in 
+class.  
+• Title IX Policy : Title IX provides federal protections for discrimination based on sex, which 
+includes discrimination based on pregnancy, sexual harassm ent, and interpersonal violence. In 
+an effort to provide support and equal access, USF has designated all faculty (TA, Adjunct, etc.) 
+as Responsible Employees, who are required to report any disclosures of sexual harassment, 
+sexual violence, relationship v iolence or stalking. The Title IX Office makes every effort, when 
+safe to do so, to reach out and provide resources and accommodations, and to discuss possible 
+options for resolution.  Anyone wishing to make a Title IX report or seeking accommodations 
+may do so online, in person, via phone, or email to the Title IX Office. For information about 
+Title IX or for a full list of resources please visit: https://www.usf.edu/title -
+ix/gethelp/resources.aspx. If you are unsure what to do, please contact Victim Advoc acy – a 
+confidential resource that can review all your options – at 813 -974-5756 or va@admin.usf.edu . 
+• Professionalism Policy:  Per university policy and classroom etiquette; mobile phones, iPods, 
+etc. must be silenced  during all classroom and lab lectures. Those not heeding this rule will be 
+asked to leave the classroom/lab immediately so as to not disrupt the learning environmen t. 
+Please arrive on time for all class meetings.   
+ 
+ 
+GENERAL INSTRUCTION FOR STUDENTS  
+• Academic Support Services: The Information Commons  provides students with individual 
+and group study spaces, compute rs, printers, and various media equipment for temporary 
+use.  The Information Commons is staffed by librarians, learning support faculty, tutors, and 
+technology and e -learning specialists. Students challenged by the rigors of academic writing, 
+mathematics,  or other course content are urged to contact their professors early in the 
+semester to chart out a plan for academic success, and/or regularly use the tutoring services 
+provided by Learning Support Services ( http://www.usfsm.edu/academics/academic - resources/information -commons/tutoring.aspx ) which are provided at no cost to students.  
+• Career Success Center:  Students can explore careers through activities suc h as job 
+shadowing, mentoring, and internships.  Whether students will be pursuing graduate school 
+or seeking employment, Career Services can help develop a plan to reach their next 
+destination.  Students can prepare professional documents, practice for th e interview and 
+attend employer or graduate school information sessions.   Access these resources or 
+schedule an appointment with career advisors at www.usfsm.edu/career -services . 
+ 
+ 
+LEARNING SUPPORT and CAMPUS OFFICES  
+ 
+Tampa 
+Campus  
+ Tutoring Hub: The Tutoring Hub offers free tutoring in several subjects  to USF 
+undergraduates. Appointments are recommended, but not required. For more 
+information, email asctampa@usf.edu   
+Writing Studio: The Writing Studio is a free resource for USF undergraduate and 
+graduate students. At the Writing Studio, a trained writing consultant will work 
+individually with you, at any point in the writing process from brainstorming t o 
+editing. Appointments are recommended, but not required. For more information or 
+to make an appointment, email writingstudio@usf.edu   
+Counseling Center: The Counseling Center promotes the wellbeing of the campus 
+community by providing culturally sensitive counseling, consultation, prevention, 
+and training that enhances student academic and personal success. Contact 
+information is available online .  
+Center for Victim Advocacy: The Center for Victim Advocacy empowers 
+survivors of crime, violence, or abuse by promoting the restoration of decision 
+making, by advocatin g for their rights, and by offering support and resources. 
+Contact information is available online .  
+St. Petersburg 
+Campus  
+ Student Success Center: The Student Succe ss Center provides free tutoring and 
+writing consultations. Contact information is available online .  
+Wellness Center: The Wellness Center provides counse ling and medical services, 
+as well as prevention programs and victim advocacy. Contact information is 
+available online .  
+Sarasota -
+Manatee 
+Campus  
+ Tutoring and Writing Support: Learning Support Services provides free tutoring 
+and writing consultations for a variety of courses and subjects such as, Accounting, 
+Biology, Chemistry, Finance, Math & Statistics, Physics, and Spanis h. Make an 
+appointment online .  
+Counseling and Wellness Center: The Counseling and Wellness Center is a 
+confidential resource where you can t alk about incidents of discrimination and 
+harassment, including sexual harassment, gender -based crimes, sexual assault, 
+stalking, and domestic/relationship violence. Call 941 -487-4254  
+Victim Advocate: A Victim Advocate is available 24/7 by calling (941) 50 4-8599. 
+For assistance leave a message with your phone number and your call will be 
+returned as soon as possible. The Victim Advocate is available to assist victims of 
+crime, sexual assault, and partner violence.  
+ 
+COURSE FAQ  
+How to communicate with me? Please email me directly (from your USF email) or message me 
+through Canvas.   
+ 
+How NOT to communicate with me?  
+1. Please do not use non -USF emails to email me.   
+2. Please do not send you assignments, projects, quizzes through email. Everything should be 
+submitted through Canvas.     
+How to succeed in this course?  Successful students in this class complete all learning activities 
+including reviewing and taking notes fr om video lectures before taking quizzes. Successful students 
+would also start working on the assignment and projects soon after they are posted, and utilize the office 
+hours to reach out to the instructor if they have any questions.  
+ 
+ 
+ 
+COURSE SCHEDULE:  
+(Please Note: all dates and assignments are tentative and can be changed at the discretion of the 
+instructor .) 
+ 
+Modules  
+(Class 
+Date)  Topic  Assessments  Deadlines  
+0 Getting Started, Syllabus, 
+Introductions and first day attendance  First day attendance 
+discussion.   
+1 
+2/6  Introduction to Cloud Computing  Quiz 1  
+  
+2 
+2/13 Governance and Change 
+management  Quiz 2   
+3 
+2/20 Cloud design considerations  Quiz 3 , Begin 
+discussion 1  
+ Discussion 1 due 
+at end of module 
+4 
+4 
+2/27 Business metrics and use cases  Quiz 4 , Complete 
+discussion 1, Begin 
+assignment 1  
+ Assignment 1 
+due 14 days after 
+assigned  (module 
+6) 
+5 
+3/6 Architecture executive decision 
+making  Quiz 5 , Begin 
+discussion 2  Discussion 2 due 
+at end of module 
+6 
+3/13 – 3/ 
+19 Spring Break    
+6 
+3/20 Architecting for transition  Quiz 6  
+  
+7 
+3/27  Baseline cloud architectures  Quiz 7,   
+Test 1  (covers 
+modules 1-6)  
+8 
+4/3 
+ Solution reference architectures  Quiz 8 , Begin 
+assignment 2  Assignment 2 
+due 14 days after 
+assigned  
+9 
+4/10 Key cloud services & Operational 
+requirements  Quiz 9 , Begin final 
+project   
+10 
+4/17  Cloud application design and 
+development  Quiz 10  
+  
+11 
+4/27 Cloud Security  Quiz 11 , Begin 
+discussion 3  Discussion 3 due 
+at end of class  
+ 12 Final Exam Week  Test 2 (covering 
+modules 7 – 11), 
+Final project due   
+ 
+ 

@@ -1,0 +1,336 @@
+ 
+ 1  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ISM 4212  
+Database Administration and Design  
+Syllabus Version 1. 1 
+ 
+29 December 2022  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 2 Version history  
+ 
+Version  Description  
+1.0 First released draft   
+ 3 ISM  4212 : Database Design and Administration  
+Spring  2023 
+ 
+INSTRUCTOR : SCPO H. S. H yman , PhD                      E-Mail: hhyman@usf.edu  
+ Office: CIS 2006                               
+  
+COMMUNICATION POLICY and PREFERRED METHODS :  
+I follow a standard business day, which means 0800 – 1700. If you choose to contact me through 
+email, the response time will be no later than the close of the next business day. This means if you 
+send me an email at 0800 on Friday, I will respond to that e mail no later than 1700 the next business 
+day, Monday. Keep this in mind when timing your requests and inquiries.  
+I do not stand -by on my email server 24/7 waiting for new mail to arrive in my inbox. In fact, I do 
+not have email notifications turned on, I  check my email at the start of the business day for 
+whatever arrived during the overnight cycle, and then again at the end of the business day for 
+currency.  
+MANDATORY Fall 2021  SYLLABUS STATEMENT: COVID -19 PROCEDURES  
+All students must comply with univers ity policies and posted signs regarding COVID -19 mitigation 
+measures, including wearing face coverings and maintaining social distancing during in -person 
+classes.  Failure to do so may result in dismissal from class, referral to the Student Conduct Office,  
+and possible removal from campus.  
+Additional details are available on the University’s Core Syllabus Policy Statements page: 
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx  
+MANDATORY Fall 2021  SYLLABUS STATEMENT: CLASS RECORDING  
+Some sections of this course have c lasses that may be recorded and streamed online  but are not 
+guaranteed to be so . Any and all Student voice s, faces  and video s will be included in the class 
+recording s. It is the student’s responsibility to make sure the privacy of their surroundings and 
+background is maintained.  
+ 
+TEXTBOOKS : I have listed here a few books that do a decent job explaining database design 
+fundamenta ls. The “official” textbook for the class is the Gillenson book. In my 
+experience, I have found there is no really good textbook for a database class.  
+ In this course, I teach the fundamentals based on my own experiences designing 
+and building databases. If you are new to database and this is your first 
+experience with the subject and concepts, then I strongly recommend the T -SQL 
+book; it may be the best book on the market for learning the basics.  
+ For those of you who plan to work in this field as SQL De velopers, I highly 
+recommend the Atkinson book. I use it almost every day  in my work.  
+  
+ Optional : Fundamentals of Database Management Systems, 2nd ed.,  
+ by M ark L. Gillenson.  Wiley (2012).  
+ 
+ Recommended : T-SQL , 3ed., Itzik  Ben-Gan, Microsoft Press (2016).   
+ 
+  Beginning Microsoft SQL Server 2012 Programming ,  
+ by Paul Atkinson a nd Robert Vieira.  Wiley (2012).   
+ 
+ Database Systems Design, Im plementation, and Management, 
+13th ed., by Coronel, Morris, Rob . Cengage (2019).  
+ 
+ Database Concepts, 7th ed., Kroenke, Auer. Pearson (2015).   
+ 4    EQUIPMENT : Required: You must have access to  a Windows based computer . If you do not , 
+you will not be able to complete all the required assignments for this course.  
+ It helps to have a laptop so that you can follow along with in -class 
+demonstrations, but it is not required that you do so.   
+ 
+DESCRIPTION : From Course Catalog: “This course is an introduction to the concepts and 
+principles of database management. It is intended to provide po tential designers, 
+users, and managers of data -base systems with an understanding of physical vs. 
+logical representations, data modeling, implementation, and data management. 
+Database skills are developed through both individual and team projects.”  
+“In thi s course, students will be introduced to the design, construction, and use of 
+relational databases. The content of the course has been selected to provide 
+students with the knowledge and analytical skills in this subject that are needed 
+to successfully ent er professional management information systems careers.”  
+ 
+PREREQUISITE : ISM 3113 Systems Analysis and Design  (with a grade of “C” or better)  
+ 
+OUTCOMES : Upon completion of this course, students should be able to:  
+• recognize the role of data management in the modern business organization  
+• demonstrate modeling skills used to identify organizational data structures  
+• describe the fundamental principles of relational database technology  
+• employ Structured Query Language to manipulate data in re lational databases  
+• apply database technology to typical Business Analytics needs of organizations  
+• identify the primary organizational responsibilities of database professionals  
+• summarize the major issues affecting database design and use in environme nts 
+   involving client/server databases, distributed databases, and data warehouses  
+ 
+REQUIREMENTS :  Database Assignments  
+ Software Installation Assignment s 
+ Database Projects  
+ 
+GRADING :  
+ 
+WARNING: There is NO extra credit. There is NO rounding. What you get is what you get. 
+You have all the assignments before you. There is no additional work available to you if you 
+fail to complete the actual assignments in the syllabus.  
+ 
+ 
+Graded Assignments : Letter Grades:  
+Average of Database Assignments   A >= 90.0 with no rounding  
+Final Assessment: Database Project          B >= 80.0 
+Software Install Assignments     C >= 70.0 
+Exam  D >= 60.0 
+ F   < 60.0 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 5 Grade Curve Expectation : History has shown that the following grade curve has been consistently 
+stable over the past 3 years. Some semesters it is higher, on rare occasion it has been slightly  lower.  
+ 
+Level of Mastery  Percentage Achieved  Number out of population of 40  
+90% or b etter – As 35% 13 
+80% or better – Bs  65% 26 
+70% or better – Cs  80% 33 
+Failed to reach 70% - Ds and Fs  20% 8 
+ 
+Assessment/Feedback on your performance : This section is explained here so that everyone 
+knows where they stand in the class at any given time . Your letter grade is direct feedback to you of 
+how well you can create a design, build a database from that design and execute select statements to 
+produce result sets.  
+• ‘A’ level work means that you can correctly create a documented design (diagrams and 
+notation) and correctly build tables with constraints  and create select statements and 
+programmable objects that produce correct result sets based on a narrative provided – there 
+may be minor flaws that will not impact performance significantly.  
+• ‘B’ level work means you can create documentation  and build tables , and have some 
+significant flaws that may impact performance of the database.  
+• ‘C’ level work m eans you r documented design and build has major flaws that will 
+cause the database to fail.  
+• Below ‘C’ level means you have not demonstrated a minimum amount of 
+competence for creating a database design and build or that you cannot create select 
+statements that can execute without error, or fail to produce correct result sets .  
+ 
+RUBRIC : Here is a more specific breakdown of how your database assignments are evaluated by 
+percentage:  
+1. Narrative documents meet formatting requirements as listed below and continuing onto the 
+next page ( 7): 20%.  
+2. ERD, EERD diagrams are not missing tables, have correct notation: 20%.  
+3. ERD, EERD diagrams have correct cardinality and optionality: 10 -15%. 
+4. RS has correct tables, arrows, and notation: 20%.  
+5. RS matches EERD: 10%.  
+6. DD has correct tables, notation, data types, and constraints: 20%.  
+7. DD matches RS: 10%.  
+8. Database diagram has correct tables and referential integrity; PKs and FKs correct: 20%.  
+9. Database  has co rrect tables, referential integrity  and matches DD documentation : 30%.  
+10. Database has correct constraints: 20%.  
+11. Select statements execute with no errors: 20%.  
+12. Select statements produce result sets: 20%.  
+13. Result sets produced are correct: 10 -15%. 
+14. SSDT reports  include query builder: 20%.  
+15. SSDT reports produce correct result sets: 20%.  
+16. SSDT reports are formatting with proper columns, fonts and spacing: 10-15%.  
+ 
+ 
+ 
+ 
+  
+ 6 Formatting Requirements :  
+ 
+• Please fol low the se formatting rules for any written work. The reason for these formatting rules is so that 
+everyone knows the standard for which their work will be judged. This also provides a fair and equal means 
+for comparing the work between individuals . This puts everyone on the same footing. These are the rules 
+and requirements that control your submissions : 
+a. Document s ubmissions must be typed, using Times New Roman, 12 -point font, with double space.  
+b. Every individual written assignment should have a cove r page containing your name, assignment 
+title, date and course name. NO OTHER items should be on your cover page.  This maintains the 
+identity of your work when collected into one giant stack.  
+c. Your work must be well orga nized, using headers and titles to d ivide paragraphs and sections for 
+clarity . You may consider the use of a  variety of fonts and colors ( when appropriate ) for 
+presentation.  
+d. You must use complete sentences. Use of bullets only when appropriate for content  lists.  
+e. I should not be the first se t of eyes on your paper: Typos and grammatical errors will count against 
+you. I use the automated system TurnItIn to check for plagiarism, cut and pasting, grammar and 
+spelling.  
+f. Formatting is important. Your work may be 100% correct, but if presented in th e wrong format, or 
+difficult for the reviewer to read, it might receive negative feedback, up to and including, rejection for 
+failure to follow directions.  
+g. Any screen captures or figures must be centered, have a border framing the content, and be 
+accompan ied by a 2 – 3 sentence descriptive narrative below what is depicted. Above all, it must be 
+readable,  or it will not receive credit.   
+h. Your work must be thoughtful and demonstrate thorough thinking through of the  problem as well as 
+your proposed method for solving  it.  
+i. Your work must be original.   
+j. Your work must be accompanied by a list of the sources  for your information . APA is standard, but 
+any style is accepted as long as it is consistent.  
+k. Your work must be easy to re ad (readability).  
+l. I should not have to hunt for your work; if I cannot find your work within the submission, you will 
+not receive credit. I cannot grade what I cannot see.   
+m. Your work must be clear and to the point. I do not require a minimum amount of con tent, but you 
+must include enough content to demonstrate to me that you have put satisfactory thought and effort 
+into your work.  
+n. If your submission does not meet the requirements of the assignment or fails to follow directions, it is 
+eligible to be awarded  zero credit. Multiple submissions are not accepted.  
+o. I reserve the right to reject ANY assignment  submission  that I believe does not meet any requirement 
+in this list, is not your own work, or fails to meet the standards for competent, university  level wo rk.  
+p. Late work  receives a zero grade until submitted. Any late submission will receive a 20% penalty per 
+day until submitted. A day is defined as a 24 -hour cycle commencing from the deadline. This means 
+that after 5 consecutive days past a deadline, the ma ximum awarded for a late assignment is zero. 
+Eastern Time Zone is controlling.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  
+ 7 COURSE AND CLASSROOM CONDUCT :  
+ 
+Academic integrity is an absolute course requirement. (See link to USF Academic Integrity policy 
+below.)  Any instance of academic dishonesty will result, at the least , in a grade of zero being 
+assigned to the work involved.  This policy covers both the Exams and all Assignments. It is 
+considered cheating to either give or receive  assistance of any kind on these assignments.  It is your 
+respons ibility to ensure that yo ur work does not become available to other students.  
+ 
+ 
+UNIVERSITY POLICIES  
+ 
+In addition to the specific course policies listed above, information on the following university 
+standard course policies can be found at the web address shown for each item:  
+ 
+Final Examinations – http://www.ugs.usf.edu/policy/FinalExams.pdf  
+General Attendance – http://www.ugs.usf.edu/policy/GeneralAttendance.pdf  
+Religious Days – http://www.ugs.usf.edu/policy/ReligiousDays.pdf  
+Academic Integrity – http://www.ugs.usf.edu/policy/Aca demicIntegrityOfStudents.pdf  
+Academic Disruption – http://www.ugs.usf.edu/policy/DisruptionOfAcademicProcess.pdf  
+Academic Grievance – http://www.ugs.usf.edu/policy/StudentAcademicGrievanceProcedures.pdf  
+Students with Disabilities – 
+http://www.usf.edu/student -affairs/student -disabilities -services/documents/sds -staff-handbook.pdf  
+ 
+This is the plann ed list of items that will be covered . I may revise it if needed :  
+ 
+Week 1:  
+1. What is a database?   
+2. Elements of a relational database  system : Tables, Columns, Constraints, Programmable Objects  
+3. CRUD: Create statements , Alter Statements, Select statements; Insert and Update statements , delete  
+4. Introduction to SQL Express, SSMS, SQLCMD  
+5. DDL, DML, T -SQL, PL/SQ L, MDF and LDF  
+Week 2:  
+6. Data modeling: Conceptual ERD  and EERD , Logical RS, Physical DD  
+7. ERDs, EERDs, Entities, Attributes, Relationships, Cardinality, Optionality  
+8. Data Dependencies , mandatory versus allow nulls  
+9. Associate  Entities , Junction , Bridge, Join Tables  
+10. Dependent  Entities  and Entities with Multi -Value  Attributes  
+Week 3:  
+11. RS: Relational Schema, Functional Dependency, Referential (Integrity) Dependency  
+12. Keys: Natural, Surrogate, Primary, Foreign, Unique, Candidate, Alternate  
+13. Normal Forms , Normalization, Multi -valued attribute, Partial and Transitive Dependency  
+Week 4: Catch up Week  
+14. Review first 3 weeks  
+15. Exam One  
+Week 5: Hospital Database  
+16. DD: Data Dictionary  
+17. Constraints: Checks, Defaults . 
+18. Referential Integrity, PK -FK constraints , Cascade and No Action  
+19. Creating Tables, Columns, Identity, Calc column, default value s, allow nulls  
+ 
+  
+ 8 Week 6: 
+20. Insert Statements  
+21. Select Statements (select, from, where, order by)  
+22. Join Keyword for m ultiple table selects : Inner, Outer (left/right), Full, Cross, Self  
+23. SPROCs (stored procedures) and Views  (virtual tables)  
+24. @Parameters for SPROCs  
+25. Deleting Rows, Tables, Drop  Keyword  
+26. Update Statements  
+Week 7: 
+27. Bulk Inserts  
+28. Indexes, Composite, Filtered  
+29. Index ing a View , with schemabinding  
+30. Setting  Column as Unique Key  
+31. Execution Plans , covered and covering queries  
+Week 8:  
+32. Aggregators (count, sum, min, max, avg), Group By clause  
+33. Advanced Operators and Keywords  
+34. Where versus Having  
+Week 9: 
+35. Reporting, Using SS DT for generating reports from queries  
+36. Triggers (for, instead of)  
+37. History Tables (deletes and updates)  
+38. Adding history tables to Join queries to capture deleted events  
+Week 10: Soccer Database  Build and Database Theory Week  
+39. DBDD – Database design document  
+40. Database build: tables, constraints, indexed, triggers  
+41. Database General Concepts: ACID, CAP  
+Week 11: Soccer Database Queries  
+42. ETL, Bulk Records entered , SSDT reports generated  
+43. With keyword and CTE  
+44. Nested Queries, Correlated and Uncorrelated  
+ 
+Week 1 2: Smallville Database  Design and Intro to Subtype Entities  
+45. Working with Sub -type entities and tables  
+Week 13: Smallville Database Build, Insert and Selects  
+46. Self-Join 
+ 
+Week 14: HDAR databas e design and build  
+47. HDAR Database design (ERD, EERD, RS, DD)  
+48. HDAR build, insert, and selects  
+49. Cube and Rollup  
+50. Truncate  
+51. Interview Questions  
+Week 15: Final Database Design Project  Test Free Week  
+52. Your database design (narrative, ERD, EERD, RS)  
+Week 16: Final Database Build Finals Week  
+53. Your database build, insert and selects  
+54. Creating dynamic filtered dashboards using Tableau  

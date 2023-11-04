@@ -1,0 +1,437 @@
+              ISM 4041  Global Cyber Ethics  
+This course  is part of the University  of South Florida's General Education Curriculum.  It is 
+certified  for Human & Cultural Diversity . Students  enrolled  in this course  will be  asked  to 
+participate in the  USF General  Education assessment  effort. This  will involve  submitting copies  
+of writing  assignments  for review via Canvas .  
+ISM 4041 is certified as a Global Citizens course and may be used to fulfill partial requirements of 
+the Global Citizen Awards upon suc cessful completion of the course (final grade of B or higher).  
+Luis Valdes  
+Office: In Class  
+Office Hours: By Appointment – Email is effective  
+Email:  jvaldesj@usf.edu
+Course Description  
+This course provides students an in-depth look at the social costs and moral problems that have 
+arisen by the expanded  and international  use of the Internet, and offers up -to-date legal and 
+philosophical perspectives  on the global scale for the business community . The course will feature 
+current research, the oretical frameworks, and case studies, that will highlight the ethical and legal 
+practices used in computing technologies, increase the effectiveness of computing students and 
+professionals in applying ethical values and legal statues, and provide insight on ethical and legal 
+discussions of real -world applications.  
+Course Objectives  
+This course is designed for undergraduate information systems students, as well as other interested 
+students. Students will be introduced to the widespread development of globa l cyber ethics  issues . 
+Students will learn more about impacting issues, laws, and developments that will help shape their 
+future within the business community through technology as it spans internationally. The content was 
+chosen to facilitate students to grow and develop prof essionally and morally through readings, class 
+participation, and course activities.  
+Human & Cultural Diversity (GenEd)  
+This course satisfies the Human & Cultural Diversity general education requirement.  This course will 
+give you an understanding of vari ous ethical perspectives or lens through which you and others view 
+today’s changing world.  Specifically the challenges associated with technological advances and 
+interconnecte dness.  Understanding different ethical perspectives will assist with decision m aking and 
+respecting the differences you will encounter in group and professional contexts.  Being aware of the 
+laws, moral dilemmas, and social costs introduced by global technology will prepare you to make 
+informed choices.  
+Learning Outcomes  Upon complet ion of this course students should be able to:  
+• Recognize differences in people’s values, beliefs, attitudes and behaviors through exploring 
+personal ethics in the context of computing technologies   
+• Demonstrate the ability to see issues from the perspectives of other groups/cultures by 
+describing the values and communication styles found in groups different from one’s own and 
+the way in which those differences can affect styles of verbal and nonverbal  communication  
+• Define personal values and beliefs using appropriate language and communication methods 
+that consider other s’ points of view  and respect differences  
+• Discuss global privacy threats posed by computing technologies  
+• Identify how security issues in cyberspace raise ethical concerns  
+• Recognize various types of cybercrime  and its global impact  
+• Describe the key differences between intellectual property and tangible property  
+• Discuss ethical issues in IT organizations  
+• Discuss the impacts of the global digital divide  
+• Describe the pros and cons of online communities  
+• Describe multiple dimensions of global systems by exploring ethical policies and practices of 
+multinational companies.  
+Course Materials  
+Required Text:  
+Ethics in Information Technology by George Reynolds 6th Edition   
+George Reynolds  
+ISBN-10: 1-337-40587 -6 
+ISBN-13: 978 -1-337-40587 -4 
+ 
+Ethical Lens Inventory and Simulations  
+ISBN-13: 978 -0-9827468 -3-7 (available online at https://ethicsgame.com/exec/site/login.html  
+or through the bookstore)  
+ 
+All additional PDFs, readings and other materi als will be available via USF’s Canvas . 
+ 
+ 
+ 
+  Evaluation Criteria  
+All grades will be determined using the following criteria:  
+ 
+Activity  Points  % 
+Case Study  Discussion  100 pts 10% 
+Case Study Peer Evaluation  10 pts  each  10% 
+Ethical Lens Inventory  / 
+Professional  Ethics Statement  100 pts 15% 
+Simulation 1  100 pts  15% 
+Simulation 2   100 pts 15% 
+Corporate Ethics  Assessment  100 pts 15% 
+Quizzes  10 @ 20 pts  20% 
+ 
+NOTE: Please be familiar with the USF’s policies on 
+pass/fail, withdrawal, and academic misconduct.  Grading:  
+A+ 4.00  98 -100 %  
+A 4.00  92 – 97 %  
+A- 3.67  90 – 91 %  
+B+ 3.33  88 – 89 %  
+B 3.00  82 – 87 %  
+B- 2.67  80 – 81 %  
+C+ 2.33  78 – 79 %  
+C 2.00  72 – 77 %  
+C- 1.67  70 – 71 %  
+D+ 1.33  68 – 69 %  
+D 1.00  62 – 67 %  
+D- 0.67  60 – 61 %  
+F 0.00   < 60 %  
+ 
+Evaluation Items  
+• Case Study (Video) Presentation  - Students will be assigned  and create a (video) 
+presentation of ONE  case available in your text.  The cases will serve as a framework/benchmark 
+to help inform and determine a strategy for your thought process and growth in the 
+understanding o f cyber ethics. The (video) presentation  is worth 100 points and counts for 1 0% 
+of your final grade. Students also have the OPTION  of providing a case study on a topic of 
+choice (must be approved by instructor).  Said topic must be current hot topic in cyber ethics.  You 
+will be expected to prepare a 10-minute presentation  on your assigned  or chosen  case. In the 
+presentation, you must : 
+o Identify yourself and the case name  
+o Give an overview of case details – please paraphrase…no points for just reading the 
+case.   
+o Research the case topic and provide updated and /or supplementary material .  
+o The ethical dilemma(s) in the form of a question(s),  
+▪ State and defend their position on the dilemma.   
+o Discuss the questions following the case  
+• Case Study Ethical Dilemma Peer Discussion – Using a template provided students will be 
+expected to evaluate each case study (except the one they are assigned). Each Peer Evaluation is 
+worth 10 points and counts for 10% of your final grade.   These evaluations are due 11 :59pm on 
+the Sunday following the presentation.  
+ 
+An alternative for offline sections: Team Contributions  
+• You will form your team (about 4 students in each team) during the first week. Each team will be 
+expected to analyze two cases from the textbook over the course of the semester. The cases will 
+serve as a framework/benchmark to help infor m and determine a strategy for your thought 
+process and growth in the understanding of cyber ethics. The two cases count for 20% of your 
+final grade. Each case analysis requires two contributions:  
+o The first contribution (70 points) will be a written report  of your team’s case analysis 
+submitted to Canvas by noon of the day when the case is to be discussed . The report will be graded for both content  and writing (e.g., grammar) . The report should 
+include the following components ( recommendation: structure eac h component in 
+separate sections of your report, with each section clearly labeled ): 
+▪ Give a brief overview of case details – please paraphrase…no points for just 
+copying the case.  
+▪ Research the case topic and provide updated and/or supplementary material.  
+▪ Articulate the ethical dilemma(s) in the form of a question(s). State and defend 
+your position on the dilemma.  
+▪ Discuss the questions following the case.  
+o The second contribution (30 points) will be to present your assigned case during the 
+presentation class.  Case presentation should be structured to take about 15 minutes 
+and be supported by presentation aids (e.g., PPTs that should be submitted on Canvas 
+by noon ). 
+▪ The required components are the same  as those listed above for the written 
+part. 
+▪ Tips for good c ase presentations:  
+▪ With text, less is almost always more. Avoid slides with a lot of text.  
+▪ Create a consistent look and feel.  
+▪ Think about topic transitions.  
+▪ Use photos that enhance meaning. Do not use videos in your presentation.  
+• Peer Evaluation.   In the f inal week, each student will submit a confidential evaluation of the 
+other members of his or her team. Be candid and honest in all your assessments.  
+ 
+#GEA1: Ethical Lens Inventory and Professional  Ethics Statement - Complete the online 
+Ethical Lens Inventory survey and write a Professional  Ethics Statement that translates your core 
+values into specific behaviors  you will follow in your professional life .  The Ethical Lens Inventory™ 
+(ELI) is 36 -question instruments that will help  you identify your preferred ethical perspective and 
+reflect on how your personal core values influence your decisions.  The ELI will also introduce you to 
+The Four Ethical Lenses™, four perspectives for analyzing ethical dilemmas.  
+This assignment is wort h 100 points and counts for 1 5% of your final grade.  Assignment graded for 
+both content and grammar .  Minimum word count: 500 Words  
+1) Complete the Ethical Lens Inventory  (ELI) . Download and attach a copy of your results to this 
+assignment.  (see Figure 1: Ex ample ELI results below)  
+2) Write your Professional Ethics Statement which  should be completed after reflection on which 
+values of the Four Ethical Lenses.  Reflect on the dilemmas you may be faced with in your 
+professional life  and assess what are the most i mportant values to you in your professional  life. 
+Create a professional ethics statement to guide your professional life.   
+Example statement shells:   
+[Choose two to four values] serve as the foundation for my work life …. To follow these values I [specific 
+behaviors that show how you live by these values] to live out my core ethical principles.  
+ 
+I choose to live my work life applying [choose two to four values] and I express these values by [specific behaviors 
+that show how you live by these values ] to build a strong ethical character.   
+I value [choose two to four values] because [reasons why these values are important to you]. Accordingly, I will 
+[what you can do to live by these values] to build strong, fair relationships within my work environmen t. 
+ 
+I live each day with [choose two to four values] so that [what living by these values will give  
+you]. I will do this by [specific behaviors you will use to live by these values] to achieve my  
+ethical goals.  
+IDEAS TO PRIME THE PUMP  
+• Reflect on which values are the most important to you in your work life.  
+• Keep the statement simple and clear. Whether you are writing a short statement or a longer 
+reflection, make sure you use words that you understand and have meaning for you.  
+• Keep your  statement positive. Focus on your strengths and your ethical aspirations.  
+• Your professional  statement should touch upon who you are (your character) and the 
+values that have a significant positive impact on your work life.  
+• Include behaviors and characte r traits that you consider particularly important or ones you 
+want to develop further.  
+2) Be creative and come up with your own words so that your statement reflects who you are.  
+3) Defend your statement.  AFTER YOU WRITE YOUR PROFESSIONAL ETHICAL 
+STATEMENT:  Look back at the inform ation about your primary/preferred lens:  
+a. Write a short statement of how well the professional ethics statement reflects the core 
+values and areas of growth for that lens.  
+b. Include a discussion how you might best deal with your blind spot.  
+4) Compare and contrast your ethical lens perspective with at least one other lens and how you 
+might respect th ose differences.  
+Figure 1: Example Ethical Lens Inventory Result  
+ 
+• Global Citizen Assignment - Ethics Simulations  (2) – Students will complete two  short and 
+engaging virtual simulations that challenge them to make decisions from multiple ethical 
+perspectives on global cyber ethical dilemmas.  Each simulation is an immersive, interactive and 
+iterative learning tool where students practice making decisions.  A Hot Topics Simulation™ is 
+comprised of two different dilemmas that allow you to role play resolving an ethical dilemma in a 
+virtual setting. The simulations will  teach you how to analyze problems from multiple perspectives 
+and deepen your knowledge of The Four Ethical Lenses. You will also learn how to use the Baird 
+Decision Model™, an easy to understand decision -making model. Each dilemma will take about 
+forty-five minutes to complete and is in the form of multiple choice questions. As you go along, 
+you will receive feedback as to why your answers are correct or incorrect  from as specific ethical 
+perspective . At the end of each dilemma you will then be asked to wr ite a short memo to inform 
+your colleagues of your decision and the reasons behind it.  Each assignment is worth a total of 
+100 points  and count s for 15% of your final grade . 
+• # GEA2: Corporate Ethics Assessment - Using the insights from the lectures, case 
+discussions, personal and professional ethics statements as a foundation; this assignment asks 
+you to reflect on the ethical posture of a multinational corporation.  You will research a 
+multinational company and i nvestigate its ethical policies and practices. These polices can 
+normally be found using a Google search.  
+ 
+This assignment is worth 100 points and counts for 1 5% of your final grade .  The assignment will 
+be graded for both content and grammar .  Minimum wo rd count: 800  
+ 
+• Include Personal and Professional Ethics Statements – revise to include instructor feedback.  
+• Choose a multinational corporation.  Linkable list of multinational corporations: 
+http://en.wikipedia.org/wiki/List_of_multinational_corporations .  
+o Include a link to the corporate ethics policy page .  
+o Write a  summary of the most salient information that describes the ethical policy of the 
+corporation.  
+• Evaluate and describe how the corporate ethical policies, values, and perspectives may differ 
+across different cultural groups, or whether for example the corporate practices and ethic 
+statement addresses cultural and legal issues that may vary across nations or cultural groups.  
+• Compare  how the corporate ethical policies, values, and perspectives differ or are similar  to 
+your Professional Ethics Statement.   
+o Based on this comparison woul d you be a good fit to work for this company?  Why or why 
+not? 
+ 
+• Participation: Participation is a significant aspect of this course both in class and on CANVAS.  
+Students must comment on any video posted to Discussion Board and also be actively engaged in 
+course discussions while in class.  
+ 
+An alternative for offline sections: In -Class Participation  
+• Class Participation: Class participation augments the overall learning experience, and you will 
+be evaluated based on your participation. Your attendance is expected in every class session . It is 
+also your responsibility to prepare for every class session, read the assigned ma terials and 
+participate in in -class discussions . 
+ 
+Some tips for effective class participation are:  
+o Do the comments help other students learn?  
+o Are comments relevant to the discussion and linked to the comments of others?  o Do the comments go beyond repetition  of the facts found within the readings? Is there 
+a willingness to test new ideas? Are the comments creative and illustrate that the 
+student has thought beyond the immediate application of the ideas?  
+o Do the comments link together different ideas, whether from other parts of the course, 
+other courses, personal experience, etc.?  
+In order to maximize your learning and achieve a good class participation grade, you should:  
+o Attend class and put away electronic devices (unless needed in a particular class ). 
+o Prepare for class by completing the assigned reading and assignment (if applicable).  
+o Engage with each other and participate in the discussion.  
+ 
+The following illustrates how class participation grades will be assigned (out of 5 points.)  
+o 5 points: The st udent attends class regularly and is well -prepared. The student is a 
+consistent contributor to class discussions, and his/her comments go beyond recitation 
+of facts. The student expresses well thought -out opinions about substantive issues.  
+o 4 points: The s tudent frequently participates, but there are times when the student’s 
+comments indicate that s/he has not thought deeply about the readings and issues.  
+o 3 points: The student attends class, but the student does not participate in the 
+discussion or occasio nally looks at electronic devices.  
+o 2 points: The student participates when in class, but the student is frequently absent or 
+frequently looks at electronic devices.  
+o 0-1 points: The student is frequently absent, and the student rarely participates when in 
+class or frequently looks at electronic devices.  
+ 
+• Quizzes (10)  – Students will complete 10 quizzes covering material in the chapters and lectures.  
+Each quiz in worth a total of 20 points and counts for 20% of your final grade.  
+ 
+An alternative for offline s ections: In -Class Quizzes  
+• Quizzes.   There will be three quizzes in this course. All quizzes are closed book and closed notes. 
+The quizzes are not cumulative. Quizzes cover everything taught in class and in the assigned 
+readings. Makeup quizzes will not be given, unless mandated by university policy or otherwise 
+approved by the instructor before the quiz date. After each quiz, if you have any questions or 
+disagreements about your quiz grading, you must submit your questions or your appeals in 
+writing to the instructor.  
+Course Policies  
+• For questions about the course content or any assignment, please utilize scheduled office hours, 
+or call for an appointment. You can also contact me via email.  
+• All work should be completed using professional standards. Assignments will be submitted via 
+Canvas and submitted to Turnitin .  Please ensure that you cite any material referenced 
+appropriately . If you have any  question, please do not hesitate to ask for clarification or 
+assistance.  
+• To improve the efficiency and effectiveness in delivering course con tent, each student will  be 
+responsible for all items contained or emails sent via Canvas . • Late Assignments : There are no make -ups for course deliverables. Assignments turned in late will 
+be assessed a penalty: a half -letter grade if it is one day late, or a full -letter grade for 2 -7 days 
+late. Assignments will not be accepted if overdue by more than seven days.  
+Re-grade Policy  
+All tests and other graded material may be submitted for re -evaluation of the grade by the instructor.  
+To request a re -grade, you must submit a written request within one week of the date the test or 
+assignment was returned.  The written request must include a  cover sheet that explains (1) T he 
+specific test questions or aspects of the assignment that you want re -evaluated and ; 
+(2) Why the original grade is in error and should be reconsidered.   
+Schedule: (Tentative)  15 Week  
+Week  Discussion Topic  Reading  
+W1 Introduction to course – Syllabus Review  
+First day attendance   
+W2 Ch 1: Overview of Ethics / Cyber  Ethics Defined  
+https://www.youtube.com/watch?v=bZn0IfOb61U   
+Cases:  
+VW Cheats on Emission Testing  Book pg 34  
+Toshiba Accounting Scandal  Book pg 37  
+Ethical and Business Setbacks for Nokia  Handout pg 8 
+Is There a Place for Ethics in IT?  Handout pg 1 2 
+ Ch 1  
+W3 Ch 2: Ethic in IT  
+Cases:  
+Bridgestone Versus IBM  Book pg 76  
+SAP Found in Violations of FCPA  Book pg 78  
+Whistle -Blower Claims Accounting Shenanigans at SuccessFactors  Handout pg 1 7 
+When Certification is Justified  Handout pg 2 3 
+ Ch 2  
+W4 Ch 3: Computer and Internet Crime  
+Cases:  
+Fairplay Turns to a Managed Security Service Provider  Book pg 125  
+Sony's Response to North Korea's Cyberattack  Book pg 126  
+Defending Against Distributed Denial -of-Service Attacks  Handout pg 2 9 
+Computer Forensics  Handout pg 3 5 
+ Ch 3  
+W5 Ch 4: Privacy and Cyberspace  
+Data Protection Laws of the World  
+https://www.dlapiperdataprotection.com/index.html#handbook/world -map -section/c1_CV  
+https://www .youtube.com/watch?v=6vNxslcf9AE  
+https://www.youtube.com/watch?v=vHvd6HaPq_s  
+Cases:  
+Serious Data Breach at OPM  Book pg 175  
+Time to Update the Electronic Communications Privacy Act  Book pg 177  
+“Extraterritorial Jurisdiction” Puts Citizen Data at Risk  Handout pg 38  
+Facebook Troubles with User Privacy  Handout pg 4 2 
+Google Collects Unprotected Wireless Network Information  Handout pg 4 8 
+ Ch 4  W6 Ch 5: Freedom of Expression  
+Cases:  
+Techdirt Sued for Defamation  Book pg 214  
+China's Great Firewall  Book pg 215  
+Lawsuits Aimed at Yelp and Its Reviewers  Handout pg 5 4 
+WikiLeaks Continues to Post Classified Materials  Handout pg 5 6 
+Facebook, Freedom of Speech, Defamation, and Cyberbullying  Handout pg 61 
+ Ch 5  
+W7 Regulating  Commerce  & Network  Neutrality   
+https://www.youtube.com/watch?v=wtt2aSV8wdw   
+https://www.youtube.com/watch?v=p90McT24Z6w   
+https://www.youtube.com/watch?v=8bUuvfDmsAs    
+W8 Ethical Lens Inventory /Professional Ethics Statement   
+W9 Ch 6: Intellectual Property (global perspective)  
+Cases:  
+Target Hires Key Executives Away from Amazon  Book pg 255  
+Intellectual Property Fight over Virtual Reality Headset  Book pg 257  
+Alice Case Raises Concerns for the Future of IT Software Patents  Handout pg 6 8 
+Rockstar Consortium - Beware the Patent Troll  Handout pg 71 
+Google Book Search Library Project  Handout pg 74 
+ Ch 6  
+W10 Ch 7: Ethical Issues in Software Development  
+Cases:  
+F-35 Plagued with Software Issues  Book pg 293  
+How Safe are Self -Driving Cars?  Book pg 295  
+Apple Guidelines for App Approval  Handout pg 82 
+Software Errors Lead to Death  Handout pg 85 
+ Ch 7 
+W11 Ch 8: The Impact of Information Technology on Productivity and Quality of Life/Global Digital 
+Divide  
+https://www.youtube.com/watch?v=kaxCRnZ_CLg   
+Cases:  
+IBM Watson – Not Yet Ready fo r Primetime  Book pg 323  
+Sophia Genetics Moves Precision Medicine Ahead  Book pg 324  
+Is the Tide Turning on Telework?  Handout pg 92 
+Kaiser Permanente Implements Electronic Health Record (EHR) System  Handout pg 95 
+Decision Support for Healthcare Diagnosis  Handout pg 99 
+ Ch 8 
+W12  Simulation s: The Case of the Misbegotten Memo and The Case of the Lamentable Launch    
+W13 Ch 9: Social Networking  
+Cases:  
+CDA Protects Social Media Companies  Book pg 351  
+Google Losing Revenue in Dispute over Placement of Ads  Book pg 353  
+Procter & Gamble Turns to Social Networking  Handout pg 104 
+Social Networks for Chronic Health Condition Sufferers  Handout pg 107 
+Facebook Raises Privacy Issues  Handout pg 109 
+ Ch 9 
+W14 Ch 10: Global Outsourcing  
+Cases:  Ch 10  Disney Workers Replaced with H -1B Visa Workers  Book pg 390  
+E-Waste - An Important Global Environmental and Health Issue  Book pg 392  
+E-Verify  Handout pg 1 17 
+Problems with Suppliers  Handout pg 1 21 
+ 
+W15 Corporate Ethics Assessment Due   
+Standard Policies    
+Information regarding these policies are standard items, many of which can be included as a hyperlink 
+(http://usf.edu/undergrad/standard -policies.aspx ) if so desired. Some are only necessary if applicable.  
+1. Final Examinations Policy  
+All final examinations are to be scheduled in accordance with the University's final examination policy.  
+ 
+o http://www.ugs.usf.edu/policy/FinalExams.pdf  
+2. General Attendance Policy  
+http://www.ugs.usf.edu/policy/GeneralAttendance.pdf  
+3. Early Notification Requirement for Observed Religious  Days 
+Students who anticipate the necessity of being absent from class due to the observation of a major religious 
+observance must provide notice of the date(s) to the instructor, in writing, at the beginning of the term.  
+http://www.ugs.usf.edu/policy/ReligiousDays.pdf  
+4. Academic Integrity of Students  
+http://www.ugs.usf.edu/policy/AcademicIntegri tyOfStudents.pdf  
+5. Disruption of the Academic Process  
+http://www.ugs.usf.edu/policy/DisruptionOfAcademicProcess.pdf  
+6. Gender -Based Crimes  
+USF has a commitment  to the safety and well-being  of our students.   Please  be aware  that educators  must report  
+incidents  of sexual  harassment  and gender -based  crimes  including  sexual  assault,  stalking,  and domestic/relationship  
+violence  that come  to their attention.  I am required  to report such incidents  in order for the Office  of Student  Rights  
+and Responsibilities  or the Office  of Diversity,  Inclusion,  and Equal  Opportunity  can investigate  the incident  or 
+situation  as a possible  violation  of the USF Sexual  Misconduct/Sexual  Harassment  Policy and provide  assistance  to the 
+student  making  the disclosure.  If you disclose  in class or to me personally,  I must report  the disclosure  and will assist  
+you in accessing  available  resources.  
+ 
+The Center  for Victim  Advocacy  and Violence  Prevention,  the Counseling  Center  and Student  Health  Services  are 
+confidential  resources  where  you can talk about  such situations  and receive  assistance  without  the incident  being  
+reported.  
+o Center  for Victim  Advocacy  and Violence  Prevention:  
+▪ (813)  974-5757 
+▪ http://sa.usf.edu/advocacy  
+o Counseling  Center  
+▪ (813)  974-2831 
+▪ http://usf.edu/student -affairs/counseling -center  
+o Student  Health  Services  
+▪ (813)  974-2331 
+▪ http://usf.edu/student -affairs/student -health -services  
+7. Student Academic Grievance Procedures  
+http://www.ugs.usf.edu/policy/StudentAcademicGrievanceProcedures.pdf  
+8. Students with Disabilities  
+Students with disabilities are responsible for registering with S tudents with Disabilities Services (SDS) in order to 
+receive academic accommodations. SDS encourages students to notify instructors of accommodation needs at least 5 
+business days prior to needing the accommodation. A letter from SDS must accompany this re quest.  
+o See student responsibilities:  http://www.usf.edu/student -affairs/student -disabilities -services/  
+o See instructor responsibilities:  Student  with  Disabilities  Services  Faculty/Staff  Handbook  
+9. Turnitin Privacy Policy  
+In order to comply with privacy laws, students are not required to i nclude personal identifying information, such as 
+name, in the body of the document.  Turnitin provides an originality report letting the instructor know how much of the assignment is original. Please follow your instructor's instructions carefully regarding  what identifying information 
+to include.  
+o How  do I submit  a Turnitin  Assignment?  
+10. University Emergency Policy  
+In the event of an emergency,  it may be necessary for USF to suspend normal operations. During this time, USF may 
+opt to continue delivery of instruction through methods that include but are not limited to: Canvas, Elluminate, 
+Skype, and email messaging and/or an alternate schedule. I t's the responsibility of the student to monitor Canvas site 
+for each class for course specific communication, and the main USF, College, and department websites, emails, and 
+MoBull messages for important general infor mation.  

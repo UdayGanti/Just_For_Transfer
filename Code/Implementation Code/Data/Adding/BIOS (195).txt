@@ -1,0 +1,23 @@
+Mohammadreza (Reza) EbrahimiAssistant Professorebrahimim@usf.eduCampus: TampaRoom: CIS 2062Phone: 813-974-6758VitaPersonal WebsiteMohammadreza (Reza) Ebrahimi is an assistant professor at School of Information Systems
+               and Management and the lead ofStar-AI Labat the University of South Florida.Reza’s current research is focused on statistical and adversarial machine learning
+               for AI-enabled secure and trustworthy cyberspace. He leverages a wide range of statistical
+               learning theories, including Transductive Learning, Transfer Learning, Adversarial
+               Learning, and Deep Reinforcement Learning. Reza’s dissertation on AI-enabled cybersecurity
+               analytics won the ACM SIGMIS best doctoral dissertation award in 2021. Reza has published
+               over 25 articles in peer-reviewed security journals, conferences, and workshops, includingIEEE TPAMI,Applied Artificial Intelligence,Digital Forensics,MIS Quarterly,JMIS,IEEE S&PW,AAAI Workshop,IEEE ICDMW, andIEEE ISI. He has been serving as a Program Chair and Program Committee member in IEEE ICDM
+               Workshop on Machine Learning for Cybersecurity and IEEE S&P Workshop on Deep Learning
+               and Security. He has contributed to several projects supported by the National Science
+               Foundation. He is a member of the IEEE, ACM, AAAI, and AIS.Ebrahimi received his PhD in information systems from the University of Arizona, where
+               he was a research assistant at the Artificial Intelligence Lab directed by Regents’
+               Professor Hsinchun Chen, and a master's degree in computer science from Concordia
+               University in Montreal at the Center for Pattern Recognition and Machine Intelligence
+               Lab directed by Ching Y. Suen.TeachingISM 6251 -Data Science ProgrammingGraduate levelISM 7568 -Deep Learning for Business AnalyticsPhD SeminarISM 6136 -Data MiningGraduate levelResearchEbrahimi M., Chai Y., Zhang H., Chen H., 2022, “Heterogeneous Domain Adaptation with
+                     Adversarial Neural Representation Learning: Experiments on E-Commerce and Cybersecurity,”
+                     inIEEE Transactions on Pattern Analysis and Machine Intelligence, IEEE.Ebrahimi M., Chai Y., Samtani S., Chen H. 2022, “Cross-Lingual Security Analytics:
+                     Cyber Threat Detection in the International Dark Web with Adversarial Deep Representation
+                     Learning,”MIS Quarterly, 46(2), pp. 1209-1226.Zhang, N., Ebrahimi, M., Li, W., Chen, H., 2022, “Counteracting Dark Web Text-Based
+                     CAPTCHA with Generative Adversarial Learning for Proactive Cyber Threat Intelligence,”ACM Transactions on Management Information Systems, ACM, 13(2), pp. 1-21.Ebrahimi M., Nunamaker J., Chen, H., 2020, “Semi-Supervised Cyber Threat Identification
+                     in Dark Net Markets: A Transductive and Deep Learning Approach,”Journal of Management Information Systems, 37(3), pp.694-722.Ebrahimi M., Suen C.Y., Ormandjieva O., 2016, “Detecting Predatory Conversations in
+                     Social Media by Deep Convolutional Neural Networks,”Digital Investigation, Elsevier, Volume 18, pp. 33-49.ServiceWorkshop Chair - IEEE ICDM Workshop on Machine Learning for Cybersecurity (MLC), 2022Committee member - IEEE Security and Privacy (S&P) Workshop on Deep Learning and Security,
+                  2022Committee member - IEEE ICDM workshop on Deep Learning for Cyber Threat Intelligence
+                  (DL-CTI), 2020Committee member - Informs Data Science Workshop, 2021

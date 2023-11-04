@@ -1,0 +1,26 @@
+Balaji PadmanabhanDirector, Center for Analytics and CreativityProfessorbp@usf.eduRoom: CIS 2071Phone: (813) 974-6763Fax: (813) 974-6749VitaBalaji Padmanabhan is the Anderson Professor of Global Management, the director of
+               the Center for Analytics & Creativity and a professor in the School of Information
+               Systems and Management. Previously, he served as the chair of the department. He has
+               created courses and taught undergraduate, MBA/MS, and doctoral courses in areas related
+               to AI and machine learning, business/data analytics and computational thinking.He designs analytics-driven algorithms to solve business problems. Padmanabhan's specific
+               interests and expertise include AI and machine learning, designing analytics-driven
+               algorithms for business applications, managing analytics, building and evaluating
+               predictive models, patterns discovery in data, business value of analytics, enabling
+               citizen data science and applications of analytics in churn, health care, recommender
+               systems, fraud detection and elections. He often works with industry partners on applied
+               research and has worked with more than twenty firms on various machine learning and
+               analytics initiatives, often with a focus on innovative applications to drive business
+               value.His research has been published in the premier computer science and business journals
+               and conferences including ACM KDD Proceedings, ACM RecSys, ACM Transactions on MIS, Big Data, Decision Support Systems, IEEE Transactions on
+                  Knowledge and Data Engineering, Information Systems Research,theINFORMS Journal on Computing, JAMIA, Management Science and MIS Quarterly. He serves on the editorial board and program committees of many leading academic
+               journals and conferences in the field.Padmanabhan earned a PhD from the Stern School of Business at New York University
+               and a B.Tech in computer science from Indian Institute of Technology Madras.TeachingISM 6136 - Data Mining (introductory course on machine learning with business applications
+                     for MBA/MS students)ISM 6543 – Data Science Programming (graduate machine learning course using the Python
+                     ecosystem)ISM 6930 – Computational Methods in IS Research (doctoral course)Recent Research"Can Cost Transparency in Recommendations Reduce Healthcare Costs? The Role of TimePressure and Cost-Framing," (2019), L. Bouayad, Padmanabhan, B. and Chari, K., Forthcoming
+                  inMIS Quarterly."Audit Policies under the Sentinel Effect: Deterrence-Driven Algorithms," L. Bouayad,Padmanabhan, B. and Chari, K., (2019),Information Systems Research, Volume 30, Issue 2, pp. 466-485."Taming Complexity in Search Matching: Two-Sided Recommender Systems on DigitalPlatforms," forthcoming, O. Malgonde, H. Zhang, B. Padmanabhan and M.Limayem, Forthcoming
+                  inMISQuarterly."Machine Learning for Psychiatric Patient Triaging: An Investigation of Cascading
+                  Classifiers," (2018), V. Singh, Shrivastava, U., Bouayad, L., Padmanabhan, B., Ialynytchev,
+                  A. and Schultz, S.,Journal of the American Medical Informatics Association (JAMIA), Volume 25, Issue 11, 1, Pages 1481–1487“Predicting Presidential Election Outcomes from What People Watch,” (2017), A. Barfar
+                  and Padmanabhan, B.,Big Data,5(1): 32-41.SERVICEPadmanabhan's professional service includes work on the program committees of several
+               academic conferences such as WITS, ICIS, ACM KDD and IEEE ICDM. He has served on the
+               editorial boards of the premier journals in the discipline includingInformation Systems Research,theINFORMS Journal on Computing, Management Science, MIS Quarterly, Big DataandACM Transactions on MIS.

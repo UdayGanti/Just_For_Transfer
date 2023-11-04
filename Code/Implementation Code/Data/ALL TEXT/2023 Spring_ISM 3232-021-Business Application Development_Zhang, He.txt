@@ -1,0 +1,262 @@
+ 1  
+ISM 3232 – 021 
+Business Application Development  
+ 
+Spring  2023 – 3 Credits  
+100% Online - CANVAS  
+ 
+INSTRUCTOR : Dr. He Zhang  Office:  CIS 2067   
+                                    Email: hezhang @usf.edu  
+ Web Page: https:// my.usf.edu  ( USF Canvas  System)  
+ 
+ Office Hours:  Mon day: 2:00pm -5:00pm  
+ Office hours will be offered in both face -to-face and online .  
+                                                            Students can join office hours via Microsoft Team.  
+ 
+TA: Alexandra Harde  Email:  hardea@usf.edu  
+ Office Hours:  Office hours will be offered in both face -to-face and online.                   
+Student s can join office hours via Microsoft Team. You can 
+contact the GA  whenever you have some question.  
+ 
+TEXTBOOK : Required:  Starting Out with Visual C#, 5th ed., by Tony Gaddis.  
+  Published by Pearson  (2019). 
+ 
+ Additional materials will be made available via the USF Canvas  system.  
+ 
+DESCRIPTION : “This course introduces business application development using an object -
+oriented programming language.  Topics include data types, programming 
+constructs, object construction, debugging techniques, and graphical user 
+interfaces.  Good program design techniques are emphasized.  Applications of 
+increasing complexity are developed.”  
+ (From the MIS Program of Study .) 
+ 
+PREREQUISITE : ISM 3011 Information Systems in Organ izations (with a grade of “C” or better).  
+ (This prerequisite may be taken during the same term as this class.)  
+ 
+OBJECTIVES : This course is designed for undergraduate students  majoring or minoring in 
+business analytics and information systems, as well as t hose students using this 
+discipline as a concentration in a general business degree program.  In this course, 
+students will learn  the design and development of computer software written in 
+the C# programming language.  In addition to C# -specific skills, th e content of 
+the course has been selected so that students will acquire knowledge and 
+analytical skills common to object -oriented software development in general.  
+ 
+OUTCOMES : Upon completion of this course, students should be able to:  
+• understand and prope rly utilize the Visual Studio development environment  
+• describe  the fundamental  concepts, terminology,  and syntax of the C# language  
+• explain the proper implementation of g raphical user interface concepts  
+• design  programs  that appropriately  utilize  object -oriented  programming  concepts  
+• select and apply proper programming control structures in program development   2 • employ effective exception handling techniques in the design of C# programs  
+• analyze business situations to identify opportuniti es for the application of the  
+   programming concepts introduced in this course  
+ 
+REQUIREMENTS : Midterm Examination   20% 
+Final Examination   20% 
+Individual Assignments (4)  30% 
+Lab (7)    10% 
+ Quiz     20% 
+• Quizzes : Starting from the second week, there will be a quiz in each week, except exam days. 
+All quizzes are based on the material I teach in class. Each quiz lasts about 60 minutes and is 
+worth 20 points. Your score on quizzes is the average of all except the lowe st two quizzes, 
+provided you miss less than or equal to 2 quizzes. However, if you miss more than 2 quizzes, 
+your score on quizzes will be 60% of the scores computed in accordance with the above 
+method. And if you miss more than 3 quizzes, your score on qu iz will be 40% of the score 
+computed in accordance with the above method.  No make -up quiz for whatever reasons. In 
+this semester, quizzes will be open on every Thursday after class  until 12pm next  Friday . You 
+have 60 minutes to finish the quiz.  
+• Assignment s: There will be 4 assignments, which are also based on the materials  I teach in 
+class. Cooperation among students  is prohibited and would be deemed as v iolation of 
+academic integrity.  
+• Labs: There will be 7 labs. Time will be reserved in certain lectures for the labs . The 
+due date of the lab will be next day of the class.  
+• Online  Exams : There will be 2 open -book online exams, each exam will be open for 3 -4 days . 
+ 
+ 
+GRADING : A+ - 98-100 C+ - 78-79 
+ A - 92-97 C - 70-77 
+ A– - 90-91 C– - 68-69 
+ B+ - 88-89 D+ - 66-67 
+ B - 82-87 D - 60-65 
+ B– - 80-81 D– - 58-59 
+    F - 0-57 
+ 
+POLICIES :  Regular class attendance is very important to achieving success in this course.   
+Material not included in the text will be introduced in some classes.  Should you 
+need t o miss a class, you should inform your instructor as soon as possible in 
+order to find out how best to catch up.  
+ 
+   Class meetings for both examinations must  be attended .  Only emergency  
+situations will qualify as excused absences for these classes.  Shou ld such a 
+situation occur, you must notify your instructor immediately .  Acceptable 
+documentation of the emergency will be required.  
+ 
+   The use of computers  during class lectures is strictly restricted to class -related use 
+only (such as program coding, note-taking , or viewing class slides).  
+ 
+   *** Cell phone  use of any kind during class lectures is prohibited .  During class, 
+all cell phones must be turned off and placed out of sight.  *** 
+ 
+   All unauthorized recordings of class are prohi bited.  Recordings that accommo -
+date individual student needs must be approved by your instructor in advance.  
+ See the last page  of this syllabus for the  relevant 
+dates and descriptions of these course requirement s.  3    Academic integrity is an absolute course requirement. (See link to USF Academic 
+Integrity policy below.)  Any instance of academic dishonesty will result, at the 
+least, in a grade of zero being assigned to the work involved.  This policy covers 
+both the Exams and the Individual Assignments. It is considered cheating to either 
+give or receive  assistance of any kind on these assignments.  It is yo ur respons ibil-
+ity to ensure that your work does not become available to other students.  
+ 
+USF STANDARD COURSE POLICIES  
+ 
+In addition to the specific course policies listed above, information on the following university standard 
+course policies can be found at the web address shown for each item:  
+ 
+Final Examinations – http://www.ugs.usf.edu/policy/FinalExams.pdf  
+General Attendance – http://www.ugs.usf.edu/policy/GeneralAttendance.pdf  
+Religious Days – http://www.ugs.usf.edu/policy/ReligiousDays.pdf  
+Academic Integrity – http://www.ugs.usf.edu/policy/AcademicIntegrityOfStudents.pdf  
+Academic Disruption – http://www.ugs.usf.edu/policy/DisruptionOfAcademicProcess.pdf  
+Academic Grievance – http://www.ugs.usf.e du/policy/StudentAcademicGrievanceProcedures.pdf  
+Students with Disabilities – 
+http://www.usf.edu/student -affairs/student -disabilities -services/documents/sds -staff-handbook.pdf  
+ 
+ 
+PREPARATION : Assigned textbook chapters should be read and assigned problems c ompleted in 
+advance of the class in which they will be discussed.  This allows class time to be 
+used efficiently and additional topics of interest to be discussed.  
+ 
+   A significant  amount of work outside of class will be needed for students to 
+adequately master the material necessary to complete the four Individual 
+Assignments.  You should plan such time into your regular weekly schedule.  
+ 
+   The instructor is readily available outside of class during office hours and via 
+email, if you have questions or ne ed additional assistance.  You are strongly 
+encouraged to make use of this help.   
+ 
+Campus Free Expression:   It is fundamental to the University of South Florida’s mission to support 
+an environment where divergent ideas, theories, and philosophies can be openly 
+exchanged and critically evaluated. Consistent with these principles, this course 
+may involve discussio n of ideas that you find uncomfortable, disagreeable, or 
+even offensive.  
+ 
+   In the instructional setting, ideas are intended to be presented in an objective 
+manner and not as an endorsement of what you should personally believe. 
+Objective means that the idea(s) presented can be tested by critical peer review 
+and rigorous debate, and that the idea(s) is supported by credible research.  
+ 
+   Not all ideas can be supported by objective methods or criteria. Regardless, you 
+may decide that certain ideas are wor thy of your personal belief. In this course, 
+however, you may be asked to engage with complex ideas and to demonstrate an 
+understanding of the ideas. Understanding an idea does not mean that you are 
+required to believe it or agree with it.   4 Class Recording  Classes will be recorded and streamed online. Student’s voice and video will be 
+included in the class recording. It is the student’s responsibility to make sure the 
+privacy of their surroundings and background is maintained.  
+ 
+ 
+CLASS MEETING SCHEDULE  
+ 
+Week  Date  Topic  
+ 
+1 01/09 - Introduction to Course  
+  - Chapter 1 – Introduction to Computers and Programming  
+                     - C# LAB 0  
+ 
+2 01/16 - Chapter 2 – Introduction to Visual C#  
+                     -  C# LAB I  
+ 
+3 01/23 - Chapter 3 – Processing Dat a 
+ 
+4 01/30 - Chapter 3 – Processing Data  
+  - C# LAB II  
+ 
+5 02/06 - Chapter 4 – Making Decisions  
+ 
+6 02/13 - Chapter 4 – Making Decisions  
+  - C# LAB III  
+ 
+7 02/20 - Chapter 5 – Loops, Files, and Random Numbers  
+ 
+8 02/27 - Midterm Examination  (the exam will be open for several days)  
+ 
+9  03/06 - Chapter 6 – Modularizing Your Code with Methods  
+ 
+10  03/13 - Spring Break  
+ 
+11 03/20 - Chapter 6 – Modularizing Your Code with Methods  
+  - C# LAB IV  
+ 
+12  03/27 - Chapter 7 – Arrays and Lists  
+ 
+13  04/03 - Chapter 7 – Arrays and Lists  
+ 
+14 04/10 - Chapter 10 – Introduction to Classes  
+  - C# LAB V  
+ 
+15 04/17 - Chapter 10 – Introduction to Classes  
+  - Chapter 8 – Text Processing  
+ 
+16 04/24 - Chapter 9 – Structures, Enumerated Types, and Dictionaries  
+  - C# LAB VI  
+ 
+17 05/01 - Final Examination   (the exam will be open for several days ) 
+ 
+NOTE:    The withdrawal deadline for this semester is Saturday, Oct 31th. 
+ 
+ 
+SCHEDULE FOR ASSIGNMENTS / EXAMS  
+ 
+All due dates are absolute deadlines – no late work will be accepted.   5  
+(Assigned work is due by the date and time  indicated on the assignment handout.)  
+ 
+ 
+Assignment #1  
+ 
+Given out:  Week 4 01/30 
+Due:  Week 5 02/08 
+ 
+Assignment #2  
+ 
+Given out:  Week 6 02/13 
+Due:  Week 7 02/22 
+ 
+Midterm Exam  
+ 
+Date:  Week 8   
+ 
+Assignment #3  
+ 
+Given out:  Week 1 2 03/27 
+Due:  Week 1 3 04/05 
+ 
+Assignment #4  
+ 
+Given out:  Week 1 5 04/17 
+Due:  Week 1 6 04/26 
+ 
+Final Exam  
+ 
+Date:  Week 1 7  
+ 
+ 
+ 
+Communications to you from your instructor via Canvas and in class meetings  
+during the semester may supersede inf ormation contained in this syllabus.  
+ 
+ Assignment #1 will involve the creation of a GUI 
+application demonstrating concepts presented 
+through Chapter 3 of the course textbook.  
+Assignment #2 will involve the creation of a GUI 
+application demonstrating concepts presented 
+through Chapter 4 of the course textbook.  
+The Midterm Exam will include questions (in a 
+variety of formats) from all course materials cov -
+ered to this point of the semester.  
+Assignment #3 will involve the creation of a GUI 
+application demonstrating con cepts presented 
+through Chapter 6  of the course textbook.  
+Assignment #4 will involve the creation of a GUI 
+application demonstrating concepts presented 
+through Chapter 10 of the course textbook.  
+The Final Exam will include questions (in a vari -
+ety of formats) primarily from materials cov ered 
+after the Midterm Exam to the end of the semester.  

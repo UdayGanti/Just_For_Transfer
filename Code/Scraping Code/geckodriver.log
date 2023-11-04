@@ -1,0 +1,111 @@
+1697618484159	geckodriver	INFO	Listening on 127.0.0.1:60214
+1697618487185	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60215" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UDAYGA~1\\AppData\\Local\\Temp\\rust_mozprofilejhm9dP"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697618487532	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697618487623	Marionette	INFO	Listening on port 60225
+WebDriver BiDi listening on ws://127.0.0.1:60215
+Read port: 60225
+1697618487831	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60215/devtools/browser/1c732da0-3c21-45e8-9cac-d4b8c2f69b88
+JavaScript warning: https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js, line 870: Script terminated by timeout at:
+O@https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js:870:131
+Ix<@https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js:1864:98
+Uk/<@https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js:854:63
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.usf.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.usf.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.usf.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.usf.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.usf.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.usf.edu."
+JavaScript warning: https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js, line 854: Script terminated by timeout at:
+Uk/<@https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js:854:47
+
+JavaScript warning: https://www.youtube.com/embed/_x4_SaWWFuo line 836 > injectedScript line 2 > eval line 5893 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://unibuddy.co/main.657f02d23a2e5f9d9420.js, line 1: Script terminated by timeout at:
+r@https://unibuddy.co/main.657f02d23a2e5f9d9420.js:1:1410884
+
+1697618532699	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js, line 854: Script terminated by timeout at:
+Uk/<@https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js:854:47
+
+JavaScript warning: https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js, line 854: Script terminated by timeout at:
+Uk/<@https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js:854:47
+
+JavaScript warning: https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js, line 854: Script terminated by timeout at:
+Uk/<@https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js:854:47
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-QB3QP2ZSHX&l=dataLayer&cx=c, line 153: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-QB3QP2ZSHX&l=dataLayer&cx=c:153:17
+Ez@https://www.googletagmanager.com/gtag/js?id=G-QB3QP2ZSHX&l=dataLayer&cx=c:456:134
+Fz/<@https://www.googletagmanager.com/gtag/js?id=G-QB3QP2ZSHX&l=dataLayer&cx=c:456:111
+
+JavaScript error: https://www.gstatic.com/recaptcha/releases/vm_YDiq1BiI3a8zfbIPZjtF2/recaptcha__en.js, line 360: NS_ERROR_XPC_SECURITY_MANAGER_VETO: 
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js, line 854: Script terminated by timeout at:
+Uk/<@https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js:854:47
+
+1697618573996	Marionette	INFO	Stopped listening on port 60225
+Dynamically enable window occlusion 1
+1697618807666	geckodriver	INFO	Listening on 127.0.0.1:60705
+1697618810723	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "--remote-debugging-port" "60706" "--remote-allow-hosts" "localhost" "-no-remote" "-profile" "C:\\Users\\UDAYGA~1\\AppData\\Local\\Temp\\rust_mozprofiletIFSAG"
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+1697618810953	Marionette	INFO	Marionette enabled
+Dynamically enable window occlusion 0
+1697618811027	Marionette	INFO	Listening on port 60714
+WebDriver BiDi listening on ws://127.0.0.1:60706
+Read port: 60714
+1697618811198	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+DevTools listening on ws://127.0.0.1:60706/devtools/browser/cfa79636-cd9a-4efb-8957-91663707720b
+JavaScript warning: https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js, line 854: Script terminated by timeout at:
+Uk/<@https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js:854:47
+
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.usf.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.usf.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.usf.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.usf.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.usf.edu."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: https://www.usf.edu."
+JavaScript warning: https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js, line 854: Script terminated by timeout at:
+Uk/<@https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js:854:47
+
+JavaScript warning: https://www.google.com/js/th/FHpo6pEqcSRgVdNkQyOrWf56osNa_SwdaUPxzrL5JrM.js line 2 > eval line 1153 > eval line 1 > eval line 1 > eval, line 1: WEBGL_debug_renderer_info is deprecated in Firefox and will be removed. Please use RENDERER.
+JavaScript warning: https://unibuddy.co/main.657f02d23a2e5f9d9420.js, line 1: Script terminated by timeout at:
+r@https://unibuddy.co/main.657f02d23a2e5f9d9420.js:1:1410884
+
+1697618855636	Marionette	WARN	Ignoring event 'DOMContentLoaded' because document has an invalid readyState of 'complete'.
+JavaScript warning: https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js, line 854: Script terminated by timeout at:
+Uk/<@https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js:854:47
+
+JavaScript warning: https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js, line 854: Script terminated by timeout at:
+Uk/<@https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js:854:47
+
+JavaScript warning: https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js, line 854: Script terminated by timeout at:
+Uk/<@https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js:854:47
+
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-QB3QP2ZSHX&l=dataLayer&cx=c, line 153: Script terminated by timeout at:
+l@https://www.googletagmanager.com/gtag/js?id=G-QB3QP2ZSHX&l=dataLayer&cx=c:153:17
+Ez@https://www.googletagmanager.com/gtag/js?id=G-QB3QP2ZSHX&l=dataLayer&cx=c:456:134
+Fz/<@https://www.googletagmanager.com/gtag/js?id=G-QB3QP2ZSHX&l=dataLayer&cx=c:456:111
+
+JavaScript error: https://www.gstatic.com/recaptcha/releases/MydHw_zggsxIJuhSbyOmPv5R/recaptcha__en.js, line 169: NS_ERROR_XPC_SECURITY_MANAGER_VETO: 
+JavaScript warning: https://ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js, line 2: Using //@ to indicate sourceMappingURL pragmas is deprecated. Use //# instead
+JavaScript warning: https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js, line 854: Script terminated by timeout at:
+Uk/<@https://www.youtube.com/s/player/dd34ec3d/www-embed-player.vflset/www-embed-player.js:854:47
+
+1697618895466	Marionette	INFO	Stopped listening on port 60714
+JavaScript warning: https://www.googletagmanager.com/gtag/js?id=G-ET469057K6&l=dataLayer&cx=c, line 179: Script terminated by timeout at:
+gb@https://www.googletagmanager.com/gtag/js?id=G-ET469057K6&l=dataLayer&cx=c:179:1080
+dd@https://www.googletagmanager.com/gtag/js?id=G-ET469057K6&l=dataLayer&cx=c:194:991
+b@https://www.googletagmanager.com/gtag/js?id=G-ET469057K6&l=dataLayer&cx=c:221:100
+Ge@https://www.googletagmanager.com/gtag/js?id=G-ET469057K6&l=dataLayer&cx=c:221:136
+He@https://www.googletagmanager.com/gtag/js?id=G-ET469057K6&l=dataLayer&cx=c:220:389
+@https://www.googletagmanager.com/gtag/js?id=G-ET469057K6&l=dataLayer&cx=c:674:260
+@https://www.googletagmanager.com/gtag/js?id=G-ET469057K6&l=dataLayer&cx=c:672:292
+@https://www.googletagmanager.com/gtag/js?id=G-ET469057K6&l=dataLayer&cx=c:672:298
+@https://www.googletagmanager.com/gtag/js?id=G-ET469057K6&l=dataLayer&cx=c:679:3
+
+Dynamically enable window occlusion 1

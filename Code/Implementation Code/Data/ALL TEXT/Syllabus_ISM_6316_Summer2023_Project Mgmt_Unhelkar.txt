@@ -1,0 +1,311 @@
+
+
+
+
+
+
+Semester: 	 Summer, 2023
+Class Meeting Days: 		Online
+Class Meeting Time: 		Online
+Class Meeting Location: 	Online
+Instructor:			Dr. Bhuvan UNHELKAR
+Office Location: 		C225, College of Business, Sarasota-Manatee Campus
+Office Hours: 			Online
+Phone: (941) 359-4654	 [MS Teams & Canvas messaging preferred]
+Email:				bunhelkar@usf.edu 
+
+
+
+Welcome!
+
+Welcome to the Course: Project Management
+This course provides you, my students, a practical understanding of Project Management (PM) with particular focus on its application in business organizations. Since there are hardly any modern-day projects that do not use Agile in some form, we also focus on understanding Agile Project Management (APM). Starting with the definition of what comprises Agile, this course creates a solid foundation for students to apply Agility in practice through a Composite Approach. ‘Scrum’ is introduced as a popular Agile project management approach. While Scrum is biased towards software development projects, my goal is for you to understand the principles and practices of Scrum and to be able to apply them to any type of project.
+
+Course Prerequisites
+
+This course has no set pre-requisites. However, students should have basic understanding of how projects happen in the industry. This course is focused entirely on managing projects and does NOT involve any programming (coding). Appreciation of programming concepts may help but they are not necessary to learn project management. Furthermore, not all projects are software-based. Many of the capabilities you develop in this course are applicable to any type of project. An important soft-skill you develop is the ability to collaborate ONLINE with your fellow students in a TEAM format. This is a vital skill for you to develop and this course pays particular emphasis on it. Therefore, it is vital that you learn to perform as a team player - especially as we learn to collaborate in an ONLINE Team project. 
+
+Course Purpose 
+
+This course provides students with a practical understanding of Project Management (PM) with particular focus on its application to projects in organizations. As mentioned earlier, there are hardly any modern-day projects that do not use Agile. Therefore, this course is heavily focused on Agile Project Management (APM). Starting with the definition of what comprises Agile, this course creates a solid foundation for students to apply the Agile Manifesto in practice through a Composite Approach to agile methods. ‘Scrum’ is introduced as a popular Agile project management approach. While Scrum is biased towards software development projects, once you understand the principles and practices of Scrum you will be able to apply them to any type of project. This course further explores the important role of leadership together with its psycho-social aspects in enabling successful Agile adoption in the organization. Your TEAM work will enhance your capabilities for leadership in Agile project. You will also use a relevant tool (Trello) to give you a taste of use of tools in online collaboration in an Agile project. 
+Finally, I also reference current popular certifications available outside of this course (e.g. Professional Scrum Master – PSM; and Scaled Agile Framework for the Enterprise SAFe). While these certifications are not a requirement for this course, they are increasingly valued by employers. Students may find it worth exploring the possibility of appearing in one of these certification exams to double their advantage of doing this course. 
+
+
+How to Succeed in this Course
+
+Successful students should will these tips as they start their online study:
+
+Check Canvas and emails for announcements. While most announcements will be posted on Canvas, please do keep an eye for any additional information that is sent to you. Please make a habit to check for announcements on a daily basis. 
+Close down other programs and apps before you begin your class as that will prevent any distraction including running out of memory space etc. 
+When possible, plug in to a wired internet connection, rather than rely on WiFi – the Voice-over PPTx will play better with higher network speeds. 
+When possible, use a laptop rather than a smart phone for easier reading and listening to the materials
+Read the instruction page for the Discussion questions, Team collaborations, and Quizzes; Each instruction page is carefully put together and skipping over the instructions may mean incomplete work and loss of points – which I am keen to avoid for you. 
+Work in Team Projects in a collaborative manner. ONLINE collaboration requires discipline and responsibility towards the entire team. This is a CRUCIAL learning objective and learning experience of this course. 
+Submit ALL assignments in time and NOT wait for any reminders. Please note that this syllabus forms an official part of your documentation and these instructions clarify and mandate ON TIME submissions of all assignments WITHOUT reminders. Reminders are only a courtesy and may not be provided.  LATE submissions WILL incur penalty in order to maintain fairness with fellow students who have posted on time. 
+Attempt ALL assignments – please do NOT leave any assignments un-attempted even though you may be doing very well in the ones you have already attempted. Making an honest attempt at all assignments and achieving a minimum score (as specified in each assignment) is a mandatory requirement to PASS this course. 
+For any delays in submission that are entirely beyond your control, please reach out to your professor promptly and explain the reasons (except in medical emergencies where you simply can’t reach out). A documented proof of the reasons for late submissions will be required. 
+Maintain high-level of honesty and ethical behavior throughout the course. This is absolutely crucial for this online course as the University has and enforces strict policies for plagiarism in submissions and cheating / sharing of quizzes in any form, etc. At ANY point in time, your professor may ask you to run your submission through TURNITIN for plagiarism check. This includes ALL submissions including discussion questions and team project. Should there be a doubt in terms of your quiz submissions, you may be asked for additional clarifications in terms of when/where/how you attempted the quiz. 
+Maintain total respect towards your Professor / Instructor and your fellow students. This is another critical requirement of this course. No disrespect towards any of your fellow students and your professor will be tolerated. I promise to maintain the same dignity and respect towards all my students. 
+If new to Canvas, read this guide
+
+
+Student Learning Outcomes
+
+At the completion of this course, students will be able to: 
+
+Recognize Project Management basics including Risks, Scope, Time, Budget, Quality and Change management
+Recognize the importance of Agility in projects and organizational culture 
+Demonstrate the use of Agile techniques used in practical projects including requirements modeling, project estimations, prioritization, tracking and quality
+Undertake Collaborative Iteration planning for Agile projects in a Team (group) setting
+Demonstrate the role of leadership in Agile adoption in organizations 
+Undertake ONLINE team work and communicate effectively and REGULARLY in a team environment to enable delivery of project outputs
+
+
+Required Texts and/or Readings and Course Materials
+
+Required (Note: This text book is made FREELY available by USF’s Textbook Adoption Program (TAP). Please see Canvas course for details on how to download this material for your study: )
+
+Unhelkar, B., (2013), The Art of Agile Practice: A Composite Approach for Projects and Organizations, CRC Press, (Taylor and Francis Group /an Auerbach Book), Boca Raton, FL, USA. Authored ISBN 9781439851180, Foreword Steve Blais, USA
+
+Supplementary (Optional) Texts and Materials
+
+Unhelkar, B., (2005), “Verification and Validation for Quality of UML Models”, John Wiley and Sons, (Wiley Interscience), July, 2005; Clothbound, Pages 290+. ISBN: 0471727830 (Foreword by Prof. Brian Henderson-Sellers, UTS, Sydney, Australia)
+Fowler, M., UML distilled:3rd Edition Addison-Wesley 
+Unhelkar, B., (2018), Software Engineering with UML, CRC Press, (Taylor and Francis Group /an Auerbach Book), Boca Raton, FL, USA. Foreword Scott Ambler. ISBN 978-1-138-29743-2
+Unhelkar, B., (2003), “Process Quality Assurance for UML-based Projects” Pearson Education (Addison-Wesley), Boston, 2003; (394 Pages + CD. Foreword by Vicki P. Rainey, Raytheon Corporation, USA). ISBN 9 780201-758214
+
+Other materials (including Youtube/Ted talk videos etc.) will be shared in class.
+
+
+PERFORMANCE EVALUATION AND GRADING:
+
+Graded Items	Percent of Final Grade
+Discussion Questions	20% (Individual)
+Team Project Report	20% (Group Grade)
+Team Project Presentation	10% (Group Grade)
+Team Project Collaboration	10% (Individual)
+Mid-term Quiz	20% (Individual)
+Final Quiz 	20%(Individual)
+	------
+	100%
+
+Student performance is evaluated based their regularity in posting to the discussion questions; Please note that it is important to make substantial posts AND counter-posts (explained below) in order to justify and demonstrate your understanding of the topic discussed in that particular week. Performance is further evaluated through assessment tasks that include Team Projects (where your ability to work together in a Team is crucial) and quizzes (that test out your ability to understand the concepts discussed in the class - independent of your  team work). 
+
+Please note that late assignments will be accepted only with fully justified and documented reasons as per university guidelines. Also, please note, late assignments will be penalized in order to maintain equitability with fellow students. 
+
+A late submission of Assignment/quiz will not be considered valid and substantial points forfeited if: (a) Student has been reminded once and yet no action is taken by the student; (b) Assignment solution has been discussed in the class, (c) Answers to the assignment / quiz have been discussed in the class. 
+
+The relative weights for each of these components in determining the final grade are as follows (please also note the key evaluation rubric description, next to the percentages):
+
+Discussion Questions and online participation 20% (Critical Thinking, Communication). These Discussion Questions are  essay style posts made by you, the students, as you apply your critical thinking skills in discussing and reflecting on the issues and challenges of project management. What is learnt in the class modules AND what is explored/researched by students is put together in making these discussion posts. These discussion questions are made available corresponding to the relevant topic/s that has been discussed in the class. Students read the question carefully, think, reflect, research and post an answer. After posting your answer, you will be able to see the posts made by your fellow students. Once you see the posts from fellow students, select a couple, read them carefully and offer a critique. This posting and counter-posting of discussions is an important learning mechanism. Through participating in these discussion questions students are able to consolidate their knowledge, observe variations in thinking and interpretation by fellow students and learn that they may have a unique viewpoint that is not necessarily in agreement with what the other students are thinking. Written communications skills are further sharpened especially in an online format through this exercise. Students need to note that it is important to score at least 40% points in this assignment in order to pass this course. Please note that not submitting this assignment is not acceptable in this course. Maintaining UTMOST courtesy towards your fellow students and your professor as you enter these discussions is also a vital requirement of this assignment. Please note that this is an individual assignment and each student is graded based on her/his work. Should there be doubt on the “originality” of the post, the instructor reserves the right to ask the student to submit a Turnitin report.
+Grading criteria for Discussions:
+8 to 10 Points
+Detailed ORIGINAL post that demonstrates the student’s understanding of what was discussed in the class – pertaining to the topic. The posts must be practical (that is, no theory) and they can include examples from real life (if the student has work experience) and/or practical insights by the student. Usually these are 10 to 12 sentence posts, sometimes more than that to get a point across. 
+Counter-posts: TWO counter-posts that demonstrate your understanding of what your fellow students have posted. You must write a minimum of 5 sentences – or more – for each counter-post, in which you reflect on the post, comment and criticize (positively) and add overall value to the discussion. Referencing external sites, journals, books etc. is welcome in both your posts and counter-posts. 
+
+5 to 7 points.
+Original post that is not sufficiently demonstrating your understanding of the topic – as your post does not contain your insights nor does it contain any examples. You have not referenced anything – not even the text book. 
+Counter-posts are typical two-liners (“this is a good post”, “you have done great job” etc. which are all WELCOME but NOT sufficient for you to gain full points). You have now demonstrated to me that you have read the posts made by at least two of your fellow students. 
+
+0 to 4 points
+No original thoughts at all. Possible plagiarism. Rude, non-professional post. Late post with no explanation. 
+
+Team Project 30% (Critical Thinking, Team Work, Communication; Report 20% + Presentation 10%) – The team project forms an absolutely critical part of evaluation in this course. Students are put together in a team (typically 3 to 4 students) and provided with a case study problem statement. Students apply the knowledge they have learnt to work through the case study and put together the deliverables in the form of a Report (20%) and a Presentation (10%) at the end of the course. 
+
+For a Team of 3 to 4 students, the expected size of the report, in Word (12 font, 1.5 spacing) is approximately 30+ pages. These number of pages provide a rough idea of the length of the report – you may go a little bit over it if necessary. In the course there is a “All about Team Projects” page. Please visit that page to see the minimum SUGGESTED headings for your Report and your Presentation. Accompanying your report will be a professional PPTx presentation deck (approximately 20 slides) that pitches your project to a typical Steering Committee or Board of a large organization (CEO/CIO panel). Your report and presentation deck explains your understanding of how you applied the project management practices you studied in the class to a ‘near real life’ case study (that is provided). You must make sure that your report has NO THEORY (for example, please don’t start with What is Project Management?). This is so because no CxO or senior decision-making panel in an organization wants to hear any theory. You, as a team, need to develop a well-grounded presentation that has both relevance and depth in practice. Your presentation should have a voice-over that records and plays your voice over each of the slides in your deck. Please further ensure that the submission of the slide deck is professional, free from basic English errors, spelling mistakes, formatting errors etc. Please note that you are not required to make a live/online presentation to me of this project. ALL Team members are required to work on the Report and ALL Team members are required to participate in the presentation. 
+Grading criteria for Report:
+
+16 to 20 points
+The report includes all suggested headings AND your own additions based on your understanding of the case study; with detailed demonstration of the content; you have also demonstrated how you have applied each module to your case study; Ability to work together and collaborate online as a team; professionally presented report without grammar and spelling mistakes; NO theory; proper referencing/citation of works. No plagiarism. 
+11 to 15 points
+The report only includes suggested headings with detailed demonstration of the content; report reads disjoint – made up of contributions from individual team members that have not collaborated during the study; has grammar and spelling errors; Starts to reference theory; No plagiarism.
+6 to 10 points. 
+The report does not have even the basic suggested headings and the contents do not demonstrate your understanding of how each study module is applied to the case study; the group shows friction in working together and collaborating online; has grammar and spelling errors; Starts to reference theory; Does not provide good references to work cited; No plagiarism
+0 to 5 points.
+The report is just about submitted with no original contents; possible plagiarism. 
+
+Grading criteria for Presentation:
+6 to 10:
+Professional presentation; ALL students participating roughly equally and collaboratively; NO theory; good references from both within the class discussions and your own research/exploration outside the class; The presentation demonstrates understanding of the project by each student and shows how well students have collaborated – of course, since each student gets a chance to do a voice-over of some of the slides, those are the only slides on which the student can demonstrate their understanding of the practical aspect of the project. Presentation is targeted to the steering committee or board members; No theory; No plagiarism. Professional-looking presentation free of English errors. (You can create/select your own format for the PPTx).
+
+ 0 to 5:
+Presentation is disjoint; has errors including spelling and grammar – that show that the team has not worked well together and/or that the team is not serious about the presentation; there is insufficient evidence of professional approach to the project; has theory; potential plagiarism; 
+
+Since this is an online course, it’s vital that students start collaborating with each other online as soon as they start the study. Reaching out to fellow students in the team and responding to their messages is integral to a good, collaborative online work environment. This online collaboration is a mandatory requirement of this course as it will require students to not only use their critical thinking skills but also learn, develop and apply their ability to communicate online and work in an online team environment. Students need to note that it is important to score at least 40% points in this Team Project assignment in order to pass this course. Not submitting this assignment is not acceptable in this course. Please note further that this is a TEAM assignment and each student is graded based on the ENTIRE TEAM’s work.
+
+Team Project Collaboration 10% (Team Work, Communication) – A crucial aspect of Team Project Collaboration is your ability to reach out to fellow students in your team, collaborate with them (electronic media is fine). Your mutual collaboration on the project topic, development of a project plan, identification of the risks and “execution” of the project gets regularly reported in this exercise. There are 2 check-points for the Team Project collaboration update that appear in Discussion format in the course. Each of these check-points require you to collaborate with your team members and then report on how your interactions and your contributions to the Team Project. Agility in Project Management includes the principles of collaboration, communication and transparency. When you post your contribution in the Team Project for everyone to see, you are practicing all these aforementioned skills. Additionally, you are demonstrating your trustworthiness and honesty – crucial Agile principles – in making these posts. Students need to note that it is important to score at least 40% points in this assignment in order to pass this course. Not submitting this assignment is not acceptable in this course. Please also note that this is an individual assignment and each student is graded based on her/his effort to bring the TEAM together, facilitate and respond to collaboration efforts and how the student contributes to the project. Although you are updating the Team Collaboration, this is your individual effort component of the Team Project. 
+Please note: This assessment task may not be graded immediately – and, in some cases, you have to wait till the final report/presentation to see the grades for this task. 
+
+Grading criteria: 
+8 to 10:
+You took initiative in Team Project
+You reached out to your Team Members regularly every week
+You responded without undue delay when another Team Member reached out to you
+You worked to overcome the roadblocks (yours; and also helped other team members overcome theirs)
+You were courteous and respectful to the team
+You completed the deliverables assigned to you during each team meeting
+You contributed REGULARLY to the Project report and the Project presentation – This is a WEEKLY requirement. 
+
+4 to 7:
+You only did the work assigned/taken by you
+You did not take initiative in Team Project
+You failed to reach out / respond to your Team members Promptly 
+You only worked to overcome your roadblocks 
+You were courteous and respectful to the team
+You completed the deliverables assigned to you during each team meeting
+You contributed REGULARLY to the Project report and the Project presentation
+
+0 to 3:
+You failed to complete the work assigned/taken by you
+You did not take initiative in Team Project
+You failed to reach out / respond to your Team members and they had reasons to complain
+You waited for others to help you overcome your roadblocks 
+You were NOT courteous and respectful to the team
+You were IRREGULAR in Team Meetings and Team work
+
+
+2 Quizzes (Mid-term & Final) 40% (Critical Thinking) – These two quizzes are primarily multiple-choice online quizzes which are based on the material covered in the Modules. Quizzes may be proctored using Honorlock or a similar tool. Students apply critical thinking skills to the questions being asked in the quiz and, thereby, validate as well as consolidate their knowledge of Project Management with Agility. Quizzes are drawn from a pool of questions – therefore questions may change for each student in each attempt of the quiz. Students need to note that it is important to score at least 40% points in this assignment in order to pass this course. Not submitting this assignment is not acceptable in this course. Please note that this is an individual assignment and each student is graded based on her/his work.
+
+Total 100%
+
+A grade will be determined based on the total of possible points earned, as follows: 
+
+A 90-100; B 80-89; C 70-79; D 60-69; F 0-59. 
+
+Further granularity of the grades with + and – will be part of the final grade and will be based on the Professors understanding of how well the student has achieved the learning objectives. 
+
+
+Important Note: This course requires you to attempt ALL assessments listed above (Discussion questions, Team Collaboration updates, Team Project and Quizzes). Leaving any of these assessment items un-attempted will mean an “I” for Incomplete grade. For example, sometimes, a student has excellent points in some assessment tasks and that he/she will proceed with an assumption that a “0” point score for a quiz or team project is okay because overall points are good. This is not an acceptable situation in this course. All assessment items MUST be attempted in all honesty by the students with a minimum of 40% points. 
+Important Note#2: Late submissions – especially submissions made after a reminder - WILL incur a penalty. 
+
+Course Schedule
+
+* Note: The Schedule is subject to revision
+(Please note: The DATES corresponding to the Weekly Modules are available on CANVAS – under Schedule)
+
+
+
+
+
+(Please note: The DATES corresponding to the Weekly Modules are available on CANVAS – under Schedule)
+
+
+
+
+
+Standard University Policies
+
+Policies about disability access, religious observances, academic grievances, academic integrity and misconduct, academic continuity, food insecurity, and sexual harassment are governed by a central set of policies that apply to all classes at USF. These may be accessed at: https://www.usf.edu/provost/faculty/core-syllabus-policy-statements.aspx 
+
+Covid-19 Procedures
+
+All students must comply with university policies and posted signs regarding COVID-19 mitigation measures, including wearing face coverings and maintaining social distancing during in-person classes. Failure to do so may result in dismissal from class, referral to the Office of Student Conduct and Ethical Development, and possible removal from campus.
+
+
+Additional details are available on the University’s Core Syllabus Policy Statements page: https://www.usf.edu/provost/faculty/core-syllabus-policy-statements.aspx
+
+The health and safety of students, faculty, staff and visitors on our campuses is our top priority. In response to the current COVID-19 pandemic, the USF community will be working together to support compliance with recommended health and safety standards to optimize the learning experience while minimizing health risks. The Conduct Expectations for all members of the community may be accessed at Conduct Expected to Support USF Health and Safety Standards with details provided below:
+Students and faculty will be guided by established USF processes to ensure the safest possible non-disruptive environment including the:
+(1) Academic Disruption Regulation which provides for an immediate removal or restriction from a classroom setting with academic sanctions and/or
+(2) Student Conduct Regulation to address conduct that is inconsistent with the expectations as outlined below:
+Complete daily screening as requested. Anyone experiencing one or more COVID-19 symptoms should not be on campus or, if a resident, should not be outside their residence hall room and should contact a medical provider immediately and follow their guidance. Please inform your instructor prior to the beginning class if your screening indicates the need for further evaluation and you will not be in class.
+Wear face coverings. All members of the USF community are required to wear face coverings while in classrooms or any other shared space, including specified public or common-use areas where social distancing guidelines cannot be followed. See this link on How To Make A Face Mask. If you have to use a disposable face mask, please discard it in a trash receptacle immediately after use.
+Maintain social distancing. All students, faculty, staff and guests are required to maintain a safe distance from one another. Social distancing is maintained in all indoor and outdoor spaces which are owned or controlled by USF. Stay at least 6 feet (about 2 arms’ length) from other people, do not gather in groups, stay out of crowded places and avoid mass gatherings. See the CDC for information on Social Distancing. Please sit in only designated areas in class and do not move chairs or desks in classrooms or common spaces.
+Practice good hand hygiene. Individuals should wash their hands with soap and water for at least 20 seconds as often as possible or use personal hand sanitizers containing at least 60% alcohol. Hand sanitizer stations are available throughout the campus. If you see one, use it! See the CDC recommendations on Hand Hygiene.
+Disinfect your classroom space. Students and faculty are responsible for disinfecting areas within their workspaces by cleaning these at the beginning and end of each class. This includes desk tops, seats, and equipment used during class. Disinfectant supplies will be provided. If paper towels are used to disinfect, they must be discarded in a trash receptable immediately after use.
+
+
+GRADING, EVALUATION AND ATTENDANCE POLICIES: 
+
+A.	Per USF policy, you receive a graded assignment or examination prior to the semester’s drop/withdraw date.
+B.	Specifically state the value of and the manner in which each assignment in the syllabus will be evaluated or graded. Periodic reports on project progress are a contributing factor to the final grade.
+C.	The course grade includes an assessment on how well you have demonstrated the five learning outcomes listed above. We will use the straight A,B,C,D and F system, point system.
+D.	This course does not require any class attendance. However, periodic updates on project progress, issues encountered, hurdles, etc. will be communicated – and, in rare cases, a face-to-face meeting organized by the faculty in charge.
+E.	The notes, videos, quizzes etc. provided for your study in this class is intellectual property of the faculty. Students are NOT permitted to post the study material and quizzes anywhere online on the internet. 
+
+Campus Free Expression: 
+
+Discussion questions and Team project collaboration updates in this course are objective expressions of the students. Counter-comments/posts should be made such that they are NOT found to be uncomfortable, unwelcome, disagreeable, or offensive. 
+Additional guidance related to HB 7 “Individual Freedom Act” can be found online.
+
+It is fundamental to the University of South Florida’s mission to support an environment where divergent ideas, theories, and philosophies can be openly exchanged and critically evaluated. Consistent with these principles, this course may involve discussion of ideas that you find uncomfortable, disagreeable, or even offensive. 
+
+In the instructional setting, ideas are intended to be presented in an objective manner and not as an endorsement of what you should personally believe. Objective means that the idea(s) presented can be tested by critical peer review and rigorous debate, and that the idea(s) is supported by credible research. 
+
+Not all ideas can be supported by objective methods or criteria. Regardless, you may decide that certain ideas are worthy of your personal belief. In this course, however, you may be asked to engage with complex ideas and to demonstrate an understanding of the ideas. Understanding an idea does not mean that you are required to believe it or agree with it.
+
+Make-up Exams Policy: 
+
+NO make-up exams are offered. However, if a student cannot be present for the quiz due to an an extreme emergency (such as an accident or loss in family), a make-up exam may be considered. Final grade for the exam will be scaled down by 30% and the exam will be administered at the convenience of the instructor. 
+
+USF System Policies
+
+Policies are available in the USF Catalog and at regulationspolicies.usf.edu. 
+
+
+A.	Academic Dishonesty: The University considers any form of plagiarism or cheating on exams, projects, or papers to be unacceptable behavior. Please review the USF System Regulation USF3.027 Academic Integrity of Students and the USF System Regulation USF6.0021 Student Code of Conduct.
+
+B.	Academic Disruption: The University does not tolerate behavior that disrupts the learning process. Please review USF System Regulation USF3.025 Disruption of Academic Policy. 
+
+C.	Contingency Plans: In the event of an emergency, it may be necessary for USF (SM) to suspend normal operations. During this time, USF (SM) may opt to continue delivery of instruction through methods that include but are not limited to: Canvas, online conferencing/collaboration tools, email messaging, and/or an alternate schedule. It is the responsibility of the student to monitor Canvas for each of their classes for course specific communication, as well as the USF (SM) website, their student email account, and MoBull messages for important general information. The USF hotline at 1 (800) 992-4231 is updated with pre-recorded information during an emergency. See the Campus Police Website for further information.
+
+D.	Accessibility Accommodation: Students are responsible for registering with the Office of Students Accessibility Services (SDS) in order to receive academic accommodations. Reasonable notice must be given to the SDS office (typically 5 working days) for accommodations to be arranged. It is the responsibility of the student to provide each instructor with a copy of the official Memo of Accommodation. Contact Information: Students Accessibility Services Coordinator, 941-359-4714, disabilityservices@sar.usf.edu, http://USF (SM).edu/disability-services/ 
+		
+E.	Fire Alarm Instructions: At the beginning of each semester please note the emergency exit maps posted in each classroom. These signs are marked with the primary evacuation route (red) and secondary evacuation route (orange) in case the building needs to be evacuated. See Emergency Evacuation Procedures.
+
+F.	Religious Observances: USF (SM) recognizes the right of students and faculty to observe major religious holidays. Students who anticipate the necessity of being absent from class for a major religious observance must provide notice of the date(s) to the instructor, in writing, by the second week of classes. Instructors canceling class for a religious observance should have this stated in the syllabus with an appropriate alternative assignment.
+
+Protection of Students Against Discrimination and Harassment:
+Sexual Misconduct/Sexual Harassment Reporting: USF (SM) is committed to providing an environment free from sex discrimination, including sexual harassment and sexual violence (USF System Policy 0-004).
+Other Types of Discrimination and Harassment: USF (SM) also is committed to providing an environment free from discrimination and harassment based on race, color, marital status, sex, religion, national origin, disability, age, genetic information, sexual orientation, gender identity and expression, or veteran status (USF System Policy 0-007).
+
+
+H. Web Portal Information: Every newly enrolled USF student receives an official USF e-mail account. Students receive official USF correspondence and Canvas course information via that address. The web portal is accessed at http://my.usf.edu.
+
+GENERAL INSTRUCTION FOR STUDENTS:
+
+Academic Support Services: 
+The Information Commons provides students with individual and group study spaces, computers, printers, and various media equipment for temporary use. The Information Commons is staffed by librarians, learning support faculty, tutors, and technology and e-learning specialists. Students challenged by the rigors of academic writing, mathematics, or other course content are urged to contact their professors early in the semester to chart out a plan for academic success, and/or regularly use the tutoring services provided by Learning Support Services (http://www.USF (SM).edu/academics/academic-resources/information-commons/tutoring.aspx) which are provided at no cost to students. 
+
+Career Success Center:
+Students can explore careers through activities such as job shadowing, mentoring, and internships. Whether students will be pursuing graduate school or seeking employment, Career Services can help develop a plan to reach their next destination. Students can prepare professional documents, practice for the interview and attend employer or graduate school information sessions. Access these resources or schedule an appointment with career advisors at www.USF.edu/career-services.
+
+
+End of Semester Student Evaluations:
+All classes at USF make use of an online system for students to provide feedback to the University regarding the course. These surveys will be made available at the end of the semester, and the University will notify you by email when the response window opens. Your participation is highly encouraged and valued. 
+
+Turnitin.com: 
+In this course, turnitin.com MAY be utilized. Turnitin is an automated system which instructors may use to quickly and easily compare each student's assignment with billions of web sites, as well as an enormous database of student papers that grows with each submission. Accordingly, you will be expected to submit all assignments in electronic format. After the assignment is processed, as instructor I receive a report from turnitin.com that states if and how another author’s work was used in the assignment. For a more detailed look at this process visit http://www.turnitin.com. Assessments are due at turnitin.com the same day as in class (but where resubmissions are required, an extra day will be allowed). 
+
+
+Learning Support: Sarasota-Manatee Campus
+
+
+Counseling and Wellness Center
+The Counseling and Wellness Center is a confidential resource where you can talk about incidents of discrimination and harassment, including sexual harassment, gender-based crimes, sexual assault, stalking, and domestic/relationship violence. Call 941-487-4254
+
+The Counseling and Wellness Center is a confidential resource where you can talk about incidents of discrimination and harassment, including sexual harassment, gender-based crimes, sexual assault, stalking, and domestic/relationship violence. This confidential resource can help you without having to report your situation to either the Office of Student Rights and Responsibilities (OSRR) or the Office of Diversity, Inclusion, and Equal Opportunity (DIEO), unless you request that they make a report.
+
+Please be aware that in compliance with Title IX and under the USF System Policy, educators must report incidents of discrimination and harassment, including sexual harassment, gender-based crimes, sexual assault, stalking, and domestic/relationship violence. If a student discloses any of these situations in class, in papers, or to a faculty member personally, he or she is required to report it to OSSR or DIEO for investigation. Students who are victims or who have knowledge of such discrimination or harassment are encouraged to report it to either OSSR or DIEO. The Deputy Coordinator for USF (SM) is Allison Dinsmore, Coordinator of Students Accessibility Services & Student Advocacy, 941-359-4714 or adinsmore1@sar.usf.edu.
+
+Campus Resources:
+Counseling Center and Wellness Center 941-487-4254
+Victim Advocate (24/7) 941-504-8599
+
+List of off-campus resources:
+HOPE Family Services: 941-755-6805
+Safe Place & Rape Crisis Center (SPARCC) – Sarasota: 941-365-1976
+Centerstone: 941-782-4800; 24-hr Hotline 941-708-6059
+
+Victim Advocate
+A Victim Advocate is available 24/7 by calling (941) 504-8599. For assistance leave a message with your phone number and your call will be returned as soon as possible. The Victim Advocate is available to assist victims of crime, sexual assault, and partner violence.
+
+
+
+Important Dates to Remember
+
+All the dates related to the course, including and especially the assignments are posted on Canvas. Please to note that the schedule appearing in this document and the dates placed on Canvas are tentative. While every attempt is made to hold on to the initial dates posted, they CAN be changed at the discretion of the professor. In terms of the overall University dates, please be sure to get the newest dates from the Registrar: https://www.usf.edu/registrar/calendars/ 
+
+
+End of Syllabus
+

@@ -1,0 +1,44 @@
+SYLLABUS
+Office	Hours	: Hour before class and by appointment 
+Pre-requisites	: None
+Teaching asst	: (Details on Canvas)
+Resources	: GitHub Codespaces using Visual Studio Code running in a web browser. https://github.com/. Visual Studio Code can also be used on Mac or Windows for additional learning: https://code.visualstudio.com/download 
+Textbooks	: We will only use a few chapters from each book, but cover-to-cover walkthrough is recommended
+The HTML and CSS Workshop [PDF] / ISBN: 978-1-83882-453-2, L. Coulson et. al., 2020, Packt Publishing, e-book available from the USF library 
+Beginning JavaScript [e-book] : Jeremy McPeak, 2015, John Wiley & Sons, Inc., e-book available from the USF library - https://ebookcentral.proquest.com/lib/usf/detail.action?docID=1895134 
+Foundation Dynamic Web Pages with Python: Create Dynamic Web Pages with Django and Flask [PDF], David Ashley, ISBN-13 (pbk): 978-1-4842-6338-9, 2020, Apress, e-book available from the USF library
+Optional books (used for the OSI model section, power point slides are available on Canvas)
+(AD) Business data communications and IT infrastructures (3rd Edition) / Manish Agrawal & Clinton Daniel 
+Course Objectives
+This course will introduce distributed information systems including presentation technologies such as HTML, CSS, JavaScript, as well as data visualization frameworks. We will introduce students to popular web application development frameworks and the network stack so students can analyze, design, implement, and manage distributed information systems. In this process the student will develop skill in applying the principles of telecommunications and networks and explore how to bring their data science models to a wide audience. 
+Learning Outcomes
+Develop proficiency in using html and css for web user interfaces
+Introduce Java Script (JS) and JS frameworks for client-side user interaction
+Introduce data visualization technologies
+Introduce web application development frameworks
+Introduce networking stack (ex. TCP/IP)
+Understand networking technologies used to architect distributed systems from application components
+Logistics
+All students should have access to an installation of Visual Studio Code. If needed, please seek an appointment with the TA in the first week of class to complete the required setup.  
+Faculty teaching this class are creating video walk-throughs to help students with the hands-on components. These videos are designed to be viewed and followed before class meetings so that class time can be used to help students overcome any technical challenges with implementing the concepts covered. Links to these videos are available on Canvas.
+Students will form groups to complete projects. Follow instructions on Canvas for group size. All students should sign up on the groups pre-created for the class, do not create new group sets. In case of group dysfunction, students may fire disruptive members, or sub-groups may create their own group at any time.
+Please use the term “ISM 6225” in the subject line of your email (no spaces) to help me filter emails.
+Readings and assignment deliverables are specified on the course site on Canvas.
+Deliverables are due by the end of day on the due date (usually this means 11:55pm).
+Make up opportunities are not likely to be necessary in this class. In case they do, they will only be provided for job-related situations and for medical emergencies in the immediate family.
+The instructors conduct all sections of the course with the same calendar tightly in sync. Accordingly, students can reach out to any instructor of the course to expand the availability of office hours.  
+Business Continuity	
+In the event of an emergency, USF may opt to continue delivery of instruction through methods that include but are not limited to: Canvas, Teams, and email messaging and/or an alternate schedule. It’s the responsibility of the student to monitor Canvas for each class for course specific communication, and the main USF, College, and department websites, emails, and MoBull messages for important general information.
+Presentation
+To help build your communication skills, each group will be required to present their project application to the class. Please use the instructions in the presentation assignment for details.
+Grading	
+
+Grading Policy
+
+USF Core Syllabus Guidelines
+Details are available on the University’s Core Syllabus Policy Statements page: https://www.usf.edu/provost/faculty/core-syllabus-policy-statements.aspx
+
+
+
+ISM 6225: Tentative course outline
+

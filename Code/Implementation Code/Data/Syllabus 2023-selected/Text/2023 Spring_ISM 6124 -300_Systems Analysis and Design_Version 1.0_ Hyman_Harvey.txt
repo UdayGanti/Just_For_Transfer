@@ -1,0 +1,297 @@
+1  
+  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ISM 6124  
+Systems Analysis and Design  
+Syllabus Version 1. 0 
+ 
+21 December  2022 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 2  
+ Version history  
+ 
+Version  Description  
+1.0 First released draft  3  
+ ISM 6124 : Systems  Analysis and Design  
+ 
+ Course  Objectives:   
+ 
+Description as stated in Course Catalogue : This course is designed to familiarize students with basic 
+techniques for conducting and managing Systems Analysis and Design (SAD) activities such as systems 
+analysis and design approaches, implementation methods, current analysis and design issues. This course also 
+teaches the tools needed to analyze existing business problems  and design creative and innovative information 
+system solutions.  
+(Learning Outcomes ) Upon completion of this course, students should know how to : 
+• Describe a systems development life cycle . 
+• Determine requirements of an IS using information gathering techniques.  
+• Conduct a feasibility analysis for development of an IS to assess:(operational, technical, schedule, 
+economic, legal/contractual, political).  
+• Create a Use Case Description to describe system functionality . 
+• Describe system processes usi ng Process Modeling ( Data Flow Diagrams ). 
+• Model system data created and/or stored by an IS . 
+• Manage the modeled data for reporting and analytics . 
+• Recognize principles of user interface design . 
+• Describe how to manage implementation and the programming process . 
+• Generate a migration plan to transition to a new system.  
+ 
+ Course  Materials  and Assignments :  
+ 
+Textbooks:  
+Required: Posted on Platform for Free  
+1. System s Acquisition, Integration, and Implementation for Engineers and IT Professionals , 2nd Ed., Hyman,  
+2015.  ISBN: 978 -0-9862194 -4-3.  
+2. Thinking in Systems , Donella Meadows . 
+ 
+   Optional: Available for Purchase  
+3. Systems Analysis & Design , 6th Ed., Dennis, Wixom, and Roth, 2015. ISBN: 9781118897843 . 
+4. Agile Software Requirements , Leffingwell , 2011, ISBN: 978 -0-321-63584 -6. 
+ 
+Recommended for Personal Development : 
+5. IT Managers Handbook , Holtsnider and Jaffe  
+6. Mythical Man Month , Fred Brooks  
+7. Peopleware , Tom Demarco and Timothy Lister   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4  
+    Team -Based Assignments : 
+• System Develo pment and Implementation Plan  (delivered in six (6) parts).  
+• Case Studies (total of ( 2).  
+• Team Formation – Teams have been set by random assignment : 
+o Teams have either 3 or  4 members. One member has been randomly assigned a s lead the team .  
+o Each t eam must choose a name and a motto  by the end of week 1 . Your team name should be your 
+“brand.”  Your team motto should reflect what you wish to accomplish during this semester.  
+o The team lead will be responsible for delivering your products and for coordinating team meetings  
+and member tasks.  
+o Teams must deliver a weekly report to the instructor.  Report contains who attended, time 
+started/ended, tasks assigned to whom  for next week, tasks completed from whom from last week.  
+ Individual Assignments:   
+• Team Member Rating , 360 fee dback.  
+• Computer software installation and use (Visio, Project, Wireframes)  
+ 
+ Grading:   
+ 
+ 
+Grading Rubric : Expectations (How your work will be judged):  
+ 
+• This course is designed to enforce  the rigor of analysis and design,  and the documentation process associated 
+with it, as applied to the application of IS and IT to business . As such, you will be assessed based on quality 
+of your work, thoroughness in your treatment of the subject matter, presentation, and content.  
+• I have one stan dard that I use to judge your work: Would Muma College of Business  be embarrassed that 
+you took this to your job interview?  
+• To give you some guidance for what I consider to be acc eptable work for university level , I have put together 
+a list of items for your review. Every item on this list has been observed by me in at least one RFP, RFI, 
+RFQ, or other requirements -based document instruction in industry practice.  
+• By having all submitted documents consistent  with a  standard format, it is easier to compare similar work 
+between members and teams , as well as for the Univer sity and College to report our educational work 
+product to assessment authorities.  
+• Formatting is important. Your work may be 100% correct, but if presented in the wrong format, or difficult 
+for the reviewer to read, it might receive negative feedback, up t o and including, rejection for failure to 
+follow directions.  
+• Failure to comply with this list of items may result in a rejection of your submission .  
+a. Submissions must be typed, using Times New Roman, 12 -point font, with double space.  
+b. Every individual wri tten assignment should have a cover page containing your name, assignment title, 
+date and course name. NO OTHER items should be on your cover page.  
+c. Every team -based written assignment shall have only one submission  - from the team lead . The cover 
+page must identify the team lead and all team members listed in alphabetical order; it must state your 
+team name and motto , specific assignment and due date.  No other items should be on your team cover 
+page.  
+d. Loose pages will not be accepted. M ultiple page documents must be stapled or bound. No other form 
+will be accepted.  
+e. Your work must be well orga nized, using headers and titles to divide paragraphs and sections for clarity . 
+You may consider the use of a  variety of fonts and colors ( when appr opriate ) for presentation.  
+f. You must use complete sentences. Use of bullets only when appropriate for content  lists.  
+g. I should not be the first set of eyes on your paper: Typos and grammatical errors will count against you.  
+h. Your work must be thoughtful and demonstrate thorough thinking through of the  problem as well as your 
+proposed method for solving  it.  
+i.   Your work must be original.  
+j. Your work must be accompanied by a reference list of your sources . APA is standard, but any style is 
+accepted as long as it is consistent.  
+k. Your work must be easy to read (readability).  
+l. Your work must be clear and to the point. I do not require a minimum amount of content, but you must 
+include enough content to demonstrate to me that you have put satisfactory thought and effor t into your 5  
+ work.  Remember: “Less is not more ”; “less is more value ” – because it does not dilute your message 
+with too many words.  
+m. If your submission does not meet the requirements of the assignment or fails to follow directions  or is far 
+off from the requested formatting , it is eligible to be awarded zero credit  or an appropriate reduction for 
+missing elements . A 20 % penalty, per day, is assessed to any document resubmi tted after having been 
+graded .  
+n. Late work  receives a zero grade until submitted. Any late submission will receive a 20% penalty per day 
+until submitted. A day is defined as a 24 -hour cycle commencing f rom the deadline. This means that 
+after 5 consecutive days past the deadline, your maximum allowable score is zero. Eastern Time Zone is 
+controlling. If you fail to join a canvas group, you will not receive a grade for your team’s 
+submissions.  
+ 
+Grading  scale:  The following table explains the grading formula and final letter grades:  
+ 
+WARNING: There is NO extra credit. There is NO rounding. What you get is what you get. 
+You have all the assignments before you. There is no additional work available to you if you 
+fail to complete the actual assignments in the syllabus.  
+ 
+Assignments  Total out of 100  
+Average of Individual Assignments  x .5 
+Average of Team Assignments  {+/- 20% based on 360 peer review } x .5 
+Letter Grades   
+    A 90.0 with no rounding  
+    B 80.0 
+    C 70.0 
+    D 60.0 
+    F < 60.0  
+ 
+COMMUNICATION POLICY and PREFERRED METHODS : I follow a standard business day, which 
+means 0800 – 1700 , Monday through  Friday . I will generally make myself available to you during the business 
+day should you wish to call me or video conference with me .  
+ 
+If you choose to contact me through email, the response time will b e no later than the close of the next business 
+day. This means if you send me an email at 0800 on Friday, I will respond to that email no later than 1700 the 
+next business day, Monday. Keep this in mind when timing your requests and inquiries.  
+ 
+I do not s tand-by on my email server 24/7 waiting for new mail to arrive in my inbox. In fact, I do not have 
+email notifications turned on, I check my email at the start of the business day for whatever arrived during the 
+overnight cycle, and then again at the end o f the business day for currency.  
+ 
+I have also posted my personal phone number above for any emergency situation. I completely intend for you to 
+use it. Do not hesitate to call me on the phone if you are facing an extreme situation that is causing you stre ss. I 
+am here to support you and get you to the skill level where you need to be.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 6  
+  
+ 
+MANDATORY STATEMENT  ON COVID -19 PROCEDURES  
+All students must comply with university policies and posted signs regarding COVID -19 mitigation measures, 
+including wearing face coverings and maintaining social distancing during in -person classes.  Failure to do so 
+may result in dismissal from class, referral to the Student Conduct Office, and possible removal from campus.  
+Additional details are available on  the University’s Core Syllabus Policy Statements page: 
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx  
+ 
+MANDATORY SYLLABUS STATEMENT  ON CLASS RECORDING  
+Some sections  of this course have c lasses that are recorded and streamed online. If you are at tending such a  class 
+section, be  aware that a ny and all Student voices, faces and videos will be included in the class recordings. It is 
+the student’s responsibility to make sure the privacy of their surrou ndings and background is maintained.  
+ 
+ 
+ Learning Outcomes mapped to Course Exercises and Deliveries :  
+ 
+Learning Outcome  Exercise/Deliverable  
+Describe a systems development life cycle  Chapter Discussion Questions  
+SDIP: PDR  
+ 
+Determine requirements of an IS using information gathering 
+techniques.  SDIP Project: SRR  
+Chapter Discussion Questions  
+ 
+Conduct a feasibility analysis for development of an IS to 
+assess:(operational, technical, schedule, economic, legal/contractual, 
+political).  
+ SDIP Project: CDR, IRR  
+Chapter Discussion Questions  
+Create a Use Case Description to describe system functionality  SDIP Project: PDR and CDR  
+ 
+Describe system processes using Process Modeling (Data Flow 
+Diagrams)  SDIP Project PDR and CDR  
+Chapter Discussion Questions  
+ 
+Model system data created and/or stored by an IS  SDIP Project : PDR and CDR  
+ 
+Manage the modeled data for reporting and analytics . SDIP Project: SRR, PDR, TRR  
+ 
+Recognize principles of user interface design . SDIP Project: CDR  
+ 
+Descri be how to manage implementation and the programming 
+process . 
+ SDIP Project: CDR, TRR, IRR  
+Generate a migration plan to transition to a new system.  SDIP Project: IRR  
+ 
+ 
+ 
+ 
+ 
+ 
+ 7  
+  
+University Policies:                          
+ 
+1. Early  Notification  Requirement  for Observed  Religious  Days  - Students  who anticipate  the necessity  
+of being  absent  from  class  due to the observation  of a major  religious  observance  must  provide  notice  
+of the  date(s)  to the instructor,  in writing,  at the beginning  of the term.  
+o http://www.ugs.usf.edu/policy/ReligiousDays.pdf  
+2. Academic  Integrity  of Students  
+o http://www.ugs.usf.edu/policy/AcademicIntegrityOfStudents.pdf  
+3. Disruption  of the Academic  Process  
+o http://www.ugs.usf.edu/policy/DisruptionOfAcademicProcess.pdf  
+4. Gender -Based Crimes - Educators must report incidents of  gender -based crimes including sexual 
+assault,  sexual  harassment,  stalking,  dating  violence  and domestic  violence.  If a student  discloses  in 
+class,  in papers,  or to an instructor,  the instructor  is required  by law to report  the disclosure.  
+The Center for Victim Advocacy and Violence Prevention (813 -974-5757) is a confidential resource 
+where  you can talk about  such  situations  and receive  assistance  in confidence.  Additional  confidential 
+resources on campus are: the Counseling Center (813 -974-2831) and Student Health Services (813 - 
+974-2331).  
+5. Student  Academic  Grievance  Procedures  
+o http://www.ugs.usf.edu/policy/StudentAcademicGrievance Procedures.pdf  
+6. Students  with Disabilities  - Students  with disabilities  are responsible  for registering  with Students  with 
+Disabilities  Services  (SDS)  in order  to receive  academic  accommodations.  SDS encourages  students  to 
+notify instructors of accommodation needs at least 5 business days prior to needing the 
+accommodation.  A letter  from  SDS must  accompany  this request.  
+o See student  responsibilities:  http://www.sds.usf.edu  
+o See instructor  
+responsibilities:     http://www.asasd.usf.edu/instructorresponsibilities.asp?refer=FACULTY  
+7. SafeAssign Privacy  policy  
+o In order  to comply  with privacy  laws,  students  are not required  to include  personal  identifying 
+information, such as your name, in the body of the document. Submitting to the SafeAssign 
+Global Reference Database allows papers from other institutions to be checked against your 
+paper to protect the originality of your work across institutions. Please follow your 
+instructor 's instructions  carefully  regarding  what  identifying  information  to include.  
+o Blackboard  Quick  Reference  Guide  - Submitting  SafeAssignments  
+8. University Emergency  Policy  
+o In the event of an emergency, it may be necessary for USF to suspend normal operations. 
+During this time, USF may opt to continue delivery of instruction through methods that 
+include  but are not limited  to: Blackboard,  Elluminate,  Skype,  and email  messaging  and/or  an 
+alternate schedule. It's the responsibility of the student to mo nitor Blackboard site for each 
+class for course specific communication, and the main USF, College, and department 
+websites,  emails,  and MoBull  messages  for important  general  information.  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 8  
+ Class Schedule of Topics  and Deliveries :  
+ 
+Week 1: System Thinking, Project Failures, Download software  
+Week 2: SDLC, Case Studies, Business problem identified  
+Week 3: SRR  (requirements and stakeholders, user stories, user cases)  
+Week 4: PDR  (scope, SOW, WBS, Gantt, CPM, PERT)  
+Week 5: CDR  (wireframes and m ockups)  
+Week 6: TRR  (user acceptance tests)  
+Week 7: SSR  (specifications)  
+Week 8: IRR (installation, transition, training, maintenance, support, upgrades releases) and Final Exam  
+ 

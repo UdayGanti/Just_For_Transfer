@@ -1,0 +1,333 @@
+1  ISM6021  Management  Information  Systems  
+MUMA  College  of Business  
+School  of Information  Systems  and Management  
+ 
+COURSE  SYLLABUS  
+ 
+Delivery method: Online, Off -campus 
+Location: Online / Off -campus 
+Instructor: Dr. Matthew Mullarkey 
+Instructor  email:  mmullarkey@usf.edu  
+Virtual  Office  Hours:  Technology  using  Microsoft  Teams  or mobile  call as arranged  with  Professor  
+ 
+Minimum  Technical  Skills  & Requirements:  
+In order  to take  courses  online  at USF,  you will need  to be able  to demonstrate  proficiency  at 
+basic computer skills, maintain reliable internet access, and meet the computer system  
+requirements  listed at:  
+https://www.usf.edu/it/remote/requirements -for-students.aspx  
+ 
+ 
+University  Course  Description  
+An introduction  to the fundamentals  of information  systems  including  an examination  of 
+information technology terminology and concepts, alternative methodologies for 
+developing information systems, and the application and impact of information 
+technology in contemporary organizations.  
+Course  Prerequisites  
+No prerequisites.  
+Course  objectives  
+By the end of this  course,  you will be able  to: 
+• Analyze  a tough  socio -technical  business  decision  and make  a recommendation  on the 
+most feasible courses of action to the decision -maker in the organization.  
+• Read and analyze a business case and share your analysis in a group online forum . 
+• Demonstrate an ability to develo p multiple plausible solutions to a tough business 
+decision  based  upon  empirical  evidence  identified  in the course  of the investigation  of 
+the tough decision with an organization.  
+Instructor  Contact  Information  and Communication  
+Email is always the best way to contact me. Please avoid messaging me through Canvas 
+because  it is often  unreliable.  Instead,  always  use your  USF email  account  and include  the 
+name of our course somewhere in your email. Please allow 24 hours for a response and 
+longer over the  weekend. However, if you are emailing me to inform me of an urgent 
+issue, please write ‘urgent’ in the subject line of the email.  
+ 
+First  Week  Attendance  Policy  
+2  In the first week of class, you will be required to complete a First Day Attendance  
+discussion  board  post  to introduce yourself  and register  your  first day attendance.  Your 
+post is due by Monday of the first week of class at 11:59pm. Students who do not 
+complete the First Day Attendance activity  by the due date will be dropped from the 
+course.  
+How  to Succeed  in this Course  
+One of my goals  is to make  this class  as personally  and professionally  relevant  to you as 
+possible. To succeed in this course, follow the Course Schedule, regularly check our 
+Canvas page to make sure that you are up -to-date with deadlines, and ask questions 
+anytime you would like clarification.  
+Required  Texts  and/or  Readings  and Course  Materials  
+All slides, assignments, and case discussions are available on Canvas – no boo ks or 
+other  purchases  are required  for this course.  Online  discussion  threads  will occur  on 
+Canvas.  
+Supplementary  (Optional)  Texts  and Materials  
+Unless  otherwise  indicated,  all materials  in Canvas  are required.  
+Grading  Scale  
+Grade  components:  Case  Discussion Assignments (individual)  100% 
+Pre-Case,  Opening,  Online  Discussion,  Post -Case  Reflection  
+Grading  scale:  Letter  grades  as per USF policy  with  letter  grade  +/- awarded  and 
+calculated automatically on Canvas.  
+Instructor  Feedback  Policy  & Grade  Dissemination  
+Instructor  will respond  to email  communication  relevant  to the subject  matter  within  48 
+hours of the date received. Instructor will provide feedback on assignments within one 
+week of the posted deadline. You can access your scores at an y time using "Grades" in  
+Canvas . 
+Case  Discussion  Assignments  
+The class will be divided into groups. Each group will “Open” the case discussion 
+on the same week as the number for their team – Group 1 will Open Case 1 on 
+Monday of Week 1; Group 2 will Open Case 2 on Monday of Week 2; etc… An 
+opening is where each stud ent in the group takes one of the opening questions 
+for that week’s case and makes a post to share their perspective. This “opens” 
+one thread in the case discussion. All other students can then add there post to 
+that thread. A temptation is to “open” by po sting your pre -case assignment – that 
+is not what we want and will not lead to full credit for the post.  
+Each group should post to their respective case by Monday of the week of their 
+respective group’s case – the Group number corresponds to the Case numbe r 
+and the week of the Case opening . Please note it is the responsibility of the group 
+members to select questions so that responses to all questions are posted. If 
+there are enough people in the group, there may be more than one person to 
+each question and  this is fine.  
+All other students should then start posting to the various threads not later than 
+Tuesday each week . Full credit is awarded  to each student who makes multiple 
+3  high -quality posts to multiple threads over multiple days each week. Typically, this 
+means 6 -9 high quality posts per week  
+These assignments are designed to make you read and critically think about the 
+assigned readings/case discussions for that class.  Some  assignments  may require 
+additional research on  your  part beyond  the assigned readings. Your discussion of 
+the case discussion questions should be concise, direct, and structured.  
+Each week,  you will submit a pre -case analysis and a post -case reflection in 
+addition to your online threaded posts. These three exercises over t he eight 
+weeks of the course constitute the graded assignments.  
+The case  discussions  online  will follow  a protocol  designed  to get everyone  a chance 
+to open a  case and to comment  on multiple threads  for the cases  throughout  the 
+week. The protocol has a Preparation Phase, an Opening Phase, a Participation 
+Phase, and a  Reflection Phase. Every student will prepare each case and submit a 
+Pre-case each week prior to the Opening Phase beginning. Then, the Group that 
+opens will have each team member (you cho ose) answer one or more questions 
+posted to the online threaded discussion for that case – this will start something 
+like 6 -7 discussion threads. Every student (including posting students) must then 
+make  multiple postings  to multiple  threads of  online  discuss ions over  the course  of 
+the week. Finally, at the close of the week (Saturday typically), each student 
+submits  a Post -case  for the case  that  week  to report  their  lessons  learned and how  
+their  point of view on the case changed over the course of the week and the posts 
+by classmates.  
+ 
+Before  each  case:  Preparation  
+Students should expect to spend 2 -3 hours preparing each case study. Preparing a  
+casetypically involves:  
+• Reading  the case  
+• Making  notes  and analyzing  the case  during  a careful  second  reading  
+ 
+Post  your  Pre-case  using  the form  provided  where  you define  the Issue (as  you 
+see it), your Recommendation (to the Company/Protagonist), and  your 
+Justification (using facts from the case and any research you conducted).  
+ 
+Your goal  in the Pre -Case  is to identify (1) the Most important Issue  facing the 
+protagonist (from the student’s point of view –there are always multiple key 
+issues in every decision case), (2) your Recommendation on how the 
+protagonist  should  address  the issue,  and,  (3)your  Justif ication  with  facts  from 
+the case for the recommendation.  
+ 
+Each  week,  Pre-Case  submissions  for each  student  will be graded  on a scale  of: 
+• 3.0 - Excellent  pre-case  – definitely  one of the key issues,  great  recommendation,  well 
+justified with facts from the case!  
+• 2.5 - Very  good  identification  of the key issue  and solid  recommendation.  Good 
+identification  of facts to support your recommendation. Expand upon your support for 4  full credit in future submissions.  
+• 2.0 - Good  identification  of key  issue.  Add more to your  recommendation  and the facts to  
+support it for full credit in future submissions.  
+• 2.0 - Good  submission  - what  I would  prefer  to see for full credit  in future  submissions  is 
+that you simply state the key issue in a sentence or two and then spend more time on 
+the justification.  
+• 1.5 – Below  Average  submission.  Add more  to key issue,  recommendation  and 
+justification  for full credit in future pre -case submissions  
+• 1.0 – Weak  Pre-case  submission  requiring  significant  improvement  in all areas  of the 
+submission for full credit in future submissions.  
+• 0 – Unsatisfactory  or missing  submission.  
+Monday  of the week  when  a case  is discussed:  Opening  questions  
+For each case, before Monday  at 9 pm of the week that a case is being  discussed,  
+ each student for the team assigned to open must post his or her opening thread as  
+a response to their question.  
+ 
+The discussion for a new case discussion will open each Monday.  
+ 
+Case  discussion  week:  Participating  in the discussion  
+Once an opening response has been posted, the rest of the class must 
+enter the discussion. Each student should feel free to respond with as 
+many  posts  as desired.  Each  student’s  participation  in every  discussion  will 
+be graded. Full credit will be given to students making multiple, high 
+quality posts throughout the week to multiple question threads over 
+multiple days.  
+ 
+What  we typically  look  for in discussions  is the following:  
+• High quality posts will frequently include s pecific references to facts in 
+the case  that  you believe  are important.  You may  also reference  outside 
+sources if you found them to be valuable.  
+• When  responding  to another  student’s  comments  it helps  if you give  the 
+name  of the student,  since  the number  of posts  can become  quite  large.  
+o Agreeing with a previous  post without adding something  new gets you  
+nothing.  If, on the other  hand,  you agree  and then  point  out 
+something that was missed or requires clarification, that is fine.  
+o Disagreeing  with  a previous  post —provided  a good  explanation  of 
+why  you disagree  in included —is considered  in a very  positive  light.  
+• Repeating what someone else said simply bloats the discussion; you 
+should  always  strive  to add something  new.  The earlier  an idea  is posted, 
+the more likely it will be credited.  
+• If all your posts appear to have been made in one setting (their dates and 
+times  cluster  together),  we will normally  deduct  points.  We like to see back 
+and forth in a discussion and that cannot happen when stude nts enter  the 
+discussion for just onesession.  
+ 5  Each  week,  discussion  threads  for each  student  will be graded  on a scale  of: 
+3.0 - Excellent  high -quality  contributions  to multiple  discussion  threads  over  multiple  days.  
+2.5 - Very  good  high  quality  contributions to  multiple  threads.  Contribute  to more  
+discussion threads over multiple days for full credit in future discussions.  
+2.0 - Good contributions to  the discussions.  Add more  high  quality  contributions  to multiple  
+threads over multiple days for full credit in future discussions.  
+1.5 – Below  average  contributions  in number  and quality.  
+1.0 – Weak  contribution  to discussion  
+threads. 0 – Unsatisfactory or missing 
+submissions.  
+ 
+After  the (online  & in-class)  discussion:  Post -case  reflection  
+After  participating  in each  discussion,  students  will fill out a Post -Case  form  and 
+upload it to Canvas. This form will consist of two questions:  
+ 
+What  are the three  most  important  things  you learned  from  the case?   
+And,  why  were they important for you to learn?  
+1. How  did the case  discussion  change  your  view  of the case?  
+The post  case  form  must  be completed  by each  student  for all cases  (read  the case 
+discussions for both cases to gain some insight into the reflections you post.)  
+ 
+Each  week,  discussion  threads  for each  student  will be graded  on a scale  of: 
+3.0 - Excellent  reflections  on key learnings  and why they  were  important  to learn  as well 
+as your reflection on how your point of view was affected by the discussion.  
+2.5 - Very  good  reflections  on learnings  and point  of view.  Add why  each  learning  was 
+important  to learn for full credit in future reflections.  
+2.0 - Good  reflections.  Spend  additional  time  on how  your  point  of view  was affected  by 
+the discussions for full credit in future reflections.  
+2.0 - Good  reflections.  Spend  more time  on the three things  learned  and why they  were  
+important to learn for full credit in future reflections.  
+1.5 - Good  reflections but  spend  significantly more time on  the three things learned and  
+why they were  important  to learn  and on how  the discussion  effected  your  point  of view  of the 
+case  for full credit  in future reflections.  
+1.0 – Weak  reflection  contributions.  
+0 – Unsatisfactory  or missing  submissions.  
+ 
+ Class  Schedule:  Available  through  the Modules  list in Canvas  
+ 
+Note: The above schedule  is tentative  and may be  subject to  change. However, any 
+and all such changes will be announced through Canvas or in class.  
+ 
+Standard  University  Policies  
+Policies about disability access, religious observances, academic grievances, academic 
+integrity  and misconduct,  academic  continuity,  food  insecurity,  and sexual  harassment  are 
+governed by a central set of policies that apply to all classes at USF. These may be 
+6  accessed on the USF Core Syllabus Policy Statements page  at 
+https:// www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx.  
+ 
+Cour se Policies:  
+Late  Work  Policy  
+Late  work  may  be accepted – with at  least a  letter  grade penalty.  
+Extra  Credit  Policy  
+There’s  no extra  credit.  
+Course  Policies:  Student  Expectations 
+Turnitin.com  
+In this course, turnitin.com may be utilized. Turnitin is an automated system which 
+instructors  may  use to quickly  and easily  compare  each  student's  assignment  with  billions 
+of web sites, as well as an enormous database of student papers that grows with each 
+submission. After an assignment is processed, as instructor I receive a report from  
+turnitin.com  that  states  if and how  another  author’s  work  was used  in the assignment.  For 
+a more detailed look at this process visit http://www.turnitin.com . 
+ 
+End of Semester  Student  Evaluations  
+All classes  at USF make use of  an online system for  students  to provide feedback to the 
+University regarding the course. These surveys will be made available  at the end of the 
+semester,  and the University  will notify  you by email  when  the response  window  opens. 
+Your participation is highly encouraged and valued.  
+ 
+Netiquette  Guidelines  
+1. Act professionally  in the way you communicate.  Treat  your  instructors  and peers  with 
+respect, the same way you would do in a face -to-face environment. Respect other  
+people’s  ideas  and be constructive  when  explaining  your  views  about  points  you may 
+not agree  with.  
+2. Be sensitive. Be respectful and sensitive when sharing your ideas and opinions. There 
+will be people  in your  class  with  different  linguistic  backgrounds,  political  and religious 
+beliefs or other general differences.  
+3. Proofread  and check  spelling.  Doing  this before  sending  an email  or posting  a thread 
+on a discussion board will allow you to make sure your message is clear and 
+thoughtful. Avoid the use of all capital letters, it can be perceived as if you are 
+shouting, and it is more difficult to read.  
+4. Keep your communications focused and stay on topic. Complete your ideas before 
+changing  the subject.  By keeping  the message  on focus  you allow  the readers  to easily 
+get your idea or answers they are looking for.  
+5. Be clear  with  your  message. Avoid  using  humor  or sarcasm.  Since  people  can’t  see 
+your  expressions  or hear  your  tone  of voice, meaning  can be misinterpreted.  
+ 
+Email  and Discussion  Board  Guidelines  
+1. Use the subject  line effectively  by using  a meaningful  line of what  your  email  or 
+discussion is about.  
+2. Keep  your  emails  and postings  related  to the course  content.  You should  not post 
+anything personal on a discussion board, unless is requested by the instructor.  
+7  3. Any personal,  course  or confidential  issues  should  be directly  communicated  to the 
+instructor via email. The discussion boards are public spaces; therefore, any issues 
+should not be pos ted there.  
+Learning  Support  and Campus  Offices 
+Academic Accommodations  
+Students  with  disabilities  are responsible  for registering  with  Student  Accessibility  Services  
+(SAS)  in order  to receive  academic  accommodations.  For additional  information  about 
+academic accommodations and resources, you can visit the SAS website.  
+SAS website  for the Tampa  and Sarasota -Manatee  campuses.  
+SAS website for the St. Pete campus.  
+ 
+Academic  Support  Services  
+The USF Office  of Student  Success  coordinates  and promotes  university -wide  efforts  to 
+enhance undergraduate and graduate student success. For a comprehensive list of  
+academic  support  services  available  to all USF students,  please  visit the Office  of Student 
+Success website.  
+Office of Student Success website for the Tampa campus.  
+Office  of Student  Success  website  for the St. Pete  campus.  
+Office  of Student  Success  website  for the Sarasota -Manatee  campus.  
+ 
+Canvas  Technical  Support  
+Include  information  where  students  can find technical support.  
+Example: If you have technical difficulties in Canvas, you can find access to the Canvas 
+guides and video resources in the “Canvas Help” page on the homepage of your Canvas 
+course.  You can also contact  the help  desk  by calling  813-974-1222  in Tamp a or emailing 
+help@usf.edu.  
+IT website for the Tampa campus.  
+IT website  for the St. Pete  campus.  
+IT website  for the Sarasota -Manatee  campus.  
+ 
+Center  for Victim  Advocacy  
+Example : The Center  for Victim  Advocacy  empowers  survivors  of crime,  violence,  or abuse 
+by promoting the restoration of decision making, by advocating for their rights, and by 
+offering support and resources. Contact information is available online.  
+Center for Victim Ad vocacy website for the Tampa campus.  
+Center  for Victim  Advocacy  website  for the St. Pete  campus.  
+Center  for Victim  Advocacy  website  for the Sarasota -Manatee  campus.  
+ 
+Counseling  Center  
+Example : The Counseling Center promotes the wellbeing of the campus community by 
+providing culturally sensitive counseling, consultation, prevention, and training that 
+enhances  student  academic  and personal  success.  Contact  information  is available  online. 
+Counseling Center website for the Tampa campus.  
+Counseling Center website for the St. Pete campus.  
+8  Counseling  Center  website  for the Sarasota -Manatee  campus.  
+ 
+Tutoring  
+Example:  The Tutoring  Hub offers  free tutoring  in several  subjects  to USF undergraduates. 
+Appointments are recommended, but not required. For more information, email 
+asctampa@usf.edu.  
+Tutoring website for the Tampa campus.  
+Tutoring  website  for the St. Pete campus.  
+Tutoring  website  for the Sarasota -Manatee  campus.  
+ 
+Writing  Studio  
+Example : The Writing Studio is a free resource for USF undergraduate and graduate 
+students. At the Writing Studio, a trained writing consultant will work individually with 
+you, at any point in the writing process from brainstorming to editing. Appointments are 
+recommended,  but not required.  For more  information  or to make  an appointment,  email  
+writingstudio@usf.edu . 
+Writing studio website for the Tampa campus.  
+Writing  studio  website  for the St. Pete  campus.  
+Writing  studio  website  for the Sarasota -Manatee  campus.  
+ 
+Important  Dates  to Remember  
+For important  USF dates,  see the Academic  Calendar  at 
+http://www.usf.edu/registrar/calendars/  
+ 
+    XVIII. Course Assignments Summary:  
+Available directly in Canvas.  

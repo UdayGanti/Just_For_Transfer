@@ -1,0 +1,86 @@
+
+Gert-Jan de Vreede
+
+Professor, Interim Dean - Muma College of Businessgdevreede@usf.eduRoom: BSN 210Phone: (813) 974-0022Vita
+GJ de Vreede serves as the interim dean for the Muma College of Business and a professor
+               in the School of Information Systems and Management. He has taught undergraduate,
+               graduate, doctoral and executive courses in areas such as agile software development,
+               systems analysis and design, teamwork/facilitation and research methods.
+His research focuses on AI, crowdsourcing, and collaboration engineering. His work
+               has been cited over 10,000 times and appeared in journals such as the Journal of Management Information Systems, the Journal of the Association for Information Systems, Management Information Systems Quarterly Executive, Information & Management, Small Group Research, and the Communications of the ACM. Throughout his career, he has received more than $6.5 million in funding as (co)-principal
+               investigator from federal, state, industry, military and private sources. His h-factor
+               (51) places him in the all-time top-100 in his discipline. A Stanford University study
+               identified him as a top 2% researcher worldwide across all fields of study, based
+               on his career-long citation impact up until the end of 2020. In 2011, he received
+               the GDN Section Award from the INFORMS Group Decision & Negotiation Section for accomplishments
+               and contributions both to the research area of group decision and negotiation as well
+               as to the INFORMS GDN section.
+He received both a PhD and a MS in Information Systems from Delft University of Technology
+               in the Netherlands.
+Teaching
+
+ISM 6316 – Project Management (graduate course)
+
+Research
+
+
+Yin, D., de Vreede, T. de, Steele, L., & de Vreede, G.J. (in press). Decide Now or
+                     Later: Making Sense of Incoherence Across Online Reviews, Information Systems Research.
+
+
+de Vreede, G.J., Briggs, R.O., & de Vreede, T. (2022). Exploring a Convergence Technique
+                     on Ideation Artifacts in Crowdsourcing, Information Systems Frontiers, 24, 3, 1041-1054.
+
+
+Winkler, R., Briggs, R.O., de Vreede, G.J., Leimeister, J.M., Oeste-Reiss, S., & Söllner,
+                     M. (2022). Modeling Support for New Forms of Collaborative Work Practices – The Facilitation
+                     Process Model 2.0, IEEE Transactions on Engineering Management, 69, 2, 423-437.
+
+
+Cheng, X., Fu, S., & de Vreede, G.J. (2021). Determinants of trust in computer-mediated
+                     offshore software-outsourcing collaboration, International Journal of Information Management, 57, 102301.
+
+
+Andel, S., de Vreede, T., Spector, Padmanabhan, B., P., Singh, V., & de Vreede, G.J.
+                     (2020). Do Social Features Help in Video-Centric Online Learning Platforms? A Social
+                     Presence Perspective, Computers in Human Behavior, 113, 12, 106505.
+
+
+
+view more
+
+
+
+Cheng, X., Fu, S., de Vreede, T., de Vreede, G.J., Seeber, I., Maier, R., & Weber,
+                           B. (2020). Idea convergence quality in open innovation crowdsourcing: A cognitive
+                           load perspective, Journal of Management Information Systems, 37, 2, 349-376.
+
+
+Seeber, I., Bittner, E. A. C., Briggs, R. O., de Vreede, T., de Vreede, G.J., Elkins,
+                           A., Maier, R., Oeste-Reiß, S., Randrup, N., Schwabe, G., & Söllner, M. (2020). Machines
+                           as Teammates: A Research Agenda on AI in Team Collaboration, Information & Management, 57, 2, 1-22.
+
+
+Vreede, G.J. de, Briggs, R.O. (2019). A Program of Collaboration Engineering Research
+                           & Practice: Contributions, Insights, and Future Directions, Journal of Management Information Systems, 36, 1, 74-119.
+
+
+
+
+Service
+
+
+Editor in Chief, Group Decision & Negotiation
+
+
+Senior Editor, AIS Transactions on Human-Computer Interaction
+
+
+Associate Editor, Information & Management
+
+
+Chair, Collaboration Systems & Technology Track, Hawaii International Conference on
+                     System Sciences
+
+
+

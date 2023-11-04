@@ -1,0 +1,187 @@
+ISM 6136 Data Mining  
+Sections 020 and 350  
+Instructor  
+Kiran Garimella, Ph.D.      
+M:      262-909-4192  
+E-mail: kgarimella@us f.edu  
+  
+Class Information  
+Location : Online only  
+Time:  No meeting times, asynchronous delivery only  
+Office Hours : By Appt . 
+Course Description and Objectives  
+The past few years have seen an unprecedented explosion in the amount of data collected by 
+businesse s and have witnessed enabling technologies such as database systems, visualization 
+tools and statistical and machine learning algorithms reach industrial strength. These trends have 
+spawned a new breed of business analytics systems that go significantly be yond reporting 
+capabilities, to support predictive modeling and the extraction of business insights from data. 
+These trends have also created a new role of “data scientists” who are professionals with 
+expertise in the concepts and tools necessary for the s killed use of these systems. Understanding 
+the power and limitations of these technologies can provide business managers and information 
+systems professionals new approaches to support the task of solving hard business problems 
+using data -driven approaches . This course will provide an understanding of fundamental data 
+science concepts, techniques and business applications.  
+General Learning Outcomes  
+• Demonstrate understanding of specific data mining methods  
+• Describe different ways in which models can be evaluated  
+• Use data mining tools to build descriptive and predictive models  
+• Analyze a dataset using data analytics methods  • Describe global business scenarios where data and data mining can be applied  
+Text and R eadings  
+There is no textbook. Online links to readings will supplement the custom course content.  
+Course Work & Grading  
+Type of Work  Number  Points Each  Points  % of Total  
+Quiz  5 10  50  20%  
+Individual Assignment  5 10  50  20%  
+Group Project 1  1 30 30  12%  
+Group Project 2 (Final)  1 60  60  24%  
+Final Exam (Cumulative)  1 60  60  24%  
+   250 100%  
+There are six quizzes. The quiz with the least score will be dropped and only the remaining 5 
+quiz scores will be used for the final grade. Quizzes are open book, but no consultation or online 
+lookup is allowed.  
+  
+Letter Grades (% of total points)  
+Scores w ill be rounded up or down using the usual rounding rules. To adhere to consistency, 
+academic integrity, and fairness to everyone, requests for extra points in order to achieve the next 
+higher letter grade for any reason will not be fulfilled. Exceptions fo r makeup work are provided 
+only for true, documented emergencies or based on guidance from the University due to any 
+extraordinary circumstances.  
+Minimum 
+Score  Maximum 
+Score  Letter 
+Grade  
+95%  100%      A+ 
+90%    94%   A 
+85%    89%     B+ 80%    84%   B 
+75%    79%     C+ 
+70%    74%  C 
+60%    69%  D 
+   0%   59%  F 
+  
+Detailed Syllabus (All times in US Eastern Time)  
+Week  Dates  Topic  Task  Available  Due 
+1 Aug 21 - 
+Aug 27  Introduction to Data 
+Mining  
+• Overview of Data 
+Mining  
+• Schedule  
+• Analytic Thinking 
+and Value  First Day of 
+Attendance  Aug 21, 12:00 am ET  Aug 25, 11:59 pm ET  
+Quiz 1  Aug 25, 12:00 am ET  Aug 27, 11:59 pm ET  
+2 Aug 28 - 
+Sep 3  Structured Analytic Process  
+• The 10 -step Process  
+• Evaluating Models: 
+Scientific Methods  Assignment 1  Aug 21, 12:00 am ET  Sep 3, 11:59 pm ET  
+Quiz 2  Sep 1, 12:00 am ET  Sep 3, 11:59 pm ET  
+3 Sep 4 - 
+Sep 10  Classification  
+• Classifiers  
+• Evaluating Classifiers  
+• The Confusion 
+Matrix  Quiz 3  Sep 8, 12:00 am ET  Sep 10, 11:59 pm ET  
+4 Sep 11 - 
+Sep 17  Decision Trees  
+• Decision Trees & 
+Their Quality  
+• Using Decision Trees  
+• Classification & 
+Prediction  Assignment 2  Sep 4, 12:00 am ET  Sep 17, 11:59 pm ET  
+Quiz 4  Sep 15, 12:00 am ET  Sep 17, 11:59 pm ET  5 Sep 18 - 
+Sep 24  Neural Networks, 
+Unsupervised Learning 
+(Similarity -Based Learning)  
+• Neural Networks  
+• Clustering & k -
+Means  Assignment 3  Sep 11, 12:00 am ET  Sep 24, 11:59 pm ET  
+Group Project 
+1 Sep 4, 12:00 am ET  Sep 24, 11:59 pm ET  
+Quiz 5  Sep 22, 12:00 am ET  Sep 24, 11:59 pm ET  
+6 Sep 25 - 
+Oct 1  Association Rules & Market 
+Basket Analysis  Assignment 4  Sep 18, 12:00 am ET  Oct 1, 11:59 pm ET  
+7 Oct 2 - 
+Oct 8  Recommendation Systems  
+• Collaborative 
+Filtering  
+• Recommender 
+Systems  
+  Assignment 5  Sep 25, 12:00 am ET  Oct 8, 11:59 pm ET  
+Quiz 6 (Week 
+6 material - 
+Optional 
+Makeup)  Oct 6, 12:00 am ET  Oct 8, 11:59 pm ET  
+8 Oct 9 - 
+Oct 13  Final Project and Exam  Group Project 
+Final  Sep 18, 12:00 am ET  Oct 13, 11:59 pm ET  
+Final Exam  Oct 13, 12:00 am ET  Oct 15, 11:59 pm ET  
+  
+Late Submission  
+Late submission on assignments incurs 10% penalty per day.  
+Extra Credit and Make Up Work  
+There is no extra credit or make up work available. Q uizzes or exams will not be re -opened in 
+case of issues with your computer. It is your responsibility to keep your computer and wifi in full 
+working order. Widespread network failures will be dealt with on a case -by-case basis and in 
+accordance with Univer sity guidelines.  
+Online Exam Proctoring Policy and Notification  
+All students must review the syllabus and the requirements, including the online terms and video 
+testing requirements, to determine if they wish to remain in the course. Enrollment in the cour se 
+is an agreement to abide by and accept all terms. Any student may elect to drop or withdraw 
+from this course before the end of the drop/add period.  Online exams and quizzes within this course may require online proctoring. Therefore, students 
+will be re quired to have a webcam (USB or internal) with a microphone when taking an exam or 
+quiz. Students understand that this remote recording device is purchased and controlled by the 
+student and that recordings from any private residence must be done with the p ermission of any 
+person residing in the residence.  
+To avoid any concerns in this regard, students should select private spaces for the testing. The 
+University library and other academic sites at the University offer secure private settings for 
+recordings and students with concerns may discuss location of a n appropriate space for the 
+recordings with their instructor or advisor.  
+Students must ensure that any recordings do not invade any third -party privacy rights and accept 
+all responsibility and liability for violations of any third -party privacy concerns.  
+Students are strictly responsible for ensuring that they take all exams using a reliable computer 
+and high -speed internet connection. Setup information will be provided prior to taking the 
+proctored exam.  To use Honorlock students are required to download a nd install the  Honorlock 
+Google Chrome exten sion (Links to an external site.) ." For additional information please visit 
+the USF online proctoring student FAQ  (Links to an external site.)  and Honorlock student 
+resources  
+Policy Statements  
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx . 
+Course Policy on Acceptable Use of Generative AI Tools  
+Purpose: The purpose of this policy is to foster a dynamic learning environment that encourages 
+technological adaptation, innovative thinking, and the ethical use of AI resources in academic 
+endeavors.  
+Policy:  
+1. Definition of Generative AI Tools: Generative AI tools refer to any artificial intelligence -powered 
+software, program or application that can generate content, including but not limited to text, 
+visuals, music, and other creative outputs. Examples of these tools include AI text generators, AI 
+content rewriters, AI graphic generators, etc.  
+2. Permitted Use: The use of generative AI tools is permitted for learning and presentations, but not 
+for the individual lab work in projects (use in writing industry overviews is permitted), lab work in 
+assignments, qui zzes, and exams. For permitted use, students must responsibly use these tools, 
+adhering to the guidelines outlined in this policy.  
+3. Student Responsibility: Students are responsible for appropriately using generative AI tools in 
+their work. This includes:   
+o Citing all AI -generated content used in their submissions.  o Demonstrating a deep understanding of the subject matter, not solely relying on AI -
+generated content. Cross -reference claims and statements with original sources and 
+providing appropriate citations are expected.  
+o Using AI tools as a supplemental resource (i.e., as an editor), not as the primary means of 
+completing assignments.  
+o Understanding that generative AI tools, while powerful, are not infallible and can 
+produce misinformation or inaccurate result s. Students are responsible for the accuracy 
+of their submissions and must cross -verify the information produced by these tools with 
+reliable sources.  
+4. Violation Consequences: Misuse of AI tools, including use of AI that undermines the student 
+learning obje ctives of the course or assignment, failing to cite AI -generated content, relying too 
+heavily on AI for work completion, or submitting inaccurate information generated by AI tools, 
+will be subject to academic penalties. Consequences may range from a reducti on in an individual 
+assignment grade to larger academic sanctions per USF policy, depending on the severity of the 
+violation (USF Regulation 3.027).  
+5. Exceptions: If there are specific assignments where the use of AI tools is not appropriate, these 
+will be clearly marked in the assignment guidelines. Students must adhere to these specific 
+instructions.  
+6. Questions and Clarifications: If students are unsure whether a tool they wish to use qualifies as a 
+generative AI tool, or if they have questions regarding th e allowable use of such tools, they 
+should consult with the course instructor before using it.  
+ 

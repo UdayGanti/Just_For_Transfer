@@ -1,0 +1,76 @@
+SYLLABUS
+Office	Hours	: Hour before class and by appointment 
+Pre-requisites	: One course in OOP & interest in developing distributed applications
+Teaching asst	: Details on Canvas
+Resources	: Visual Studio (Community edition recommended) w/ local database, running on a Windows machine. Users with a Mac should install the necessary software on a Windows VM. If needed, please seek an appointment with the TA in the first week of class to complete the required setup.
+Textbooks	: (we will only use a few chapters from each book, but cover-to-cover walkthrough is recommended)
+(AF) Pro ASP.NET Core 6 [electronic resource] / Adam Freeman, ISBN: 978-1-4842-7957-1 e-book available from the USF library (https://link.springer.com/book/10.1007/978-1-4842-7957-1) 
+(JL) Programming entity framework [electronic resource] : Code First / Julia Lerman & Rowan Miller, ISBN: 9781449323851 (electronic bk.), 1449323855 (electronic bk.), 9781449323844 (electronic bk.), 1449323847 (electronic bk.), e-book available from the USF library (https://ebookcentral.proquest.com/lib/usf/detail.action?docID=806527&pq-origsite=primo) 
+For students with a limited background in programming, I can recommend Apress' introductory C# programming book: C# programming for absolute beginners, Radek Vystavěl, Apress, ISBN 978-1-4842-4842-6, 2021, available from the USF library (https://link.springer.com/book/10.1007/978-1-4842-7147-6) 
+Optional books (used for the Javascript and OSI model sections, power point slides are available on Canvas)
+(AD) Business data communications and IT infrastructures (3rd Edition) / Manish Agrawal & Clinton Daniel 
+A smarter way to learn JavaScript, http://www.asmarterwaytolearn.com/index.html
+Course websites:
+Readings		: http://magrawal.myweb.usf.edu/dis/ 
+Code repository		: https://github.com/ISM6225
+Course Objectives
+End-user applications are the lifeblood of modern industry, and BAIS graduates are at the forefront of developing end-user applications, which also give them the opportunity to bring their data science models to a wide audience. This course introduces students to full stack business application development using modern frameworks and toolsets, while showing how various technology components interact with each other to deliver a meaningful end user experience. Students will develop familiarity with using the cloud to deploy these applications. Projects and exercises will focus on helping students gain familiarity with using data collections and APIs. Students find the course challenging, but also rate it as a robust introduction to technology. 
+Every graduate course in every business school has one primary motivation: why should anyone follow you? The projects and exercises in the class are therefore designed to help students develop confidence in their own technical and leadership capabilities so they can inspire confidence in team members and clients about their ability to develop technology solutions to address business problems.
+Learning Outcomes
+Reinforce competence with computer programming and object-oriented programming
+Introduce concepts of algorithms and data structures, particularly dictionaries
+Develop proficiency in using html and css for web user interfaces
+Develop proficiency in using common developer tools such as GitHub for version control
+Introduce Java Script (JS) and JS frameworks for client-side user interaction
+Introduce standard frameworks for full stack business application development
+Introduce object-relational mapping to connect web applications to relational data stores
+Introduce APIs and their consumption in full stack business applications
+Introduce the use of cloud technologies to run full stack web business applications
+Understand networking technologies used to architect distributed systems from application components 
+Introduce virtual machine technologies
+
+Figure 1: ISM 6225 course module time allocations and objectives
+Logistics
+The course may be seen as comprised of three modules – Figure 1 shows these modules and their respective time allocations. The first module covers the OSI model, the underlying networking technologies, which helps students architect distributed business applications appropriately. Module 2 reinforces basic programming concepts and introduces algorithmic thinking to solve standard computer programming problems. A benefit of this module is that it introduces students to the approaches adopted by technology intensive organizations in their interviews. Module 3 introduces full stack development, which is useful to help students develop fully operational web applications that use data and analytical models.
+All students should have access to an installation of Visual Studio, running on a Windows machine or VM. Users with a Mac should install the necessary software on a Windows VM. If needed, please seek an appointment with the TA in the first week of class to complete the required setup. The Mac version of Visual Studio is not fully feature ready at this time and can therefore not be supported for this class (in particular, with limited support for databases). 
+Faculty teaching this class (in particular, Prof. Clinton Daniel) are creating video walk-throughs to help students with the hands-on components. These videos are designed to be viewed and followed before class meetings so that class time can be used to help students overcome any technical challenges with implementing the concepts covered. Links to these videos are available on Canvas.
+Full-stack development is one of the core activities of the BAIS profession. For many students however, this class is their first introduction to full-stack business application development and even programming with a full complement of tools. It is recommended that you use this opportunity to develop competence and overcome any fears in this evergreen essential skill. This class is also an opportunity to begin building your GitHub portfolio.
+Students may form groups to complete projects. Follow instructions on Canvas for group size. All students should sign up on the groups pre-created for the class, do not create new group sets. In case of group dysfunction, students may fire disruptive members, or sub-groups may create their own group at any time.
+Please use the term “ISM 6225” in the subject line of your email (no spaces) to help me filter emails.
+Readings and assignment deliverables are specified on the course site on Canvas.
+Deliverables are due by the end of day on the due date (usually this means 11:55pm). The default due days are Sundays, but adaptations are made to accommodate calendar and scheduling issues.
+Make up opportunities will only be provided for job-related situations and for medical emergencies in the immediate family.
+The instructors will do their best to teach you something useful, not merely certify what you already know. This impacts exam preparation for example, where you should not expect a shortlist of questions to prepare.
+
+The instructors conduct all sections of the course tightly in sync. Accordingly, students can reach out to any instructor of the course to expand the availability of office hours. 
+On all programming assignments, you are expected to handle all reasonable corner cases.
+If your prior background has not prepared you well in technology (e.g. students from non-technology majors), it is your responsibility to devote the time to get up to speed with the content. Slowing down to accommodate your preferences takes away the value of the class for other students. 
+Business Continuity	
+In the event of an emergency, USF may opt to continue delivery of instruction through methods that include but are not limited to: Canvas, Teams, and email messaging and/or an alternate schedule. It’s the responsibility of the student to monitor Canvas for each class for course specific communication, and the main USF, College, and department websites, emails, and MoBull messages for important general information.
+Presentation
+To help build your communication skills and algorithmic thinking, each group will be required to pick a data structure or algorithm and present it to the class. Please use the instructions in the presentation assignment for details.
+Grading	
+
+
+
+Grading Policy
+Changelog (from Spring 2022)
+Changed number of Exams to two – focusing on OSI and Programming Problems. OSI exam will be conducted on a Saturday with combined sections in one location and time. 
+Changed number of Assignments to four and combined Azure deployment to final project presentation
+Changed number of OpenKattis problems to five
+Relevant readings (for students interested in greater background coverage)
+Technical
+(CLRS) Cormen, Thomas H, Leiserson, Charles E, Rivest, Ronald L. and Stein, Clifford, Introduction to Algorithms, Third Edition, 2009, isbn 0262033844, The MIT Press (standard reading for top tier SDE interviews)
+S. Dasgupta, C. H. Papadimitriou, and U. V. Vazirani, Algorithms, 2006, http://algorithmics.lsi.upc.edu/docs/Dasgupta-Papadimitriou-Vazirani.pdf (easier read on algorithms)
+Kaufman, Charlie, Perlman, Radia and Speciner, Mike, Network Security: Private Communication in a Public World, Second Edition, 2002, isbn 9780137155880, Prentice Hall Press
+Business
+Bilton, Nick. Hatching Twitter: A True Story of Money, Power, Friendship, and Betrayal. New York, N.Y.: Portfolio/Penquin, 2013.(available in the USF library)
+USF Core Syllabus Guidelines
+Details are available on the University’s Core Syllabus Policy Statements page: https://www.usf.edu/provost/faculty/core-syllabus-policy-statements.aspx
+References
+David Gooblar, “The missing course: Everything They Never Taught You about College Teaching,” Harvard University Press, 2010
+Useful  Links
+Interviewing: https://twitter.com/siddharthm83/status/1447220066043318285?s=20
+
+ISM 6225: Tentative course outline
+

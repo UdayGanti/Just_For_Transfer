@@ -1,0 +1,127 @@
+ Page  1  
+ ISM 6225  Distributed 
+Information S ystems  
+SYLLABUS  
+Office  Hours  : Hour before class and by appointment   
+Pre-requisites  : None  
+Teaching asst  : Akash Raut and Abhishek Pancholi  (Details on Canvas)  
+Resources  : Visual Studio Code  running on a Windows Or Macintosh . Download here: 
+https://code.visualstudio.com/download   
+Textbook s : We will only use a few chapters from each book , but cover -to-cover walkthrough is 
+recommended  
+1. The HTML and CSS Workshop  [PDF] / ISBN: 978 -1-83882 -453-2, L. Coulson et. al. , 2020, Packt 
+Publishing, e-book available from the USF library  
+2. Beginning JavaScript  [e-book ] : Jeremy McPeak , 2015, John Wiley & Sons, Inc. , e-book available 
+from the USF library  - https://ebookcentral.proquest.com/lib/usf/detail.action?docID=1895134   
+3. Foundation Dynamic Web Pages with Python: Create Dynamic Web Pages with Django and Flask 
+[PDF], David Ashley, ISBN -13 (pbk): 978 -1-4842 -6338 -9, 2020, Apress, e -book available from the 
+USF library  
+Optional book s (used for the OSI model section, power point slides are available on Canvas)  
+1. (AD) Business data communications and IT infrastructures  (3rd Edition) / Manish Agrawal & 
+Clinton Daniel   
+Course O bjectives  
+This course will introduce distributed information systems including presentation technologies such as 
+HTML, CSS, JavaScript, as well as data visualization frameworks. We will introduce students to popular 
+web application development frameworks  and the net work stack so students can analyze, design, 
+implement,  and manage distributed information systems. In this process the student will develop skill in 
+applying the principles of telecommunications and networks  and explore how to bring their data science 
+mode ls to a wide audience .  
+Learning Outcomes12 
+1. Develop proficiency in using html and css for web user interfaces  
+2. Introduce Java Script  (JS) and JS frameworks for client -side user interaction  
+3. Introduce data visualization technologies  
+4. Introduce web application development frameworks  
+5. Introduce networking stack (ex. TCP/IP)  
+6. Understand networking technologies used to architect distributed systems from application 
+components  
+ 
+1 https://teaching.cornell.edu/teaching -resources/designing -your -course/setting -learning -outcomes  
+2 https://www.depts.ttu.edu/opa/resources/docs/Writing_Learning_Outcomes_Handbook3.pdf  
+ Page  2 Logistics  
+1. All students should have access to an installation of Visual Studio  Code . If needed, please seek an 
+appointment with the TA in the first week of class to complete the required setup.   
+2. Faculty teaching this class (in particular, Prof. Clinton Daniel) are creating video walk -throughs to 
+help students with the hands -on components. These videos are designed to be viewed and followed 
+before class meetings so that class time can be used to help students overcome any technical 
+challenges with implementing the concepts covered.  Links to these videos are available on Canvas.  
+3. Students will form groups to complete projects. Follow instructions on Canvas for group  size.  All 
+students should sign up on the groups pre -created for the class, do not create new group sets . In 
+case of group dysfunction, students may fire disruptive members, or sub-groups may create their 
+own group  at any time . 
+4. Please u se the term “ ISM 6225 ” in the subject line of your email to help me filter emails.  
+5. Readings and assignment deliverables are specified on the course site  on Canvas . 
+6. Deliverables are due by the end of day on the due date (usually this means 11:55pm).  The default 
+due days are Sundays,  but adaptations are made to accommodate calendar and scheduling issues.  
+7. Make up opportunities are not likely to be necessary in this class. In case they do, they will only be 
+provided for job -related situations and for medical  emergencies in the immediate  family.  
+8. The instructors conduct all sections of the course with the same calendar tightly in sync. 
+Accordingly, students can reach out to any instructor of the course to expand the availability of 
+office hours .   
+Business Continuity   
+In the event of an emergency, USF may opt to continue delivery of instruction through methods that  
+include but are not limited to: Canvas, Teams , and email messaging and/or an alternate  schedule. It’s 
+the responsibility of the student to monitor Canvas for each class for cou rse specific  communication, 
+and the main USF, College, and department websites, emails, and MoBull messages for  important 
+general information.  
+Presentation  
+To help build your communication skills, e ach group will be required to present their application  to the 
+class. Please use the instructions in the presentation assignment for details.  
+   Page  3 Grading   
+Activity   Default Type  Unit weight  Total weight  
+Exam  Individual  12% 12% 
+Assignments  Group  10%, 14%, 14 % 38% 
+Project  Development  Group  25%  25%  
+Project Slide Deck  Group  10%  10%  
+Project Presentation  Group  10% 10% 
+Feed forward  Individual  2%, 2%, 1%    5% 
+Grading P olicy  
+Total%  Grade  Total%  Grade  Total%  Grade  Total%  Grade  
+>=95  
+>=90  
+>=87  A+(max  10%  of class)1 
+A 
+A- >=84  
+>=80  
+>=77  B+ 
+B 
+B- >=74  
+>=70  
+>=67  C+ 
+C 
+C- >=63  
+>=60  
+  <60 D+ 
+D 
+F 
+ 
+Useful  Links  
+Interviewing: https://twitter.com/siddharthm83/status/1447220066043318285?s=20  
+Flask: https://blog.miguelgrinberg.com/post/the -flask -mega -tutorial -part-i-hello -world  
+ 
+ 
+1 At instructor’s discretion, among the top students in the class   
+ ISM 6225 : Tentative course outline1 
+Week  Lecture topic  Class activities  Deadlines  
+1 Syllabus, OSI Model  Course overview, OSI Model Lecture  Attendance  
+2 OSI Model  OSI Model Lecture ` Group formation  
+3 OSI Model, Wireshark  Wireshark Tutorial   
+4 Support services, Cybersecurity  Lecture   
+5 IDE, Github introduction  Visual Studio Code walk -through  Assignment 1 – Wireshark  (10) 
+6 HTML Introduction  Online HTML Tutorial  Exam 1 ( 60 minutes)  
+7 CSS Introduction  Online CSS Tutorial   
+8 MyWeb Deployment  MyWeb setup and walkthrough   
+9 Flask  Flask Tutorial   
+10 Flask  Flask Tutorial  Assignment 2 – HTML/ CSS  (14) 
+11 Flask database integration  Flask Tutorial   
+12 JavaScript Introduction  Online JavaScript Tutorial   
+13 JavaScript Introduction  Online JavaScript Tutorial   
+14 Chart.js  Chart.js Tutorial  Assignment 3 – CSS, JavaScript  (14) 
+15 Flask Application Presentation   Project  
+Presentation  
+Slide deck  
+Feed Forward  
+ 
+ 
+1 In th e interests of the class, deviations may be made in the coverage of topics as outlined in the tentative course calendar. Howe ver, to help plan your 
+calendars for the rest of the semester, assessment and deadline dates will be non -negotiable after the first  day of class. Some deadlines may be clubbed 
+together to accommodate schedules.  

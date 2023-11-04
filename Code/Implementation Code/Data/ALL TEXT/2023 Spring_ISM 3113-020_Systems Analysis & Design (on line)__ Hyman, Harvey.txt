@@ -1,0 +1,235 @@
+1  ISM 3113: Systems  Analysis and Design  
+ 
+ Course  Objectives:   
+ 
+Description as stated in Course Catalogue : This course is designed to familiarize students with basic 
+techniques for conducting and managing Systems Analysis and Design (SAD) activities such as systems 
+analysis and design approaches, implementation methods, current analysis and design issues. This course also 
+teaches the tools needed to  analyze existing business problems and design creative and innovative information 
+system solutions.  
+(Learning Outcomes ) Upon completion of this course, students should know how to : 
+• Describe a systems development life cycle  
+• Determine requirements of an IS using information gathering techniques.  
+• Conduct a feasibility analysis for development of an IS to assess:(operational, technical, schedule, 
+economic, legal/contractual, political).  
+• Create a Use Case Description to describe system functionality  
+• Describe system processes using Process Modeling ( Data Flow Diagrams ) 
+• Model system data created and/or stored by an IS  
+• Manage the modeled data for reporting and analytics  
+• Recognize principles of user interface design  
+• Describe how to manage implementation a nd the programming process  
+• Generate a migration plan to transition to a new system.  
+ 
+ Course  Materials  and Assignments :  
+ 
+Free Textbooks  Posted in Canvas : 
+1. System Acquisition, Integration, and Implementation for Engineers and IT Professionals , 2nd Ed., Hyman,  
+2015 . ISBN: 978 -0-9862194 -4-3.  
+2. Thinking in Systems , Donella Meadows . 
+ 
+Optional Course T extbook Available for Purchase  
+3. Systems Analysis & Design , 6th Ed., Dennis, Wixom, and Roth, 2015. ISBN: 9781118897843 . 
+ 
+Recommended for Personal Development : 
+4. Agile Software Requirements , Leffingwell , 2011, ISBN: 978 -0-321-63584 -6. 
+5. IT Managers Handbook , Holtsnider and Jaffe  
+6. Mythical Man Month , Fred Brooks  
+7. Peopleware , Tom Demarco and Timothy Lister   
+    
+ 
+ 
+ 
+ 
+ 
+    
+ 
+ 
+ 2  Team -Based Assignments : 
+• System Develo pment and Implementation Plan  (delivered in six (6) parts).  
+• Case Studies (total of ( 4) four).  
+• Team Formation – Teams have been set by random assignment : 
+o Teams have either 3 or  4 members. One member has been randomly assigned a s team  lead.  
+o Each t eam must choose a name and a motto  by the end of week 1 . Your team name should be your 
+“brand.”  Your team motto should reflect what you wish to accomplish during this semester.  
+o The team lead will be responsible for delivering your pr oducts and for coordinating team meetings 
+and member tasks.  
+o Team must meet  in person  with a weekly report to the instructor.  Report contains who attended, time 
+started/ended, tasks assigned to whom  for next week, tasks completed from whom from last week.  
+ Individual Assignments:  
+• Textbook Reading Chapters.  
+• Team Member Rating , 360 feedback.  
+• Computer software installation and use ( MS Visio, MS Project, Wireframes)  
+ 
+ Grading:   
+ 
+ 
+Grading Rubric : Expectations (How your work will be judged):  
+ 
+• This course is designed to introduce you to the rigor of analysis and design,  and the documentation process 
+associated with it, as applied to the application of IS and IT to business . As such, you will be assessed based 
+on quality of your work, thoroughness in your treatment of the subject matter, presentation, and content.  
+• I have one standard that I use to judge your work: Would Muma College of Business  be embarrassed that 
+you took this to your jo b interview?  
+• To give you some guidance for what I consider to be acc eptable work for university level , I have put together 
+a list of items for your review. Every item on this list has been observed by me in at least one RFP, RFI, 
+RFQ, or other requirements -based document instruction in industry practice. Failure to comply with this list 
+of items will result in a rejection of your submission .  
+a. Submissions must be typed, using Times New Roman, 12 -point font, with double space.  
+b. Every individual written assign ment should have a cover page containing your name, assignment title, 
+date and course name. NO OTHER items should be on your cover page.  
+c. Every team -based written assignment shall have only one submission  - from the team lead . The cover 
+page must identify t he team lead and all team members listed in alphabetical order; it must state your 
+team name and motto , specific assignment and due date.  No other items should be on your team cover 
+page.  
+d. Loose pages will not be accepted. Multiple page documents must be s tapled or bound. No other form 
+will be accepted.  
+e. Your work must be well orga nized, using headers and titles to divide paragraphs and sections for clarity . 
+You may consider the use of a  variety of fonts and colors ( when appropriate ) for presentation.  
+f. You must use complete sentences. Use of bullets only when appropriate for content  lists.  
+g. I should not be the first set of eyes on your paper: Typos and grammatical errors will count against you.  
+h. Formatting is important. Your work may be 100%  correct, but if presented in the wrong format, or 
+difficult for the reviewer to read, it might receive negative feedback, up to and including, rejection for 
+failure to follow directions.  
+i. Your work must be thoughtful and demonstrate thorough thinking through of the  problem as well as your 
+proposed method for solving  it.  
+j.   Your work must be original.  
+k. Your work must be accompanied by a reference list of your sources . APA is standard, but any style is 
+accepted as long as it is consistent.  
+l. Your work must be easy to read (readability).  
+m. Your work must be clear and to the point. I do not require a minimum amount of content, but you must 
+include enough content to demonstrate to me that you have put satisfactory thought and effort into your 
+work.  3  n. If your submissi on does not meet the requirements of the assignment or fails to follow directions, it is 
+eligible to be awarded zero credit. A 20% penalty, per day, is assessed to any document qualified for 
+resubmission.  
+o. I reserve the right to reject ANY assignment submi ssion that I believe does not meet any requirement in 
+this list, is not your own work, or fails to meet the standards for competent, university , level work .  
+p. Late work  receives a zero grade until submitted. Any late submission will receive a 20% penalty per day 
+until submitted. A day is defined as a 24 -hour cycle commencing from the deadline. This means that 
+after 5 consecutive days past the deadline, your maximum allow able score is zero. Eastern Time Zone is 
+controlling.  
+q. If you fail to join a canvas group, you will not receive a grade for your team’s submissions.  
+ 
+ 
+ 
+Grading  scale:  The following table explains the grading formula and final letter grades:  
+ 
+WARNING: There is NO extra credit. There is NO rounding. What you get is what you get. 
+You have all the assignments before you. There is no additional work available to you if you 
+fail to complete the actual assignments in the syllabus.  
+ 
+Assignments  Total out of 100  
+Average of Individual Assignments  x .5 
+Average of Team Assignments  {+/- 20% based on 360 peer review } x .5 
+Letter Grades   
+    A 90.0 with no rounding  
+    B 80.0 
+    C 70.0 
+    D 60.0 
+    F < 60.0  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 4  COMMUNICATION POLICY and PREFERRED METHODS : I follow a standard business day, which 
+means 0800 – 1700. If you choose to contact me through email, the response time will be no later than the close 
+of the next business day. This means if you send me an email at 0800 on Friday, I wil l respond to that email no 
+later than 1700 the next business day, Monday. Keep this in mind when timing your requests and inquiries. I do 
+not stand -by on my email server 24/7 waiting for new mail to arrive in my inbox. In fact, I do not have email 
+notifica tions turned on, I check my email at the start of the business day for whatever arrived during the 
+overnight cycle, and then again at the end of the business day for currency . 
+ 
+Learning Outcomes mapped to Course Exercises and Deliveries :  
+ 
+Learning Outcome  Exercise/Deliverable  
+Describe a systems development life cycle  Chapter Discussion Questions  
+SDIP: PDR  
+ 
+Determine requirements of an IS using information gathering 
+techniques.  SDIP Project: SRR  
+Chapter Discussion Questions  
+ 
+Conduct a feasibility analysis for development of an IS to 
+assess:(operational, technical, sc hedule, economic, legal/contractual, 
+political).  
+ SDIP Project: CDR, IRR  
+Chapter Discussion Questions  
+Create a Use Case Description to describe system functionality  SDIP Project: PDR and CDR  
+ 
+Describe system processes using Process Modeling (Data Flow 
+Diagrams)  SDIP Project PDR and CDR  
+Chapter Discussion Questions  
+ 
+Model system data created and/or stored by an IS  SDIP Project : PDR and CDR  
+ 
+Manage the modeled data for reporting and analytics . SDIP Project: SRR, PDR, TRR  
+ 
+Recognize principles of user interface design . SDIP Project: CDR  
+ 
+Describe how to manage implementation and the programming 
+process . 
+ SDIP Project: CDR, TRR, IRR  
+Generate a migration plan to transition to a new system.  SDIP Project: IRR  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 5  University Policies:                          
+ 
+1. Early  Notification  Requirement  for Observed  Religious  Days  - Students  who anticipate  the necessity  
+of being  absent  from  class  due to the observation  of a major  religious  observance  must  provide  notice  
+of the  date(s)  to the instructor,  in writing,  at the beginning  of the term.  
+o http://www.ugs.usf.edu/policy/ReligiousDays.pdf  
+2. Academic  Integrity  of Students  
+o http://www.ugs.usf.edu/policy/AcademicIntegrityOfStudents.pdf  
+3. Disruption  of the Academic  Process  
+o http://www.ugs.usf.edu/policy/DisruptionOfAcademicProcess.pdf  
+4. Gender -Based Crimes - Educators must report incidents of gender -based crimes including sexual 
+assault,  sexual  harassment,  stalking,  dating  violence  and domestic  violence.  If a student  discloses  in 
+class,  in papers,  or to an instructor,  the instructor  is required  by law to report  the disclosure.  
+The Center for Victim Advocacy and Violence Prevention (813 -974-5757) is a confidential resource 
+where  you can talk about  such  situations  and receive  assistance  in confidence.  Additional  confidential 
+resources on campus are: the Counseling Center (813 -974-2831) and Student Health Services (813 - 
+974-2331).  
+5. Student  Academic  Grievance  Procedures  
+o http://www.ugs.usf.edu/policy/StudentAcademicGrievanceProcedures.pdf  
+6. Students  with Disabilities  - Students  with disabilities  are responsible  for registering  with Students  with 
+Disabilities  Services  (SDS)  in order  to receive  academic  accommodations.  SDS encourages  students  to 
+notify instructors of accommodation needs at least 5 business days prior to needing the 
+accommodation.  A letter  from  SDS must  accompany  this request.  
+o See student  responsibilities:  http://www.sds.usf.edu  
+o See instructor  
+responsibilities:     http://www.asasd.usf.edu/instructorresponsibilities.asp?refer=FACULTY  
+7. SafeAssign Privacy  policy  
+o In order  to comply  with privacy  laws,  students  are not required  to include  personal  identifying 
+information, such as your name, in the body of the document. Submitting to the SafeAssign 
+Global Reference Database allows papers from other institutions to be checked against your 
+paper to protect the originality of your work across institutions. Please follow your 
+instructor's  instructions  carefully  regarding  what  identifying  information  to include.  
+o Blackboard  Quick  Reference  Guide  - Submitting  SafeAssignments  
+8. University Emergency  Policy  
+o In the event of an emergency, it may be necessary for USF to suspend normal operations. 
+During this time, USF may opt to continue delivery of instruction through methods that 
+include  but are not limited  to: Blackboard,  Elluminate,  Skype,  and email  messaging  and/or  an 
+alternate schedule. It's the responsibility of the student to monitor Blackboard site for each 
+class for course specific communication, and the main USF, College, and department 
+websites,  emails,  and MoBull  messages  for important  general  information.  
+ 

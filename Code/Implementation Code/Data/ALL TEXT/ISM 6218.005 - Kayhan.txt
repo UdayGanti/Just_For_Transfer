@@ -1,0 +1,155 @@
+
+
+ISM 6218 Advanced Database Management
+Section: 005
+
+Muma College of Business
+School of Information Systems and Management
+
+COURSE SYLLABUS
+Last Updated: 7/27/2023 
+
+
+
+
+
+SCHEDULE (*)
+
+
+(*): Schedule can change.  Any changes will be posted on Canvas.  Check the announcements and your email regularly.
+
+
+
+Course Description
+This course covers core business database technologies. Topics include database design, transaction processing, parallelism, and distributed databases. Emerging business intelligence technologies are covered. A database system is used for projects.
+
+Course Prerequisites
+There are no official prerequisites. However, there is an assumption that you have taken a database course prior to admission in our program (or have significant professional experience).
+
+Course Purpose 
+The purpose of this course is to prepare students to design and use databases efficiently and effectively in organizations. Students will complete hands-on exercises and assignments in various topics such as database design, SQL, data analysis, NoSQL, and cloud computing.
+
+Course Objectives
+This course has the following objectives:
+Understand the concepts and principles of database design.
+Use state-of-the-art database technologies to write queries and answer business questions
+Understand contemporary database technologies such as cloud and NoSQL databases.
+
+Student Learning Outcomes
+At the end of the course, you will be able to:
+Describe the widely used relational database model.
+Write queries using SQL.
+Design and document database systems using entity-relationship diagram (ERD) tools.
+Implement database systems using SQL data definition statements and integrity constraints.
+Apply various techniques such as index structures and optimization modes to improve query performance.
+Contrast a variety of alternative (NoSQL) database models with the relational model with regards to workload fit.
+
+Required Texts and Course Materials
+None
+Supplementary (Optional) Texts and Materials
+
+We will use a freely available textbook authored by Dr. Don Berndt (at USF). This book will be available on Canvas for download.
+
+Grading Scale, Categories, Weights
+
+
+
+Frequently Asked Questions on How to Succeed in this Course
+
+Where can I find the class schedule and the topics covered?
+Please see the last page of this document for class schedule.
+
+Are there other textbooks or sources of information I can use for this course?
+The topics covered in this course are very popular/contemporary. A simple Google search will return lots of information. But be careful: information from other sources may differ from what we cover in this course—even though the concepts and theories would be the same. 
+
+Do I have to buy any software programs?
+No.
+
+Is there a recommended operating system for this course?
+No. The software required to complete this course can be installed on both Windows PCs and Macs.
+
+Do I have to bring my laptop to the class?
+Yes, you must bring your laptop to each class to complete the in-class activities and earn points.
+
+How is this class organized? Where do I start?
+Please get started with the "Welcome" page in Canvas. All course materials are organized using "Modules". We’ll complete each module before moving onto another one.
+
+What should I expect to see in each Module?
+Each module usually consists of the following:
+Lecture slides
+In-class activities
+Assignment
+
+What are "in-class activities"?
+In-class activities are what you have to complete together with your professor in-class. You cannot complete them outside the classroom. They can only be completed if you are attending the class. 
+
+What are "assignments"?
+Assignments are what you have to complete on your own to reinforce the materials covered in the lecture. These are individual work. If you get help from others to complete them, you will be violating academic integrity policies of USF.
+
+Is there any group work in this course?
+No. All work is individual. 
+
+Can I make a late submission (or complete any assignment after its due date)?
+Late submissions are accepted only within 24 hours of an assignment's due date. All late submissions will be penalized by 50%.
+
+Can I make submissions through email?
+No. Please use the appropriate submission links in Canvas.
+
+Do technological problems qualify for an extension, late submission, or retaking quizzes?
+No. 
+
+Can I get an extension on a due date, because one of the following occurred: my computer did an update and restarted in the middle of a quiz/assignment; my computer broke down; the virtual computer is not available; Canvas is not available; power went out, my Internet went out?
+No. But you can make a late submission within 24 hours, which has a 50% penalty.
+
+Can I work with others, or get help from somebody else to complete assignments/quizzes?
+		No. This is considered cheating. Please refer to the Academic Integrity policy of the graduate catalog to see what is considered cheating.
+
+What if I get help from others to complete the assignments? 
+According to the graduate catalog, this is considered cheating. I have zero tolerance for cheating. If you engage in cheating, you'll be penalized using the sanctions outlined in the Academic Integrity document.
+
+What happens if I engage in cheating?
+		You will be subjected to the following punishments:
+Level one violation: No credit is given for the assignment. 15 points (a letter grade) are deducted from the student’s overall grade. 
+Level two violation: Failing grade for the course (“F”) is assigned.
+Level three violation: Failing grade for the course (“FF”) is assigned. Suspension for one semester.
+Level four violation: Failing grade for the course (“FF”) is assigned. Dismissal from the university.
+(Please see the graduate catalog for the definitions of these violations. Note that most cheating falls under levels two and three.)
+
+Is there any other recommendations you can make for this course?
+Please don't procrastinate or leave things to the last minute in this course. It will do nothing but hurt your grade. There are so many things that can go wrong – especially when you are dealing with new technologies that you are not very familiar with.
+
+Standard University Policies
+
+Policies about disability access, religious observances, academic grievances, academic integrity and misconduct, academic continuity, food insecurity, and sexual harassment are governed by a central set of policies that apply to all classes at USF. These may be accessed at: https://www.usf.edu/provost/faculty/core-syllabus-policy-statements.aspx 
+
+Covid-19 Procedures
+
+All students must comply with university policies and posted signs regarding COVID-19 mitigation measures, including wearing face coverings and maintaining social distancing during in-person classes.  Failure to do so may result in dismissal from class, referral to the Office of Student Conduct and Ethical Development, and possible removal from campus.
+
+Additional details are available on the University’s Core Syllabus Policy Statements page: https://www.usf.edu/provost/faculty/core-syllabus-policy-statements.aspx
+
+Course Policies: Grades
+Late Work Policy: Offer specifics about your policy on late work.
+There are no make-ups for any course assessment such as quiz, assignment, or deliverable. Any assessment turned in late will be assessed a 50% penalty if it is one day late. No assessment will be accepted if overdue by more than one day (24 hours). 
+
+
+Course Policies: Technology and Media
+Email: 
+Please check your email frequently for any announcements.  If necessary, forward your USF email to one of your email accounts that you check regularly.
+
+Canvas: 
+Example: This course will be offered via USF's learning management system (LMS), Canvas. If you need help learning how to perform various tasks related to this course or other courses being offered in Canvas, please view the following videos or consult the Canvas help guides. You may also contact USF's IT department at (813) 974-1222 or help@usf.edu. All course materials and notices on changes to the schedule will be posted on CANVAS (http://usflearn.instructure.com).  You are responsible for monitoring this site regularly and reading all announcements.
+
+Seeking Help: 
+If you have any questions about assignments, seek help early. 
+
+Quality of Work: 
+All submitted work should be of high quality. Sloppy work won't receive points.
+
+Course Policies: Student Expectations 
+Email response: Students can expect to receive a response to their email inquiries fairly quickly (within 0-2 hours) – unless there are unexpected circumstances. I may not be able to respond to email inquiries after 7pm. 
+ 
+Grading & Feedback: Students can expect to see their grades for assignments/exams and receive feedback within 5 business days – unless there are unexpected circumstances. 
+
+
+

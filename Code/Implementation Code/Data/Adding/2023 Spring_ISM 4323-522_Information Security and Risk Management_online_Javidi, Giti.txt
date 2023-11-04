@@ -1,0 +1,321 @@
+  
+ 
+ 
+ 
+Instructor:  Dr. Giti Javidi  
+Office Location:  Sarasota Campus – C217  
+Office Hours:  Virtual hours Tuesdays 2p-3p 
+Phone Number:  941-359-4257  
+Email:  javidi@usf.edu  Semester:  Spring 202 3 
+Class Meeting Days:  100% online  
+Class Meeting Time:  100% online  
+Class Meeting Location:  Canvas/Microsoft  Teams  
+ 
+ 
+IMPORTANT DATES:  
+ 
+January 9  Classes  begin  
+January 13  Drop/add  ends;  fee liability/tuition  payment  deadline   
+January 16  Martin Luther King, Jr. Holiday; no classes  and USF offices closed  
+February 6  Spring graduation application due  
+February 20  Midterm grading opens   
+March 7  Midterm grading closes  
+March 13  Spring Final grading opens  
+March 13 -19 SPRING BREAK  
+March 25  Spring last day to withdraw; no refund & no academic penalty  
+March 27  Summer/Fall reg istration begins  
+April 22 -28 Test Free Week  
+April  28 Spring  last day of classes  
+Apr. 29-May 4 Final Exam Week  
+May 9   Final  grading closes   
+May 12   Final grades visible on OASIS  
+ 
+ 
+COURSE PREREQUISITES: ISM3011  
+ 
+COURSE DESCRIPTION: (From Catalog). Introduction to information security and IT risk management 
+in organizations. Covers essential IT general controls and frameworks to assess IT risk in a business 
+environment.  
+ 
+REQUIRED TEXTBOOK:  
+ Agrawal, Campo and Pierce, Information Security and Risk Management, Wiley, 2014, ISBN 
+9781118335895   
+Information Security and IT Risk Management | Wiley  
+ 
+OPTIONAL TEXTBOOKS:  
+ Westerman, George and Richard Hunter, IT Risk: Turning Business Threats into Competitive 
+ISM4323  
+Information Security and Risk 
+Management   
+School of Information Systems and 
+Management Information Assurance and 
+Cybersecurity Management Program  
+  Advantage, Harvard Business School Press, 2007, ISBN 1422106667  
+ Gibson, Darril and Igonor, Andy, Managing Risk in Information Systems, Jones and Bartlett, 
+2022, 9781284183719  
+ 
+COURSE TOPICS: This course will cover the following content areas:  
+• System administration  
+• Information Security model  
+• Asset identification  
+• Threats and vulnerabilities  
+• Encryption controls  
+• Identity & Access management  
+• Hardware and software controls  
+• Shell scripting  
+• Incident handling  
+• Incident analysis  
+• Security policies  
+ 
+COURSE OBJECTI VES:  
+1. To introduce the importance of information security and related business concern.  
+2. To make students aware of the major categories of information security threats.  
+3. To make students aware of the common information security controls.  
+4. To enable students to  implement the basic information security controls.  
+5. To introduce students to the important legal provisions regarding information security.  
+6. To make students aware of the methodological implications for information security arising from 
+these legal provisio ns. 
+7. To provide students with an understanding of the standard methodologies for complying with 
+legal requirements for IT general controls.  
+8. To provide basic understanding of IT risk management in organizations.  
+ 
+STUDENT LEARNING OUTCOMES:  
+Upon completion of this course, students will be able to:  
+1. Students will demonstrate an understanding of security concerns and issues in organizations.  
+2. Students will have the ability to identify major categories of information security threats.  
+3. Students will have the ability to apply various kinds of controls to  counter common threats.  
+4. Students will have the ability to apply best practices related to IT controls to comply with legal 
+requirements.  
+5. Students will have the ability to provide solutions to mitigate IT risks.  
+ 
+COURSE POLICIES: Technology and Media  
+• Canva s: This course will be offered via USF's learning management system (LMS), Canvas. If 
+you need help  learning how to perform various tasks related to this course or other courses being 
+offered in Canvas, please view the following videos or consult the Canva s help guides. You may 
+also contact USF's IT department at (813) 974 -1222 or help@usf.edu . The course will include 
+recorded lectures, reading assignments, tests (midterm and Final), quizzes, discussions and 
+homework (pos ted on CANVAS).  
+ 
+COURSE LOGISTICS:  
+1. Students may form groups of three students each to complete projects.  
+2. Use the phrase “ISM4323” in the subject line of your email (no spaces) to help me filter emails.   3. In all deliverables and communication, please include the names of ALL students involved. 
+This is needed for allocating grades correctly. You will lose credit  for not doing so.  
+4. Readings and assignment deliverables are always scheduled on the Friday of the week.  
+5. Deliverables are due by the end of day on the due date (usually this means 11:55pm).  
+6. We will try to manage class time so that as much of the hands -on activity is performed in class 
+as possible.  
+7. Assignments for each chapter have 5 components – questions, example case, critical thinking, 
+hands -on activities and design case. Critical thinking and example case are worth 0.5% each, 
+the other activities are worth 1% of the credit for the course. These assignments can take time, 
+please plan your time accordingly.  
+8. The design case is your opportunity to conduct industry research. This is your opportunity to 
+discover issues, concerns, products and solutions not discussed in class and apply them within a 
+coherent framework to solve customer concerns.  
+9. I will do my best to try and teach you something useful, not merely certify what you already 
+know. This impacts exam preparation too. For example, you s hould not expect a shortlist of 
+questions to prepare.  
+10. Subject to availability of time, select groups will be invited to present their designs in class on 
+the last day.  
+ 
+GRADING POLICIES  
+•    Makeup Exam Policy : There will be  no make -ups for the midterm, or t he final exam. Make up 
+opportunities will only be provided for job -related situations and for medical emergencies in the 
+immediate family.  
+• Late Submission Policy:  All assigned work are expected to be turned in on time, by 11:59 p.m. 
+of the due date. Late a ssignments will not be accepted unless prior permission has been granted 
+by your Instructor. It is okay for students to work ahead and complete all assignments, labs and 
+tests if they desire, but no makeups or extra credit will be offered.  
+• Exam Retention P olicy : After exams are graded, the instructor will review the examination with 
+the class and collect all exams. The exams will be retained for one semester following the current 
+one, and then they will be destroyed.  
+ 
+GRADING SCALE  
+USF policy requires that  all students receive a graded assignment or examination prior to the semester’s 
+drop/withdraw date (please refer to important dates on page 1 of this syllabus). Student performance for 
+this course will be evaluated based on tests, assignments, and quizzes , as detailed below. Below is a 
+summary for the determination of the final grade and an explanation for each component:  
+ 
+Deliverables  Unit weight  Total weight  
+Assignments ( total 4) 10% 40% 
+Quizzes ( total 12) 2% 24% 
+Midterm Exam  15% 15% 
+Final Exam  15% 15% 
+Discussions  6% 6% 
+Total  100%  
+A+ = 97 -100; A=94 -96; A - =90-93; B+ = 87 -89; B=84 -86; B - = 80-83;  
+C+=77 -79; C = 74 -76; C - + 70-73; D = 60 - 69; F = 59 or below  
+   
+STUDENT EXPECTATIONS   • Attendance Policy : There is no live lecture attendance requirement. Everything  will be placed on 
+Canvas.  
+• Course Hero/Chegg Policy:  The USF Policy on Academic Integrity  specifies that students may 
+not use websites that enable cheating, such as by uploading or downloading material for this 
+purpose. This does apply specifically to Chegg.com and CourseHero.com – any use of these 
+websites (including uploading proprietary materials) constitu tes a violation of the academic 
+integrity policy.  
+• End of Semester Student Evaluations:  All classes at USF make use of an online system for 
+students to provide feedback to the University regarding the course. These surveys will be made 
+available at the end  of the semester, and the University will notify you by email when the 
+response window opens. Your participation is expected  and valued.  
+• Turnitin.com:  In this course, turnitin.com will be utilized. Turnitin is an automated system 
+which instructors may use to quickly and easily compare each student's assignment with billions 
+of web sites, as well as an enormous database of student papers that grows with each submission. 
+Accordingly, you will be expected to submit all assignments in both hard copy and electronic 
+format. After the assignment is processed, as instructor I receive a report from turnitin.com that 
+states if and how another author’s work was use d in the assignment. For a more detailed look at 
+this process visit http://www.turnitin.com . Essays are due at turnitin.com the same day as in class.  
+• Note to Students:  All students  must  review  the syllabus  and the requirements,  including  the 
+online  terms  and video  testing  requirements,  to determine  if they wish  to remain  in the course.  
+Enrollment  in the course  is an agreement  to abide  by and accept  all terms.  Any student  may elect  
+to drop or withdraw  from  this course  before  the end of the drop/add  period.   
+• Honorlock  for the Exams:  Online  exams  and quizzes  within  this course  will require  online  
+proctoring.  Therefore,  students  will be required  to have  a webcam  (USB  or internal)  with a 
+microphone  when  taking  an exam  or quiz. Students  understand  that this remote  recording  device  
+is purchased  and controlled  by the student  and that recordings  from  any private  residence  must  be 
+done  with the permission  of any person  residing  in the residence.  To avoid  any concerns  in this 
+regard, students  should  select  private  spaces  for the testing.  Students  with concerns  may discuss  
+location  of an appropriate  space  for the recordings  with their instructor  or advisor.  Students  must  
+ensure  that any recordings  do not invade  any third -party  priva cy rights  and accept  all 
+responsibility  and liability  for violations  of any third -party  privacy  concerns.  Students  are strictly  
+responsible  for ensuring  that they take all exams  using  a reliable  computer  and high-speed  
+internet  connection.  Setup  informatio n will be provided  prior  to taking  the proctored  exam.  To 
+use Honorlock,  students  are required  to download  and install  the Honorlock  Google  Chrome  
+extension . For additional  information  please  visit the USF  online  proctoring  student  
+FAQ  and Honorlock  student  resources .  
+ 
+STANDARD UNIVERSITY POLICIES  
+Policies about disability access, religious observances, academic grievances, academic integrity and 
+misconduct, academic continuity, food insecurity, and sexual harassment are governed by a central set of 
+policies that apply to all classes at USF. These m ay be accessed at: 
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx   
+ 
+WEB PORTAL INFORMATION  
+Every newly enrolled USF student receives an official USF e -mail account.  Students receive official USF 
+correspondence and Canvas course information via that address.  The web portal is accessed at 
+http://my.usf.edu . 
+ 
+GENERAL INSTRUCTION FOR STUDENTS  
+• Academic Suppor t Services:   The Information Commons  provides students with individual and group study spaces, 
+computers, printers, and various media equipment for temporary use.  The Information 
+Commons is staffed by l ibrarians, learning support faculty, tutors, and technology and e -
+learning specialists. Students challenged by the rigors of academic writing, mathematics, or 
+other course content are urged to contact their professors early in the semester to chart out a 
+plan for academic success, and/or regularly use the tutoring services provided by Learning 
+Support Services ( http://www.usfsm.edu/academics/academic -resource s/information -
+commons/tutoring.aspx ) which are provided at no cost to students.  
+• Career Success Center:  
+Students can explore careers through activities such as job shadowing, mentoring, and 
+internships.  Whether students will be pursuing graduate school or  seeking employment, 
+Career Services can help develop a plan to reach their next destination.  Students can prepare 
+professional documents, practice for the interview and attend employer or graduate school 
+information sessions.   Access these resources or schedule an appointment with career 
+advisors at www.usfsm.edu/career -services . 
+ 
+LEARNING SUPPORT and CAMPUS OFFICES  
+ 
+Tampa 
+Campus  
+ Tutoring Hub: The Tutoring Hub offers free tutoring in several subjects  to USF 
+undergraduates. Appointments are recommended, but not required. For more 
+information, email  asctampa@usf.edu   
+Writing Studio: The Writing Studio is a free resource for USF undergraduate and 
+graduate students. At the Writing Studio, a trained writing consultant will work 
+individually with you, at any point in the writing process from brainstorming to 
+editing. Appointments are recommended, but not required. For more information or 
+to make an appointment, email writingstudio@usf.edu   
+Counseling Center: The Counseling Center promotes the wellbeing of the campus 
+community by providing culturally sensitive counseling, consultation, prevention, 
+and training that enhances student academic and personal success. Contact 
+information is available online .  
+Center for Victim Advocacy: The Center for Victim Advocacy empowers 
+survivors of crime, violence, or abuse by promoting the restoration of decision 
+making, by advocatin g for their rights, and by offering support and resources. 
+Contact information is available online .  
+St. Petersburg 
+Campus  
+ Student Success Center: The Student Succe ss Center provides free tutoring and 
+writing consultations. Contact information is available online .  
+Wellness Center: The Wellness Center provides counse ling and medical services, 
+as well as prevention programs and victim advocacy. Contact information is 
+available online .  
+Sarasota -
+Manatee 
+Campus  
+ Tutoring and Writing Support: Learning Support Services provides free tutoring 
+and writing consultations for a variety of courses and subjects such as, Accounting, 
+Biology, Chemistry, Finance, Math & Statistics, Physics, and Spanis h. Make an 
+appointment online .  
+Counseling and Wellness Center: The Counseling and Wellness Center is a 
+confidential resource where you can talk about incidents of discrimination and 
+harassment, including sexual harassment, gender -based crimes, sexual assault, 
+stalking, and domestic/relationship violence. Call 941 -487-4254  
+Victim Advocate: A Victim Advocate is available 24/7 by calling (94 1) 504 -8599. 
+For assistance leave a message with your phone number and your call will be 
+returned as soon as possible. The Victim Advocate is available to assist victims of  crime, sexual assault, and partner violence.  
+ 
+COURSE FAQ  
+How to communicate with m e? You can either (i) send me an email directly or through Canvas, or (ii) 
+call/text me or (iii) set up an appointment to see me in my office. When emailing directly or through 
+Canvas, please write the appropriate subject and include  your name at the botto m of the email. The emails 
+should be composed professionally and the language should be courteous and respectful.  
+  
+How NOT to communicate with me?  
+1. Please do not email me from a non -USF email account.  
+2. Please do not submit deliverables to me through email. All deliverables must be submitted 
+through Canvas.  
+3. Please do not reply to an email that I send to the entire class without changing the subject line, 
+unless your question is about that subject. If you  are using the “Reply” button as a means to get 
+my email address in the “To” line, please change the subject line and also delete all previous text 
+from that email, if your email pertains to something else.  
+ 
+How will I communicate with you? I will send an nouncements through Canvas. The announcements 
+should arrive in your inbox. If you send me an email through Canvas, I will respond back through 
+Canvas. If you send me an email directly, I will respond back to your email address. I will make every 
+attempt to  reply to your emails within 24 hours during weekdays. I cannot guarantee a response within 24 
+hours on weekends. Occasionally emails do tend to go to my Spam  Mail folder so if you have not 
+received my response within 24 hours, please either resend your em ail or call my office phone number 
+and leave a message in case I am not in my office. I will provide feedback on your assignments through 
+Canvas.  
+ 
+How to Succeed in this Class?    
+• Check Canvas and emails daily for announcements: I will periodically send emails and 
+announcements. I encourage you check them daily.  
+• Read the syllabus:   It is a lot of trouble  to prepare so detailed a syllabus. You should assume I had a 
+reason for it. I want to make sure that you understand the course structure and expectations and have 
+your questions answered on the first week. This will help us all have a more productive semester. 
+Please read  every word  in this syllabus by end of the first week and ask me any questions.  
+• Complete the reading assignmen ts:  You will get a lot more out of this class if you complete the 
+assigned readings. In my experience, students who don't complete the reading either never complete it 
+or try to cram it all in just before the exams. That doesn't work. Most of the time, un satisfactory 
+grades are due to procrastination than any other cause. Please give yourself ample time each week to 
+complete the assigned readings  for this class.  
+• Watch the recorded lectures /external videos : Some modules will  include recorded lectures and 
+LinkedIn Learn videos . The lectures that are prepared by me contain topics that I think are the most 
+important in the course. Please watch them.  
+• Do not procrastinate on completing assignments :  You cannot pass the course without doing at 
+least most of the as signments. The homework assignments build upon one another. If you get behind, 
+you will find it very difficult to catch up.  
+• Complete the quizzes:  Completing the quizzes will prepare you for the exams. So, I encourage you 
+to complete them by the due dates.  
+• The bottom line “Do not procrastinate. ” 
+   COURSE SCHEDULE:  
+ 
+Modules  Topic  Reading  Assessments  Deadlines  
+1 Syllabus, Introduction  Chapter 1  Quiz1   
+2 Introduction to information security  Instructor notes 
+and handouts  Quiz 2  
+3 System administration – part 1, 2  Chapter 2  Quiz 3  Assignment  1 - due 
+4 System administration – part 1, 2  Chapter 3  Quiz 4  
+5 Basic information Security model  Chapter 4  Quiz 5  
+6 Asset identification  Chapter 5  Quiz 6 Assignment 2 - due 
+7 Threats and vulnerabilities  Chapter 6  Midterm Exam   
+Midterm Exam  [15%] 
+8 Encryption controls  Chapter 7  Quiz 7  
+9 Identity & Access management  Chapter 8  Quiz 8 Assignment 3 - due 
+10 Hardware and software controls  Chapter 9  Quiz 9  
+11 Shell scripting  Chapter 10  Quiz 10  
+12 Shell scripting  Chapter 10  Quiz1 1  
+13 Incident handling  Chapter 11  Quiz 1 2  Assignment 4 - due 
+14 Incident analysis  Chapter 12     
+15 Policies  Chapter 13 & 14      
+16 Final Exam [1 5%] 
+ 

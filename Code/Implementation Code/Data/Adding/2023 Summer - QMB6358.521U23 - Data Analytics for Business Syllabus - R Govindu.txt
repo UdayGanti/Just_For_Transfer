@@ -1,0 +1,743 @@
+1  
+ 
+ 
+ 
+QMB 6358: Data Analytics for Business  
+CRN: 50055 , Section #521 ( Hybrid section), 3 Credit Hours  
+ 
+COURSE SYLLABUS  
+ 
+Semester: Summer C  2023 
+ 
+Mandatory In-Class Instruction : Week s 1, 4, and 9  (5/20, 6/10, and 7/15) 
+Time: Saturday  (5/20, 6/10, and 7/15 ) 8:30 am  – 12:30 pm 
+In-Class Meeting Location: USF Sarasota -Manatee Campus  Building -Room: SMC -B229  
+ 
+Asynchronous Learning : Weeks 2 , 3, 5, 6, 7, and 8  (5/27, 6/3, 6/17, 6/24, 7/1, and 7/ 8)  
+Students can choose to complete the rest of the course asynchronously if that is how they want to learn.  
+Recordings for the week will be made available by 2 p.m. on Saturday s, on the dates indicated above .  
+Optional Synchronous Live Instruction (on M S Teams):  Weeks 2, 3, 5, 6, 7, and 8 ( 5/27, 6/3, 
+6/17, 6/24, 7/1, and 7/ 8)   
+However, as a few students requested , and given the nature of the subject  and challenges  students face,  
+I can potentially hold synchronous live classes on Microsoft Teams  with hands -on demonstrations  for 
+interested students . Students who believe they learn better through live sessions  are more than welcome 
+to attend s ynchronous live sessions to learn the subje ct. A survey will be conducted to determine student 
+interest in live sessions on the 1st day of class  on Saturday 5/20.  
+Optional Online Class  Meeting Day s: Saturday  (5/27, 6/3, 6/17, 6/24, 7/1  & 7/8) 7-9 am  
+Optional Online Class Meeting Location: Synchronous L ive Session on Microsoft Teams   
+ 
+Instructor:  Dr. Ramakrishna Govindu , Assistant Professor of Instruction  
+Office Location:  USF Sarasota -Manatee Campus   Building -Room:  SMC -C229  
+Office Hours:  To be held remotely on Microsoft Teams – Schedule  to be announced  on Canvas.  
+Email:  RGovindu@usf.edu  
+ 
+Note:  This is a 3-credit hour course. A 3-credit hour course means  3 hours per week of in -class instruction over 
+a 15-week semester. Since this course is held over summer C semester and runs over 9 weeks, it will be 4 hours 
+per week of in -class instruction over a 9-week term. Time for course preparation and reading assignments; 
+and time for completing homework assignments, quizzes, and exams will be outs ide of instructional time just 
+like any other course students take.  
+ 
+I. Welcome!  
+Dear Students, Welcome to the new  semester. Organizations these days are collecting massive 
+amounts of data. Companies that exploit data through analytics in making business decisions tend 
+to outperform others and make a lot of money leading to long term success. In this “ Data Analytics 
+for Business ” course; you will learn to utilize several tools and techniques focusing on Descriptive 
+Analytics, Visualizations, and Predictive Analytics including Data mining, and Classification.  This 
+course integrates Excel , R, and several other analytics tools . You w ill learn to acquire critical 
+ 
+ 
+2 thinking , problem solving, analytical skills that would help you throughout your career in business 
+and industry. When mastered, and through practice and experience,  these skills can help students 
+to get into high paying jobs.  
+ 
+II. University Course Description  
+“This course will introduce  data analytics for managers. It is targeted for MBA students and provides an 
+overview of data collection, visualization,  and business dashboards, as well as classification models on 
+customer data. ”   
+ 
+III. Course Prerequisites  
+QMB 6305: Managerial Decision Ana lysis with a minimum grade of C  
+ 
+IV. Course Purpose   
+This is a second course in data analytics for graduate students and assumes that you have basic 
+knowledge of statistics. For that reason, QMB 6305: Managerial Decision Analysis is a prerequisite for 
+this course. It is important that students review basic concepts of statistics to be prepared to learn the 
+content in this course ( this is especially true for students who might have forgotten statistics) . While we 
+will do a quick review of some  of the concepts , the focus  of this course is on the application of statistics 
+and analytics methods for solving real -world data  problems.  So, the focus of the course will be on 
+applications utilizing several software tools. S o, please be sure that you make effective use of the first 
+few weeks at the beginning of this course  to catch up on the basics of statistics . The purpose of QMB 
+6358 is to help students (who are current and future Business Managers) acquire skills in applying 
+statistical tools / techniques for dat a-driven business analytics and decision making. In particular, the 
+course emphasizes and prepares students to “learn,” “interpret,” and “be ready to apply” the concepts 
+and methods, rather than learn to do calculations alone , in areas such as  Descriptive Analytics, 
+Visualizations, and Predictive Analytics including Datamining, and Classification.  
+ 
+V. Course Topics  
+a. Descriptive Statistics  
+b. Visualization  
+c. Data Management & Cleaning Strategies  
+d. Estimation and Statistical Inference  
+e. Regression Analysis and Model building  
+f. Descriptive and Predictive Data Mining  
+g. Time Series Analysis & Forecasting  
+h. Spreadsheet Modeling  
+ 
+VI. Student Learning Outcomes  
+At the conclusion of this course the successful student is expected to : 
+a. Learn concepts and met hods related to descriptive analytics  and visualizations.  
+b. Learn concepts and methods relat ed to predictive analytics, statistical modeling, and statistical 
+data mining.  
+c. Learn  to use several tools such as Excel, R, Tableau, and others to perform analyses in  descriptive 
+analytics, visualizations, predictive analytics, and datamining.  
+d. Learn to implement methods on real world data using state -of-the-art software tools and  be able 
+to extract and communicate useful information for the decision makers.  
+ 
+VII. Required Texts and/or Readings and Course Materials  
+• Business Analytics  | 5th Edition by Jeffrey D. Camm/James J. Cochran/Michael J. Fry/Jeffrey W. 
+Ohlmann, CENGAGE, ISBN: 9780357693933   
+ 
+3 Please note: Cengage has informed me that students must choose the  Cengage Unlimited  option.  
+• In this course we use “Microsoft Excel” extensively . Usage of other spreadsheet applications such 
+as Google Sheets, OpenOffice, and others is not acceptable. If you do not  have Microsoft Office on 
+your system, as a student of USF you are allowed free download and installation of Microsoft 
+Office for persona l use. Check out the info at: 
+https://www.usf.edu/it/documentation/office365/personal -download.aspx . 
+ 
+VIII. Supplementary (Optional) Texts and  Materials  
+Additional supplementary (optional) documents may be posted on Canvas if and as needed for the 
+benefit of students. These documents will help students expand their knowledge. However, students 
+will not be tested on the content.  
+ 
+IX. How to Succeed in this Course  
+There is no way to do well in the course without learning. Just follow all the instructions and 
+directions provided in the detailed schedule in this document and in weekly communications. 
+Always be on time with learning and complete all the tasks on time. Follow the process steps as 
+outlined here. Do not skip any step or short -circuit the process in anyway.  
+i. Complete the reading assignments before class by Friday every week.  
+ii. Attend all in -class meetings on 5/20, 6/10, and 7/15 the ent ire duration. Given the nature of 
+the subject,  students find the course to be challenging. To help students learn well and do 
+well, I will be holding classes Live on Microsoft Teams 8:30 am – 12:30 pm  on Satur days  we do 
+not meet on campus in Sarasota. It i s important that students take advantage of the same, 
+learn better and do well in the course.  These sessions include demonstrations and will be 
+recorded.  
+iii. Practice solving the solved example problems demonstrated in  the course on your own first. If 
+you can solve those problems correctly on your own, that is an indication that learning has 
+happened.  
+iv. Start working on homework assignment problems soon the HW is opened  which should 
+happen before Saturday ends . The sooner you get started, the more time you will have to 
+work on them  and t o seek help if and as needed. Do not wait until the day of submission or 
+even the final hours to get started on HW assignments. Submit your homework report well 
+before the deadline,  typically 11:59 p.m. the following Friday ( see the detailed schedule in 
+this document for the deadlines).  
+v. Complete all the tasks assigned on time . No late submissions are allowed  on this course for 
+any reason . HW assignments is where you learn. Do not  miss work and lose points 
+unnecessarily.  Students must meet all the deadlines for their own benefit and learning.  
+vi. Attend Office Hour sessions to be held on Teams to get help if and as needed . Schedule for 
+Office Hours will be announced during week 1 . 
+vii. Give yourself plenty of time on Projects . Submit them on time. No late submissions are allowed. 
+You must follow all the instructions and do a thorough and rigorous job on them to get good 
+grades in the course. Seek help during office hours on Teams if and as needed. If you follow the 
+above advice , you will do well.  
+ 
+X. Academic Continuity  
+During any semester, there is a possibility the course may be disrupted, whether due to continued 
+pandemic or hurricane season. If the university transitions  to remote instruction , classes will be held via 
+live, synchronous sessions using Microsoft Teams  and attendance  will be required just like in regular 
+classes. You will find the Teams sessions links on your USF Email calendar and Microsoft Teams calendar. 
+All course material will be in our course on Canvas.  
+  
+ 
+4 XI. Communication  
+I will communicate with you through Emails from Canvas Inbox. You must also communicate with the 
+instructor through E -mails from Canvas Inbox. You will find information on tone and etiquet te when 
+communicating under “Course Policies: Technology and Media .” I should be able to respond to your e -
+mails within a day or two at the max  depending on weekday/weekends . It can be a bit longer if I am 
+travelling and out of network reach. But I will do  my best to respond to you as quickly as I can.  
+ 
+XII. Grading Scale  
+ 
+Grading Scale (%)   
+97 – 100%  A+  
+93 – < 97% A  
+90 – < 93% A-  
+87 – < 90 % B+  
+83 –  < 87 % B  
+80 –  < 83% B-  
+77 – < 80 % C+  
+73 – < 77% C  
+70 – < 73%  C-  
+67 – < 70 % D+  
+63 – < 67% D  
+60 – < 63% D-  
+0 – < 60 % F  
+ 
+It is mandatory that students  must  complete both Project #1 and Project #2 and do well on them to 
+earn a final  passing grade in the course.  
+ 
+Your score determines your grade. No individual requests for grade adjustments shall be entertained .  
+ 
+XIII. Grade Categories and Weights  
+ 
+Assessment  Weights (% of Final Grade)  
+Attendance & C ourse  Participation  5% 
+Homework Assignments  (Individual Task ) 45% 
+Project #1 – Visualization Project  (Individual Task ) 20% 
+Project #2 – Analytics Project  (Individual Task)  30% 
+      Total        100%  
+ 
+XIV. Additional Details on the Course Assignments and Grading Policies  
+ 
+ATTENDANCE & COURSE PARTICIPATION:  
+Attendance and Course participation on Canvas on the weeks we meet in class (5/20, 6/10, and 7/15) is 
+mandatory . To earn points attendance and class participation points, students must attend the three 
+mandatory meetings in class and for the entire class duration. Studen ts who do attend all three 
+mandatory meetings the entire time will earn two additional points for a total of 5% of the course final 
+grade. Students who miss one or mandatory meetings  or attend class only for partial session  will lose 
+points  for the missed sessions and will not earn the extra two points . How many points students lose will 
+depend on their attendance and class participation on those mandatory meeting dates. Every class you 
+attend, attend the entire duration of the class. Students must engage t hemselves with the course  
+ 
+5 content through active participation . The nature of the course is such, and there is also compelling 
+evidence  that students who participate  learn in a systematic manner in the course every week end up 
+learning the subject matter b etter and earn good grades.  
+ 
+The rest of the six weeks (5/27, 6/3, 6/17, 6/24, 7/1, and 7/8)  students can learn asynchronously if they 
+wish  through r ecordings to be posted on a weekly basis by Saturday 2 pm on the dates indicated. 
+However, as a few students requested , I will be holding OPTIONAL Synchronous Live Sessions on 
+Microsoft Teams meetings. Students are NOT REQUIRED TO ATTEND THEM but have the option to do so, 
+if they think live sessions help them to learn better as opposed to asynchronous le arning . We will be 
+doing a lot of hands -on tasks in this course , and students can get the help they need on the spot without 
+needing to wait for the next Office Hour Teams session . Please note, I am doing so only to help students 
+who have requested me to d o so during  the Spring semester.  I will survey the class on Saturday 5/20 to 
+see how many students are still interested. If I happen to hold these sessions , they will be recorded in 
+their entirety  and t he recordings will be available to all s tudents . There  will be no penalties for not 
+attending them. But students have a whole lot to gain  if they attend  because I will be available to help 
+students learn better  through hands -on activities .  
+ 
+READING ASSIGNMENTS:  
+Reading Assignments as indicated in the course schedule is mandatory. Read the chapters prior to 
+attending the class. As you read the chapters, work out the solved example problems . Doing so will help 
+you learn and understand the content better . If you complete the reading assignments before attending 
+the class, you will learn the subject much better.  
+ 
+HOMEWORK ASSIGNMENTS:  
+All homework assignments are individual tasks. Every week specific topics will be covered along with 
+solved example problems. Homework will be assigned around 10 p.m. if no t earlier on the day of class 
+(Saturday) that consists of a set of problems like the solved example problems discussed in class/on 
+PPT files/and in demonstrations. You will have sufficient time as indicated on the detailed schedule 
+to solve the problems an d to submit a Report. Instructions will be provided on each assignment. 
+Submit your report on Canvas before the due date and time indicated.  
+ 
+The strict deadline for HW submission will be 11:59 p.m. US Eastern as indicated on Canvas. For your 
+convenience,  they are also listed in the Detailed Course Schedule at the end of this document. There 
+will be no extension of due dates. No late submissions will ever be allowed. Be prepared to lose HW 
+points if the Report is not turned in before the deadline. No e -mail submissions or hard -copy 
+submissions are accepted. All HW scores shall count towards final grade. Homework Reports will be 
+graded for Relevancy and Completeness but not for Accuracy. If the submissions are on time, 
+relevant, complete, and all the problem s are solved, you get full points. Irrelevant solutions will earn 
+you zero points. You will get partial credit for partial/incomplete solutions and submissions. HW 
+report must demonstrate student’s own work. If any HW reports are found to be copied, all th e 
+students who helped and/or received help shall be treated as violators, will receive zero points, and 
+be reported for academic dishonesty. Please remember that solving Homework Assignments on your 
+own is the most crucial step in learning to acquire skill s. Colluding with classmates and other 
+students/people, using external resources, tutors, tutoring websites such as Chegg.com … etc., and 
+all other modes of cheating is strictly prohibited. Submitting work of tutors and classmates (as  your 
+own), and report s from tutoring websites such as Chegg.com … etc., and all other modes of cheating 
+is strictly prohibited. Violators will receive zero points and be reported for academic dishonesty. 
+Academic dishonesty will be dealt with very strictly under university pol icies.  
+ 
+PROJECTS :  
+ 
+6 There will be two individual projects to be completed in this course – a Visualization Project, and an 
+Analytics Project as indicated in the course schedule. On these projects students will complete assigned 
+tasks  following all the instructions provided. Students will prepare reports and may be asked to create 
+short demo video recordings demonstrating their skills. All the necessary instructions will be provided 
+when the tasks are assigned in due course.  
+ 
+The focus  of the Visualization Project is for students to demonstrate their skills in communicating with 
+data. In this course students will learn powerful data visualization tools to create numerical, tabular, 
+graphical, and dashboard summary visualizations. Studen ts will apply the same on specific datasets , 
+create a narrative , tell the story  in a short video recording, prepare,  and submit a report. To that end, 
+students will identify and utilize data sets based on their own interest and utilize the tools they  learn in 
+this course. Be creative and have fun with this project. As you complete the first few HW assignments, 
+you will get much better idea of the methods and tools you would be learning. Further instructions on 
+the Project and a rubric for evaluation w ill be provided after 4 weeks into the course . Students must 
+discuss their dataset and what they plan to do  in the project with the professor and get prior approval at 
+the latest by the end of week 4. 
+ 
+The focus of the Analytics Project will be for student s to demonstrate their skills in performing analytics 
+on business data. In the second half of the course, students would learn to apply powerful predictive 
+analytics techniques on business data focusing on regression, datamining, and time series methods on  
+business data. Students will apply the same on specific datasets , create a narrative , tell the story in a 
+short video recording, prepare,  and submit a report. To that end, students will identify and utilize 
+data sets based on their own interest and utilize  the tools they learn in this course. Be creative and have 
+fun with this project. As you complete the HW assignments in the predictive analytics area, you will get 
+much better idea of the methods and tools you would be learning. Further instructions on the  Project 
+and a rubric for evaluation will be provided after  8 week s into the course. Students must discuss their 
+dataset and what they plan to do  in the project with the professor and get prior approval at the  latest by 
+the end of week 8.  
+ 
+XV. Instructor Feedback Policy & Grade Dissemination  
+ 
+All submissions happen on Canvas. The instructor  will respond to email communication relevant to the 
+subject matter within 48 hours of the date received.  
+ 
+Any feedback will be provided on Canvas. Please n ote given the nature of the course, grading takes 
+considerable time. Grades and comments (as appropriate) for Homework assignments and Projects  will 
+be posted on Canvas typically within 1 -2 weeks past the respective due dates. If any delays happen 
+beyond t hat time  due to unforeseen circumstances, students will be informed of the possible delays 
+through e -mail. You can access your scores at any time using "Gradebook" in Canvas after they are 
+posted.  
+   
+ 
+7 XVI. Course Schedule . (* Note: Th is Schedule is subject to revision if and as needed)  
+ 
+In this course, Satur day is the class meeting day, and Satur day-thru -Friday is treated as the week.   
+Week  Date  Description  
+1 5/20  
+(Week of 
+5/20–5/26) Assignment :  
+• HOMEWORK #0 (personal introduction – due: before 11:59 p.m. Thurs day, 5/18 ) 
+• Read ing Assignment: Read Textbook Chapter 1: Introduction to Business Analytics & 
+Chapter 2: Descriptive Statistics  (by Friday, 5/19 ) 
+Topic: Introduction, Syllabus, Course Outline  
+Topic s: Introduction to Business Analytics & Descriptive Statistics  – REVIEW  
+Assignment :  
+• Reading Assignment: Read Chapter 2: Descriptive Statistics & Chapter 4: Data 
+Wrangling: Data Management & Data Cleaning Strategies  (by Friday, 5/26)  
+2 5/27 
+(Week of 
+5/27–6/2) Topic s: Descriptive Statistics  – REVIEW  (continued …)  & Data Wrangling  
+Assignment :  
+• HOMEWORK # 1 (due: before 11:59 p.m. Friday, 6/2)  
+• Reading Assignment: Textbook Chapter 3: Data Visualization (by Friday, 6/2) 
+3 6/3 
+(Week of 
+6/3–6/9) Topic: Data Visualization  
+Assignment :   
+• HOMEWORK # 2 (due: before 11:59 p.m. Friday, 6/9) 
+• Reading Assignment: Textbook Chapter 6: Descriptive Data Mining  (by Friday, 6/9) 
+4 6/10  
+(Week of 
+6/10–6/16) Topic s: Descriptive Data Mining  
+Assignment :   
+• HOMEWORK # 3 (due: before 11:59 p.m. Friday, 6/16) 
+• Reading Assignment: Textbook Chapter 5: Probability : An Introduction to Modeling 
+Uncertainty  & Chapter 7: Statistical Inference  (by Friday (6/ 16) 
+5 6/17 
+(Week s of 
+6/17–6/23) Topic: Probability Distributions, Estimation & Statistical Inference – REVIEW  
+Assignment :   
+• Project #1: Visualization Project  (due: before 11:59 p.m. Friday, 6/23) 
+• Reading Assignment:  Textbook Chapter 8: Linear Regression  (by Friday, 6/23) 
+6 6/24 
+(Week of 
+6/24–6/30) Topic:  Linear Regression  
+Assignment :  
+• HOMEWORK # 4 (due: before 11:59 p.m. Friday, 6/30 ) 
+• Reading Assignment:  Textbook Chapter 10: Predictive Data Mining : Regression Tasks  
+(by Friday, 6/30)  
+ 
+8 Week  Date  Description  
+7 7/1 
+(Week of 
+7/1–7/7) Topic: Predictive Data Mining - Regression Methods  
+Assignment :  
+• HOMEWORK # 5 (due: before 11:59 p.m. Friday, 7/7)  
+• Reading Assignment:  Textbook Chapter 1 1: Predictive Data Mining : Classification Tasks  
+(by Friday, 7/7) 
+8 7/8 
+(Week of 
+7/8–7/14 Topic: Predictive Data Mining - Classification Methods  
+Assignment :  
+• HOMEWORK # 6 (due: before 11:59 p.m. Friday, 7/14 )  
+• Reading Assignment: Textbook Chapter 9: Time Series Analysis & Forecasting  and 
+Textbook Chapter 12: Spreadsheet Models  (by Friday, 7/14 ) 
+9 7/15 
+(Week of 
+7/15–7/21) Topic: Time Series Analysis & Forecasting  & Spreadsheet Models   
+Assignment :  
+• Project #2: Analytics Project ( due: before 11:59 p.m. Friday, 7/21)  
+ 8/2 Final Grade is reported to USF by 11:59 p.m. Tuesday, 8/1 and will be posted on Canvas 
+Grade Book before 11:59 p.m. Wednesday, 8/2  
+ 8/11  Grades visible in OASIS on 8/11  
+ 
+ 
+ 
+   
+ 
+9 XVII. USF Core Syllabus Policies  
+USF has a set of central policies related to  student recording class sessions,  academic integrity and 
+grievances, student accessibility services, academic disruption, religious observances, academic 
+continuity, food insecurity, and sexual harassment  that apply to all courses  at USF . Be sure to review 
+these online: usf.edu/provost/faculty -success/resources -policies -forms/core -syllabus -policy -
+statements.aspx     
+ 
+XVIII.  Course Policies: Gra des  
+ 
+Online Proctoring: It is possible that some of the tasks within this course will require online proctoring. 
+If so, those tasks will be administered using an online  proctoring tool - Honorlock . Keeping the audio and 
+video (microphone and camera) on during such tasks  is necessary . Therefore, students will be required 
+to have a webcam (USB or internal) with a microphone when taking an exam or quiz. Students 
+understand that this remote recording d evice is purchased and controlled by the student and that 
+recordings from any private residence must be done with the permission of any person residing in the 
+residence. To avoid any concerns in this regard, students should select private spaces for the te sting. 
+The University library and other academic sites at the University offer secure private settings for 
+recordings, and students with concerns may discuss the location of an appropriate space for the 
+recordings with their instructor or advisor. Students  must ensure that any recordings do not invade any 
+third -party privacy rights and accept all responsibility and liability for violations of any third -party 
+privacy concerns. Setup information will be provided prior to taking the proctored exam. For additio nal 
+information about online proctoring, you can visit the online proctoring student FAQ at:  
+http://www.usf.edu/innovative -education/resources/student -services/online -proctoring.aspx  
+    
+Late Work Policy : No late work will be allowed on this course be it for HW assignments  and Projects . 
+Student acquisition of knowledge in this course happens cumulatively. The nature of  the course is such 
+that student learning of topics must happen on a weekly basis as scheduled. Otherwise, it will affect 
+learning in  the subsequent weeks. All the due dates for the tasks in this course are announced on day 1. 
+It is the responsibility of s tudents to submit their work well ahead of time and to meet all the deadlines. 
+If proper, correct, and valid submissions do not happen before the respective deadlines; zero points will 
+be recorded for the task. The only exception to this policy will be doc umented medical emergencies (if 
+any) for the student needing medical attention with proper medical / hospitalization certificate. As all 
+the dates have been announced at the beginning of the semester, being on office trip, or on vacation, or 
+on cruise, or forgetfulness, or being late by a second will not qualify for any exceptions or concessions as 
+far as the assignment submissions go. Assignments not submitted on time mean assignment was not 
+turned in and will earn a zero credit.  
+ 
+Extra Credit Policy : Ther e will be No Extra Credit offered in this course.  There is no need to do any 
+extra work on this course. Just do what you have been assigned on time  without missing  the deadlines 
+to become eligible for the grade. Every task (HW assignments and Projects ) assigned in this course shall 
+count towards your grade. If you fail to meet the deadline, zero points will be assigned for that task. No 
+exceptions. Any exception wil l be made ONLY for medical emergencies / hospitalizations of the student 
+with proper official documentation from the doctor/hospital.  
+ 
+Grades of "Incomplete" : Students cannot demand an “I” grade as they wish. If any student is not 
+earning good grades, tha t cannot become a basis for asking for an “I” Grade. In such cases “I” grade 
+cannot be awarded. It can be requested only under exceptional circumstances for valid reasons and a 
+decision will be made based on USF policy.  
+The current university policy conce rning incomplete grades will be followed in this course.  
+For undergraduate courses:  An “I” grade may be awarded to a student only when a small portion 
+of the student’s work is incomplete and only when the student is otherwise earning a passing  
+ 
+10 grade . The t ime limit for removing the “I” is to be set by the instructor of the course. For 
+undergraduate students, this time limit may not exceed two academic semesters, whether  the 
+student is in residence, and/or graduation, whichever comes first. For graduate stud ents, this time 
+limit may not exceed one academic semester. “I” grades not removed by the end of the time limit 
+will be changed to “IF” or “IU,” whichever is appropriate.  
+For graduate courses:  An Incomplete grade ( "I") is exceptional and granted at the ins tructor’s 
+discretion only when students are unable to complete course requirements due to illness or other 
+circumstances beyond their control. The course instructor and student must complete and sign the 
+"I" Grade Contract Form that describes the work to b e completed, the date it is due, and the grade 
+the student would earn factoring in a zero for all incomplete assignments. The due date can be 
+negotiated and extended by student/instructor if it does not exceed two semesters for 
+undergraduate courses and on e semester for graduate courses from the original date grades were 
+due for that course. An "I" grade not cleared within the two semesters for undergraduate courses 
+and one semester for graduate courses (including summer semester) will revert to the grade n oted 
+on the contract.  
+ 
+Rewrite Policy : There will be no rewrites to this course. Students can submit their HW reports and 
+Project reports multiple times, but all the submissions must happen only before the set deadline (and 
+not after).  The final submission before the deadline is what will be graded.  
+ 
+Make -up Assignment  Policy : There will be No Make -up assignments/projects  in this course. It is the 
+student responsibility to adjust their schedules to submit their reports for HW assignment s and Projects 
+before the respective deadlines . No change of dates will be entertained unless there is absolutely an 
+exceptional circumstance at student’s end and for documented medical emergencies and only if student 
+has notified the instructor in advance  and certainly not after the deadline passes. As all the dates have 
+been announced at the beginning of the semester, being on office trip, or on vacation, or on cruise, or 
+forgetfulness, or being late will not qualify for any exceptions or concessions. If the tasks are not 
+submitted on time, zero points will be recorded.  
+ 
+Assignment/Project Retention Policy : Not applicable for this course . Student submission s happen on 
+Canvas so there will be an electronic record. So, whatever USF policy is for Canvas cours e retention that 
+applies for the course.  
+ 
+Essay Commentary Policy : Not applicable.  
+ 
+Group Work Policy : All the tasks in the course – HW assignments and Projects are individual tasks. No 
+group work will be allowed on this course. If students engage in any group work, that would be 
+plagiarism. In such instances, action will be taken on students based on USF policy on academic integrity 
+violation.  
+ 
+Final Examinations Policy : In this course there are no exams. But only individual projects to be 
+completed alon g with reports . 
+ 
+Campus Free Expression: It is fundamental to the University of South Florida’s mission to support an 
+environment where divergent ideas, theories, and philosophies can be openly exchanged and critically 
+evaluated. Consistent with these principles, this course may involve discussio n of ideas that you find 
+uncomfortable, disagreeable, or even offensive.  
+ 
+In the instructional setting, ideas are intended to be presented in an objective manner and not as an 
+endorsement of what you should personally believe. Objective means that the ide a(s) presented can  
+ 
+11 be tested by critical peer review and rigorous debate, and that the idea(s) is supported by credible 
+research.  
+ 
+Not all ideas can be supported by objective methods or criteria. Regardless, you may decide that 
+certain ideas are worthy of  your personal belief. In this course, however, you may be asked to engage 
+with complex ideas and to demonstrate an understanding of the ideas. Understanding an idea does 
+not mean that you are required to believe it or agree with it.  
+ 
+XIX. Course Policies: Tech nology and Media  
+ 
+Email : I am Dr. Ramakrishna Govindu, and I will be your instructor for this course. My e -mail address is: 
+RGovindu@usf.edu . If you are e -mailing me, as a courtesy, please commence your email with a greeting 
+such as “Dear Dr. Govindu,” “Hello Dr. Govindu,” or “Dr. Govindu.” Please write the appropriate subject 
+and please print your name  at th e bottom of the email.  
+ 
+How to communicate with me  
+Sending an e -mail would be the best way to approach me. Should you need help with the course, we can 
+set up time to discuss remotely on Teams at mutual convenience. Meanwhile, you can email me with 
+the questions, and I may be able to clarify your questions through an e -mail. If at all needed, we can set 
+up an appointment at mutual convenience for a tele -conversation and if possible and required a 
+Microsoft Teams meeting.   
+ 
+How NOT to communicate with me  
+• Please do not  post questions in the comments section of Canvas homework submissions. I will not 
+read your comments until I sit down to grade your assignment.  
+• Please do not  email me from a non -USF email account.  
+• Please do not  submit deliverables to me by e-mail. It will be treated as a non -submission.  
+• Please do not  reply to an email that I sent  to the entire class without changing the subject unless 
+your question is about that subject. If you are using the “Reply” button to get my email address in 
+the “To” l ine, please change the subject line and delete all previous text from that email, if your 
+email pertains to something else. In which case it is better to not use the “reply” button and just 
+start a fresh email.  
+ 
+How will I communicate with you?  
+I will use the Canvas messaging utility to send you all emails pertaining to the course. So, you must check 
+your USF mail account (and/or your e -mail where you receive USF e -mails by default). Whenever a 
+student asks a question and I reply directly to that student. I f and where the student question and my 
+reply are especially important  for the rest of the class to know, I will send out a mass e -mail, hiding the 
+student identity. Students over the years found such input  quite beneficial for them.  
+ 
+When students send me e -mails, I get them in my USF e -mail Inbox, and I will reply through my USF e -
+mail. If I am sending e -mails, I will use Canvas messaging feature to send e -mails. You should also do the 
+same. I deal with hundred to two hundred students  in regular semesters  typically and I receive hundreds 
+of e-mails  every day . When you send e -mails through Canvas, I will know  who you are, in which course 
+of mine you are in, I will understand the context for the question, and what is it that you are aski ng and 
+why. That will help me to respond quickly. Otherwise, it could take a little longer. I respond very quickly 
+– sometimes within minutes, sometimes within a few hours, sometimes within a day or so depending on 
+the nature and importance of communicatio n, circumstances, and the situation at my end. I respond on 
+weekends too. But expect the response times to be longer if it is weekends and if I am travelling. But be 
+assured I will respond, and I will respond to student e -mails very quickly as I am able to .  
+ 
+12  
+Do not send me e -mails on technological issues at your end. If the issues at your end are technology 
+related you must reach out to USF IT Helpdesk, Canvas Helpdesk, and/or Honorlock  Helpdesk depending 
+on the issue, and they will help you immediately. I will not  be able to resolve your technology issues.  
+ 
+Canvas : Describe how you will use Canvas in the course, how often students should expect to login, how 
+team activities will be organized, due dates, policies on late participation, etc.  
+Example: This course will be offered via USF's learning management system (LMS), Canvas. If you 
+need help learning how to perform various tasks related to this course or other courses being 
+offered in Canvas, please view Canvas videos, or consult the Canva s help guides. If new to Canvas, 
+read this guide . You may also contact USF's IT department at (813) 974 -1222 or help@usf.edu . 
+ 
+Honorlock: In this course, we may use Honorlock  on a few tasks. If we do, students will be informed of 
+the same. If we have any tasks on Honorlock, s tudents are therefore required to have a webcam with a 
+microphone (either USB or mounted into your computer).   
+All students must review the syllabus and the requirements, including the online terms and video testing 
+requirements, to determine if they wish to remain on the course. Enrollment in the course is an 
+agreement to abide by and accept all terms. Any student may elect to drop or withdraw from this course 
+before the end of the drop/add period.  
+Online exams and quizzes within this course may require online proctor ing. Therefore, students will be 
+required to have a webcam (USB or internal) with a microphone when taking an exam or quiz. Students 
+understand that this remote recording device is purchased and controlled by the student and that 
+recordings from any privat e residence must be done with the permission of any person residing in the 
+residence.  
+To avoid any concerns in this regard, students should select private spaces for the testing. The 
+University library and other academic sites at the University offer secur e private settings for recordings 
+and students with concerns may discuss location of an appropriate space for the recordings with their 
+instructor or advisor.  
+Students must ensure that any recordings do not invade any third -party privacy rights and accept all 
+responsibility and liability for violations of any third -party privacy concerns.  
+Students are strictly responsible for ensuring that they take all exams using a reliable computer and 
+high-speed internet connection. Setup information will be provided pr ior to taking the proctored exam. 
+To use Honorlock students are required to download and install the Honorlock Google Chrome 
+extension  (Links to an external site.) ." For additional information please visit the USF online 
+proctoring student FAQ  (Links to an external site.)  and Honorlock student resources  (Links to an 
+external site.) .  
+Students need to have access to a computer with the Chrome browser and can download the 
+Honorlock extensio n. Your system also needs webcam, and you need to present your ID (any Photo 
+ID would be enough you can simply use your USF ID) for verification to get into Honorlock Quizzes 
+and Exams.  
+ 
+Specific information / instructions will be provided in advance if an y Honorlock tasks are assigned.  
+For additional information about online proctoring, you can visit the online proctoring student FAQ.  
+  
+ 
+13 WhatsApp, GroupMe, and Student -to-Student Communication : While students may use digital 
+communication tools (WhatsApp, Gr oupMe, etc.) to communicate with fellow students, it is important 
+to remember that academic integrity policies still apply in these environments. Informing others about 
+the contents of tests is prohibited by the official regulation , as is receiving unauthorized information 
+about an examination. Students are expected and required to immediately report instances of such 
+violations to the instructor.  
+ 
+Laptop Usage:  You will need a proper laptop with a microphone  and webcam (either built -in or external) 
+for use on this course. Describe your policies for using laptops throughout your course. Whether you 
+dislike the use of laptops during your lecture, or whether you encourage using a laptop during 
+discussion, or wish for all students using laptops to sit in a particular region of the classroom, feel free to 
+state it here.  
+ 
+Classroom Devices/Student Recording:  Not applicable. Describe your policies for using calcul ators, tape 
+recorders, and other student -owned audio & technology devices for your course.  
+ 
+Phone Usage: Describe your policies for student phone use in class, including texting or surfing the 
+Internet. If you are using social media for a “backchannel” con versation, mention it here. If you would 
+prefer that students not take photos/video/audio recordings of you, or of the whiteboard notes at the 
+end of the class, state so here.   
+ 
+XX. Course Policies: Student Expectations  
+ 
+Attendance Policy:  In this course , Course Participation serves as attendance Policy. Please refer to the 
+section  on Course Participation.  
+ 
+Course Hero / Chegg Policy:  
+The USF Policy on Academic  Integrity  specifies that students may not use websites that enable 
+cheating, such as by uploading or downloading material for this purpose. This does apply specifically 
+to Chegg.com and CourseHero.com – any use of these websites (including uploading proprietary 
+materials) constitutes a violation of the academic integrity policy.  
+ 
+Professionalism Policy:  Complete your work and submit reports on time every time well before the 
+respective deadlines on assignments.  
+Per unive rsity policy and classroom etiquette, mobile phones, iPods, etc. must be silenced  during all 
+classroom and lab lectures. Those not heeding this rule will be asked to leave the classroom/lab 
+immediately to not disrupt the learning environment. Please arrive  on time for all class meetings. 
+Students who habitually disturb the class by talking, arriving late, etc., and have been warned may 
+suffer a reduction in their final class grade.  
+ 
+End of Semester Student Evaluations:   
+All classes at USF make use of an on line system for students to provide feedback to the University 
+regarding the course. These surveys will be made available at the end of the semester, and the 
+University will notify you by email when the response window opens. Your participation is highly 
+encouraged and valued.  
+ 
+Food and Drink Policy:  Not Applicable.  
+Example: Please adhere to the firm policy of no beverages (other than bottled/capped water), food, 
+tobacco products, or like items in the classroom. Your understanding of the necessity for this  policy 
+and cooperation will be greatly appreciated. This policy will be strictly enforced.   
+ 
+14  
+Turnitin.com:  In this course Turnitin service will be utilized for all the assignments to prevent plagiarism. 
+The University of South Florida has an account with an automated plagiarism detection service 
+which allows student assignments to be checked for plagiarism. Turnitin is an automated system 
+which instructors may use to compare each student’s assignment quickly and easily  with billions of 
+web sites, as well as an enormous database of student papers that grows with each submission. 
+Accordingly, you will be expected to submit all assignments in both hard copy and electronic format. 
+After the assignment is processed, as instr uctor I receive a report from turnitin.com that states if 
+and how another author’s work was used in the assignment. For a more detailed look at this process 
+visit http://www.turnitin.com .  
+ 
+Pursuant to the provisions of the Family Educational Rights and Privacy Act (FERPA), students are 
+requested to maintain confidentiality to keep their personal contact information (i.e., name, 
+address, telephone) from being disclosed to vendors or other out side agencies. By your submission, 
+you are also agreeing to release your original work for review for academic purposes to Turnitin. 
+ 
+To comply with privacy laws, students are not required to include personal identifying 
+information, such as name, in the body of the document. While submitting to Turnitin, PLEASE 
+REMOVE YOUR NAME FROM THE BODY OF YOUR PAPER AND REPLACE IT WITH YOUR USF ID#. 
+ALSO REMOVE YOUR NAME FROM THE FILE NAME AND REPLACE IT WITH YOUR USF ID# (e.g., 
+“U12345678 Essay 1.docx”) before subm itting.  
+ 
+Plagiarism:  
+Definition of plagiarism  in USF Regulation 3.027.   
+Plagiarism is intentionally or carelessly presenting the work of another as one’s own. It 
+includes submitting an assignment purporting to be the student’s original work which has 
+whol ly or in part been created by another person. It also includes the presentation of the work, 
+ideas, representations, or words of another person without customary and proper 
+acknowledgement of sources. Students must consult with their instructors for clarif ication in 
+any situation in which the need for documentation is an issue and will be plagiarized in any 
+situation in which their work is not properly documented.  
+a) Every direct quotation must be identified by quotation marks or appropriate indentation and 
+must be properly acknowledged by parenthetical citation in the text or in a footnote or 
+endnote.  
+b) When material from another source is paraphrased or summariz ed in whole or in part in 
+one’s own words, that source must be acknowledged in a footnote or endnote, or by 
+parenthetical citation in the text.  
+c) Information gained in reading or research that is not common professional knowledge must 
+be acknowledged in a  parenthetical citation in the text or in a footnote or endnote.  
+d) This prohibition includes, but is not limited to, the use of papers, reports, projects, and other 
+such materials prepared by someone else.  
+ 
+Netiquette Guidelines  
+1. Act professionally in the way you communicate. Treat your instructors and peers with respect, 
+the same way you would do in a face -to-face environment. Respect other people’s ideas and 
+be constructive when explaining your views about points you may not agree with.  
+2. Be sensiti ve. Be respectful and sensitive when sharing your ideas and opinions. There will be 
+people in your class with different linguistic backgrounds, political and religious beliefs, or 
+other general differences.   
+ 
+15 3. Proofread and check spelling. Doing this befo re sending an email or posting a thread on a 
+discussion board will allow you to make sure your message is clear and thoughtful. Avoid the 
+use of all capital letters, it can be perceived as if you are shouting, and it is more difficult to 
+read.  
+4. Keep you r communications focused and stay on topic. Complete your ideas before changing 
+the subject. By keeping the message on focus you allow the readers to easily get your idea or 
+answers they are looking for.  
+5. Be clear with your message. Avoid using humor or  sarcasm. Since people cannot  see your 
+expressions or hear your tone of voice, meaning can be misinterpreted.  
+ 
+XXI. Learning Support and Campus Offices  
+ 
+Academic Accommodations  
+Students with disabilities are responsible for registering with Student Accessibility Services (SAS) 
+to receive academic accommodation . For additional information about academic accommodations 
+and resources, you can visit the SAS website.  
+SAS website for the Tampa and Sarasota -Manatee campuses.  
+SAS website for the St. Pete campus.  
+ 
+Academic Support Services  
+The USF Office of Student Success coordinates and promotes university -wide efforts to enhance 
+undergraduate and graduate student success.  For a com prehensive list of academic support 
+services available to all USF students, please visit the Office of Student Success website . 
+ 
+Canvas Technical Support  
+Include information about  where students can find technical support.  
+If you have technical difficulties in Canvas, you can find access to the Canvas guides and video 
+resources in the “Canvas Help” page on the homepage of your Canvas course. You can also c ontact 
+the help desk by calling 813 -974-1222 in Tampa or emailing help@usf.edu.  
+IT website for the Tampa campus.  
+IT website for the St. Pete campus.  
+IT website for the Sarasota -Manatee campus.  
+ 
+Center for Victim Advocacy  
+The Center for Victim Advocacy  empowers survivors of crime, violence, or abuse  
+by promoting the restoration of decision making, by advocating for their rights, and by  
+offering support and resources. Contact information is available online.  
+ 
+Counseling Center  
+The Counseling Center promotes the wellbeing of the campus community by  
+providing culturally sensitive counseling, consultation, prevention, and training that  
+enhances student academic and personal success. Contact information is available online.  
+Counseling Center website for the Tampa campus.  
+Counseling Center website for the St. Pete campus.  
+Counseling Center website for the Sarasota -Manatee campus.  
+ 
+Tutoring  
+The Tutoring Hub offers free tutoring in several subjects to USF undergraduates.   
+ 
+16 Appointments are recommended, but not required. For more information, email  
+asctampa@usf.edu .  
+Tutoring website for the Tampa campus.  
+Tutoring website for the St. Pete campus.  
+Tutoring website for the Sarasota -Manatee campus.  
+ 
+Writing Studio  
+Example : The Writing Studio is a free resource for USF undergraduate and graduate  
+students. At the Writing Studio, a trained writing consultant will work individually with  
+you, at any point in the writing process from brains torming to editing. Appointments are.  
+recommended, but not required. For more information or to make an appointment, email: 
+writingstudio@usf.edu .  
+Writing studio website for the Tampa campus.  
+Writing studio website for the St. Pete campus.  
+Writing studio website for the Sarasota -Manatee campus.  
+ 
+XXII. Important Dates to Remember  
+ 
+For important USF dates, see the Academic Calendar  at http://www.usf.edu/registrar/calendars/   
+Semester Classes Begin:    Mon , May 15 , 202 3 
+First Day of Class for our course:  Sat, May  20, 202 3 
+Last Day of Class for our course:  Sat, July 15 , 202 3 
+Project #2 ends:    Fri, July 21 , 202 3 
+Grades Visible in OASIS:   Fri, Aug 11, 202 2 
+ 

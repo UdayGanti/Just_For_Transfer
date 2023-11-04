@@ -1,0 +1,243 @@
+  
+QMB -2100   
+Business & Economic Statistics I  – Summer 20 23 
+  
+Instructor:          Kim Johnson , Ph.D.   
+E-mail:               kimj@usf.edu  
+Office:               CIS 20 54B  
+Office Hours :    By appointment  in person and via Teams  
+                           
+ 
+ 
+ 
+ 
+COURSE DESCRIPTION:  This is a Core course for all Business Majors.  
+Catalog Description of the course:  
+Data description; exploratory data analysis; introduction to probability; binomial and normal distributions; 
+sampling distributions; estimation with confidence intervals; tests of hypotheses; control charts for quality 
+improvement.  
+Purpose of the course:  
+The purpose of the course is to prepare students to appreciate the role statistics plays in data analysis and 
+decision making in various business environments. Being the first course, it focuses on Descriptive Statistics, 
+Inferential Statistics, and Quality Control. In particular, this course covers descriptive statistics and then 
+introduces the concepts and metho ds of: probability, probability distributions, sampling distributions, 
+estimation, hypothesis testing, inference, and control charts for quality improvement.    
+Learning Goals  
+This course is part of the University of South Florida’s Foundations of Knowledge  and Learning Core 
+Curriculum.   It is certified for Quantitative Reasoning and for the following dimensions:   Critical Thinking, 
+Inquiry -based Learning, Scientific Process, and Quantitative Literacy.  
+ 
+COURSE STUDENT LEARNING GOALS :  At the conclusion of th e course students should:  
+1. Understand the concepts of data collection, summary statistics, and statistical inferential techniques and be able to 
+apply these concepts; they will use real data to make inferences about populations based on sample information.  
+2. Be able to differentiate between the two types of statistical techniques and be able to apply them.  
+3. Be clear on what constitutes ethical data analysis and what uses of statistical data analysis are misleading.  
+4. Be able to graphically summarize data and ass ess central tendency and variation.  
+5. Be able to make good decisions based on basic probability techniques.  
+6. Learn about discrete and continuous probability distributions and be able to read and utilize basic statistical tables.  
+7. Become proficient at working with sampling distributions and the Central Limit Theorem.  
+8. Be able to compute and interpret point and confidence interval estimates.  
+9. Be able to conduct hypothesis tests, draw inferences, and appreciate the importance of statistical inference.  
+10. Learn  the concepts of process control, the role of statistics, and how to construct and use control charts for quality 
+improvement.  
+ 
+ 
+ 
+ 
+ 
+ 
+MATERIALS  
+(Required) Statistics for Business & Economics  (13th or 14th edition ), Pearson Education, McClave , Benson, 
+and Sincich. Copies of this text are available for purchase at the USF Bookstore  and other  retailers. Both a hard 
+copy and an electronic version are available.   
+ 
+(Required) STATISTIX 10.0  This software can be purchased for Windows only. It is  also available for free 
+using the apps.usf.edu gateway (Mac or Windows) . It is highly recommended  that you purchase and install 
+this software on your laptop or one that is available to you. Application Gateway can be problematic, and 
+students are responsible for having reliable access to the STATISTIX program. Issues relating to the 
+Application Gateway should be directed to USF Information Technology ( https://www.usf.edu/it/ ), NOT THE 
+INSTRUCTOR OR THE TAs.  
+ 
+ 
+ 
+ 
+COURSE POLICIES   
+ 
+Format  
+This course will be conducted entirely online in an asynchronous manner. Weekly Modules will be p ublished , 
+and you will be responsible for completing that week’s assignments by Saturday  at 11:59pm at the end of each 
+week . You will watch two recorded lectures and then complete a test or  an assignment.  
+ 
+All of the week’s lectures and assignments will be posted  to Canvas by the end of the day on the Saturday 
+preceding that week, giving you through the following Saturday to watch the lectures and complete the work. 
+Occasionally the material may be posted in advance and you will be  able to work ahead, but keep in mind that 
+this is not a “work at your own pace” course . You will need to be able to be “present” for the entire 10 weeks.  
+ 
+You should begin every week by reading the Weekly Overview. This will inform you of the material we will 
+cover that week; the assign ments you will need to complete; as well as any pertinent information regarding Stat 
+Lab, Teams availability, and other information I may need to convey to you. Always read the Weekly Overview . 
+ 
+Attendance   
+No attendance will be taken other than the First Day Attendance. This will take place in the form of a Syllabus 
+Quiz (for no grade) that will be present in Module 1. Students who do not complete this quiz by the  first day of 
+class  will be dropped from the course.  
+ 
+Document Signatures  
+If you at any time during the semester require the instructor’s signature on a document , you will need to  submit 
+the document  virtually via DocuSign (look under the Business Systems tab on the MyUSF homepage)  
+ 
+ 
+ Communication  
+I will communicate with you via Canvas  messaging and announcement s. It is important that you check Canvas 
+on at least a daily basis. If you don’t read the announcements, you will very likely mis s important 
+information!  
+ 
+When you have a questi on, please first refer to the syllabus , the Weekly Overview, and recent announcements . If 
+your question is still unanswered, message me through Canvas and I will respond as quickly as possible.  
+ 
+Office Hours  
+I am available to meet with students in person in my office on campus  by appointment.  In addition , I will host a 
+weekly Teams discussion open to all students. Teams availability for that week will be posted in the Weekly 
+Overview.  
+ 
+Late Work  
+Late homework assignments will be accepted according to the policy outline below, but  tests cannot be made up . 
+If you miss a test, that will have to be your drop. This class moves at a  fast pace and it’s important that you not 
+fall behind. You have a full week to complete the work for each module; don’t wait  until the last minute.  
+ 
+Cheating  The policy for this course for students caught cheating is as follows: At minimum, the student will 
+receive a 0 on the relevant assignment  and be prevented from dropping the course. At maximum, the 
+student will receive an FF course grade and the case will be turned over to USF for further action. (See 
+USF Regulation -3.026, Academic Integrity of Students  and last page of syllabus). Falsifying  documents (e.g., 
+excuse letters, doctor’s notes, etc.) will be treated as cheating. Assisting another student with quizzes or exams or 
+sharing your work with other students for them to submit as their own constitutes cheating. THERE ARE NO 
+EXCEPTIONS TO T HIS POLICY!  
+ 
+Extra Credit  and Grade Adjustment  
+ 
+I do not offer extra credit, but I do allow you to drop your lowest test grade and your lowest homework assignment 
+grade (assuming you complete all work). There will be no curving of grades , however, if the f inal course average 
+is below 75%, points will be added to each student’s score until the course average is 75%.  Lastly, I round final 
+course grades up  or down  to the nearest whole number  (89.4 becomes 89; 89.5 becomes 90) .  
+ 
+STAT  LAB  
+Stat Lab is a tutoring service offered by the TAs. This is available via Teams. Scheduling and further details 
+regarding Stat Lab will be posted under the Resources Module in Canvas. You are highly encouraged to utilize 
+this excellent resource! The TAs are  highly knowledgeable and are there to help you succeed in this class.  
+ 
+  
+ASSIGNMENTS  
+ 
+You are required to complete either a homework assignment or a test each week . You will be allowed to drop the 
+lowest  of EACH of these , but if you miss one you may not make it up  and that will be your dropped grade . You have the entire week to take the test or complete the homework , so there is really no reason to miss one. Be sure 
+to add this to your calendar so you don’t forget, and don’t wait until the last minute in case something comes up.   
+ 
+ 
+Tests  
+You are required to complete 3 out of 4 tests , each worth 50 points  for a total of 150 points . Only the  top 3 of 
+your  4 test grades will be  include d in your grade at the end of the semester . Test questions  will usually be 
+multiple choice and true/false, but other formats may sometimes be included (you will receive advance notice of 
+this). Tests MUST be taken by Saturday at 11:59pm.  Tests will be open in Canvas for the entire week and y ou 
+may take t he quiz at any point during this time.  You are allowed only one attempt for each test and late tests  will 
+not be a dministered  under any circumstances .  
+  
+ 
+Homework   
+You are required to complete 5 out of 6 homework assignments , worth a 30 points  each for a total of 150 points . 
+Each homework assignment must be typed and submitted  in Canvas as a SINGLE  .doc or .docx  file by the 
+assignment’s respective due date. We do not grade submissions consisting of several separate files. Hand -written 
+work will  not be accepted.  Some h omework assignments will be submitted via Turnitin to assess for plagiarism.  
+All homework assignments are due  by Saturday at 11:59pm . Late homework assignments will be accepted at a 
+penalty of 3 points per day up to three days  after the due date (no work is accepted after that) . It is your 
+responsibility to make sure you submit your homework on time in the proper format. If you submit the 
+incorrect file or submit a do cument that is unreadable, you will be allowed to resubmit but will be assessed a 5-
+point  penalty  in addition to the late penalty (assessed starting the day you are notified that your document is 
+incorrect) . Check the document you are submitting to make su re it is the correct one!  
+ 
+ 
+Grading  
+ 
+A total of 300 points can be earned in this course ( 150 points for the exam s plus 150 points for homework ). To 
+obtain your percentage grade, just divide your total points earned by 300. Grades will be  assigned as follows:  
+  
+Percentages  Points  Letter  Percentages  Points  Letter  
+97.00 -100.0  388-400.00  A+  77.00 -79.99  308-319.99  C+  
+93.00 -96.99  372-387.99  A  73.00 -76.99  292-307.99  C  
+90.00 -92.99  360-371.99  A-  70.00 -72.99  280-291.99  C-  
+87.00 -89.99  348-359.99  B+  67.00 -69.99  268-279.99  D+  
+83.00 -86.99  332-347.99  B  60.00 -66.99  240-267.99  D  
+80.00 -82.99  320-331.99  B-  00.00 -59.99  000-239.99  F  
+  
+ 
+  
+ 
+ USF GUIDELINES AND POLICIES   
+  
+University Policy On Academic Dishonesty Each individual is expected to earn his or her degree on the basis 
+of personal effort. Consequently, any form of cheating on examinations or plagiarism on assigned papers 
+constitutes unacceptable deceit and dishonesty. This cannot be tolerated in the University community and will be 
+punishable, according to the seriousness of the offense, in conformity with this rule. More infor mation about the 
+policies  regarding academic dishonesty can be obtained  from  
+http://www.ugs.usf.edu/policy/AcademicIntegrityOfStudents.pdf   
+  
+Cheating is defined as follows: (a) the unauthorized granting or receiving of aid during the prescribed period of a 
+course -graded exercise: students may not consult written materials such as notes or books, many not look at the 
+paper of another student, no r consult orally with any other student taking the same test; (b) asking another person 
+to take an examination in his or her place; (c) taking an examination for or in place of another student; (d) stealing 
+visual concepts, such as drawings, sketches, diag rams, musical programs and scores, graphs, maps, etc. and 
+presenting them as one's own; (e) stealing, borrowing, buying, or disseminating tests, answer keys or other 
+examination material except as officially authorized, research papers, creative papers, sp eeches, etc.; (f) stealing 
+or copying of computer programs and presenting them as one's own.  
+  
+ 
+University Statement on Delivery of Instruction in event of Emergency  In the event of an emergency, it may 
+be necessary for USF to suspend normal operations. D uring this time, USF may opt to continue delivery of 
+instruction through methods that include but are not limited to: CANVAS, Elluminate, Skype, and email 
+messaging and/or an alternate schedule. It’s the responsibility of the student to monitor CANVAS site  for each 
+class for course specific communication, and the main USF, College, and department websites, emails, and 
+MoBull messages for important general information.   
+  
+Final Examinations Policy  All final examinations are to be scheduled in accordance with  the University's final 
+examination policy. http://www.ugs.usf.edu/policy/FinalExams.pdf   
+  
+General Attendance Policy  Information about the general attendance policy at USF may be obtained from the 
+following link: http://www.ugs.usf.edu/policy/GeneralAtten dance.pdf   
+  
+Early Notification Requirement for Observed Religious Days  “No student shall be compelled to attend class 
+or sit for an examination at a day or time prohibited by his or her religious belief. In accordance with the University 
+policy on observa nce of religious holy days, students are expected to notify their instructors if they intend to be 
+absent for a class or announced examination prior to the scheduled meeting.” Students must provide notice of the 
+date(s) to the instructor, in writing, at th e beginning of the term. http://www.ugs.usf.edu/policy/ReligiousDays.pdf   
+ 
+Disruption of the Academic Process  Information about this policy may be obtained fro m the following link:  
+http://www.ugs.usf.edu/policy/DisruptionOfAcademicProcess.pdf   
+  
+Student Academic Grievance Procedures  Information about the policies regarding student academic grievance 
+procedures may be obtained from the following link: 
+http://www .ugs.usf.edu/policy/StudentAcademicGrievanceProcedures.pdf   
+  Students with Disabilities  Students with disabilities are responsible for registering with Students with Disabilities 
+Services (SDS) in order to receive academic accommodations. SDS encourages s tudents to notify instructors of 
+accommodation needs at least 5 business days prior to needing the accommodation. A letter from SDS must 
+accompany this request. Contact SDS at 813 -974-4309 or www.sds.usf.edu   
+  
+Grades of “incomplete”  The current university policy concerning incomplete grades will be followed in this 
+course. Incomplete grades are given only in extreme situations where unexpected emergencies prevent a student 
+from completing the course and the remaining work can be compl eted in the next semester. Your instructor is the 
+final authority on whether you qualify for an incomplete. Incomplete work must be finished by the end of the 
+subsequent semester. If work is not finished by this deadline university policy is that the “I” a utomatically reverts 
+to an “F”.  
+  
+Sexual misconduct/sexual harassment  USF is committed to providing an environment free from sex 
+discrimination, including sexual harassment and sexual violence (USF System Policy 0 -004). The USF Center for 
+Victim is a conf idential resource where you can talk about incidents of sexual harassment and gender -based crimes 
+including sexual assault, stalking, and domestic/relationship violence. This confidential resource can help you 
+without having to report your situation to eit her the Office of Student Rights and Responsibilities (OSSR) or the 
+Office of Diversity, Inclusion, and Equal Opportunity (DIEO), unless you request that they make a report. Please 
+be aware that in compliance with Title IX and under the USF System Policy, educators must report incidents of 
+sexual harassment and gender -based crimes including sexual assault, stalking, and domestic/relationship violence. 
+If you disclose any of these situations in class, in papers, or to me personally, I am required to report i t to OSSR 
+or DIEO for investigation. Contact the USF Center for Victim Advocacy and Violence Prevention: (813) 974 -
+5757.   
+ 
+ 
+ 

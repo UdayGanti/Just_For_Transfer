@@ -1,0 +1,139 @@
+ISM 6136 .360 F23.80440  Data Mining  (MS Global  BAIS ) 
+Instructor  
+Kiran Garimella, Ph.D.      
+M:      262-909-4192  
+E-mail:  kgarimella@usf.edu  
+ 
+Class Information  
+Location : Online only  
+Time:  10:00  am – 1:00 pm US/EST  (dates in Syllabus)  
+Office Hours : By Appt.  
+ 
+Course Description and Objectives  
+The past few years have seen an unprecedented explosion in the amount of data collected by businesses 
+and have witnessed enabling technologies such as database systems, visualization tools and statistical and 
+machine learning algorithms reach industrial st rength. These trends have spawned a new breed of business 
+analytics systems that go significantly beyond reporting capabilities, to support predictive modeling and the 
+extraction of business insights from data. These trends have also created a new role of “data scientists” who 
+are professionals with expertise in the concepts and tools necessary for the skilled use of these systems. 
+Understanding the power and limitations of these technologies can provide business managers and 
+information systems professionals with  new approaches to support the task of solving hard business 
+problems using data -driven approaches. This course will provide an understanding of fundamental data 
+science concepts, techniques and business applications.  
+ 
+General Learning Outcomes  
+• Demonstrat e understanding of specific data mining methods  
+• Describe different ways in which models can be evaluated  
+• Use data mining tools to build descriptive and predictive models  
+• Analyze a dataset using data analytics methods  
+• Describe global business scenarios wher e data and data mining can be applied  
+Text and Readings  
+There is no textbook. Online links to readings will supplement the custom course content.  
+  Course Work & Grading  
+Type of Work  Number  Points Each  Points  
+Quiz  5 10  50 
+Individual Assignment  2 25  50 
+Group Project  1 50  50 
+   150 
+ 
+Letter Grades (% of total points)  
+Minimum Score  Maximum Score  Letter Grade  
+95%  100%      A+ 
+90%    94%   A 
+85%    89%     B+ 
+80%    84%   B 
+75%    79%     C+ 
+70%    74%  C 
+60%    69%  D 
+   0%   59%  F 
+Scores will be rounded  up or down using the usual ro unding rules . To adhere to consistency, academic 
+integrity, and fairness to everyone, requests for extra points in order to achieve  the next higher letter grade 
+for any reason will not be fulfilled . Exceptions for makeup work are provided only for true, documented 
+emergencies or bas ed on guidance from the University due to any extraordinary circumstances.  
+Quiz zes 
+Quizzes ar e open book , but no consul tation  is allowed. Quiz zes will be  in-class . Each quiz will cover topics  
+studie d since the previous quiz but not including any topics on the day of the quiz.  
+Assignments  
+Assignments are due by 11:59 pm E ST on the due date . Late submission on assignments incurs a 5% 
+penalty  per day . 
+Group P roject  
+Due on Sep 17, 2023, 11:59 pm EST.  Late submission incurs a 5% pena lty per day.  
+Extra Credit and Make Up Work  Policy  
+There is no extra credit or make -up work available. Quizzes or exams will not be re -opened in case of issues 
+with your computer. It is your responsibility to keep your computer and Wi-Fi in full working order. 
+Widespread n etwork failures will be dealt with on a case -by-case basis and in accordance with the U niversity  
+guidelines.  
+ Syllabus  
+Session  Dates  Topic  Task  
+1 Aug 19 Introduction to Data Mining  First Day of 
+Attendance  
+2 Aug 20  Supervised Learning  with Decision 
+Trees Quiz 1  
+3 Aug 26  Supervised Learning with Neural 
+Networks  Quiz 2  
+Assignment 1  
+4 Aug 27 Unsupervised Learning  Quiz 3 
+5 Sep 09 Market Basket Analysis  
+Recommender Systems  Quiz 4  
+Assignment 2  
+6 Sep 10  Project  Lab Work  Quiz  5 
+Group Project  (due 
+Sep 17)  
+ 
+Online Exam Proctoring Policy and Notification  
+All students must review the syllabus and the requirements, including the online terms and video testing  
+requirements, to determine if they wish to remain in the course. Enrollment in the course is an agreement to abide 
+by and accept all terms. Any student may elect to drop or withdraw from this course before the end of the drop/add 
+period.  
+Online exams and quizzes within this course may require online proctoring. Therefore, students will be required to 
+have a webcam (USB or internal) with a microphone when taking an exam or quiz. Students understand that this 
+remote recording device is purchased and controll ed by the student and that recordings from any private residence 
+must be done with the permission of any person residing in the residence.  
+To avoid any concerns in this regard, students should select private spaces for the testing. The University library 
+and other academic sites at the University offer secure private settings for recordings and students with concerns 
+may discuss location of an appropriate space for the recordings with their instructor or advisor.  
+Students must ensure that any recordings do not invade any third -party privacy rights and accept all responsibility 
+and liability for violations of any third -party privacy concerns.  
+Students are strictly responsible for ensuring that they take all exams using a reliable computer and high -speed 
+inter net connection. Setup information will be provided prior to taking the proctored exam.  To use Honorlock 
+students are required to download and install the  Honorlock Google Chrome extension  (Links  to an external  site.) ." 
+For additional information please visit the  USF online proctoring student FAQ  (Links  to an external  
+site.)  and Honorlock student resources  
+ 
+ Policy Statements  
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx . 
+ 
+Course Policy on Acceptable Use of Genera tive AI Tools  
+Purpose: The purpose of this policy is to foster a dynamic learning environment that encourages technological 
+adaptation, innovative thinking, and the ethical use of AI resources in academic endeavors.  
+Policy:  
+1. Definition of Generative AI Tools: Generative AI tools refer to any artificial intelligence -powered software, 
+program or application that can generate co ntent, including but not limited to text, visuals, music, and other 
+creative outputs. Examples of these tools include AI text generators, AI content rewriters, AI graphic 
+generators, etc. 
+2. Permitted Use: The use of generative AI tools is permitted for  learning and p resentations, but not for  the 
+individual lab work in  projects  (use in writing industry over view s is permitted ), lab work in assignment s, quizzes , 
+and exams . For permitted use , students must responsibly use these tools, adhering to the guidelines outlined 
+in this policy.  
+3. Student Responsibility: Students are responsible for appropriately using generative AI tools in their work. This 
+includes:  
+3.1. Citing all AI -generated content used in their submissions.  
+3.2. Demonstrating a deep understanding of the subject matter, not solely relying on AI -generated content.  
+Cross -reference claims and statements with original sources and providing appropriate cita tions are 
+expected.  
+3.3. Using AI tools as a supplemental resource (i.e., as an editor), not as the primary means of completing 
+assignments.  
+3.4. Understanding that generative AI tools, while powerful, are not infallible and can produce misinformation 
+or inaccurate results. Students are responsible for the accuracy of the ir submissions and must cross -verify 
+the information produced by these tools with reliable sources.  
+4. Violation Consequences: Misuse of AI tools, including use of AI that undermines the student learning objectives 
+of the course or assignment, failing to cite AI -generated content, relying too heavily on AI for work completion , 
+or submitting inaccurate information generated by AI tools, will be subject to academic penalties. 
+Consequences may range from a reduction in an  individual assignment grade to larger academic sanc tions per 
+USF policy, depending on the severity of the violation  (USF Regula tion 3.027).  
+5. Exceptions: If there are specific assignments where the use of AI tools is not appropriate, these will be clearly 
+marked in the assignment guidelines. Students must  adhere to these specific instructions.  
+6. Questions and Clarifications: If students are unsure whether a tool they wish to use qualifies as a generative 
+AI tool, or if they have questions regarding the allowable use of such tools, they should consult wit h the course 
+instructor before using it . 
+ 

@@ -1,0 +1,660 @@
+Syllabus  Last Updated: 1/5/2023         1   
+ 
+ 
+ 
+ISM-6316 :  
+Project Management  Approaches  
+CRN 24737 : ISM 6316, Section # 901, 3 Credit Hours  
+ 
+COURSE SYLLABUS 
+ 
+Semester: Spring 2023  
+Class Meeting Days: Tuesday s (7 Feb 2023 – 2 May 2023)  
+Class Meeting Time: 6:30 p.m. – 10:15 p.m. 
+Class Meeting Location: BSN - 120  
+Instructor:  W. Randell McNair, D.B.A  
+Office Location:  Virtual  
+Virtual Office Hours:   by appointment (schedule via USF Teams  calendar)  
+Email:  wrmcnair@usf.edu  
+ 
+ 
+I. Welcome!  
+Congratulations on making it to this point in your academic journey. I am honored by this 
+opportunity to share my lived experiences as you seek to be continuously improving  contributors 
+to project investments at your current and future organizations. This topic of study is rising in 
+importance in professional development across the global business landscape  as a core leadership 
+skill for career advancement and effective navigation of uncertainty with greater clarity .   
+ 
+II. University Course Description 
+This graduate level course in project management covers the basic principles, processes, and tools 
+of modern project management. Principles and areas of the Project Management Body of 
+Knowledge (PMBOK) are covered utilizing information technology and practical business operat ions examples.   
+ 
+III. Course Materials   
+ 
+Required Textbook and Software  
+An Introduction to P roject Management , 7th Edition  
+By: Kathy Schwalbe, Schwalbe Publishing, 20 21.   
+ISBN -13: 9798695713459 
+Companion Website: http://intropm.com  
+ The Phoenix Project: A Novel about IT, DevOps and Helping your Business Win  
+Kim, G., Behr, K., & Spafford, G. (2018).  3rd Ed. IT Revolution Press.   
+ISBN: 9780988262508 (paperback, printed 2013) . 
+ Microsoft Project 20 21 – DVD  (Microsoft Azure  > Direct link to  “Education | Software
+”) 
+The software is available free to registered students in this class via the above link.  
+ 
+ 
+2  
+IV. Course Format  
+As this is a n in-person  course format, c lass time will rely heavily on active discussions  related to 
+the c ourse content from personal and professional experiences implementing the concepts 
+presented in the text and online via Canvas. I will introduce guest speakers and  facilitate a 
+collaborative learning  environment . I encourage  teamwork  to he lp you assimilate to the kinds of 
+interactions common on project t eams  in modern business  settings .  
+ Lecture content will be limited to brief summaries that will be posted online that can be viewed at 
+your leisure  as part of the modules that  you should  complete between in -person class sessions. 
+Canvas  module content listed in the course schedule is paced to be completed on a weekly basis. 
+My intention for the in -person  class time is for you to ask any questions you have and get 
+clarification of the key concepts that are necessary to meet t he learning outcomes below (Section 
+VI) and ensure that you are prepared to be a valuable contributing member of a project team.  
+ I prefer classroom  learning environments that are interactive and creative rather than dry 
+repetition of course content available online.  I understand that each learner has different 
+preferred modalities for acquiring new skills and knowledge. My intention is to use diverse 
+methods to stimulate active discussion and curiosity in the art of the possible  from  contin uous 
+adaptive improvement in  this important business discipline.  
+ V. Student Learning Outcomes  
+Upon completion of this course, students will  be able to : 
+1. Meaningfully discuss state -of-the-art project management practices  
+2. Understand leadership roles and responsibilities in project -based information systems 
+development  
+3. Prepare and run group discussions  
+4. Demonstrate the ability to make professional presentations and reports related to the course topics  
+5. Comprehend and explain major theories, concepts, and principles of project management  
+6. Apply major theories, concepts, and principles of project management correctly in new situations  
+7. Analyze project management issues using appropriate methods  
+8. Create and evaluate project management artifacts  
+9. Understand the nature of challenges related to the management of software development  
+10. Understand the guiding principles and foundations of different information systems’ development methods  
+11. Critically assess the opportunities and challenges presented by different practices to plan, manage, lead, evaluate, and learn from systems development projects  
+12. Have a command of the core techniques and practices in contemporary project 
+management methodologie s 
+ 
+VI. Course Discussion Topic s 
+Including, but not limited to:  Project charters, project leadership, project selection, project 
+portfolios, project management standards, Agile, Waterfall, S crum , Kanban, sprints, user stories, 
+issue management, quality management, scoping, procurement , sourcing strategies , team  
+ 
+3 dynamic s, meeting facilitation, collaboration in projects, project risk management, change 
+management, knowledge management in projects , tracking tools, stakeholder alignment, 
+information management, data management, complex project completion, handover/transitio n to 
+operations . 
+ 
+VII. Other Required Texts and/or Readings and Course Materials  
+Besides the books and software listed above  (section IV), all other required materials will be 
+provided as links for download via  Canvas. You will have to conduct research for this course, but 
+all the resources you will need are available via Canv as or through the USF Library.  
+ 
+VIII. Supplementary Texts and Materials  
+Links to LinkedIn Learning and  other  internet based instructional  content  will be included in 
+course modules in Canvas as optional study material for supplementing your learning experience. 
+These are not required, but you may find them interesting should you choose to pursue project 
+management professional (PMP) certification in the future.  
+ I strongly recommend you begin  reading the following text  as soon as possible. This book  has 
+inspired countless managers to rethink their approach to how technology projects are managed, resourced, and implemented in the modern organization. I have read it  on Kindle and found it very 
+helpful in understanding the challenges modern organizations face navigating competing business objectives and uncertainty.  
+ 
+The Phoenix Project:
+ A Novel about IT, DevOps, and Helping Your Business Win   
+By Gene Kim,  Kevin Behr,  George Spafford  
+ISBN: 9780988262508 (paperback, printed 2013)  
+ 
+IX. How to Succeed in this Course … 
+ 
+Submit Introduction/ Short Bio graphical Sketch  (Bio) : 5%  
+This is an important assignment that must be completed by the deadline  (2/10 @ 11:59 p.m. ) 
+to prevent you from being automatically dropped from this class for non- attendance .  
+We will interact quite a bit over the next 1 2 weeks. Therefore, let us take time to get to 
+know each other a bit better. Post your bio to the appropriate assignment  in Module 0 
+of our course’s Canvas site. Submission of this assignment will serve as documentation of first day attendance. Bios must be in paragraph form and not exceed 2 paragraphs. 
+They must also be within 125 and 200 words.  
+ Download  Microsoft Projec t Professional 2021  and submit GANTT Chart Assignment : 5% 
+We will use Microsoft Project for some of the exercises in this course.  Microsoft Project is free to enrolled students if you have a Windows -enabled computer.  If you do not 
+have access to a Windows -enabled computer, you either must  acquire  a Microsoft  
+Windows -based operating system software for your computer or purchase Microsoft 
+Project  Professional 2021 for use on the d evice you are using for access to instructional 
+materials . The GANTT Chart assignment will be detailed in the assignments section in 
+Canvas and will be discussed in the 2
+nd class session  (2/14). It is not due  until  3/3, 
+however  you should begin  working  on it as soon as possible to  ensure that you don’t 
+have any technical issues that might prevent you from completing it on time.  
+  
+ 
+4 Complete Module  Quizzes/ Discussion Posts/ Exercises:  40%  
+Exercises and quizzes will be given in the modules throughout the semester.  Reading the 
+assigned texts and completing the modules is virtually a guarantee of passing the 
+quizzes. Exercises and quizzes reinforce your learning experience and ensure that you 
+will achieve the desired learning outcomes.  That is why these assignments count most 
+toward your final grade. Watch for recommended deadlines indicated on the course 
+schedule and in Canvas  as these  reminders  help keep you on pace with the discussion 
+topics  in the in -person sessions .  
+ 
+Contribute to Group Projects  30% (15% each)  
+There are two group projects that will be assigned this  term, and they relate specifically 
+to the two major types of project management approaches (Waterfall and Agile). 
+Research for these projects can be conducted using the USF library and instructional 
+resources referenced in the group project assignments in  Canvas.  It is important to 
+contribute collaboratively to your group project in order to ensure you get the most out 
+the team learning experience. Watch for  assignment  deadlines to submit feedback and 
+present written, live, audio, and video status reports to the rest of the class via the 
+associated Canvas Discussion Forum and in -person during specific class sessions as 
+indicated on the course schedule (section XV ).  
+ 
+Actively Participate in classro om activities 20% 
+This grade will be based  on your prepar ation  for each cl ass by compl eting the reading 
+assignments  beforehand and actively participating in discussions  and class session 
+activities . The intention here is to demonstrate your understanding and general 
+retention of the concepts, not rote memorization of formulas or term definitions. 
+Tutorial support is available via appointment throughout the semester if you  are 
+struggling with any of the concepts presented.  
+ Note that m any of the processes and tools used throughout the project management 
+process are recycled  at each project stage and build upon  other concepts as they are 
+presented . Thus,  ongoing review of the learning materials (quizzes,  trivia conte sts, 
+exercises, reading assignments)  and applying them to their  appropriate  context is key to 
+success in the c ourse.  
+ 
+X. Academic Continuity  
+During any semester, there is a possibility the course may be disrupted, whether due to health crisis  or weather . Should the university transition to remote instruction , the instructor will conduct 
+class sessions via live, synchronous sessions using Microsoft Teams . The links will be available in a 
+special Canvas section  that will be published in the event of a shift to remote learning . Many of 
+the activities and assignments  can be done remotely via Canvas and Teams collaboration . Based 
+on the circumstances, Dr. McNair will provide a mod ified course schedule as an update to the 
+syllabus to reflect any adjustments required by a need to pivot to online  learning , if necessary.  
+ 
+XI. Communication  
+We will communicate via the Canvas  inbox  (which is automatically forwarded as a notification to 
+your USF email) . Please use th e Canvas  forum for course related communications so that we can 
+stay aligned throughout the semester. I (Dr. McNair) will post notices via Canvas email and 
+discussion board announcement posts as needed.  If you need to reach me for office hours, please  
+ 
+5 make an appointment via Microsoft Teams . I will demonstrate how to do that in the 1st class 
+session. Class  announcements will be posted to Canvas as well alerted via links in your Canvas 
+email inbox . I am available Monday through Thursday  afternoon s most weeks unless notice is 
+given otherwise. My calendar of availability will be posted to Canvas, I will highlight times that I 
+cannot be reached directly. Please do not call via Teams after normal working hours or on 
+Weekends  unless we have made prior arrangements to do so. If I miss your call, it will go to  my 
+voicemail,  and I commit to respond back to you within 24-hours on weekdays.  
+ 
+XII. Grading Scale  
+ 
+Percent  Grade   Percent  Grade  
+98 - 100 A+  74-76 C 
+94 - 97 A  70-73 C- 
+90-93 A-  67-69 D+ 
+87-89 B +  64-66 D 
+84-86 B  60-63 D- 
+80-83 B-  <59 F 
+77-79 C+    
+ 
+XIII. Grade Categories and Weights  
+ 
+Assessment  Percent of Final Grade  
+Introduction/Bio  5% 
+GANTT Chart Assignment  5% 
+Weekly Quizzes  / Exercises   40% 
+Group  Project  1 Assignments  15% 
+Group Project 2  Assignments  15% 
+Class Participation  20% 
+ 
+XIV. Instructor Feedback Policy & Grade Dissemination  
+You can expect grades to be posted within one week after the due date of each assignment —if 
+assignments are submitted on time.  
+ 
+XV. Course Schedule* 
+Date  Assignments/ Class  preparation  Topics /Discussion Themes  
+2/7 1st class  session ;  
+no assignment  due before class  • Ice Breakers  
+• Team Building  
+• Introductions 
+• Syllabus  Review / Policies  
+• Course Objectives  
+• First day Attendance  (Assignment  1)  
+• General  Expectations   
+• Canvas LMS Orientation  
+• Project Management as a Leadership 
+Discipline  
+• Microsoft Project assignment overview     
+ 
+6 Date  Assignments/ Class  preparation  • Topics /Discussion Themes  
+2/7- 12 Complete Module 0 in Canvas;  
+Review Schwalbe Text (Preface ) 
+Mandatory Assignment 1:  Student Biography –   
+due 2/10  11:59 p.m.  • Overview of Schwalbe t ext  
+• Supplementary material 
+(Videos/ LinkedIn Learning)    
+• Introduction to Project, Program, and 
+Portfolio Management   
+2/14  2nd class session; 
+Reading Assignment:  
+Schwalbe Ch. 1 (pp. 1- 33) 
+ • Q&A  – Project Trivia Conte st #1   
+• Project 1 expectations and rubric 
+overview  
+• Creating a Project and Gantt Chart 
+Assignment  – Instructions Review  
+2/13- 19 Complete Module 1 in Canvas;  
+Module 1 Quiz  
+due 2/17 11:59 p.m.  
+MS Project Download Assignment  
+by 2/19 11:59 p.m.  • Agile Mindset  
+• Project Management in Practice    
+• Project Management Software  
+• Differences between Predictive Agile, 
+and Hybrid Project Management  
+2/21 3rd class session; 
+Reading Assi gnment:  
+Schwalbe Ch. 2 (pp. 4 2-71) 
+ • Q&A  – Project Trivia Conte st #2  
+• Waterfall projects  Lessons Learned  
+• Project 1 Planning Brainstorming 
+• Team Ti me 
+2/20- 26 Complete Module 2  in Canvas ; 
+Post to Team Discussion Forum in Canvas :  
+"Waterfall" (Project  1) 
+due 2/24 11:59 p.m .  
+Group Formation Assignment   
+due 2/26 11:59 p.m . • SWOT Analysis  
+• Strategic Planning  
+• Business Alignment (agile vs. 
+traditional outcomes)  
+2/28  4th class session; 
+Reading Assignment:  
+Schwalbe Ch. 3 (pp. 77- 116) • Q&A  – Project Trivia Conte st #3 
+• Project Kick Off Meeting  Demo  
+• Project Charter  Demo  
+• Project Roles & Responsi bilities  
+• Team Time  
+2/27- 3/5 Complete Module 3 in Canvas ; 
+Module 3 Quiz due by 3/3 11:59 p.m.  
+Gantt Chart Project  
+due by 3/5 11:59 p.m.  
+ • Development Approaches  
+• Project Life Cycles  
+• Product Life Cycles  
+• Management Commitment  
+• Standards / PMO   
+• Pre-initiating and Initiating Projects  
+• Stakeholder Alignment  
+• Business Case Analysis  
+• Release Management  
+ 
+3/7 5th class session ; 
+Reading Assignment:  
+Schwalbe Ch. 4 (pp. 121 -156) • Q&A  – Project Trivia Conte st #4 
+• Project 1 status update group report 
+• Intro to Scrum Methodology  
+• Sample Agile Projec ts 
+• Project Information Management Case  
+• WBS  vs. Story Card  Demo  
+• Team Time  
+  
+ 
+7 Date  Assignments/ Class  preparation  Topics /Discussion Themes  
+3/6-12 Complete Module 4 in Canvas;  
+Post to Team Discussion Forum in Canvas: 
+Group Project posting/response activity  
+and Module 4 Quiz due by 3/ 10 11:59 p.m.  • Project Planning  
+• Project Integration  
+• Scope Management  
+• Requirements Management  
+• Work Breakdown Structures  
+• Agile Planning  
+• WBS Dictionary  
+• Agile Stories, Features, Epics  
+3/13- 19 SPRING BREAK  
+Reading Assignment:  
+The Phoenix Project (TPP)  
+Submit ini tial TPP Reflection  #1 & #2  
+entries to discussion board online : 
+ by 3/19 11:59 p.m.  
+  
+ 
+No Class  Session  
+3/21  6th class session; 
+Reading Assignment:  
+Schwalbe Ch. 5 (pp. 162 -201) • Q&A  – Project Trivia Conte st #5 
+• Group Project 1 Pres entation s 
+• The Ph oenix Projec t Discussion  #1 
+o Business Alignment  
+3/20- 26 Complete Module 5 in Canvas;  
+Module 5 Quiz due by 3/24 11:59 p.m.   
+TPP Reflection #1 & #2 response s  
+Due by 3/24 11:59 p.m.  
+Complete Group Project 1 and submit  
+by 3/26 11:59 p.m.  
+ • Project Schedule Management  
+• Critical Path Analysis  
+• Project Trade -offs 
+• Proje ct Cost management  
+• Kanban / Tracking Tools  
+• Project Estimating   
+• Project Milestones / Activities  
+ 
+3/28 7th class session;  
+Reading Assignment s:  
+Schwalbe Ch. 6 (pp. 209 -251) 
+Download and read the Scrum Guide . • Q&A  – Project Trivia Conte st #6 
+• Assign Final Agile Project Roles  
+• Team Building Demo  
+• Agile Sprint Planning Session Demo  
+ 
+3/27- 4/2 Begin  Module 6 in Canvas;  
+Submit i nitial TPP Reflection #3 post  
+Due by 3/31 11:59 p.m.  
+Post to Team Discussion Forum in Canvas: 
+Group Agile Project post + response activity  
+Due by 4/2 11:59 p.m.  
+ 
+ • Project Quality Planning  
+• Resource Management  
+• Project Communications  
+• Stakeholder Management  
+• Risk Management  
+• Procurement Management  
+ 
+4/4 8th class session;  
+Reading Assignment s:  
+Schwalbe Ch. 6 (pp. 2 52-2 62) 
+Review Scrum G uide 
+ • Q&A  – Project Trivia Conte st #7 
+• Agile Project Sprint 1 Kick Off  
+• Agile Project Group  (Story Cards) 
+• Agile Project P roduct Planning  
+• Agile Sprint Backlog Planning  
+• Team Time  
+  
+ 
+8 Date  Assignments/ Class  preparation  Topics /Discussion Themes  
+4/3-9 Complete Module 6 in Canvas;  
+Module 6 Quiz due by 4/7 11:59 p.m.  
+TPP Reflection #3 response s 
+Due by 4/9 11:59 p.m.  
+ • Change Management  Models  
+• Definition of Done  
+• Agile & Hybrid Project Planning  
+4/11  9th class session;  
+Reading Assignment :  
+Schwalbe Ch. 7 (pp. 270 -322) 
+ • Q&A  – Project Trivia Conte st #8 
+• Sam ple Agile & Hybrid Execution 
+Approaches  
+• Real life challenges with Agile & Scrum 
+in Execution   
+• Hybr id Logistics  case example: 
+Mana ging Requirements & Uncertainty  
+• Team Time  
+4/10- 16 Complete Module 7 in Canvas;  
+Module 7 Quiz due by 4/14 11:59 p.m . 
+Post to Team Discussion Forum in Canvas: 
+Group Agile Project post + response activity  
+Due by 4/16 11:59 p.m.  • Execution Management of Project 
+Quality  
+• Project Resource Management  
+• Training and Development  
+• Recognition / Team Building  
+• Execution Risk Management  
+• Procurement Management  
+• Project Execution (processes and 
+outputs)  
+• Integration  
+• Deliverables Tracking Progress  
+• Conflict Management  
+4/18  
+10th class session;  
+Reading Assignment:  
+Schwalbe Ch. 8 (pp. 330 -365) • Q&A  – Project Trivia Conte st #9 
+• Group Project S print  1 Retrospective  
+• Sprint 2 Planning /Backlog Refinement  
+• Project Le adership in Execution  
+• Team Time   
+4/17- 23 Complete Module 8 in Canvas;  
+Module 8 Quiz due by 4/21 11:59 p.m.  
+ • Monitoring and Controlling Projects  
+• Forecasting  
+• Performance Reports  
+• Contractor Management  
+• Monitoring Agile & Hybrid Projects  
+• Burn down / Burn Up charts  
+• Velocity Tracking  
+4/25  11th class session;  
+Reading Assignment:  
+Schwalbe Ch. 9 (pp. 372 -389) 
+ • Q&A  – Project Trivia Conte st #10 
+• Group Project S print  2 Retrospective  
+• Agile Project Demo Day  Planning  
+• Project Closeout/Handover Lessons 
+4/24-30 Complete Module 9 in Canvas;  
+Submit course evaluations:  
+Due by 4/ 28 11:59 p.m.  
+Draft Group Agile Project Submission :  
+Due by 4/ 30 11:59 p.m.  
+ • Customer Acceptance  
+• Transition to Operations  
+• Knowledge Management  
+• Close out of Hybrid or Agile Projects  
+• Operations Owner ship/Engagement   
+ 
+9 Date  Assignments/ Class  preparation  • Topics /Discussion Themes  
+5/2 12th class session;  
+Optional Reading:  
+Schwalbe Ch. 10 (pp. 394 -414)  • Final Agile Group Project Presentation s 
+• Course  Reflections  
+• PMP Certifications  
+• PMBO K Revs 6 vs. 7 
+• Agile/Lean Sigma  Certifications  
+• Team Time (if needed)  
+5/1-4 Final Group Agile Project Submission :  
+Due by 5/ 4 11:59 p.m.  
+ NOTE: Make every effort to turn i n 
+your individual contribution early so 
+that your group me ets the  deadline.  
+* Th is Schedule is subject to revision  
+ 
+XVI. USF Core  Syllabus Policies  
+Policies about COVID -19 protocols, disability access, religious observances, academic grievances, 
+academic integrity and misconduct, academic continuity, food  and housing insecurity, intellectual 
+freedom and viewpoint diversity, and sexual harassment are governed by a central set of policies 
+that apply to all classes at USF. These may be accessed at:  
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx  
+ XVII. Course Policies: Grades  
+Extra Credit Policy : 
+If you  are concerned that  your group final project presentation grade may not receive the 
+maximum number of points  desired , you may opt to pre-perform additional work assignments 
+to ensure your individual grade for the group assignment  reaches the maximum  points 
+allowed (100). This must be preapproved with point values negotiated with the instructor and 
+may include but is not limited to posting a  written assignment to the class discussion forum 
+such as submitting a chapter summary, providing a detailed work break down structure for a 
+proposed project, writing example user stories/features/Epics in Agile format, creating a project tool template. Each  extra  credit  assignment to a general discussion forum is intended 
+to benefit others in the class as supplementary learning/review material. All extra credit is due  
+before  the last day of class  and must  be posted no later than 5/1 at 11:59 p.m.  
+ 
+Late Work Po licy:  
+Group Project assignments  turned in late without prior authorization will be assessed a 
+penalty: -3 points  if it is one day late, or -9 points  for 2 -7 days late. Group Project  assignments  
+will not be accepted if overdue by more than seven days.  Please contact Dr. McNair via Canvas 
+email prior to  the due date of an assignment if there is any chance you will miss a 
+presentation or project submission deadline.  All module, discussion posts , quiz, and exercise 
+assignments in Canvas must be posted no later than 5/4 at 11:59 p.m.  unless  otherwise noted 
+in the course schedule . No exceptions  will be granted  without confirming  prior arrangements 
+with the instructor for an incomplete “I” as outlined b elow . 
+ 
+Grades of "Incomplete" :  
+The current university policy concerning incomplete grades will be followed in this course.  
+An Incomplete grade ( "I") is exceptional and granted at the instructor’s discretion only when 
+students are unable to complete course requirements due to illness or other circumstances beyond their control. The course instructor and student must complete and sign the "I" Grade Contract Form that describes the work to be completed, the date it is due, and the grade the  
+ 
+10 student would earn factoring in a zero for all incomplete assignments. The due date can be 
+negotiated and extended by student/instructor if it does not exceed one semester for graduate courses from the original date grades were due for that course. An "I" grade not cleared within one semester for graduate courses (including summer semester) will revert to 
+the grade noted on the contract.  
+ 
+Attendance Policy:  
+Students are expected to attend classes  per the schedule listed in section XV or as modified via 
+an announcement in Canvas unless prior arrangements have been made . Dr. McNair will 
+accommodate excused absences and coordinate a mitigation plan with students ahead of time 
+(when possible) and wil l allow students a reasonable amount of time to make up missed work 
+depending on the nature of the absence and circumstance s regarding timing relative to group or 
+individual assignments .  
+ There is a lot of material to cover, so please make every effort to attend and actively participate 
+in class sessions to ensure the learning experience and outcomes are favorable for everyone  
+concerned . Dr. McNair will discuss the course schedule on the first day of class and any known 
+anticipated conflicts  raised  affecting multiple individuals , particularly  those affecting group 
+projects will be discussed and should be mitigated as soon as possible  and the syllabus will be 
+updated accordingly  if necessary .  
+ 
+Group Work Policy : 
+As this is a project management course, everyone must take part in the two assigned group 
+project s. All members of a group will receive the same score  for the presentation portion; that 
+is, the project  presentation  is assessed by the instructor , and everyone receives this score. See 
+the Extra Credit P olicy  above  for how to improve your group project score .  
+ You will get an opportunity to get  peer and instructor  feedback prior to final submission of 
+each project, so you and your project team will have every opportunity to get full credit on the 
+two group assignments.  Also, everyone must take part in a group presentation  to the class for 
+each p roject  assignment . Once formed, groups cannot be altered or switched, except for 
+reasons of extended hospitalization.  
+ XVIII.  Course Policies : Technology and Media   
+ 
+Canvas :  
+This course will be offered via USF's learning management system (LMS), Canvas. If you need help learning how to perform various tasks related to this course or other courses being offered in Canvas, please consult the Canvas help guides. You may also cont act USF's IT 
+department at (813) 974 -1222 or help@usf.edu
+. 
+ 
+Recordings :  
+In this class, software may  be used to record live class lectures and discussions. As a student in 
+this class, your participation in live class discussions will potentially  be recorded. These 
+recordings will be made available only to students enrolled in the class, to assist those w ho 
+cannot attend the live session or to serve as a resource for those who would like to review content that was presented. Students who prefer to participate via audio only will be allowed to disable their video camera so only audio will be captured. Pleas e discuss this option with  
+ 
+11 your instructor. This option will only be necessary in cases where the in -person  sessions must  
+be switched to  remote or  hybrid format due to extenuating circumstances (such as hurricane 
+or COVID19 protocols).  
+ 
+WhatsApp, Slack, GroupMe, and Student -to-Student Communication:  
+While students may use digital communication tools (WhatsApp, GroupMe, etc.) to 
+communicate with fellow students, it is important to remember that academic integrity policies still apply in these environments . Informing others about the contents of tests is 
+prohibited by the official regulation
+, as is receiving unauthorized information about an 
+examination. Students are expected and required to immediately report instances of such violations to the instructor.  
+ 
+Laptop/Phone/Assistive Technology  Usage:  
+You are encourage d to use whatever assistive technol ogies  (such as laptops, recording devices, 
+mobile phones, etc.) to  help you retain and process the information presented during the in -
+person class sessions.  Students are allowed to use devices for recording class sessions for personal 
+use only , not to be published online or elsewhere . Students must still adhere to classroom 
+behavioral expectations while recording.   If you are using social media for a “backchannel” conversation,  please ensure that your use of 
+such technology  is respectful of others and  does not create a distraction or prevent the open 
+discussion of the concepts being presented in the class session. Consider the classroom to be a 
+professional business environment and adjust your social media behavior accordingly.  You may be 
+asked to participate in live Pollev.com surveys or quizzes during class sessions. Use of an internet 
+connected device may be necessary to take full advantage of th ese innovative and interactive  
+learning opportunities.  
+ 
+XIX. Course Policies: Student Expectations   
+ 
+Title IX Policy :  
+Title IX provides federal protections for discrimination based on sex, which includes 
+discrimination based on pregnancy, sexual harassment, and interpersonal violence. In an 
+effort to provide support and equal acces s, USF has designated all faculty (TA, Adjunct, etc.) 
+as Responsible Employees, who are required to report any disclosures of sexual harassment, 
+sexual violence, relationship violence or stalking.  The Title IX Office makes every effort, when 
+safe to do so,  to reach out and provide resources and accommodations, and to discuss 
+possible options for resolution.   Anyone wishing to make a Title IX report or seeking 
+accommodations may do so online, in person, via phone, or email to the Title IX Office. For 
+informa tion about Title IX or for a full list of resources please visit:  https://www.usf.edu/title -
+ix/gethelp/resources.aspx . I f you are unsure what to do, please contact Victim Advocacy – a 
+confidential resource that can review all your options – at 813 -974-5756 or  va@admin.usf.edu . 
+ 
+Course Hero  / Chegg  Policy:  
+The USF Policy on Academic Integrity  specifies that students may not use websites that enable 
+cheating, such as by uploading or downloading material for this purpose. This does apply specifically to Chegg.com and CourseHero.com – almost a ny use of th ese websites (including 
+uploading propriet ary materials) constitutes a violation of the academic integrity policy .  
+  
+ 
+12 Professionalism Policy  
+Per university policy and classroom etiquette ; mobile phones, iPods, etc. must be silenced  
+during all classroom session. Those not heeding this rule will be asked to leave the classroom 
+immediately so as to not disrupt the learning environment. Please arrive on time for all class 
+meetings. Students who habitually disturb the class by talking, arriving late, etc., and have 
+been warned may suffer a reduction in their final class participation grade.  
+ 
+End of Semester Student Evaluations:  
+All classes at USF make use of an online system for students to provide feedback to the University regarding the course. These surveys will be made available at the end of the 
+semester, and the University will notify you by email when the response window opens. Your participation is highly encouraged and valued .  
+ Note: Timely and honest feedback is an important project management skill,  and you need 
+not wait until the end of the term to share your perspective. Please reach out to Dr. McNair 
+directly via Canvas or virtual office hours  at any point in the semester  if you have any 
+questions or concerns that you think might help improve our overall achievement of the 
+course learning objectives.  
+ 
+Netiquette Guidelines  
+1. Act professionally in the way you communicate. Treat your instructors and peers with respect, the s ame way you would do in a face -to-face environment. Respect other people’s ideas and 
+be constructive when explaining your views about points you may not agree with.   
+2. Be sensitive. Be respectful and sensitive when sharing your ideas and opinions. There will be 
+people in your class with different linguistic backgrounds, political and religious beliefs or 
+other general differences.   
+3. Proofread and check spelling. Doing this before sending an email or posting a thread on a discussion board will allow you  to make sure your message is clear and thoughtful. Avoid the 
+use of all capital letters, it can be perceived as if you are shouting, and it is more difficult to read.  
+4. Keep your communications focused and stay on topic. Complete your ideas before changing the subject. By keeping the message on focus you allow the readers to easily get your idea or answers they are looking for.  
+5. Be clear with your message  posting in discussion boards. Avoid using satire, humor , or 
+sarcasm. Since people can’t see your expressions or hear your tone of voice, meaning can be misinterpreted.  
+ 
+XX. Learning Support and Campus Offices  
+Academic Accommodations  
+Students with disabilities are responsible for registering with Student Accessibility Services (SAS) in order to receive academic accommodations. For additional information about academic accommodations and resources, you can visit the SAS website.  
+SAS website for the Tampa and Sarasota- Manatee campuses.
+ 
+ 
+Academic Support Services  
+The USF Office of Student Success coordinates and promotes university -wide efforts to enhance 
+undergraduate and graduate student success.  For a comprehensive list of academic support 
+services available to all USF students, please visit the Office of Student Success website .  
+ 
+13  
+Canvas Technical Support  
+If you have technical difficulties in Canvas, you can find access to the Canvas guides and video 
+resources in the “Canvas Help” page on the homepage of your Canvas course. You can also 
+contact the help desk by calling 813 -974-1222 in Tampa or emailing help@usf.edu.  
+IT website for the Sarasota -Manatee campus.  
+ 
+ 
+Center for Victim Advocacy  
+The Center for Victim Advocacy  empowers survivors of crime, violence, or abuse  
+by promoting the restoration of decision making, by advocating for their rights, and by  
+offering support and resources. Contact information is available online.  
+ 
+Counseling Center  
+The Counseling Center promotes the wellbeing of the campus community by  
+providing culturally sensitive counseling, consultation, prevention, and training that  
+enhances student academic and personal success. Contact information is available online. 
+Counseling Center website for the Sarasota- Manatee campus.  
+ Tutoring  
+The Tutoring Hub offers free tutoring in several subjects to USF undergraduates.  
+Appointments are recommended, but not required. For more information, email : 
+asctampa@usf.edu
+.  
+Tutoring website for the Sarasota- Manatee campus.  
+ 
+Writing Studio  
+The Writing Studio is a free resource for USF undergraduate and graduate  
+students. At the Writing Studio, a trained writing consultant will work individually with  
+you, at any point in the writing proces s from brainstorming to editing. Appointments are  
+recommended, but not required. For more information or to make an appointment, email:  
+writingstudio@usf.edu .  
+Writing studio website for the Sarasota- Manatee campus.  
+ 
+XXI. Important Dates to Remember  
+ 
+All the dates for  assignments are tentative and can be changed at the discretion of the instructor . 
+For important USF dates, see the Academic Calendar at http://www.usf.edu/registrar/calendars/   
+ 
+Drop/Add Deadline : Fri, Jan 13, 2023  
+Spring Break  Mon  – Fri, Mar  13 – 19, 2023 

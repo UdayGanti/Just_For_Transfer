@@ -1,0 +1,399 @@
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Semester:  Spring 202 3 
+Class Meeting Days:  100% online  
+Class Meeting Time:  100% online  
+Class Meeting Location:  Canvas/Microsoft Teams  
+Instructor:  Dr. Ehsan Sheybani  
+Office Location:  Sarasota -Manatee  Campus – C222 
+Office Hours:  By Appointment Only  
+Phone Numb er: 941-359-4387 
+Email:  sheybani@usf.edu  
+ 
+ 
+COURSE PREREQUISITES : ISM 3011 Information Systems in Organizations  (with a grade of “C” or better).  
+(This prerequisite may be taken during the same term as this class.)  
+  
+UNIVERSITY COURSE DESCRIPTION: This course introduces business application development 
+using an object -oriented programming language.  Topics include data types, programming constructs, 
+object construction, debugging techniques, and graphical user interfaces.  Good program design 
+techniques are emphasized.  Applications of increasing complexity are developed.  
+ 
+REQUIRED TEXTBOOK:  Includes (but not limited to):  
+Microsoft Visual C#: An Introduction to Object -Oriented Programming, 7th Edition , Joyce Farrell  
+ISBN -10: 1 -337-10210 -5, ISBN -13: 978 -1-337-10210 -0. This book is available at:  
+ 
+1. Cengage  - Cengage Unlimited, 1 term (4 months) Printed Access Card  
+9780357700037 ($119.99), OR 
+2. Cengage  - Cengage Unlimited, Multi -term ( 12 months) Printed Access Card  
+9780357700044 ($179.99).  
+ 
+OPTIONAL TEXTBOOKS:  
+Starting Out with Visual C#, 5th ed., by Tony Gaddis.  Pearson (2019).  
+ 
+COURSE  OBJECTIVES:   
+This course is designed for undergraduate students majoring or minoring in business analytics and information 
+systems, as well as those students using this discipline as a concentration in a general business degree program.  
+In this course, students will learn the design and development of computer software written in the C# 
+programming language.  In addition to C# -specific skills, the content of the course has been selected so that 
+students will acquire knowledge and analytical skills common to object -oriented software development in general.  
+ 
+COURSE  STUDENT  LEARNING  OUTCOMES : Upon completion  of this course,  students  will be able to: 
+• understand and properly utilize the Visual Studio development environment  
+ISM 3232-521 
+Business Application Development  
+(3 Credit Hours)  
+School of Information Systems and Management 
+Information Systems and Decision Science Program  
+ 
+COURSE SYLLABUS  
+Last Updated: 11/1/2022  
+ 
+ • describe the fundamental concepts, terminology, and syntax of the C# language  
+• explain the proper implementation of graphical user interface concepts  
+• design programs that appropriately utilize object -oriented programming concepts  
+• select and apply proper programming control structures in program development  
+• employ effective exception handling tech niques in the design of C# programs  
+• analyze business situations to identify opportunities for the application of the  
+   programming concepts introduced in this course  
+ 
+COURSE TOPICS:  
+1. Introduction to Programming  
+2. Processing Data – variables, data types,  calculations etc.  
+3. Decision Making – if Statements, logical operators, switch statements, exceptions, etc.)  
+4. Loops – for, while, and do -while  
+5. File Handling  
+6. Random numbers  
+7. Classes and Methods  
+8. Arrays and Lists  
+9. Text Processing  
+ 
+COURSE POLICIES: Technology and Media  
+ 
+Canvas: This course will be offered via USF's learning management system (LMS), Canvas. If you need 
+help learning how to perform various tasks related to this course or other courses being offered in Canvas, 
+please view the following videos or consult the Canvas help guides. You may also contact USF's IT 
+department at (813) 974 -1222 or help@usf.edu . The course will include recorded lectures, reading 
+assignments, tests (midterm and Final), quizzes, di scussions and homework (posted on CANVAS).  
+ 
+Email : how it will be used, who will communicate with whom, who answers technology questions, 
+expected response time, will you check it on weekends, etc.  
+ 
+GRADING POLICIES  
+Late Work Policy : There are no make -ups for in -class writing, quizzes, the midterm, or the final exam. 
+Essays turned in late will be assessed a penalty: a half -letter grade if it is one day late, or a full -letter grade 
+for 2 -4 days late. Essays will not be accepted if overdue by more th an four days.  
+ 
+Extra Credit Policy : An assignment or two, or other activities may have an extra credit component 
+associated with them. Points earned in this manner will not be included in the assignment or exam grade or 
+in the final course average. These will be considered after course letter grades have been tentatively 
+assigned. Extra credit may result in an increase in your final letter grade, especially in borderline situations, 
+and will never reduce your grade. For this reason, you should take f ull advantage of extra credit 
+opportunities.  
+ 
+Incomplete Policy : An “I” grade may be awarded to a student only when a small portion of the student’s 
+work is incomplete and only when the student is otherwise earning a passing grade. The time limit for 
+remov ing the “I” is to be set by the instructor of the course. For undergraduate students, this time limit may 
+not exceed two academic semesters, whether or not the student is in residence, and/or graduation, 
+whichever comes first. For graduate students, this t ime limit may not exceed one academic semester. “I” 
+grades not removed by the end of the time limit will be changed to “IF” or “IU,” whichever is appropriate.  
+ 
+Make -up Exams Policy : A make -up exam will be given only if the student has notified the instruct or in 
+advance that s/he cannot take the exam on the assigned date.  
+ 
+Exam Retention Policy : After exams are graded, the instructor will review the examination with the class 
+and collect all exams. The exams will be retained for one semester following the c urrent one, and then they 
+will be destroyed.   
+Essay Commentary Policy : Commentary on essays will be delivered in written format, via canvas.  
+ 
+ Final Examinations Policy : All final exams are to be scheduled in accordance with the University’s final 
+examin ation policy.  
+ 
+ Late Assignment Submission Policy: All assigned work is expected to be turned in on time, by 11:59 p.m. 
+of the due date. Late assignments will not be accepted unless prior permission has been granted by your 
+Instructor. It is okay for students to work ahead and complete all assignments, labs and tests if they desire, 
+but no makeups or extra credit will be offered.  
+ 
+GRADING SCALES  
+USF policy requires that all students receive a graded assignment or examination prior to the semester’s 
+drop/withdraw date (please refer to important dates on page 1 of this syllabus). Student performance for this 
+course will be evaluated based on tests, assignments, quizzes and certification practice exam, as detailed 
+below. Below is a summary for the determin ation of the final grade and an explanation for each component:  
+ 
+ 
+Deliverable  Points  
+Programming/Debugging Exercise s 50% 
+Case Problems  20% 
+Quizzes  15% 
+Final  Exam  15% 
+Total  100%  
+ 
+A+ = 97 -100; A=94 -96; A - =90-93; B+ = 87 -89; B=84 -86; B - = 80-83;  
+C+=77 -79; C = 74 -76; C - + 70-73; D = 60 - 69; F = 59 or below  
+ 
+All students must review the syllabus and the requirements including the online terms and video testing 
+requirements to determine if they wish to remain in the course. Enrollment in the course is an agreement to 
+abide by and accept all terms.  Any student may elect to drop or withdraw from this course before the end 
+of the drop/add period. Online exams and quizzes within this course may require online proctoring. 
+Therefore, students will be required to have a webcam (USB or internal) with a microphone when taking an 
+exam or quiz. Students understand that this remote recording device is purchased and controlled by the 
+student and that recordings from any private residence must be done with the permission of any person 
+residing in the residence. To avoid any c oncerns in this regard, students should select private spaces for the 
+testing. The University library and other academic sites at the University offer secure private settings for 
+recordings and students with concerns may discuss location of an appropriate space for the recordings with 
+their instructor or advisor.  Students must ensure that any recordings do not invade any third -party  privacy 
+rights and accept all responsibility and liability for violations of any third -party  privacy concerns.  Setup 
+informa tion will be provided prior to taking the proctored exam. For additional information about online 
+proctoring you can visit the online proctoring student FAQ.  
+    
+COURSE POLICIES: Student Expectations  
+ 
+Attendance Policy : There is no live lecture attendance requirement. Everything  will be placed on CANVAS.  
+ 
+Course Hero / Chegg Policy:  The USF Policy on Academic Integrity  specifies that students may not use 
+websites tha t enable cheating, such as by uploading or downloading material for this purpose. This does apply 
+specifically to Chegg.com and CourseHero.com – any use of these websites (including uploading proprietary 
+materials) constitutes a violation of the academic i ntegrity policy.  
+ 
+End of Semester Student Evaluations:  All classes at USF make use of an online system for students to provide feedback to the University regarding the course. These surveys will be made available at the end of the 
+semester, and the University will notify you by email when the response window opens. Your participation is 
+expected  and valued.  
+ 
+Turnitin.com:  In this course, turnitin.com will be utilized. Turnitin is an automated system which instructors 
+may use to quickly and easily compare each student's assignment with billions of web sites, as well as an 
+enormous database of student papers that grows with each submission. Accordingly, you will be expected to 
+submit all assignments in electronic format. After the assignment is processed, as instructor I receive a report 
+from turnitin.com that states if and how another author’s work was used in the assignment . For a more detailed 
+look at this process visit http://www.turnitin.com . Essays are due at turnitin.com the same day as in class.  
+ 
+Campus Free Expression: It is fundamental to the University of South Florida’s mission to support an 
+environment where divergent ideas, theories, and philosophies can be openly exchanged and critically 
+evaluated. Consistent with these principles, this course may involve discussio n of ideas that you find 
+uncomfortable, disagreeable, or even offensive. In the instructional setting, ideas are intended to be 
+presented in an objective manner and not as an endorsement of what you should personally believe. 
+Objective means that the idea( s) presented can be tested by critical peer review and rigorous debate, and 
+that the idea(s) is supported by credible research. Not all ideas can be supported by objective methods 
+or criteria. Regardless, you may decide that certain ideas are worthy of you r personal belief. In this 
+course, however, you may be asked to engage with complex ideas and to demonstrate an understanding 
+of the ideas. Understanding an idea does not mean that you are required to believe it or agree with it. 
+Additional guidance related to HB 7 “Individual Freedom Act” can be found online.  
+ 
+Class Recording  
+For any of the classes that are recorded and streamed online, student’s voice and video  will be included in the 
+class recording. It is the student’s responsibility to make sure the privacy of their surroundings and background 
+is maintained.  
+ 
+STANDARD UNIVERSITY POLICIES  
+Policies about disability access, religious observances, academic grievances, academic integrity and 
+misconduct, academic continuity, food insecurity, and sexual harassment are governed by a central set of 
+policies that apply to all classes at USF. These m ay be accessed at: https://www.usf.edu/provost/faculty/core -
+syllabus -policy -statements.aspx   
+ 
+COVID -19 PROCEDURES  
+All students must comply with university policies and  posted signs regarding COVID -19 mitigation measures, 
+including wearing face coverings and maintaining social distancing during in -person classes.  Failure to do so 
+may result in dismissal from class, referral to the Office of Student Conduct and Ethical D evelopment, and 
+possible removal from campus.  Additional details are available on the University’s Core Syllabus Policy 
+Statements page: https://www.usf.edu/provost/fa culty/core -syllabus -policy -statements.aspx  
+ 
+USF SYSTEM POLICIES  
+Policies are available at regulationspolicies.usf.edu  
+ 
+A. Academic Dishonesty :  The University considers any form of plagiarism or cheating on exams, 
+projects, or papers to be unacceptable behavio r.  Please review  the USF System  Regulation 
+USF3.027  Academic Integrity of Students  and the USF System Regulation USF6.0021 Student 
+Code of Conduct . 
+ 
+B. Academic Disruption : The University does not tolerate behavior that disrupts the learning 
+process.  Please review USF System Regulation USF3.025 Disruption of Academic Policy .  
+ 
+C. Contingency Plans : In the event of an emergency, it may be necessary for USF to suspend  normal operations.  During this time, US F may opt to continue delivery of instruction through 
+methods that include but are not limited to: Canvas, online conferencing/col laboration tools , 
+email messaging , and/or an alternate schedule. It  is the responsibility of the student to monitor 
+Canvas for each of their class es for course specific communication, as well as the USFSM 
+website, their student email  account , and MoBull  messages for important general information. 
+The USF hotline at 1 (800) 992 -4231 is updated with pre -recorded information during an 
+emergency.   
+ 
+D. Disabilities Accommodation :  Students are responsible for re gistering with the Office of 
+Students with Disabilities Services (SDS) in order to receive academic accommodations. 
+Reasonable notice must be given to the SDS office (typically 5 working days) for 
+accommodations to be arranged. It is the responsibility of the student to provide each instructor 
+with a copy of the official Memo of Accommodation.  Contact Information:  
+https://www.usf.edu/diversity/equal -opportuni ty/disability -services -contacts.aspx  
+   
+E. Evacuation  Instructions :  This is a 100% online class but if you do come to campus often then 
+please note the emergency exit maps posted in classroom s.  These signs are marked with the 
+primary evacuation route (re d) and secondary evacuation route (orange) in case the building 
+needs to be evacuated.  
+ 
+F. Religious Observances :  USFSM recognizes the right of students to observe major religious 
+holidays.  Students who anticipate the necessity of being absent from clas s for a major religious 
+observance must provide notice of the date(s) to the instructor, in writing, by the second week of 
+classes.   
+ 
+G. Protection  of Students  Against Discrimination  and Harassment: 
+• Sexual Misconduct/S exual Harassment Reporting: USFSM is committed to 
+providing an environment free from sex discrimination, including sexual harassment and 
+sexual violence (USF System Policy 0-004). 
+• Other  Types of Discrimination and Harassment: USFSM also is committed to 
+providing an environment free from discrimination and harassment based on race, color, 
+marital status, sex, religion, national origin, disability, age, genetic information, sexual 
+orientation, gender identity and expression, or veteran status (USF System Policy 0-007). 
+ 
+ 
+The Counseling and Wellness Center is a confidential resource where you can talk about 
+incidents of discrimination and harassment, including sexual harassment, gender-based 
+crimes, sexual assault, stalking, and domestic/relati onship violence. This confidential resource 
+can help you without having to report your situation to either the Office of Student Rights and 
+Responsibilities (OSRR) or the Office of Diversity, Inclusion, and Equal Opportunity (DIEO),  
+unless you request that they make a report. 
+ 
+Please  be aware that in compliance with Title IX and under the USF System Policy, educators  
+must report incidents of discrimination and harassment, including sexual harassment, gender-
+based crimes, sexual assault, stalking, and domestic/rela tionship violence. If a student 
+discloses any of these situations in class, in papers, or to a faculty member personally , he or she 
+is required to report it to OSSR  or DIEO  for investigation. Students who are victims or who 
+have knowledge of such discrimination or harassment are encouraged to report it to either 
+OSSR or D I E O .  
+ 
+H.   Web Portal Information:   Every newly enrolled USF student receives an official USF e -mail  account.  Students receive official USF correspondence and Canvas course information via that 
+address.  The web portal is accessed at http://my.usf.edu . 
+ 
+GENERAL INSTRUCTION FOR STUDENTS  
+• Academic Support Services:  
+The Information Commons  provides students with individual and group study spaces, 
+computers, printers, and various media equipment for temporary use.  The Information 
+Commons is staffed by librarians, learning support faculty, tutors, and technology and e -
+learning specialists. S tudents challenged by the rigors of academic writing, mathematics, or 
+other course content are urged to contact their professors early in the semester to chart out a 
+plan for academic success, and/or regularly use the tutoring services provided by Learning  
+Support Services ( http://www.usfsm.edu/academics/academic -resources/information -
+commons/tutoring.aspx ) which are provided at no cost to students.  
+ 
+• Career Success Center:  
+Students can explore careers through activities such as job shadowing, mentoring, and 
+internships.  Whether students will be pursuing graduate school or seeking employment, 
+Career Services can help develop a plan to reach their next destina tion.  Students can prepare 
+professional documents, practice for the interview and attend employer or graduate school 
+information sessions.   Access these resources or schedule an appointment with career 
+advisors at www.usfsm.edu/career -services . 
+ 
+LEARNING SUPPORT and CAMPUS OFFICES  
+ 
+Tampa Campus  
+ Tutoring Hub: The Tutoring Hub offers free tutoring in several subjects  to 
+USF undergraduates. Appointments are recommended, but not required. For 
+more information, email asctampa@usf.edu   
+Writing Studio: The Writing Studio is a free resource for USF undergraduate 
+and graduate students. At the Writing Studio, a trained writing consultant will 
+work individually with you, at any point in the writing process from 
+brainstorming t o editing. Appointments are recommended, but not required. For 
+more information or to make an appointment, email writingstudio@usf.edu   
+Counseling Center: The Counseling Center promotes the wellbeing of the 
+camp us community by providing culturally sensitive counseling, consultation, 
+prevention, and training that enhances student academic and personal success. 
+Contact information is available online .  
+Center for Victim Advocacy: The Center for Victim Advocacy empowers 
+survivors of crime, violence, or abuse by promoting the restoration of decision 
+making, by advocating for their rights, and by offering support and resource s. 
+Contact information is available online .  
+St. Petersburg 
+Campus  
+ Student Success Center: The Student Success Center provides free tutoring 
+and writing consultations. Contact information is available online .  
+Wellness Center: The Wellness Cente r provides counseling and medical 
+services, as well as prevention programs and victim advocacy. Contact 
+information is available online .  
+Sarasota -Manatee 
+Campus  
+ Tutoring and Writing Support: Learning Support Services provides free 
+tutoring and writing consultations for a variety of courses and subjects such as, 
+Accounting, Biology, Chemistry, Finance, Math & Statistics, Physics, and 
+Spanis h. Make an appointment online .  
+Counseling and Wellness Center: The Counseling and Wellness Center is a  confidential resource where you can t alk about incidents of discrimination and 
+harassment, including sexual harassment, gender -based crimes, sexual assault, 
+stalking, and domestic/relationship violence. Call 941 -487-4254  
+Victim Advocate: A Victim Advocate is available 24/7 by calling (941) 50 4-
+8599. For assistance leave a message with your phone number and your call will 
+be returned as soon as possible. The Victim Advocate is available to assist 
+victims of crime, sexual assault, and partner violence.  
+ 
+COURSE FAQ  
+How to communicate with me?  
+You can either (i) send me an email directly or through Canvas, or (ii) call /text me or (iii) set up an 
+appointment to see me in my office. When emailing directly or through Canvas, please write the 
+appropriate subject and include  your name at the bottom of the email. The emails should be composed 
+professionally and the language should  be courteous and respectful.  
+  
+How NOT to communicate with me?  
+1. Please do not email me from a non -USF email account.  
+2. Please do not submit deliverables to me through email. All deliverables must be submitted 
+through Canvas.  
+3. Please do not reply to an ema il that I send to the entire class without changing the subject line, 
+unless your question is about that subject. If you are using the “Reply” button as a means to get 
+my email address in the “To” line, please change the subject line and also delete all pr evious text 
+from that email, if your email pertains to something else.  
+ 
+How will I communicate with you?  
+I will send announcements through Canvas. The announcements should arrive in your inbox. If you 
+send me an email through Canvas, I will respond back through Canvas. If you send me an email 
+directly, I will respond back to your email address. I will make every attempt to reply to your emails 
+within 24 hours during weekdays. I cannot guarantee a response within 24 hours on weekends. 
+Occasionally emails d o tend to go to my Junk Mail folder so if you have not received my response 
+within 24 hours, please either resend your email or call my office phone number and leave a message 
+in case I am not in my office. I will provide feedback on your assignments throu gh Canvas.  
+ 
+How to Succeed in this Class?    
+• Check Canvas and emails daily for announcements: I will periodically send emails and 
+announcements. I encourage you to check them daily.  
+• Read the syllabus:   It is a lot of trouble  to prepare so detailed a syllabus. You should assume I 
+had a reason for it. I want to make sure that you understand the course structure and 
+expectations and have your questions answered on the first week. This will help us all have a 
+more productive semester. Please read  every wo rd in this syllabus by end of the first week and 
+ask me questions.  
+• Complete the reading assignments:   You will get a lot more out of this class if you complete 
+the assigned readings. In my experience, students who don't complete the reading either never 
+complete it or try to cram it all in just before the exams. That doesn't work. Most of the time, 
+unsatisfactory grades are due to procrastination than any other cause. Please give yourself 
+ample time each week to complete the work for this class.  
+• Watch the recorded lectures:  Each module will include a short video. All my lectures are 
+prepared by me and as a result contain topics that I think are the most important in the course. 
+So, please watch them.   • Do not procrastinate on completing assignments :  You cann ot pass the course without doing 
+at least most of the assignments. The homework assignments build upon one another. If you get 
+behind, you will find it very difficult to catch up.  
+• Complete the quizzes:  Completing the quizzes will prepare you for the exams.  So, I encourage 
+you to complete them by the due dates.  
+ 
+COURSE SCHEDULE:  
+Tentative  Course  Schedule  
+ 
+Week  Description  
+1 Getting Started with Your Coding IDE Labs, Download Your Data Files  
+2   Unit 1: A First Program Using C#  
+3   Unit 1: A First Program Using C#  
+4   Unit 2: Using Data  
+5   Unit 2: Using Data  
+6   Unit 3: Using GUI Objects and the Visual Studio IDE  
+7   Unit 3: Using GUI Objects and the Visual Studio IDE  
+8   Unit 4: Making Decisions  
+9   Unit 4: Making Decisions  
+10   Unit 5: Looping  
+11   Unit 5: Looping  
+12   Unit 6: Using Arrays  
+13   Unit 6: Using Arrays  
+14   Unit 7: Using Methods  
+15   Unit 7: Using Methods  
+16   Final Exam  
+ 
+ 
+ 
+ 

@@ -1,0 +1,754 @@
+Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         1 of 16 
+ 1  
+Syllabus  
+QMB 7565:  Introduction to Research Methods1 
+Fall 2023 ; Sec 901; CRN 80697  
+Meeting time/ dates: Mondays  5-845 pm ; Meets: Meets: 8/21 -11/9/23 (12 weeks)  
+Venue:  CIS 2074  
+School of Information Systems and Management  (SISM)  
+Muma College of Business, University of South Florida  
+ 
+Professor: Dr. Sunil Mithas                                                                           
+E-mail: smithas@usf.edu                                                                     
+Website:  https://www.usf.edu/business/about/bios/mithas -sunil.aspx  
+Office: CIS 2061       
+Office Hours: B y appoint ment  
+ 
+University Course Description  (Verbatim from USF’s course inventory ): A course in research strategies, 
+design, analysis, and measurement for business research.   
+(Source: http://ugs.usf.edu/course -inventory/ ). 
+ 
+Course Prerequisites ( Verbatim from the catalog): None  
+(Source: https://academicplanning.usf.edu/course -inventory/?output=detail&subj=QMB&num=7565 ) 
+ 
+COURSE OBJECTIVE  
+The purpose of this course is to introduce doctoral students to the philosophy of science and methods for 
+conducting business research.  Many business dis ciplines follow social science research paradigms that include 
+surveys, case / qualitative studies, experiments, and the analysis of secondary data.  This course is appropriate for 
+all doctoral students who want to develop a basic understanding of these fundamental business research 
+techniques and when it is appropriate to use them.  Given ti me constraints, we will only be able to provide an 
+introduction and overview of each topic . Students will need to take other courses to appropriately use one or 
+more of these approaches in their own research. Upon completing the course the student should be able to make 
+an informed choice of the most appropriate methodology to explore a given research question.  
+ 
+After taking this course, students should be able to:   
+ Describe current academic discourse and empirical research in selected domains to critically evaluate 
+theoretical arguments, use or critique these arguments in their research, and evaluate the links between 
+theoretical arguments and empirical methods  
+ Expl ore and develop research ideas to internalize what they learn through readings and discussions and 
+to make progress towards publishing the most promising ideas   
+ 
+ 
+COURSE MATERIALS  
+I have selected some readings to give you an exposure to research methods and related discourse that 
+applies to business disciplines . Most of the required readings should be available through the course website or 
+library, you should try to locate them and contact for any readings or other working papers tha t you are unable to 
+locate after you have exhausted your efforts. I strongly recommend that you subscribe to a newspaper like Wall 
+Street Journal (or Financial Times) and a magazine like “The Economist” to stay on top of current events in 
+business and society to inform your work.  
+                                                 
+1 The syllabus is tentative and subject to change. Any changes will be announced in class and/or documented via 
+Canvas/email. We will discuss any changes t o schedule if there are any scheduling conflicts that the instructor may run into 
+over the semester. Some sessions may be conducted using Teams.  Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         2 of 16 
+ 2  
+ 
+Required Book  
+• None, any required materials can be read by borrowing from USF  librar y, or via elib rary.  
+ 
+Recommended Book s 
+ 
+• Singleton, R.A., and Straits, B.C., Approaches to social research ( Sixth  Edition), Oxford University 
+Press, New York, 2018. (We will draw quite a lot on this book and it is a good idea for you to own a 
+copy of a book like this for your  reference)  [A pdf version of the 6th edition is available for about $30 at 
+this website: https://ebookplan.com/product/ebook -pdf-approa ches- to-social -research -6th-edition -by-
+royce -a-singleton/  ] 
+• Shadish, W. R., Cook, T. D., and Campbell, D. T. 2002. Experimental and Quasi -Experimental Designs 
+for Generalized Causal Inference Belmont, CA: Wadsworth Cengage Learning  (This is another good 
+book to have and read for any serious student)  
+ 
+ 
+COURSE STRUCTURE  
+The class will be highly interactive and discussion- oriented. It is required that all participants complete 
+all required read ings prior  to coming to class. A bsent a l egitimate reason, failure to do the readings will result in 
+the participant being excused from the class meeting and docked one letter grade each time.  To achieve our goal, 
+it is not sufficient to simply read the articles but t o think about them and make s ense of them critically , often this 
+requires readin g the articles several times.  
+As part of the course, students will develop a research proposal examining a topic that is potentially 
+important, interesting and relevant to their own discipline. Students will present their research ideas and 
+proposed methods for studying them several times during the course, and will receive feedback from other 
+students as well as the instructo r. The course is as much about “consuming” the content covered in the course, as 
+much it is about “producing” new knowledge leveraging that consumption.  
+ 
+ 
+GRADING  
+The final grade will be based on instructor’s evaluation of your performance on summary of papers assigned 
+to you, your performance as a paper/ session discussant, class par ticipation, and term paper. Late assignments are 
+not accepted.   
+ 
+ 30% : Session summaries and class participation  
+While all students are expected to read all papers and contribute to discussion in each class, each 
+student will lead the discussion for his or her assigned papers.  In the lead role, the student in 
+charge of a particular paper will prepare a 2 page summar y of the assigned paper(s) to class.  In 
+general, such a summary should provide a brief overview of the research questions, theoretical 
+underpinning , hypotheses, what authors found, contributions, relationship of the paper with other 
+papers and findings, a nd potential extensions (or future research that can overcome the limitations 
+of that paper).  Talk about both positives and negatives of the paper and offer your conjectures on 
+why the paper was published, why it should not have been published, and/ or wha t may make this 
+paper publishable  or unpublishable  (if it is a working paper). I certainly want to see a section on 
+some “doable” future research projects that will extend or improve what this paper was trying to 
+do. Just a summary and “copy and paste” of paper’s tables and figures is not acceptable-- we are 
+looking for your critique and critical value added comments . Students will post a soft copy of the 
+summary on course website before the session and bring hard copies of their summary for 
+everyone to the class (if there is a face- to-face class) .   
+ Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         3 of 16 
+ 3 You are expected to have a healthy skepticism in critiquing a paper , progress in science depends 
+on “dissatisfaction” with current and received wisdom. I also encourage you to be “constructive” 
+and always have a remedial and reasonable suggestion accompanying your critique that will make 
+a paper better or how future research can overcome the limitations of the paper that you will be 
+discussing.  Being positive does not, however, mean that we will shy away from di scussing what 
+may be considered as flaws in theoretical justifications, empirical aspects or writing. But 
+whenever you point to those, tell us how you would have approached those issues given the same 
+research question and the data to which authors had acc ess.  
+ 
+Beyond leading the discussion of the paper assigned to you, each of you should identify the 
+unifying themes of that week’s readings to develop a mental map of the “state of the art” in that 
+area to identify potential dis sertation topics that will significantly advance that stream of work.  
+ 
+• 70% : Term Paper  
+Develop an original research proposal or paper (not more than 20 pages double spaced , 
+professionally formatted with Tables, Figures and References) on any phenomenon of  your liking  
+in your discipline or a related business discipline . Your paper must address the following issues:  
+ 
+1. What is the research question? Why is it important and interesting? How will an answer 
+to this question change how we think about that issue t heoretically or how we may like 
+to manage that particular issue in a better way than we otherwise would? Discuss y our 
+contributions, and research and managerial relevance very briefly. [Introduction]  
+2. How has this or related phenomenon been studied in the prior literature? What new 
+theories you are developing or what extensions are you proposing? What is your research 
+model and how do your hypotheses make new theoretical or empirical contributions? 
+[Literature Review, Research Model]  
+3. How will you test your  hypotheses  using state -of-the-art methods ? [Research Method or 
+Design]  
+4. What results do you expect to find or have found? [Results]  
+5. What are your main findings? What are the key contributions? What are the research and 
+managerial implications arising out  of your new findings ? What are the limitations of 
+your proposed study? How will you extend your research further? [Discussion, 
+Limitations and Suggestions for Future Research]  
+ 
+Please be prepared to report your progress every week in class, and incorpora te the feedback from 
+instructor and classmates to continuously improve your work. The incremental progress of your 
+work over the semester will be taken into consideration for grading purposes. Papers with initial 
+and rough data and preliminary results will  be graded more favorably than those that just make 
+promises for future data collection/analyses.  
+ 
+Grading scale:  A+: Over 97%, A: 94- 97%, A -: 90-93%, B+: 87 -89%, B: 84- 86%, B -: 80-83%, 
+C+: 77 -79%, C: 74- 76%, C -: 70-73%, D+: 67- 69%, D: 6 4-66%, D -: 60-63%,  F: Below 60%  
+ 
+Students typically earn B letter grades for good performance and for meeting all expectations; the A grades 
+are for extraordinarily excellent performance when students exceed expectations. The final letter grades 
+will be based on the distribution of course points at the end of the semester and instructor’s overall 
+assessment of your performance relative to your classmates.   
+ 
+ 
+ 
+ Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         4 of 16 
+ 4 About the Instructor  
+ 
+Sunil Mithas  is a World Class Scholar and Professor at the Muma College of Business at the Un iversity of 
+South Florida. He also serves as Director (Rankings and Reputation) at the Muma College of Business. 
+Previously, Sunil was the Ralph J. Tyser Professor of Information Systems at the Robert H. Smith School of 
+Business at the University of Maryland, where he served as Associate Chair, and co -directed two Centers 
+namely Center for Digital Innovation, Technology and Strategy and the Center for Excellence in Service. He is a 
+Visiting Professorial Fellow at the UNSW Business School, Sydney, and has he ld visiting positions at the 
+University of California, Davis,  UNSW, University of Mannheim, and HKUST, Hong Kong. Identified as an 
+MSI Young Scholar by the Marketing Science Institute, Sunil is a Distinguished Fellow of the Information 
+Systems Society of INFORMS, and ranks among the foremost information systems scholars in the world. He is 
+the author of two books, and his research published in top journals and conferences have won multiple best -
+paper awards, and featured in practice- oriented publications s uch as the MIT  Sloan Management Review, 
+Management Business Review, and Bloomberg.  Mithas serves as a Senior Editor of MIS Quarterly  and 
+Department Editor of Production and Operations Management , and an Editorial Board member at the Journal 
+of Management Information Systems . Earlier he served on the Editorial Board of Information Systems Research . 
+He has consulted and conducted research with a range of organizations including A. T. Kearney, EY, Johnson & 
+Johnson, the Social Security Administration, U.S. Census Bureau, and the Tata Group. He is a frequent keynote 
+speaker in corporate and academic settings. Mithas had a decade- long successful career in the corporate world in 
+engineering, marketing, and general management positions before he dedicated h imself to an academic career. 
+He earned his PhD from the Ross School of Business at the University of Michigan and an engineering degree 
+from IIT, Roorkee.  
+More details are at https ://www.usf.edu/business/about/bios/mithas -sunil.aspx  
+ 
+ 
+  Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         5 of 16 
+ 5  
+Session -wise Meeting Plan  
+We will only discuss the readings marked with an asterisk in this course, other papers are listed for your 
+contextual awareness and convenience and we may discuss them brie fly if time permits. If you have read any of 
+the assigned papers (those with asterisk) in some other seminar then let me know promptly and depending on the 
+composition of the class and in what context you may have read that paper, I will decide whether to still discuss 
+that paper or some other paper (feel free to suggest a better substitute). I may add/delete/modify some readings 
+as the course progresses, or change the sequence of sessions as I get a better sense of your interests and needs . I 
+encourage you to share and point to other readings that you think add to this course or reinforce or provide an 
+alternative perspective.  
+ 
+1. Introduction to Seminar and Philosophy of Science   
+ 
+Read syllabus, and the readings marked with asterisk for class 1. Please post a copy of your CV 
+and any other deliverable to course website under Assignments.  
+ 
+• *Chapter 1 (Introduction) of Singleton and Straits  2018  
+• *Chapter 2 (Nature of Science) of Singleton and Straits 2018  
+• *Klemke, E.D. "Introduction," in: Introductory Readings in the Philosophy of Science, E.D. 
+Klemke, R. Hollinger, D.W. Rudge and A.D. Kline (eds.), Prometheus Books, New York, 1998, 
+pp. 29- 37 
+• *Popper, K.R. "Science: Conjectures and refutations," in: Introductory Readings in the 
+Philosophy of Science, E.D. Klemke, R. Hollinger, D.W. Rudge and A.D. Kline (eds.), 
+Prometheus Books, New York, 1998, pp. 38- 47 
+• *Ziman, J. "What is science?," in: Introductory Readings in the Philosophy of Science,  E.D. 
+Klemke, R. Hollinger, D.W. Rudge and A.D. Kline (eds.), Prometheus Books, New York, 
+1998b, pp. 48- 53 
+• *Thagard, P.R. 1998. "Why astrology is a pseudoscience," in Introductory Readings in the 
+Philosophy of Science, E.D. Klemke, R. Hollinger, D.W . Rudge and A.D. Kline (eds.). New 
+York: Prometheus Books, pp. 66- 75  
+• Stephan, P. E. 1996. "The economics of science," Journal of Economic Literature  
+(XXXIV:Sept), pp. 1199- 1235 
+ 
+ 
+2.   How to find interesting research questions?  What criteria should we use when we evaluate research 
+problems? How to create a compelling motivation for our research?  
+ 
+Come to class with at least three "interesting" research topics, write these three topics in three 
+separate paragraphs explaining you r key idea . 
+Share one paper that you found “interesting” – be prepared to discuss how it meets any of Davis’s 
+suggestions for interesting research.  
+ 
+• *Webb, W. B. 1961. "The choice of the problem," American Psychologist  (16:5), pp. 223- 227 
+• *Kinney, W. R. 2019. "The Kinney three paragraphs (and more) for accounting Ph.D. students," 
+Accounting Horizons  (33:4), pp. 1- 14 
+• *Rai, A. 2017. "Avoiding type III errors: Formulating IS research problems that matter," MIS 
+Quarterly  (41:2), pp. iii -vii 
+• *Rai , A. 2018. "The first few pages," MIS Quarterly (42:2), pp. iii -vi. Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         6 of 16 
+ 6 • *Murray S. Davis, “That’s Interesting!” Philosophy of the Social Sciences, Vol. 1, 1971, pg. 
+309-344 (also at 
+http://www.mang.canterbury.ac.nz/courseinfo/AcademicWriting/Interesting.htm). 
+• *Davis, M. 1986. ""That's Classic!" The phenomenology and rhetoric of successful social 
+theories," Philosophy of the Social Sciences  (16), pp. 285- 301 
+• Shugan, S.M. "Editorial: Defining interesting research problems," Marketing Science  (22:1) 
+2003, pp 1- 15 
+• Weber, Ron, “The Problem of the Problem,” MISQ, Vol. 27, No. 1 (March 2003), pp. iii -ix. 
+• Leidner, D. E. 2020. "What's in a contribution?," Journal of the Association for Information 
+Systems (21:1), pp. 238- 245 
+• Palmer, D. "Taking stock of the criteria we use to evaluate one another’s work: ASQ 50 years 
+out," Administrative Science Quarterly  (51) 2006, pp 535- 559 
+ 
+ 
+3.  Research Design, Mediation, Moderation, Shoe Leather:  
+Come to class to discuss any new methods in your area that are currently in fashion or “hot.”   
+Develop the most promising research idea from the last class, and present the revised research 
+question. Submit front end of the paper with an interesting title, Abstract, Introduction , and 
+Conceptual Model section with research model, and 2 -3 tentative hypotheses (2 -3 pages) .  
+ 
+• *Chapter 4 (Elements of Research Design) of Singleton and Straits 2018  
+• Chapter 5 (Measurement) of Singleton and Straits 2018 
+• Chapter 6 (Sampling) of Singleton and Straits 2018  
+• *Freedman, D.A. "Statistical models and shoe leather," Sociological Methodology  (21) 1991, pp 
+291-313 
+• *Baron, R. M., and Kenny, D. A. 1986. "The moderator -mediator variable distinction in social 
+psychological research: Conceptual, strategic, and statistical considerations," Journal of 
+Personality and Social Psychology  (51:6), pp. 1173- 1182 
+• *Zhao, Xinshu, John G. Lynch, Jr. and Qimei Chen (2010), Reconsidering Baron and Kenny: 
+Myths and Truths About Mediation Analysis,” Journal of Consumer Research, 37 (August), 
+197-206. 
+• Haans, R. F. J., Pieters, C., and He, Z.- L. 2016. "Thinking about U: Theorizing and testi ng U - 
+and inverted U --shaped relationships in strategy research," Strategic Management Journal  (37), 
+pp. 1177- 1195. 
+• Edwards, J.R., and Lambert, L.S. "Methods for integrating moderation and mediation: A 
+general analytical framework using moderated path anal ysis," Psychological Methods  (12:1) 
+2007, pp 1- 22 
+• Ch 2 (“Statistical conclusion validity and internal validity”) and Ch 3 (“Construct validity and 
+external validity”) of Shadish, W. R., Cook, T. D., and Campbell, D. T. 2002. Experimental and 
+Quasi -Experimental Designs for Generalized Causal Inference Belmont, CA: Wadsworth 
+Cengage Learning  
+ 
+4.  What is Theory and How to theorize?   
+Come to class to discuss the theories or theory that inform your work.  
+ 
+Do a brief literature review on the most promising idea from the last class to make a case why your 
+idea, if pursued, will make an important contribution. Also identify at least one background/exemplar 
+paper that relates to your idea in some way. Develop a  Table that contrasts your study with 3- 4 prior 
+studies  explaining your novel/incremental contribution.  
+ Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         7 of 16 
+ 7 Submit front end of the paper with an interesting title, Abstract, Introduction, Background and 
+Theory section with research model, and 2 -3 formal hyp otheses (3 -5 pages).  
+ 
+• *Stinchcombe, A. L. 1982. "Should sociologists forget their mothers and fathers?," The 
+American Sociologist  (17), pp. 2- 11 
+• *Webster, J., and Watson, R. T. 2002. "Analyzing the past to prepare for the future: Writing a 
+literature review," MIS Quarterly  (26:2), pp. xiii -xxiii 
+• *Mintzberg, H. 2005. "Developing theory about the development of theory," in Great minds in 
+management: T he process of theory development,  K.G. Smith and M.A. Hitt (eds.). Oxford: 
+Oxford University Press, pp. 355- 372 
+• *Mueller, B., and Urbach, N. 2017. "Understanding the Why, What, and How of Theories in IS 
+Research, : https://aisel.aisnet.org/cais/vol41/iss1/17 ," Communications of the Association for 
+Information Systems  (41), pp. 349- 388 
+• Rivard, S. 2014. "The Ions of Theory Construction," MIS Quarterly  (38:2), pp. iii -xiii. 
+• Eisenhardt, K. M., and Graebner, M. E. 2007. "Theory building from cases: Opportunities and 
+challenges," Academy of Management Journal  (50:1), pp. 25- 32 
+• Hambrick, D. C. 2007. "The field of management's devotion to theory: Too much of a good 
+thing," Academy  of Management Journal  (50:6), pp. 1346- 1352 
+• Weber, R. 2003. "Theoretically speaking," MIS Quarterly  (27:3), pp. iii -xii 
+• Rindova, V. 2008. "Editor's Comments: Publishing theory when you are new to the game," 
+Academy of Management Review  (33:2), pp. 300- 303 
+• Card, D., DeaaVigna, S., and Malmendier, U. 2011. "The role of theory in field experiments," 
+Journal of Economic Perspectives (25:3), pp. 1- 25 
+• Bacharach, S.B. "Organizational Theories: Some Criteria for Evaluation," Academy of 
+Management Journal  (14:4) 19 89, pp 496- 515. 
+• Shepherd, D. A., and Suddaby, R. 2017. "Theory building: A review and integration," Journal 
+of Management  (43:1), pp. 59- 86 
+• Corley, K. G., & Gioia, D. A. (2011). “Building theory about theory building: What constitutes 
+a theoretical contribution?” Academy Of Management Review, 36(1), 12 -32.  
+• Colquitt, J. A., and Zapata -Phelan, C. P. 2007. "Trends in theory building and theory testing: A 
+five-decade study of the Academy of Management Journal," Academy of Management Journal  
+(50), pp. 1281- 1303 
+ 
+5.  An Overview of S elected  Theories:  
+Come to class to discuss the theories or theory that inform your work.  
+ 
+Revise and Refine the front end of the paper with an interesting title, Abstract, Introduction, 
+Background and Theory section with research model, and 2 -3 formal hypotheses. Add a more 
+detailed justification of hypotheses, at least 2 -3 mechanisms for each hypothesis, about 1 page per 
+hypothesis (4 -5 pages).  
+ 
+• *Davis, G. F. 2010. "Do theories of organizations progress?" Organizational Research M ethods  
+(13:4), pp. 690- 709 
+• *Barney, J. B. 2005. "Where does inequality come from? The personal and intellectual roots of 
+resource- based theory," in Great minds in management: The process of theory development,  
+K.G. Smith and M.A. Hitt (eds.). Oxford: Oxford University Press, pp. 280- 303 
+• *Priem, R. L., and Butler, J. E. 2001. "Is the Resource -Based 'View' a Useful Perspective for 
+Strategic Management Research?," Academy of Management Review  (26:1), pp. 22- 40 
+• *David, R.J., and Han, S.- K. "A systematic assessment of the empirical support for transaction 
+cost economics," Strategic Management Journal  (25) 2003, pp 39- 58 Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         8 of 16 
+ 8 • Poppo, L., and Zenger, T. 1998. "Testing Alternative Theories of the Firm: Transaction Cost, 
+Knowl edge -Based and Measurement Explanations for Make- or-Buy Decisions in Information 
+Services.," Strategic Management Journal  (19:9), pp. 853- 877 
+• Levine, D. I. 1993. "What do wages buy?," Administrative Science Quarterly (38), pp. 462- 483. 
+• Williamson, O. E. 1999. "Strategy Research:  Governance and Competence Perspectives," 
+Strategic Management Journal  (20:12), pp. 1087 – 1108 
+• Freeman, R. E. 2005. "The development of stakeholder theory: An idiosyncratic approach," in 
+Great minds in management: The process of th eory development,  K.G. Smith and M.A. Hitt 
+(eds.). Oxford: Oxford University Press, pp. 417- 435 
+• Eisenhardt, K.M. "Agency Theory: An Assessment and Review," Academy of Management 
+Review  (14:1) 1989, pp 57- 74. 
+• O'Reilly III, C. A., and Tushman, M. L. 2013. "Organizational Ambidexterity: Past, Present, 
+Future," Academy of Management Perspectives (27:4), pp. 324- 338 
+• Wischnevsky, J. D., and Damanpour, F. 2006. "Organizational transformation and performance: 
+An exami nation of three perspectives," Journal of Managerial Issues  (XVIII:1), pp. 104- 128 
+• Teece, D. J., Pisano, G., and Shuen, A. 1997. "Dynamic Capabilities and Strategic 
+Management," Strategic Management Journal  (18:7), pp. 509 - 533 
+• Bingham, C. B., Eisenhardt, K. M., and Furr, N. R. 2011. "Which strategy when?," MIT Sloan 
+Management Review  (53:1), pp. 71- 78 
+• King, A. A., and Baatartogtokh, B. 2015. "How useful is the theory of disruptive innovation? 
+available at http://sloanreview.mit. edu/article/how -useful -is-the-theory -of-disruptive -
+innovation/," MIT Sloan Management Review  (Fall), pp. 77- 90 
+• Fama, E. F., and French, K. R. 2004. "The capital asset pricing model: Theory and evidence," 
+Journal of Economic Perspectives (18:3), pp. 25- 46 
+ 
+ 
+6. Preliminary Research Proposal Presentations:  
+ 
+Each student will have 10 -15 minutes to present his or her preliminary research proposals to the 
+class  so far . As a class, we will discuss each research idea and provide feedback and suggestions.  
+ 
+Begin to  identify and collect some preliminary data or think about research design/ econometric 
+issues.  
+ 
+ 
+7. Survey Research :  
+Improve your term -paper write -up and research design continually.  Instructor may call on you to 
+discuss and show your progress in class.  
+• Chapter 3 (Ethics) of Singleton and Straits 2018  
+• *Chapter 9 (Survey Research) of Singleton and Straits 2018  
+• *Chapter 10  (Survey Instrumentation) of Singleton and Straits 2018  
+• *Diamantopoulos, A., and Winklhofer, H. M. 2001. "Index construction with formative indicators: An 
+alternative to scale development," Journal of Marketing Research  (38:2), pp. 269- 278 
+• *Rindfleisch, A., Malter, A.J., Ganesan, S., and Moorman, C. 2008. "Cros s-sectional surveys versus 
+longitudinal survey research: Concepts, findings, and guidelines," Journal of Marketing Research  
+(XLV:June), pp. 261- 279  
+• *Hulland, J., Baumgartner, H., and Smith, K. M. 2018. "Marketing survey research best practices: 
+evidence and recommendations from a review of JAMS articles," Journal of the Academy of Marketing 
+Science (46), pp. 92- 108. 
+• Shah, R., and Goldstein, S. M. 2006. "Use of structural equation modeling in operations management Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         9 of 16 
+ 9 research: Looking back and forward. ," Journal of Operations Management  (24:2), pp. 148- 169 
+• Podsakoff, P. M., MacKenzie, S. B., Lee, J.- Y., and Podsakoff, N. N. 2003. "Common method biases in 
+behavioral research: A critical review of the literature and recommended remedies," Journal of Applied 
+Psychology  (88:5), pp. 879- 903 
+• Van Riel, A. C. R., Andreassen, T. W., Lervik- Olsen, L., Zhang, L., Mithas, S., and Heinonen, K. 2021. 
+"A customer -centric five actor model for sustainability and service innovation," Journal of Business 
+Research  (136:Novembe r), pp. 389- 401 
+• Hult, G. T. M., Morgeson, F. V., Morgan, N., Mithas, S., and Fornell, C. 2017. "Do managers know 
+what their customers think and why?," Journal of the Academy of Marketing Science (45:1), pp. 37- 54 
+• Rossiter, J.R. "The C -OAR -SE procedure for scale development in marketing," International Journal of 
+Research in Marketing  (19) 2002, pp 305- 335 
+• Parasuraman, A., and Colby, C. L. 2015. "An Updated and Streamlined Technology Readiness Index: 
+TRI 2.0," Journal of Service Research  (18:1), pp. 59- 74 
+• Tourangeau, R., Conrad, F. G., and Couper, M. P. 2013. The science of web surveys. New York: Oxford 
+University Press 
+ 
+Session 8: Experiments  
+Improve your term -paper write -up and research design continually.  Instructor may call on you to 
+discuss and show yo ur progress in class.  
+• *Chapter 7 (Experimentation) of Singleton and Straits 2018  
+• *Chapter 8  (Experimental Designs) of Singleton and Straits 2018  
+• *Preface and Ch 1  (“Experiments and generalized causal inference”)  of Shadish, W. R., Cook, 
+T. D., and Campbell, D. T. 2002. Experimental and Quasi -Experimental Designs for 
+Generalized Causal Inference Belmont, CA: Wadsworth Cengage Learning  
+• *Chapter 14 (“A Critical Assessment of Our Assumptions”) of Shadish, W. R., Cook , T. D., and 
+Campbell, D. T. 2002. Experimental and Quasi -Experimental Designs for Generalized Causal 
+Inference Belmont, CA: Wadsworth Cengage Learing  
+• Bandiera, O., Brankay, I., and Rasul, I. 2011. "Field experiments with Firms," Journal of 
+Economic Perspe ctives (25:3), pp. 63- 82 
+• Dunning, T. 2008. "Improving causal inference: Strengths and limitations of natural 
+experiments," Political Research Quarterly (61:2), pp. 282- 293 
+• Foerderer, J., Kude, T., Mithas, S., and Heinzl, A. 2018. "Does Platform Owner's Ent ry Crowd 
+Out Innovation? Evidence from Google Photos," Information Systems Research  (29:2), pp. 444-
+460 
+• Ch 2 (“Statistical conclusion validity and internal validity”) of Shadish, W. R., Cook, T. D., and 
+Campbell, D. T. 2002. Experimental and Quasi -Experimental Designs for Generalized Causal 
+Inference Belmont, CA: Wadsworth Cengage Learning 
+• Ch 3 (“Construct validity and external validity”) of Shadish, W. R., Cook, T. D., and Campbell, 
+D. T. 2002. Experimental and Quasi -Experimental Designs for Generalized Ca usal Inference 
+Belmont, CA: Wadsworth Cengage Learning  
+• Ch 5 of Shadish, W. R., Cook, T. D., and Campbell, D. T. 2002. Experimental and Quasi -
+Experimental Designs for Generalized Causal Inference Belmont, CA: Wadsworth Cengage 
+Learning  
+• Ch 8  (“Randomized experiments: Rationale, designs, and conditions conducive to doing them”) 
+of Shadish, W. R., Cook, T. D., and Campbell, D. T. 2002. Experimental and Quasi -
+Experimental Designs for Generalized Causal Inference Belmont, CA: Wadsworth Cengage 
+Learning 
+• Harrison, G. W., and List, J. A. 2004. "Field experiments," Journal of Economic Literature  
+(42:4), pp. 1009- 1055 
+• Meyer, B. D. 1995. "Natural and quasi -experiments in economics," Journal of Business & Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         10 of 16 
+ 10 Economic Statistics  (13:2), pp. 151- 161 
+• Campbell, D. T. 1957. "Factors relevant to the validity of experiments in social settings," 
+Psychological Bulletin  (54), pp. 297- 312 
+ 
+Session 9: Notions of Causality  
+ 
+Improve your term -paper write -up and research design continually.  Instructor may call on you to 
+discuss and show your progress in class.  
+• *Barringer, S. N., Eliason, S. R., and Leahey, E. 2013. "A history of causal analysis in the 
+social sciences," in Handbook of Causal Analysis for Social Research, S.L. Morgan (ed.). 
+Springer, pp. 9- 26 
+• *Mahoney, J., Goertz, G., and Ragin, C. C. 2013. "Causal models and counterfactuals," in 
+Handbook of Causal Analysis for Social Research, S.L. Morgan (ed.). Springer, pp. 75- 90 
+• *Mithas, S., Xue, L., Huang, N., and Burton- Jones, A. 2022. "Editor’s Comments: Causality 
+Meets Diversity in Information Systems Research," MIS Quarterly  (46:3), pp. i ii-xviii 
+• Bollen KA, Pearl J. (2013) Eight Myths About Causality and Structural Equation Models in 
+Handbook of Causal Analysis for Social Research, SL Morgan (ed.). Springer, 301- 328.  
+• Goldthorpe, J.H. "Causation, statistics and sociology," European Sociological Review  (17:1) 
+2001, pp 1- 20 
+• Mithas, S., Almirall, D., & Krishnan, M. S. (2014). A potential outcomes approach to assess 
+causality in information systems research. In R. J. Kauffman & P. P. Tallon (Eds.), Economics, 
+Information Systems and Electronic Commerce Research II: Advanced Empirical 
+Methodologies  (Vol. 2, pp. 63- 85). Armonk, New York: ME Sharpe  
+• Holland, P. 1986. "Statistics and Causal Inference (with discussion)," Journal of American 
+Statistical Association  (81:396), pp. 945- 970 
+• Ch 1 of Angrist, J. D., and Pischke, J.- S. 2014. Mastering 'Metrics: The Path from Cause to 
+Effect. Princeton: Princeton University Press  
+• Greenland, S., Pearl, J., and Robins, J. M. 1999. "Causal diagrams for epidemiologic research," 
+Epidemiology  (10:1), pp. 37- 48 
+• Mackie, J. L. 1965. "Causes and conditions," American Philosophical Quarterly  (2:4), pp. 245-
+264 
+ 
+ 
+Session 10 : Archival Data/ Econometric Approaches for Causal Inference  
+Improve your term -paper write -up and research design continually.  Instructor may call on you to 
+discuss and show your progress in class.  
+ 
+ 
+• *Chapter 12 (Research Using Available Data) of Singleton and Straits 2018  
+• *Chapter 14  (Evaluation Research) of Singleton and Straits 2018   
+• *Nobel Prize. 2021. "Answering causal questions using observational data," in: Royal Swedish Academy 
+of Sciences,  R.S.A.o. Sciences (ed.). pp. 1- 46  
+• *Mith as, S., and Krishnan, M.S. "From association to causation via a potential outcomes approach," 
+Information Systems Research  (20:2) 2009, pp 295- 313.  
+• Winship, C., and Morgan, S. L. 1999. "The Estimation of Causal Effects From Observational Data," 
+Annual Review of Sociology  (25), pp. 659- 706  
+• *Mithas, S., Chen, Y., Lim, Y., & Silveira, A. D. O. (2022). On Causality and Plausibility of Treatment 
+Effects in Operations Management Research. Production and Operations Management , 31(12), 4558-
+4571. https://doi.org/10.1111/poms.13863  
+• Card, D. 1990. "The impact of the Mariel Boatlift on the Miami labor market," Industrial and Labor Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         11 of 16 
+ 11 Relations Review  (43:2), pp. 245- 257. 
+• LaLonde, R. J. 1986. "Evaluating the Econometr ic Evaluations of Training Programs with Experimental 
+Data," American Economic Review  (76:4), pp. 604- 620 
+• Gow, I. D., Larcker, D. F., and Reiss, P. C. 2016. "Causal inference in accounting research," Journal of 
+Accounting Research  (54:2), pp. 477- 523 
+• Roberts, M. R., and Whited, T. M. 2013. "Endogeneity in empirical corporate finance," in Handbook of 
+the Economics of Finance,  G.M. Constantinides, M. Harris and R.M. Stulz (eds.). Elsevier, pp. 493- 572 
+• Angrist, J. D., and Krueger, A. B. 1999. "Empirical s trategies in labor economics," in Handbook of 
+labor economics, O. Ashenfelter and D. Card (eds.). Amsterdam: Elsevier, pp. 1277- 1366. 
+• Leamer, E. E. 1983. "Let's take the con out of Econometrics," American Economic Review  (73:1), pp. 
+31-43. 
+• Appendix 5.1 of Ch 5 of Shadish, W. R., Cook, T. D., and Campbell, D. T. 2002. Experimental and 
+Quasi -Experimental Designs for Generalized Causal Inference Belmont, CA: Wadsworth Cengage 
+Learning  
+• Angrist, JD and J Pischke. 2010. “The Credibility Revolution in Empirical E conomics: How Better 
+Research Design is Taking the Con out of Econometrics.”  The Journal of Economic Perspectives 24(2): 
+3-30 
+• Angrist, J.D., and Krueger, A.B. "Instrumental variables and the search for Identification: From supply 
+and demand to natural experiments," Journal of Economic Perspectives  (15:4) 2001, pp 69- 85 
+• Larcker, D. F., and Rusticus, T. O. 2010. "On the use of instrumental variables in accounting research," 
+Journal of Accounting and Economics  (49:3), pp. 186- 205 
+• Crown, W. H., Henk, H. J., and Vanness, D. J. 2011. "Some Cautions on the Use of Instrumental 
+Variables Estimators in Outcomes Research: How Bias in Instrumental Variables Estimators Is Affected 
+by Instrument Strength, Instrument Contamination, and Sample Size," Value in Health (14:8), pp. 1078-
+1084 
+ 
+Session 1 1: Field  (Qualitative ) Research  
+• *Chapter 11 (Field Research) of Singleton and Straits 2018  
+• *Guba, E. G., and Lincoln, Y. S. 1982. "Epistemological and methodological bases of naturalistic 
+inquiry," Edu cational Communication and Technology Journal  (30), pp. 233- 252 
+• *Langley, A., and Abdallah, C. 2011. "Templates and turns in qualitative studies of strategy and 
+management," in Building methodological bridges: Research methodology in strategy and management, 
+D. Bergh and D. Ketchen (eds.). Bingley, UK: Emerlad Group, pp. 201- 235 
+• *Misangyi, V. F., Greckhamer, T., Furnari, S., Fiss, P. C., Crilly, D., and Aguilera, R. 2017. 
+"Embracing causal complexity: The emergence of a neo -configurational perspect ive," Journal of 
+Management  (43:1), pp. 255- 282 
+• *Park, Y., and Mithas, S. 2020. "Organized Complexity of Digital Business Strategy: A Configurational 
+Perspective," MIS Quarterly  (44:1), pp. 85- 127 
+• Morse, J. M., Barrett, M., Mayan, M., Olson, K., & Spiers, J. (2002). Verification Strategies for 
+Establishing Reliability and Validity in Qualitative Research.  International Journal of Qualitative 
+Methods , 1(2), 13- 22 
+• Gioia, D. A., Corley, K. G., and Hamilton, A. 2012. "Seeking qualitative rigor in inducitve rese arch: 
+Notes on the Gioia methodology," Organizational Research Methods  (16:1), pp. 15- 31 
+• Eisenhardt, K. M. 2021. "What is the Eisenhardt method, really?," Strategic Organization  (19:1), pp. 
+147-160 
+• Eisenhardt, K. M.  1989. Building theories from case study  research”, Academy of Management 
+Review, Vol. 14(4),  p. 532 -550.  
+• Pratt, M. G., Kaplan, S., and Whittington, R. 2020. "Editorial Essay: The Tumult over Transparency: 
+Decoupling Transparency from Replication in Establishing Trustworthy Qualitative Researc h," Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         12 of 16 
+ 12 Administrative Science Quarterly (65:1), pp. 1- 19 
+• Gibbert, M., and Ruigrok, W. 2010. "The "What" and "How" of case study rigor: Three strategies based 
+on published work," Organizational Research Methods  (13:4), pp. 710- 737 
+• Pratt, M. G. 2008. Fitting ov al pegs into round holes: Tensions in evaluating and publishing qualitative 
+research in top -tier North American journals. Organizational Research Methods, 11: 481–509 
+• Walsh, I., Holton, J. A., Bailyn, L., Fernandez, W., Levina, N., and Glaser, B. 2015. "What Grounded 
+Theory Is . . .A Critically Reflective Conversation Among Scholars," Organizational Research Methods  
+(18:4), pp. 581- 599 
+• Walsh, I., Holton, J. A., Bailyn, L., Fernandez, W., Levina, N., and Glaser, B. 2015. "Rejoinder: 
+Moving the Management Field Forward," Organizational Research Methods  (18:4), pp. 620- 628 
+• Kellogg, K. C., Orlikowski, W. J., & Yates, J. (2006). Life in the t rading zone: Structuring coordination 
+across boundaries in postbureaucratic organizations. Organization Science, 17(1), 22- 44. 
+• Suddaby, R. 2006. What grounded theory is Not. Academy of Management Journal, 49: 633 – 642.  
+• Fiss, P. C. 2011. "Building better ca usal theories: A fuzzy set approach to typologies in organization 
+research," Academy of Management Journal  (54:2), pp. 393- 420 
+• Chapters 6- 8 of Ragin, C. C. 2014. The comparative method: Moving beyond qualitative and 
+quantitative strategies . Oakland, Califo rnia: University of California Press.  
+• Kude, T., Lazic, M., Heinzl, A., and Neff, A. 2018. "Achieving IT -based synergies through regulation-
+oriented and consensus -oriented IT governance capabilities," Information Systems Journal (28:5), pp. 
+765-795 
+• Kozinets , R. V. 2002. The field behind the screen: using netnography for marketing research in online 
+communities. Journal of Marketing Research, 61- 72. 
+• Eisenhardt, K.M., "Making Fast Strategic Decisions In High -Velocity Environments," Academy of 
+Management Journal (32:3), 1989, pp. 543- 577 
+• Misangyi, V. F., and Acharya, A. G. 2014. "Substitutes or complements? A configurational examination 
+of corporate governance mechanisms," Academy of Management Journal  (57:6), pp. 1681- 1705 
+ 
+ 
+12.  Discussion of the Pros and Cons of Different Methodologies, Combining Met hodologies  
+and Student Presentations  
+ 
+Draft final paper and presentation in class  
+Final paper due 1- 2 weeks from the last session or as announced in class.  
+ 
+• *Chapter  13 (Multiple Methods)  of Singleton and Straits  2018  
+• *Wandersee, J. H. 1990. "Guest editorial: Imprecise thinking: A Baconian checklist," Journal of 
+Research in Science Teaching  (27:2), pp. 95- 96 
+• *Mills, C. W. 1959. "On Intellectual Craftsmanship (Appendix of the Book "The Sociological 
+Imaginat ion")," in The Sociological Imagination . New York: Grove Press, pp. 195 -224.  
+• Schneider, B. 1995. "Some propositions about getting research published," in Publishing in the 
+organizational sciences, L.L. Cummings and P.J. Frost (eds.). Thousand Oaks: Sage  
+• Ashford, S. 1996. "The publishing process: The struggle for success and meaning," in Rhythms of an 
+Academic Life,  P.J. Frost and S. Taylor (eds.). Sage  
+• Daft, R. L. 1995. "Why I recommended that your manuscript be rejected," in Publishing in the 
+organization sciences,  L.L. Cummings and P.J. Frost (eds.). Thousand Oaks: Sage, pp. 164- 182 
+• Weick, K. E. 2007. "Drop your tools: On reconfiguring management education," Journal of 
+Management Education (31:1), pp. 5- 16 
+• Perrow, C. 1985. "Journaling careers," in Publis hing in the organizational sciences, L.L. Cummings and 
+P.J. Frost (eds.). Thousand Oaks: Sage  Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         13 of 16 
+ 13 • Daft, R. L. 1983. "Learning the Craft of Organizational Research," Academy of Management Review  
+(8:4), pp. 539- 546 
+• Dixit, A. 1994. "My system of work (not!)," American Economist  (38:1), pp. 10- 16 
+• Berk, J. B., Harvey, C. R., & Hirshleifer, D. (2017). How to write an effective referee report and 
+improve the scientific review process. Journal of Economic Perspectives, 31 (1), 231- 244 
+ 
+ 
+Here are some policies documen ted in the syllabus as suggested or required by USF.   
+ 
+Class Policies:  
+ 
+Communication : Please check course website frequently for updated postings and course related 
+communications.  If you have any appropriate and course -related question, first check syllabus or course website 
+to ensure that you are not asking something that is already ment ioned in the syllabus or website. If you are not 
+able to find answer to your question, then post your question under Discussions at Canvas 
+(Canvas>Discussions>"General Questions")  so that TA and/or I can answer your question appropriately via 
+that channel or in the next class meeting. If you need to send me an email then please mention your cell phone 
+number in the message of your email so that I can call you if necessary  (if the question pertains to your group 
+work, please copy all your teammates so that I  can reply to all ). 
+ 
+Class Attendance and Etiquette:  I do not take formal attendance in class  but I do keep track of who is coming to 
+class and who is not. Skipping classes means that you will miss valuable content that we cover in class and you 
+will do poorly in the exams. Also, please do not disrupt the class by coming to class late or leaving early , arrive 
+5 minutes early rather than 5 minutes late. If you skip classes or engage in disruptive side conversations, don’t 
+expect much sympathy from me at the end of the semester.  
+ 
+Cell Phones:  While in class, turn your cell phones, iPods etc to silent mode, and step out of the class if you must 
+take or make an important phone call. See USF’s official policy on class disruption at 
+http://www.ugs.usf.edu/policy/DisruptionOfAcademicProcess.pdf .  
+ 
+Free Riders in Teamwork (if applicable) : Team members who do not come to team meetings or contribute 
+satisfactorily to their assigned team work in a timely manner will receive at least one letter grade lower than the 
+rest of their team. There will be no make -ups for free riders.  
+ 
+Your Suggestions : Administration will request you to provide comments regarding various aspects of the course 
+toward the conclusion of the course, but those comments come too late to make any mid -course corrections. 
+Hence, please discuss with me any ideas that can potentially improve your learning experience during the 
+semester. Because the instructor also has responsibi lity for learning experience of the entire class and to ensure 
+that course objectives are met while maintaining rigor, it may not be feasible to accept all suggestions. Even if 
+your suggestions are not accepted, they can still help us to design other cours es or activities in future so feel free 
+to suggest from your side. 
+ 
+Please understand that this syllabus constitutes a CONTRACT  between you and me.  By registering for this 
+class, you are agreeing to the terms and conditions as stated in this contract.  Th ese terms will be strictly 
+enforced, without exceptions.  If you find these terms unreasonable, you can drop the class and take it in a 
+different semester with a different professor.  
+ 
+ Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         14 of 16 
+ 14 Other Policies Required or Suggested by USF for All Courses2 
+Academic Integrity : Academic integrity is the foundation of the University of South Florida System’s 
+commitment to the academic honesty and personal integrity of its university community. Academic integrity is 
+grounded in certain fundamental values, which include honesty, res pect, and fairness. Broadly defined, 
+academic honesty is the completion of all academic endeavors and claims of scholarly knowledge as 
+representative of one’s own efforts. The final decision on an academic integrity violation and related academic 
+sanction at any USF System institution shall affect and be applied to the academic status of the student 
+throughout the USF System, unless otherwise determined by the independently accredited institution. The 
+process for faculty reporting of academic misconduct, as well as the student’s options for appeal, are outlined in 
+detail in USF System Regulation 3.027 . 
+ 
+I have a zero -tolerance policy  for plagiarism or cheating.  Plagi arism includes claiming/editing others’ work and 
+presenting it as your own, lifting materials from the Internet or other sources without attribution, and many 
+others. Per USF policy, any such behavior will result in a zero grade for that grade component fo r the first 
+offense, F grade in the class and report to the Dean’s Office for the second offense, and dismissal from the 
+program for third offense. There will be no make up for any plagiarized work. See USF’s academic integrity 
+policy at http://www.ugs.usf.edu/policy/AcademicIntegrityOfStudents.pdf . 
+ 
+Disruption to Academic Progress: Disruptive students in the academic setting hinder the educational process. 
+Disruption of the acade mic process is defined as the act, words, or general conduct of a student in a classroom or 
+other academic environment which in the reasonable estimation of the instructor: (a) directs attention away from 
+the academic matters at hand, such as noisy distrac tions, persistent, disrespectful or abusive interruption of 
+lecture, exam, academic discussion, or general University operations, or (b) presents a danger to the health, 
+safety, or well -being of self or other persons.  
+ 
+Academic Grievance Procedure: The pur pose of these procedures is to provide all undergraduate and graduate 
+students taking courses within the University of South Florida System an opportunity for objective review of 
+facts and events pertinent to the cause of the academic grievance. An “academ ic grievance” is a claim that a 
+specific academic decision or action that affects that student’s academic record or status has violated published 
+policies and procedures, or has been applied to the grievant in a manner different from that used for other 
+students. 
+ 
+Disability Access: Students with disabilities are responsible for registering with Students with Disabilities 
+Services (SDS) (SVC 1133) in order to receive academic accommodations. SDS encourages students to notify 
+instructors of accommodation nee ds at least five (5) business days prior to needing the accommodation. A letter 
+from SDS must accompany this request.  
+ 
+Sexual Misconduct / Sexual Harassment : USF is committed to providing an environment free from sex 
+discrimination, including sexual harass ment and sexual violence ( USF System Policy 0 -004). The USF Center 
+for Victim is a confidential resource where you can talk about incidents of sexual harassmen t and gender -based 
+crimes including sexual assault, stalking, and domestic/relationship violence. This confidential resource can help 
+you without having to report your situation to either the Office of Student Rights and Responsibilities  (OSSR) or 
+the Office of Diversity, Inclusion, and Equal Opportunity  (DIEO), unless you request that they make a report. 
+Please be aware that i n compliance with Title IX and under the USF System Policy, educators must report 
+incidents of sexual harassment and gender -based crimes including sexual assault, stalking, and 
+domestic/relationship violence. If you disclose any of these situations in clas s, in papers, or to me personally, I 
+am required to report it to OSSR or DIEO for investigation. Contact the USF Center for Victim Advocacy and 
+Violence Prevention : (813) 974- 5757. 
+                                                 
+2 Not all USF policies are listed in the syllabus to save space, students should refer to this link for current or updated 
+policies in effect:  https://www.usf.edu/prov ost/faculty/core -syllabus -policy -statements.aspx  Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         15 of 16 
+ 15  
+Relig ious Observances : All students have a right to expect that the University will reasonably accommodate 
+their religious observances, practices and beliefs ( USF System Policy 10 -045). The USF System, through its 
+faculty, will make every attempt to schedule required classes and examinations in view of customarily observed 
+religious holidays of those religious groups or communities comprising the USF System’s constituency. 
+Students are expected to attend classes and take examinations as determined by the USF System. No student 
+shall be compelled to attend class or sit for an examination at a day or time prohibited by his or her religious 
+belief. However, studen ts should review the course requirements and meeting days and times to avoid 
+foreseeable conflicts, as excessive absences in a given term may prevent a student from completing the 
+academic requirements of a specific course. Students are expected to notify their instructors at the beginning of 
+each academic term if they intend to be absent for a class or announced examination, in accordance with this 
+Policy.  
+ 
+Statement of Academic Continuity : In the event of an emergency, it may be necessary for USF to suspend 
+normal operations. During this time, USF may opt to continue delivery of instruction through methods that 
+include, but are not limited to: Learning Management System, online conferencing, email messaging, and/or an 
+alternate schedule. It is the responsi bility of the student to monitor the Learning Management System for each 
+class for course- specific communication, and the main USF, College, and Department websites, emails, and 
+MoBull messages for important general information ( USF System Policy 6 -010). For additional guidance on 
+emergency protective actions and hazards that affect the University, please visit www.usf.edu/e m  
+ 
+End of Semester Student Evaluations:  All classes at USF make use of an online system for students to provide 
+feedback to the University regarding the course. These surveys will be made available at the end of the semester, 
+and the University will notif y you by email when the response window opens. Your participation is highly 
+encouraged and valued.  
+ 
+Campus Free Expression ( As of Fall 2022) : The following statement was crafted as a suggested 
+statement to include for courses that engage in discussions and instruction which students may find 
+uncomfortable, unwelcome, disagreeable, or even offensive. These discussions are intended to be 
+objective. Additional guidance related to HB 7 “Individual Freedom Act” can be found online.  
+It is fundamental to the University of South Florida’s mission to support an environment where 
+divergent ideas, theories, and philosophies can be openly exchanged and critically evaluated. 
+Consistent with these principles, this course may involve discussion of ideas that you find 
+uncomfortable, disagreeable, or even offensive.  
+ 
+In the instructional setting, ideas are intended to be presented in an objective manner and not as an 
+endorsement of what you should personally believe. Objective means that the idea(s) presented can be 
+tested by critical peer review and rigorous debate, and that the idea(s) is supported by credible 
+research.  
+ 
+Not all ideas can be supported by objective methods or criteria. Regardless, you may decide that 
+certain ideas are worthy of your personal belief. In this course, however, you may be asked to engage 
+with complex ideas and to demonstrate an understanding of the ideas. Understanding an idea does not 
+mean that yo u are required to believe it or agree with it.  
+ 
+Use of Generative AI Tools ( Fall 2023 addition ): You are free to explore use of generative AI tools, such as 
+(but not limited to) ChatGPT, Bard, and Bing for learning purposes but any assignments must be base d on your own 
+ideas, and work. If you use any outputs from such tools in any assignment, you must quote verbatim (within quotes) 
+and/or cite appropriately any texts or other outputs produced by such software  including providing more details 
+related to any specific prompts that you used to generate the output or text. You must take responsibility for Syll_QMB7565_IntroRM_F23_20Aug2023v2skm         16 of 16 
+ 16 validating and checking accuracy of any outputs generated by any generative AI tools critically and adhere to 
+standards of scholarship related to citing sources .  
+ 
+COVID Addendum  
+All students must comply with university policies and posted signs regarding COVID -19 mitigation measures, 
+including wearing face coverings and maintaining social distancing.  Failure to do so may result in dismissal 
+from class, referral to the Student Conduct Office, and possible removal from campus.  
+Students must follow USF’s policies in effect at all times and refer to the following websites for updates and 
+latest information:  
+https://www.usf.e du/coronavirus/index.aspx  
+https://www.usf.edu/general -counsel/documents/resources/conduct -expected -to-support -usf-health -and-
+safety -standards.pdf  
+ 
+Note that we may record live class lectures and discussions, and these recordings will be made available to 
+students enrolled in the class, to assist those who cannot attend the live session or to serve as a resource for those 
+who would like to review content that was presented. Some activities may require you to turn on your video 
+camera, and/or your audio as directed by the instructor. The instructor may use online proctoring for online 
+exams and quizzes. Therefore, you will be required to have a computer and a webcam (USB or internal) with a 
+microphone when taking an exam or quiz. If you do not have access to a computer or webcam, you are required 
+to notify your instructor. Students understand that this remote recording device i s purchased and controlled by 
+the student and that recordings from any private residence must be done with the permission of any person 
+residing in the residence. To avoid any concerns in this regard, you should select private spaces for the testing, 
+ensur e that any recordings do not invade any third party privacy rights, and accept all responsibility and liability 
+for violations of any third party privacy concerns. You are strictly responsible for ensuring that you take all 
+exams from a computer (not mobil e device) with a high speed internet connection and camera.  
+ 
+ 
+ 
+ 

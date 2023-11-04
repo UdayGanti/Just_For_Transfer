@@ -1,0 +1,171 @@
+ 
+  ISM 4220  
+Business Data Communications  
+SYLLABUS  
+ISM 4220  Spring 2023  | Section 020 | Course credit: 3  
+Room   : Online (CANVAS)        
+Meetings  : Online (CANVAS)  
+Instructor  : Zheyi Xu  
+Office   : CIS2046    
+E-mail   : zheyixu @usf.edu  
+Office Hours  : Wednesday  from 3:00 pm → 4:30 pm – Teams by appointment  
+Textbook  : Business Data Communications and IT Infrastructures ( 3rd Edition ), Manish Agrawal and  Clinton Daniel , eISBN : 978 -1-943153 -78-7, Paperback
+ ISBN: 978-1-943153 -79-4, https://www.prospectpressvt.com/textbooks/Agrawal -Data -Comm -3-0  
+Course objectives  
+The exchange of information between computer applications is called Business Data Communications (DataComm  for short). Datacomm technologies provide 
+the underlying plumbing that enable computer applications to access resources on remote computers. The primary goal of this course is to answer the questio
+n “How do es the IT infrastructure work? ”. A big part of it  is, “how do computers talk to each other?  
+The course is designed for student s in all majors who are interest ed in computer networking. The course will focus on concepts in business data communicatio
+ns that are likely to stand the test of time. Upon comple tion of the course, students will have the foundation to evaluate and utilize most current data commun
+ication technologies.  
+Academic Honesty  
+Procedures defined in the USF Honor Code  will be applied . Each individual is expected to earn his or her degree on the basis of personal effort. Any form of ch
+eating on examinations or plagiarism on assigned papers cannot be tolerated in the University community . A first instance of academic dishonesty will result in
+ a grade of zero for the deliverable involved. A seco nd occurrence during the semester will result in a f ailing grade for the course. This  code has been impleme
+nted in the past and will be strictly enforced. Please do not attemp t to test level of enforcement.  
+Submission guidelines  
+During the semester, studen ts will work on assignments to reinforce concepts. The following are general points to observe  in all deliverables:  
+• Please k now about instructor’s Outlook filter , send emails accordingly for priority attention . 
+• Use the student manual to work on the assignm ents. Delete content not relevant to the assignment before submission.  
+• Student name (s), course title and deliverable identification must be clearly stated in all deliverables and any email correspondence. This is good etiquette 
+ 
+and saves my time in looking up relevant information. Violation is penalized.  
+• If there are assignment  question s to which you would specifically like feedback, please point them at the beginning or end  of the deliverable . If your attem
+pt is serious, errors will not affect your grade.  
+• Assignments are ba sed on end of chapter questions. S ubmissions must be made using Canvas  by the end of the week (typically this means Sunday 11:5 9 p
+m). There is absolutely no quality of service assurance I can provide on the grading  of assignments delivered through other channels (email etc.)  
+• Assignments will be graded in part on follow ing the guidelines of professional communications. Sloppy submissions may be returned WITHOUT grading. T h
+is is in response to the consistent demands o f all area employers.  
+• All grade works are individual works and to be submitted on Canvas by the end of the day on the due date. Late submissions or submissions in other forms
+ (e.g. email attachments) will be penalized 50% of the credit for the exercise . 
+• Chapters have three  types of graded works  – assignment, discussion, and quiz . Most hands -on exercises will require access to a computer with administ
+rative privileges . Please plan your time and resources accordingly. Students have become very frustrated when they tried completing the assign ments on t
+he day they were due.  
+o Assignment: this includes review questions, and hands -on exercise . 
+o Discussion: this is associated w ith you grade of participation . Discussion  includes design exercise and case study  
+o Quiz  
+In addition to above chapter -based works, there will also be two exams, one lab, one final paper, and one project . More information will be provid e
+d as we progress.  
+Attendance Policy  
+This course will be conducted 100% online. All required materials and assignments will be delivered via CANVAS. Students are required to complete all assignm
+ents, quizzes, and exams based on deadlines documented within CANVAS.  
+Make -Up Policy  
+The instructor will accommodate students who have to miss quizzes, assignments or tests due to medical emergencies in the immediate family or job -related s
+ituations . These are the only conditions under which accommodation will be considered in real -time during the semester. Should such situations arise, the stu
+dent must provide necessary documentation before the missed deliverable can be rescheduled. Specifically, Bulls games are no grounds for make -ups.  
+Academic accommodations for disabilities  in consult ation with the O ffice of Students with Disabilities Services will be provided following university procedures
+.  
+All late work will result in 50% reduction in the grad e.  
+Standard Policies   
+1. Final Examinations Policy - all final examinations are to be scheduled in accordance with the University's final examination policy.   
+o http://www.ugs.usf.edu/policy/FinalExa ms.pdf   
+ 
+2. General Attendance Policy  
+o http://www.ugs.usf.edu/policy/GeneralAttendance.pdf  
+ 
+3. Early Notification Requirement for Observed Religious Days - Students who anticipate the necessity of being absent from class due to the observation 
+of a major religious observance must provide notice of the date(s) to the instructor, in writing, at the beginning of the ter m.  
+o http://www.ug s.usf.edu/policy/ReligiousDays.pdf  
+ 
+4. Academic Integrity of Students  
+o http://www.ugs.usf.edu/policy/AcademicIntegrityOfStudents.pdf  
+ 
+5. Disruption of the Academic Process  
+o http://www.ugs.usf.edu/policy/DisruptionOfAcademicProcess.pdf  
+ 
+6. Gender -Based Crimes - Educators must report incidents of gender -based crimes including sexual assault, sexual harassment, stalking, dating violence 
+and domestic violence. If a student discloses in class, in papers, or to an instructor, the instructor is re quired by law to report the disclosure. The 
+Center for Victim Advocacy and Violence Prevention  (813 -974-5757) is a confidential resource where you can talk about such situations and receive 
+assistance in confi dence. Additional confidential resources on campus are: the Counseling Center  (813 -974-2831) and Student Healt h Services (813 -
+974-2331).  
+ 
+7. Student Academic Grievance Procedures  
+o http://www.ugs.usf.edu/policy/StudentAcademicGrievanceProcedures.pdf  
+ 
+8. Students with Disabilities - Stude nts with disabilities are responsible for registering with Students with Disabilities Services (SDS) in order to receive 
+academic accommodations. SDS encourages students to notify instructors of accommodation needs at least 5 business days prior to needing  the 
+accommodation. A letter from SDS must accompany this request.  
+o See student responsibilities: http://www.usf.edu/student -affairs/student -disabilities -services/documents/sds -staff -handbook.pdf  
+o See instructor responsibilities: http://www. usf.edu/student -affairs/student -disabilities -services/documents/sds -staff -handbook.pdf  
+ 
+9. Turnitin Privacy Policy  
+o In order to comply with privacy laws, students are not required to include personal identifying information, such as name, in  the body of the 
+document. Turnitin provides an originality report letting the instructor know how much of the assignment is original. Please f ollow your 
+instructor's instructions carefully regarding what identifying information to include.   
+o How do I submit a Turnitin Assignment?  
+ 
+10. University Emergency Policy  
+o In the event of an emergency, it may be necessary for USF to suspend normal operations. During this time, USF may  opt to continue delivery of 
+instruction through methods that include but are not limited to: Blackboard, Elluminate, Skype, and email messaging and/or an  alternate 
+schedule. It's the responsibility of the student to monitor Blackboard site for each class for course specific communication, and the main USF, 
+College, and department websites, emails, and MoBull messages for important general information.   
+  
+Miscellaneous  
+1. Students who enter USF under the most recent catalog are required to earn a grade of C, o r better, in every core class and an overall GPA of 2.0 for all core
+ classes.  
+2. Quizzes will be conducted using Canvas.  
+3. The main mode of communication between the instructor and students during off -class hours will be y our official USF email address.   
+COVID -19 Procedures  
+The health and safety of students, faculty, staff and visitors on our campuses is our top priority. In response to the curren t COVID -19 pandemic, the USF 
+community will be working together to support compliance with recommended health a nd safety standards to optimize the learning experience while 
+minimizing health risks.  The Conduct Expectations for all members of the community may be accessed at Conduct Expected to Su pport USF Health and Safety 
+Standards with details provided below:  
+Students and faculty will be guided by established USF processes to ensure the safest possible non -disruptive environment including the:  
+(1) Academic Disruption Regulation which provides for an immediate removal or restriction from a classroom setting with a cademic sanctions and/or  
+(2) Student Conduct Regulation to address conduct that is inconsistent with the expectations as outlined below:  
+    Complete daily screening as requested. Anyone experiencing one or more COVID -19 symptoms should not be on campus or , if a resident, should not be 
+outside their residence hall room and should contact a medical provider immediately and follow their guidance. Please inform your instructor prior to the 
+beginning class if your screening indicates the need for further evalua tion and you will not be in class.  
+    Wear face coverings. All members of the USF community are required to wear face coverings while in classrooms or any other sh ared space, including 
+specified public or common -use areas where social distancing guideline s cannot be followed. See this link on How To Make A Face Mask. If you have to use a 
+disposable face mask, please discard it in a trash receptacle immediately after use.  
+    Maintain social distancing. All students, faculty, staff and guests are required t o maintain a safe distance from one another. Social distancing is maintained 
+in all indoor and outdoor spaces which are owned or controlled by USF.  Stay at least 6 feet (about 2 arms’ length) from othe r people, do not gather in groups, 
+stay out of crowded  places and avoid mass gatherings. See the CDC for information on Social Distancing. Please sit in only designated areas in cl ass and do not 
+move chairs or desks in classrooms or common spaces.  
+    Practice good hand hygiene. Individuals should wash their hands with soap and water for at least 20 seconds as often as possible or use personal hand 
+sanitizers containing at least 60% alcohol. Hand sanitizer stations are available throughout the campus. If you see one, use it! See the CDC recommendations 
+on Hand  Hygiene.  
+    Disinfect your classroom space. Students and faculty are responsible for disinfecting areas within their workspaces by cleani ng these at the beginning and 
+end of each class. This includes desk tops, seats, and equipment used during class. Disinfectant supplies will be provided. If paper towels are used to disinfect, 
+they must be discarded in a trash receptable immediately after use.   
+Business continuity  
+In an emergency, USF may opt to continue delivery of instruction through methods includ ing but not lim ited to: Canvas , Elluminate, Skype, and email messagin
+g and/or an alternate schedule. Student s should monitor Canvas for course specific communication, and the main USF  and College websites, emails, and MoBu
+ll messages for general information.  
+Grading  
+Item  Count  Weight  
+Exams  2 (Exams)  35%  
+Assignments  10 10% 
+Participation  10 10% 
+Class Project  1 10% 
+Paper  1 10% 
+Virtual Lab  1 10% 
+Quizzes  13 15% 
+Total   100%  
+Grading policy  
+Total%  Grade  Total%  Grade  
+98 – 100%  
+92 – 97  
+90 – 91  
+88 – 89  
+82 – 87  
+80 – 81  A+ 
+A  
+A-  
+B+  
+B 
+B- 78 – 79  
+72 – 77  
+70 – 71  
+68 – 69  
+62 – 67  
+60 - 61 
+< 60  C+  
+C  
+C-  
+D+ 
+D 
+D- 
+F 
+ 

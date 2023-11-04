@@ -1,0 +1,349 @@
+1/22/23, 10:47 AM Syllabus for ISM6419.792S23.24576 Data V isualization
+https://usﬂearn.instructure.com/courses/1774568/assignments/syllabus 1/10Course Syllabus
+ Edit
+Downloadable version: 
+Data V isualization
+for Story T elling -
+ISM 6419  
+Spring 2023
+ 
+Instructor :Han Reichgelt, PhD
+OfficeLPH 430 St Petersburg  
+CIS 2071 T ampa
+Office
+phone727-873-4786
+Fax TBD
+Email reichgelt@usf.edu
+Classroom N/A
+Time: N/A Online Asynchronous
+Office
+hoursMondays 10:00-12:00 pm (https://teams.microsoft.com/l/meetup-
+join/19%3ameeting_ODRhYzE2OGQtMzllZC00MWQ2LTkxZDYtOTAzN2UzMjdmZTkx%40thread.v
+context=%7b%22Tid%22%3a%22741bf7de-e2e5-46df-8d67-
+82607df9deaa%22%2c%22Oid%22%3a%221b3ef0f3-b0ad-44bd-8a43-d3804d2e3d10%22%7d) (via
+Teams)  
+Mondays 6:00-8:00 (https://teams.microsoft.com/l/meetup-
+join/19%3ameeting_NWI4ZGUzNjItZmUwNS00MmEzLWIyOGMtOTU0YjhlMWRiZWRh%40thread.v
+context=%7b%22Tid%22%3a%22741bf7de-e2e5-46df-8d67-
+82607df9deaa%22%2c%22Oid%22%3a%221b3ef0f3-b0ad-44bd-8a43-d3804d2e3d10%22%7d) pm
+Teams)  
+Wednesdays 2:30-6:00 pm  (https://teams.microsoft.com/l/meetup-
+join/19%3ameeting_OTg2NWU0ZWYtNTdlNS00OGRmLWE3ODEtYzg3MzRkNWJkYjFk%40thread
+context=%7b%22Tid%22%3a%22741bf7de-e2e5-46df-8d67-
+82607df9deaa%22%2c%22Oid%22%3a%221b3ef0f3-b0ad-44bd-8a43-d3804d2e3d10%22%7d) (in1/22/23, 10:47 AM Syllabus for ISM6419.792S23.24576 Data V isualization
+https://usﬂearn.instructure.com/courses/1774568/assignments/syllabus 2/10person at CIS 2071 or via T eams).  
+Also available at other times by appointment.
+ 
+Course Description:
+As organizations gather and access more and more data, the issue of knowledge management in
+general and business intelligence and data analytics in particular takes on an increasing importance for
+organizational success. However , while the various business intelligence tools often of fer important
+information, in order for such information to be useful from an organizational point of view , it needs to be
+presented in a way that is accessible. Data/Information visualization is widely used in several industries,
+including business, engineering, and media disciplines to help people analyze and understand what the
+data is telling us. The visualization field has grown exponentially over the last few years, and thus there
+are more tools available to help us quickly and ef ficiently create compelling ways to understand data.
+This course examines how to present insights gained through the application of business intelligence
+techniques in the most ef fective way to tell stories that can improve the quality of leadership decisions.
+Course Objectives:
+At the conclusion of this course, students are expected to be able to:
+1. Discuss the importance of data visualization in improving data-driven organizational decision-making.
+2. Distinguish between truthful visualizations and misleading visualizations, and discuss what makes a
+visualization truthful or misleading.
+3. Use data visualization tools to produce quality visualizations.
+4. Create visualizations in at least one programming language.
+5. Use widely used data visualization tools to clearly , effectively and compellingly communicate insights
+to improve organizational decision making.
+Course Material
+Required:
+NONE
+Optional:
+Healy , K. (2019) Data V isualization: A Practical Introduction. Princeton, NJ: Princeton University
+Press
+Henley , A.J. & W old, D. (2018)   Learn Data Analysis with Python: Lesson in Coding  .  Apress. (An
+electronic version of the book is included in module 7)
+Milligan, J. (2016) Learning T ableau 10 (2nd Edition) . Packt Publishing (Electronic copy available
+from USF library)1/22/23, 10:47 AM Syllabus for ISM6419.792S23.24576 Data V isualization
+https://usﬂearn.instructure.com/courses/1774568/assignments/syllabus 3/10from USF library)
+       Nussbaumer Knaflic, C. (2015) Story T elling with Data . Wiley
+Where appropriate, we will also include links to additional optional material online.
+We will of course rely heavily on Canvas.  The Canvas privacy policy is
+at https://www .canvaslms.com/policies/privacy  (https://www.canvaslms.com/policies/privacy) .
+Grading:
+You will be assessed using a number of dif ferent assessment tools, including
+A number of smaller projects.
+A few graded discussions.  The graded discussions require you to make an initial contribution and to
+post at least two meaningful reactions to posts from your class mates.  The initial contributions are
+always due on the Thursday before the posted deadline.  This will give your class mates time to read
+your contribution and post a thoughtful reaction.
+The larger project in which you will conduct data analysis and data visualization on a data set,
+preferably of your own choosing, and
+A reflective essay on what you learned in the course and how you could use the competencies
+acquired in the course in your professional career .
+The link of most of the assessments to the course objectives will be clear . The only assessment
+instrument that needs justification is the reflective essay . Research (see e.g.
+http://www .cmu.edu/teaching/principles/learning.html
+(http://www.cmu.edu/teaching/principles/learning.html) ) has shown that learning improves considerably ,
+especially for adult students, if students reflect on their learning and how they could use the
+competencies and knowledge that they acquired in a course through their own careers. There will be
+more details on what to include in the essay later on in the course.
+Since the project is such a large part of the overall grade for the course, you are welcome to submit an
+early draft of the project, and there will be a number of graded discussions in which you are asked to
+report on the progress of your project and on any issues you are running into.  The project will consist of
+a written report and a number of visualizations in whatever tool you choose (T ableau or PowerBI).
+Your grade will be determined as follows:
+Assessment total
+Mini projects 320
+Small Graded Discussions 60
+Large Graded Discussion 80
+Reflective essay 30
+Project Presentation 301/22/23, 10:47 AM Syllabus for ISM6419.792S23.24576 Data V isualization
+https://usﬂearn.instructure.com/courses/1774568/assignments/syllabus 4/10Final Project 200
+Total 720
+Your raw numerical grade will be converted to a letter grade according to the following table:
+A+>= 96.5% <= 100%
+A >= 93% < 96.5%
+A- >= 90% < 93%
+B+>= 86.5% < 90%
+B >= 83% < 86.5%
+B- >= 80% < 83%
+C+>= 76.5% < 80%
+C >= 73% < 76.5%
+C- >= 70% < 73%
+D+>= 66.5% < 70%
+D >= 63% < 66.5%
+D- >= 60% < 63%
+F < 60%
+ 
+Provisional Schedule
+Week Date Topics Assessments Deadline
+1Feb 6Introduction  
+Discussion of Syllabus  
+Good and Misleading V isualizations  
+Installing the Required T echnologiesDiscussion on
+Misleading and T ruthful
+visualizations  Feb 9 (Syllabus)  
+Feb 12 (V iz
+Discussions)
+2Feb 13Telling Stories with Data  
+The T ableau InterfaceDiscussion on Initial
+Project Ideas  
+Some simple T ableau
+Visualizations  
+Tableau Exercise 1Feb 19
+3Feb 20Data V isualization and V isual Impairment
+Data Preparation in T ableau Prep BuilderTableau Exercise 2 Feb 26
+4Feb 27 Filters and Maps in T ableau Combining
+and Animating V isualizations in T ableau  
+Publishing to T ableau onlineDiscussion on Data
+Visualization and V isual
+Impairment  
+Tableau Exercise 3Mar 51/22/23, 10:47 AM Syllabus for ISM6419.792S23.24576 Data V isualization
+https://usﬂearn.instructure.com/courses/1774568/assignments/syllabus 5/105Mar 6 Power BI 1Project Progress
+Discussion 1  
+Power BI Exercise 1Mar 19
+Mar 12 - Mar 17: SPRING BREAK
+6Mar 20 Power BI 2 Power BI Exercise 2 Mar 26
+7Mar 27 Qlik Sense Qlik Sense Exercise April 2
+8April 3 Data V isualization in Python Python Exercise April 9
+9April 10 Data V isualization in RR Exercise  
+Project Progress
+Discussion 2April 16
+10April 17 ProjectProject report, including
+visualizations  
+Reflection PaperMay 4
+ 
+Important dates:
+Mar 13 - Mar 19: Spring Break
+Mar 25: Last day to withdraw: No refund and no academic penalty .
+Course Policies
+Contacting the Instructor:   
+The easiest way to contact me is through CANV AS. I typically log in at least once a day , and often more
+frequently , and this includes weekends. Y ou can also reach me by email as reichgelt@usf.edu or on my
+mobile 678-314-4432. I will normally answer you within 24 hours and often more quickly , unless I have
+indicated through a course announcement that I may not be able to.  If you want to meet me in person,
+please make an appointment.  I realize that some of you will be working full-time and that it will not
+always be convenient for you to meet during regular of fice hours, or in my of fice, and we can therefore
+be flexible both regarding time and place.
+Communications from the Instructor:  
+I will in general communicate with you through course emails and course announcements, and it is
+therefore crucial that you log in at least twice a week to make sure that there are no new messages from
+me.  I will also communicate with you by leaving comments on the various assignments that you
+complete.  It is important that you read these even if you earned the maximum grade on the assignment
+because I often make some comments on how you could further improve the assignment.
+Deadlines:   
+I will strictly enforce deadlines and will typically not grade work if it is submitted after the deadline. Since
+the technology is still not 100% reliable, I would encourage you not to wait until the last moment before
+you start working on your assignments. Also, as you are working, please save your work often,1/22/23, 10:47 AM Syllabus for ISM6419.792S23.24576 Data V isualization
+https://usﬂearn.instructure.com/courses/1774568/assignments/syllabus 6/10preferably both on your computer and on some back-up storage device, such as a USB drive. In return,
+you can expect me to grade your work within 48 hours for the larger assignments and more quickly for
+the smaller assignments. 
+University Policies:
+USF has a set of central policies related to student recording class sessions, academic integrity and
+grievances, student accessibility services, academic disruption, religious observances, academic
+continuity , food insecurity , and sexual harassment that apply to all courses at USF .  Be sure to review
+these online at: https://www .usf.edu/provost/faculty/core-syllabus-policy-statements.aspx
+(https://www.usf.edu/provost/faculty/core-syllabus-policy-statements.aspx)  
+Honor System :  
+Under the USF Honor System, each student is expected to observe complete honesty in all academic
+matters.  V iolation of the Honor System will be referred to the Honor Council.  Note: The following are
+violations of the Honor Code:  Copying another student’ s homework, signing another student’ s name on
+the attendance roster , copying another group’ s disk or written work, using another student’ s computer
+disk to print out your assignment, copying another student’ s file onto your disk, and misrepresenting a
+reason for a missed exam.  Punishment for academic dishonesty may result in an automatic “F” or “FF”
+in the course or action that may result in suspension or expulsion. See the USF Policy on Academic
+Dishonesty & Disruption of the Academic Process at  http://www .usfsp.edu/catalog-grad/academic-
+integrity-of-students.htm  (http://www.usfsp.edu/catalog-grad/academic-integrity-of-students.htm)
+Students with Accessibility Issues :  
+Please notify your instructor by the second class meeting if you have a learning disability or require
+special assistance with this course.  For additional information about academic accommodations and
+resources, you can visit the SAS website at https://www .usf.edu/student-affairs/student-
+accessibility/  (https://www.usf.edu/student-affairs/student-accessibility/)  
+We have made every ef fort to make the course material as accessible as possible.  However , we rely
+heavily Canvas in this course.  Consult https://community .canvaslms.com/docs/DOC-2061
+(https://community.canvaslms.com/docs/DOC-2061)  for the accessibility practices policies for Canvas.  If
+you run into accessibility problems with either , please contact me.
+S/U Grades :  
+This course cannot be taken on an S/U basis.
+Title IX and Responsible Employees:
+All USF faculty (adjunct, T A, etc) are designated Responsible Employees. If you have experienced
+sexual harassment, sexual violence, relationship violence or stalking, Responsible Employees are here
+to listen and connect you to resources. When a disclosure is made to a Responsible Employee, they will
+notify the T itle IX Of fice on your behalf and that of fice will send you an email with your rights, policies,1/22/23, 10:47 AM Syllabus for ISM6419.792S23.24576 Data V isualization
+https://usﬂearn.instructure.com/courses/1774568/assignments/syllabus 7/10and resources (if it is safe to do so). Y ou are not obligated to respond to this email and The T itle IX Of fice
+does not share information about the report unless requested by the discloser or as required to address
+imminent risk to members of our community .
+Confidential Resources  (listed below) are available and will not be required to notify the T itle IX of fice of
+disclosures of sexual harassment. If you are not sure what to do, you are encouraged to contact V ictim
+Advocacy to confidentially explore your options including: injunctions & protective orders; changes in
+accommodations, living arrangements, class schedules, & transportation; assistance with academic
+Issues-missed classes, late assignments, etc. The T itle IX Of fice can also provide academic, on-campus
+housing and USF workplace accommodations, as well as other supportive measures.
+Confidential Resources Non-Confidential Resources
+Victim Advocacy in the W ellness Center  
+SLC 2200  
+727-873-4432  
+https://www .stpetersburg.usf.edu/student-life/wellness/victim-
+advocacy-services/index.aspx  
+(https://www.stpetersburg.usf.edu/student-life/wellness/victim-
+advocacy-services/index.aspx)  Title IX  
+813-974-4373  
+https://www .usf.edu/title-ix/  
+(https://www.usf.edu/title-ix/)
+The Counseling Center promotes the wellbeing of the campus
+community by providing culturally sensitive counseling,
+consultation, prevention, and training that enhances student
+academic and personal success. Contact information is available
+at
+https://www .usf.edu/student-affairs/counseling-center/about-
+us/contact-us.aspx  (https://www.usf.edu/student-
+affairs/counseling-center/about-us/contact-us.aspx)  Student Outreach & Support  
+PMB 101  
+727-873-4278  
+https://www .stpetersburg.usf.edu/s
+life/student-outreach-program/  
+(https://www.stpetersburg.usf.edu/stud
+life/student-outreach-program/)  
+Ombudsman  
+Free, confidential conflict resolution  
+PNM 105B  
+727-873-4184  
+https://wwwtest.stpetersburg.usf.edu/resources/ombuds.aspx
+(https://wwwtest.stpetersburg.usf.edu/resources/ombuds.aspx)  Student Conduct & Ethical Developm
+PNM 101B  
+727-873-4278  
+Usfsp-conduct@usf.edu  (mailto:Usf
+conduct@usf.edu) 
+https://www .usf.edu/student-
+affairs/student-conduct-ethical-
+development/about-us/contacts.as
+(https://www.usf.edu/student-affairs/st
+conduct-ethical-development/about-
+us/contacts.aspx)  
+Student Health Services at the W ellness Center  
+SLC 2200Dean of Students  
+PNM 101  1/22/23, 10:47 AM Syllabus for ISM6419.792S23.24576 Data V isualization
+https://usﬂearn.instructure.com/courses/1774568/assignments/syllabus 8/10Course Summary:
+Date Details Due
+Thu Feb 9, 2023 Syllabus
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 6 5 )due by 11:59pm
+Sun Feb 12, 2023 Good V isualization
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 6 1 )due by 11:59pm
+ Misleading V isualization
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 5 7 )due by 11:59pm
+Sun Feb 19, 2023  Initial Project Ideas
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 5 9 )due by 11:59pm
+ Tableau Exercise 1 Part 2
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 5 1 )due by 11:59pmSLC 2200  
+727-873-4422  
+https://www .stpetersburg.usf.edu/student-
+life/wellness/index.aspx  
+(https://www.stpetersburg.usf.edu/student-life/wellness/index.aspx)  727-873-4278  
+https://www .stpetersburg.usf.edu/s
+life/dean-of-students/  
+(https://www.stpetersburg.usf.edu/stud
+life/dean-of-students/)  
+OFF CAMPUS CONFIDENTIAL OFF CAMPUS NONCONFIDENTIAL
+Suncoast Center  
+Rape Crisis Center  
+2188 58th St N  
+Clearwater , FL 33760  
+727-388-1220  
+https://www .suncoastcenter .org/sexual-assault-services  
+(https://www.suncoastcenter.org/sexual-assault-services)  Pinellas County Sherif f’s Office  
+10750 Ulmerton Rd  
+Largo, FL 33778  
+Nonemergency: 727-582-6200  
+Emergency: 91 1  
+https://www .pcsoweb.com/  
+(https://www.pcsoweb.com/)
+CASA  
+Domestic V iolence Shelter  
+1011 First A ve North St. Petersburg, FL 33705  
+24/7 Hotline: 727-895-4912  
+https://www .casa-stpete.org/  (https://www.casa-stpete.org/)St. Petersburg Police Department  
+1301 First A ve North  
+St. Petersburg, FL 33705  
+Nonemergency: 727-893-7780  
+Emergency: 91 1  
+https://police.stpete.org/  
+(https://police.stpete.org/)
+ 
+1/22/23, 10:47 AM Syllabus for ISM6419.792S23.24576 Data V isualization
+https://usﬂearn.instructure.com/courses/1774568/assignments/syllabus 9/10Date Details Due
+ Tableau Exercise 1 Part 1
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 7 5 )due by 11:59pm
+Sun Feb 26, 2023 Tableau Exercise 2
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 4 7 )due by 11:59pm
+Sun Mar 5, 2023 Data V isualization and V isual
+Impairment in Oral Presentations
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 5 5 )due by 11:59pm
+ Data V isualization and V isual
+Impairment in W ritten
+Presentations
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 6 3 )due by 11:59pm
+ Tableau Exercise 3
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 4 3 )due by 11:59pm
+Sun Mar 19, 2023 Power BI Exercise 1
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 4 5 )due by 11:59pm
+ Project Progress Discussion 1
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 5 3 )due by 11:59pm
+Sun Mar 26, 2023 Power BI Exercise 2
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 4 9 )due by 11:59pm
+Sun Apr 2, 2023 Qlik Sense Exercise
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 6 8 2 8 2 5 )due by 11:59pm
+Sun Apr 9, 2023 Python Exercise
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 4 1 )due by 11:59pm
+Sun Apr 16, 2023 R Exercise
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 6 8 2 8 2 9 )due by 11:59pm
+ Project Progress Discussion 2
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 6 8 2 8 3 3 )due by 11:59pm
+Wed Apr 26, 2023 Draft Final Report
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 6 9 )due by 11:59pm1/22/23, 10:47 AM Syllabus for ISM6419.792S23.24576 Data V isualization
+https://usﬂearn.instructure.com/courses/1774568/assignments/syllabus 10/10Date Details Due
+Thu May 4, 2023 Final Project
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 7 1 )due by 11:59pm
+ Project Presentation
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 7 1 9 7 7 5 )due by 11:59pm
+ Reflection Paper
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 7 4 5 6 8 / a s s i g n m e n t s / 1 3 4 3 5 0 7 3 )due by 11:59pm

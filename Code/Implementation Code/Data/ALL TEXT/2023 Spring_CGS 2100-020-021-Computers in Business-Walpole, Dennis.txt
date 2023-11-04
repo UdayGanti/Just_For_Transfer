@@ -1,0 +1,572 @@
+Computers  in Business 
+Spring 2023  
+CGS 2100 020/021 (3 credit hours)  
+ 
+Instructor Office Phone  Email  Office  Hours  
+Dennis  Walpole  BSN 2402 813-974-2545  walpole@usf.edu  Tuesday,  12-3 pm via Teams  
+ 
+Teaching  Assistants 
+Name  Email  TA Section  
+Prasuna Challa  <challap@usf.edu>   
+Saranya Chintalapati  <chintalapatis@usf.edu>   
+Shreya Gottimukkula  <gs33@usf.edu>   
+Ritika Johri  <rajohri@usf.edu>   
+Swetha Maddyala  <maddyala@usf.edu>   
+Saideep Kanchi  <saideepkanchi@usf.edu>   
+Shuvrangshu Mukhopadhyay  <shuvrangshum@usf.edu>   
+Sai Akhilesh Potharaju  <saiakhileshpotharaju@usf.edu>   
+Akhila Siddabatula  <akhilasiddabatula@usf.edu>   
+Prathyusha Thummalapalli  <prathyusha4@usf.edu>   
+Sai Bharadwaja Vellanki  <saibharadwajav@usf.edu>   
+ 
+Section s 020 and 021  (Online) h ave no schedule d class meetings.  
+Required  Text:  We are enrolled  in the Follett ACCESS  agreement  with  Cengage  Learning  and 
+the USF Bookstore  (Follett).  You will receive  and email from  the bookstore  with  information  on 
+how to opt-in to purchase  at the Follett  ACCESS  price.  This is the lowest  price  option  available  
+for our course  material.  
+ 
+If you don’t opt-in you will pay a significantly  higher  price  point  for the course  material.    
+ 
+ 
+ 
+Course  Description  
+ 
+Computers in Business (CGS 2100) is part of the University of South Florida's General Education 
+Curriculum. It is certified for Information and Data Literacy. Students enrolled in this course will be 
+asked to participate in the USF General Education assessment effort. This will involve submitting 
+copies of writing assignments for review via Canvas.  
+ 
+The two General Education assignments that are part of the USF General Education 
+assessment are the #GEA1- Biz Café Report and #GEA2 -Biz Café  Excel Capstone.  
+ In this course,  you develop  computer  proficiency  in the use of business  productivity  
+software  using  Microsoft  Office  365 and running  a small business.  This course  
+prepares  you to use Microsoft  Office  for coursework  assigned  in most  USF courses  
+and you will attain valuable  entry  level  workforce  skills.  Excel  and Word  are at the 
+top of the list of desired  skill sets for employment  in a myriad  of occupations.  You 
+are introduce d to the basic  skills required  for entry  level  positions  and then  asked to 
+use them  in making  business  decisions  for a small  business.  
+ 
+There  is a mix of assignments  that ensure  you demonstrate  that you have  learned  the 
+necessary  skills  using  Microsoft  Office,  interpret data  and identify  the changes  needed  to 
+run a profitable  café . The course  is broken  into to two sections:  Microsoft  Office  essentials  
+and the business  simulation.  
+ 
+The Microsoft  Office  section  uses  MindTap/ Skills Assessment Manger ( SAM) to train  and 
+assess  skills  in the Word,  Excel,  PowerPoint,  and Access applications.  
+ 
+There is an emphasis  on Excel.  As you work  through your  Word assignments  you are  introduced 
+to Biz Café,  a business  simulation  application,  where  you make  business  decisions,  submit  
+reports,  and compare  sales and survey  data.  During  this process  you will demonstrate  a 
+competency  with  Microsoft  Office  and how  to use the applications  to help  you create  reports  and 
+analyze  information  related to  your  café. 
+When managing your Café in the Biz  Ca fé business  simulation  program , you make  weekly  
+decisions  in several  areas.  Your  decisions  at a specified  time  are evaluated  by an algorithm 
+that compares  your  input with the other  student  run cafés  and calculates  your  results  for the 
+week.  You receive reports  on your  sales,  inventory  and customer  satisfaction  to name  a few 
+and information  on many  aspects  of the competing  cafés . You must  evaluate  what went  
+right  or wrong,  analyze  your  coffee  shop  against  the competition  and create  an action  plan  
+for the next  decision.  The Biz Café  competition  has your café competing directly with  the cafés 
+in your industry (group of cafés).   
+The start -up decision  is important,  and you will have  to make  weekly  special  decisions  which 
+will include  expanding  your  menu,  adding  entertainment,  opening  on weekends  and make  
+social  and ethical  choices.  You will integrate  your  income  statement,  customer  satisfaction  
+and other  areas  to determine  how  you manage  your  decisions.  Reviewing  the Biz Café  
+manual  and simulation  case is essential  to running  a successful  café in this simulation.  
+ The approach this course  applies  to the applications  for Microsoft  Office  is that you learn  by 
+doing;  the best  way to get familiar  with  Microsoft  Office  is to use it. You are introduced  to 
+the Microsoft  Office  applications  through MindTap  modules . The training  assignments  are 
+step -by-step  tasks  that take  you through  a project  but gives  you a fresh  start  for the next  
+task should  you fail to complete  the task.  The assigned  module  project s cover  the same  
+skills,  but you are graded  on the completed  project.  The simulation  skills  training  for each  
+module  maps  to the module  learning  objectives  which  are tied to your  Student Learning  
+Outcomes.  You will be assessed  on your  completion  percentage  for each  training  module  
+and module  grader  projects  as assigned.  
+ 
+Once  you are oriented  and comfortable  with MindTap  you complete  the training  for each  
+assigned  module  which  prepare  you for the Biz Café  and MindTap  Projects.  In MindTap  you 
+earn  points  when  you complete  training  and assigned  projects.  Feedback is immediate  and 
+within  the training  you have  help  in the form of a short  intro  explaining  the task,  you can 
+observe  the task completion  by viewing  a recording  or you can walk  through  the task with  
+the aid of the simulation  in the practice  mode.  
+ 
+After an orientation  and Biz Café quizzes  you make  business  decisions  for a café. You have  the 
+opportunity  to run a café in a practice  mode  where  you operate  in separate  but identical  
+environments  using  benchmark  competition.  This exercise  provides  you a great  opportunity  to 
+gain experience  making  decisions  and using  the tools  and resources  available  in the simulation.  
+You then  transition  into the competitive  phase  of the course . The four primary  areas  of 
+responsibility  are management,  operations,  marketing , and special  decisions.  You determine 
+pricing,  hours,  staffing,  how  much  coffee  to purchase  and more  as you compete  against  other  
+cafés  in the course.  
+ 
+Student  Learning  Outcomes  
+ 
+Student Learning  Outcomes  for General  Education  Requirements  
+ 
+• (1) Critically  interpret  quantitative  evidence (such  as graphs,  tables,  charts)  to identify  
+false  claims,  incorrect  use of evidence,  or contradictory  statements.  
+• (2) Revise  submitted  coursework  by integrating  new  sources  of information  and 
+determining  relevance  of existing  sources.  
+ 
+Student Learning  Outcomes  for CGS 2100  
+ 
+• (3) Students  will demonstrate  the ability  to use basic  and intermediate  Microsoft  
+application  skills  by achieving  a passing score  on Training  and Projects  in Word,  Excel,  
+PowerPoint,  and Access.  
+• (4) Students  will demonstrate  the ability  to apply  appropriate  formulas  and functions  
+using  Excel  to solve  problems  in a small  business.  
+• (5) Students  will demonstrate  the ability  to recognize  the relationships  between  
+operations,  staffing,  marketing,  and accounting  and how  they  affect  customer  satisfaction  and revenue.  
+• (6) Students  will demonstrate  the ability  to value  the importance  of collaboration  and the 
+concept  of compromise  to reach  a mutual  decision.  
+• (7) Students  will demonstrate  the ability  to create  an information  dashboard  using  a 
+visualization  tool and Excel.  
+ 
+• (8) Students  will demonstrate  that they  can make  effective  technology  decisions.  
+ 
+List of the Practical  Skills/General  Business  Knowledge  that  you will learn  in the 
+course.   
+ 
+Microsoft  Word  
+• Be able  to create  and modify  a Word  Document.  
+• Know  how  to use Styles  and Outlines  in a Word  Document.  
+• Know  how  to format  a document.  
+• Know  how  to create  and modify  tables  within  a Word  Document.  
+• Know  how  to import  files external  files into a Word  Document.  
+• Know  how  to track  changes  and use special  features.  
+ 
+PowerPoint  
+• Be able  to create  and edit a PowerPoint  Presentation.  
+• Be able  to format  a presentation including  objects  and graphics.  
+• Be able  to apply  slide  transitions  and animations.  
+• Know  how  to insert  external  files into a presentation.  
+• Know  how  to use media  rich tools  within  a presentation.  
+• Be able  to format  a presentation  using  slide  masters.  
+Excel  
+• Be able  to build and use formulas  and functions.  
+• Be able  to format  an Excel  spreadsheet.  
+• Be able  to format  using  the Conditional  Formatting  Tool.  
+• Be able  to create  and modify  Charts.  
+• Know  how  to analyze  data  using  Charts  and What -If tools.  
+• Be able  to use Financial  and Lookup  Functions.  
+• Be able  to create  a Pivot  Table  and produce  Pivot  Table  Reports.  
+• Be able  to use Solver for complex  calculations.  
+• Be able  to create  and modify  a Macro.  
+• Be able  to modify  Visual  Basic  Code  used  in a Macro.  
+• Be able  to export  Excel  data  and create  a Visualization  Dashboard.  
+Access  
+• Be able  to create  and use an Access  database.  
+• Be able  to import  external  files into an existing  database.  
+• Be able  to create  and edit a database  table.  
+• Be able  to create  and edit a variety  of commonly  used  queries.  
+• Be able  to add a calculation  to database  query.  • Be able  to create  and modify  a database  form.  
+• Be able  to create  and modify  a database  report  which  includes  calculations.  
+Business  Simulation  (Biz Café)  
+ 
+Planning  /Analysis  
+• Be able  to write  a simple  business  plan.  
+• Be able  to monitor  implementation  of business plan.  
+• Be able  to calculate  a break -even  point.  
+Staffing  
+• Be able  to project  staffing  requirements.  
+• Know  how  to decide  on employee  pay rates.  
+• Be able  to calculate  total  cost of compensation  
+• Know  how  to manage  employee  turnover.  
+Marketing  
+• Be able  to identify  the 4Ps of marketing.  
+• Know  how  to set pricing  for multiple  products.  
+• Be able  to calculate  gross profit . 
+• Be able  to project  impact  of promotion  
+• Be able  to create  advertising  copy.    
+ 
+Operations  
+• Know  how  to project  purchasing  needs.  
+• Be able  to manage  inventory.  
+• Be able  to determine  shop  hours  
+• Be able  to maximize  customer  satisfaction.    
+ 
+Teamwork     
+• Learn to allocate responsibilities fairly.     
+• Learn to complete assigned tasks on time.     
+• Learn to communicate problems and plans.    
+• Collaborate with other team members.     
+Soft Skills  
+• Learn  basic  problem  solving.  
+• Be able  to write  professional  reports.     
+ 
+ 
+Assignments:  
+ 
+Note: You must complete the MindTap/SAM and Biz Café assignments  using Office 365 or 
+Office 20 21.  The MindTap/SAM Project grader will only accept  Microsoft Office files.   The Biz 
+Café assignment s must also be completed using Office 20 21 or 365.  You can download Office 
+365 for the PC and Mac at no cost via myUSF.  See instructions in the Week 0  Module.   
+ 1. If you are using an iPad or Chrome Book you will need to use USF’s Virtual Lab.   
+2. For all students, Online Office is not fully featured and doesn’t have the capability to fully 
+complete the MindTap Projects.  
+ 
+____________________________________________________________________________  
+Biz Café  Quizzes  (Canvas)  
+Two  assignments  (3% of your  grade)  
+There are the Biz Café  Case  and Content  quizzes  to take  before  starting  the practice  phase  of 
+Biz Café.  All quiz content  is found  in the Biz Café  Manual  and Simulation  Case.  It is a Canvas  
+based  quiz and can be completed  two times.  It is important  that you have  a good  foundation  
+of general business  terms  and principles  prior to going live with  Biz Café.  
+SLO met for this assignment:  SLO 5 
+_____________________________________________________________________________  
+MindTap/ Computer Concepts  Training  – Practical  Skills  
+Six Computer Concepts Training Modules  (6% of your  grade)  
+ 
+You received  credit  for successfully  completing  the MindTap Concept training.  They  count  
+toward  your  grade  and are not optional.  Simulation  skills  training  tasks  map  directly  to the 
+learning  objectives.   
+Concepts training modules are assigned to build your technology skills and knowledge. There are 
+six modules that include one or more graded concepts videos and training for each module . 
+They  count  toward  your  grade  and are not optional.  
+SLO met with  these  assignments:  SLO 8 
+____________________________________________________________________________  
+MindTap/SAM Skills  Training – Practical  Skills  
+Twenty  Microsoft  Application  Training  Modules  in SAM  (30% of your  grade)  
+ 
+You received  credit  for successfully  completing  the MindTap/ SAM  training.  Completing  the 
+training  is essential  to doing  well on Biz Café  and MindTap  assignments.  They  count  toward  
+your  grade  and are not optional.  Simulation  skills  training  tasks  map  directly  to the learning  
+objectives.   
+ 
+Microsoft application training modules  walk  you through a series  of tasks  you would use to 
+create  a variety  of documents.   
+ 
+The application simulation  training  will accept  most  Mac keystrokes.  On tasks  where  you 
+need  to use your  Mac  keyboard  differently  than  learned  in the course  material a Mac  Hint  
+link is available  to use for those  tasks.  
+Your  scores  are determined  by the percentage  of tasks  completed  in the training  modules.  You 
+can work on the training  modules  as needed  but need  to successfully  complete  the “apply ” activity  to receive credit  for the task.  
+SLO met with  these  assignments:  SLO 3  
+____________________________________________________________________________  
+ 
+MindTap/SAM  Projects ( Downloaded  from  and submitted  to MindTap)  – 
+Practical  Skills for Word, Excel,  and P owerPoint  Module  Project s (18% of your  
+grade)  
+SAM  Projects  are assigned  so you can apply  the skills  learned  through  your  training.  The project  
+uses skills  learned  in the assigned  modules  and integrates  them  into a project.  This is a live 
+project  that uses Office  365, not the simulation.  You are provided  a view  of the final  document  
+to compare  your  work  against  in the project  instructions.  After  you submit  the SAM  Project  for 
+grading  you receive  immediate  feedback.  You should  review  the feedback.  You will see a 
+summary  for each  task and subtask on why you were marked  off for the task.  Once  you have  
+reviewed  your  graded  project  you mak e corrections  and re-submit  it to be graded  again,  if 
+necessary.  I use the highest  score.  You can submit  the project  three  times . This means  you 
+can correct  and submit  your  project  two more  times  after  the initial scoring.  
+ 
+SLO’s  met with  these  assignments:  SLO3  
+____________________________________________________________________________  
+ 
+Ad Flyer – Critical  and Analytical  Thinking  and Written  Communication ( 3% of your  grade)  
+Brand awareness is critical to a successful  business . For this assignment you r Biz Café team 
+will create a logo and an ad flyer for your café.  You will upload your logo and ad flyer to Biz 
+Café which will be used a s part of your marketing campaign.  
+ 
+SLO’s  met with  these  assignments:  SLO 6 
+____________________________________________________________________________  
+Biz Café  Operations  Excel  Assignment – Critical  and Analytical  Thinking,  Problem  Solving  and 
+Practical  Skills  (6% of your  grade)  
+In this assignment you will use your café data to forecast  revenue and profit over an 
+extended period.  
+The Biz Café  Operations  Excel  Assignment  is used  to ensure  that you can apply  Excel  formulas  
+to make  business  calculations.  You must  show  that you can make  Excel  do the  work  for you.  
+You will not get credit  for just having  the correct  answers,  they  must  be supported  by an 
+Excel  formula  or function.  
+SLO’s  met with  these  assignments  are: SLO 2 and 4 
+____________________________________________________________________________  
+ #GEA1 -Biz Cafe  Report  – Critical  and Analytical  Thinking  and Written  
+Communication  One  assignment  (7.5%  of your  grade)  
+ 
+The #GEA1 -Biz Café Report is one of two assignments required for General Education classes.  
+This is a writing assignment about your experience running your café and is part of the 
+General Education assessment effort.  
+ After  six simulated weeks  of running  your  Café  you will submit a written  report  using  
+Microsoft  Word  comparing  your  decisions  against  the café’s  performance.  You will discuss  
+what  you learned  from the multiple  weeks  of running your café .   
+This assignment  is reviewed  by graders  that check  your  report  for clarity,  grammar,  continuity,  
+and message  delivery.  
+ 
+SLO met with  this assignment:  SLO 1 and 2 
+____________________________________________________________________________  
+Biz Café Participation  –Critical  and Analytical  Thinking  and Problem  Solving  
+ 
+Competitive Decisions / Graded Discussions  (15% of your  grade  /score  based  on 
+participation)  
+The Decisions/Participation  score  is based  on how active you are in running your café  and 
+working with your team .   You must show activity and/or progress over the 13  decision 
+periods.   
+SLO’s  met with  this activity: SLO 1, 2, 5 and 6 
+ 
+____________________________________________________________________________  
+#GEA2 -Biz Café  Excel  Capstone  Assignment  – Critical  Thinking,  Problem  Solving  and 
+Practical  Skills.
+ One  assignment  (7.5%  of your  grade)  
+ 
+The #GEA2 -Biz Café  Excel  Capstone  Assignment  is the second of two assignments required 
+for General Education classes.  This is an Excel assignment using your café data to make 
+business decisions based on customer sensitivity to price changes and  is part of the General 
+Education assessment effort.  
+In this assignment you use your  own  sales  and customer  data  to calculate , using  
+Excel , the impact price changes have on  your revenue .  
+SLO’s  met with  this assignment:  SLO 1, 2, 4 and 5 
+____________________________________________________________________________  
+ 
+Visualization  Assignment – Practical  Skill and Oral Communications  (4% of your  grade)  
+You will choose  data  results  from your  weekly  café decisions  and create  a basic  dashboard  
+to visually  display  your  sales  data over  time.  The deliverable  is a three  to five-minute  recorde d presentation  using  Tableau.   
+The Tableau  visualization  is part of the Muma  Tableau  Certificate  Program.  If you are not a 
+business  major or choose  not to participate  you will be required  to submit  an Alternative 
+PowerPoint  presentation  using  Excel  in place  of the Tableau  software to build your charts.  
+SLO met with  this assignment:  SLO 7 
+____________________________________________________________________________  
+Estimate  of Effort  Needed  to Complete  Assignments 
+ 
+MindTap  (SAM) training  and project s take  time  to complete.  This means  that you need  to 
+devote  time  each  week  on the assignments  if you want  to stay on track  and not end up 
+taking  short  cuts as due dates  approach.  Each  student’s  knowledge  and skill level  of the 
+Microsoft  Office  applications  varies.  My estimations  are based  on my observations  over  
+time.  
+ 
+Biz Café  is a business  simulation  application  where  you run a coffee  shop.  Preparing  for each  
+decision  will take  some  time  to keep  your  Café  competitive.  
+ 
+There  is a wide  range  of skill sets in our class.  Those  that have  never  used  Microsoft  Office  
+will need  more  time  to complete  tasks.  I allow  you unlimited  attempts  in the training  and 
+you can submit  SAM  projects  three  times.  Even  though  you only  must  make  corrections  to 
+your original SAM  project  for your  second  and third  submissions  there  still is a time  element  
+needed  for each  submission.  
+ 
+I estimate  that you need  to commit  a minimum  of 6-9 hours  a week  to this class  to stay on track.  
+ 
+I suggest  you keep  track  of the effort you need  to complete  the first few assignments and 
+make  the necessary  adjustments  to your  prep  time  and create  a work  schedule  that fits in 
+with  your  other  obligations.  
+ 
+  Course  Schedule:  * Note: The Schedule is subject to revision 
+CGS 2100 020/021 Spring 2023 Online Schedule  
+Week  Topics  Assignments Due on Thursday  
+9-Jan   12th  
+Week 1  First Day Attendance Survey  First Day Attendance Survey (Note 
+Due by noon on Thursday, January 12th) Course Overview (Recording)  
+Biz Café and MindTap Registration  
+16-Jan   19th  
+ Week 2  MindTap Prep and Biz Café Prep     None  
+ Team Assign ments    
+23-Jan   26th  
+Week 3  Start on MindTap Modules  Discussion Topic (Team Introductions ) 
+  Team Assignments and Planning   
+23-Jan   2nd  
+Week 4  Biz Café Practice     Discussion Topic (Business Plan)  
+  Start on MindTap Modules     Biz Café Content and Case Quizzes  
+  Team Assignments and Planning    
+6-Feb   9th 
+Week 5  Biz Café Practice   Ad Flyer  
+  Team Planning   
+  Biz Café Competition Begins  
+13-Feb   17th  
+Week  6  Decision Period Planning   Computer Concept Module  
+Decision Period 1  
+Concept Modules  
+20-Feb   23rd  
+Week 7  Decision Periods 2 and 3      Word Modules and Project  
+Complete MindTap Modules   Discussion Topic (Marketing)  
+Word Modules/Project    
+27-Feb   2nd  
+Week 8 Decision Periods 4 and 5  Excel Modules 1 -4 and Project  Complete MindTap Modules  
+6-Mar   9th 
+Week 9  Decision Periods 6 and 7  Biz Café Report  
+Discussion Topic (Forecasting)  Finalize Biz Café Report  
+Intro to Visualization Project  
+Complete MindTap Modules  
+13-Mar   16th  
+Week 10  Spring Break  Enjoy the Week. No Assignments Due  
+ 
+20-Mar   23rd   
+Week 1 1 Decision Periods 8 and 9  Biz Café Excel Forecasting   
+  Excel Forecasting Review  Discussion Topic (Pricing)   
+      Complete MindTap Modules     
+27-Mar   30th   Week 1 2  Decision Periods 10 and 11  PowerPoint Modules and Project   
+Presentation and Database Review   
+Complete MindTap Modules   
+3-Apr   6th  
+Week 1 3  Decision Periods 12 and 13    
+Complete MindTap Modules  Advance Excel Modules   
+10-Apr   13th   
+Week 1 4  Biz Café Capstone Review  Access Modules   
+Visualization Check -in  
+Complete MindTap Modules   
+17-Apr   20th   
+Week 1 5  Tableau Visualization Finalize      Biz Café Excel Capstone   
+   
+24-Apr   27th   
+Week 1 6  Test Free Week     Visualization Dashboard   
+End of Semester Biz café Awards   
+Make -up eligible assignments   
+April 29 -May 4 Final Exam Week   No final exam   
+ 
+ 
+ 
+Class  Policies  and Procedures  
+ 
+2022 COVID -19 Protocols : For the most recent communication regarding COVID -19 protocols, 
+please visit:  https://www.usf.edu/coronavirus/  
+ 
+USF Core Syllabus Policies: USF has a set of central policies related to student recording class 
+sessions, academic integrity and grievances, student accessibility services, academic disruption, religious observances, academic continuity, food insecurity, and sexual harassment that apply to all courses at USF. Be sure to review these online at:
+ 
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx    
+ Disruption to Academic Progress : Disruptive students in the academic setting hinder the 
+educational process. Disruption of the academic process (USF Regulation 3.025) is defined as the act, words, or general conduct of a student in a classroom or other academic environment which in the reasonable estimation of the instructor: (a) directs attention away from the academic matters at hand, such as noisy distractions, persistent, disrespectful or abusive interruption of lecture, exam, academic discussion, or general University operations, or (b) presents a danger to the health, safety, or well -being of self or other persons.    
+ Religious Observances : All students have a right to expect that the University will reasonably 
+accommodate their religious obse rvances, practices,  and beliefs (USF Policy 10 -045). The 
+University of South Florida, through its faculty, will make every attempt to schedule required classes and examinations in view of customarily observed religious holidays of those religious groups or  communities comprising USF’s constituency. Students are expected to attend classes 
+and take examinations as determined by the university. No student shall be compelled to attend class or sit for an examination at a day or time prohibited by his or her religious belief. However, 
+students should review the course requirements and meeting days and times to avoid foreseeable conflicts, as excessive absences in each  term may prevent a student from 
+completing the academic requirements of a specific course. Stude nts are expected to notify their 
+instructors at the beginning of each academic term if they intend to be absent for a class or announced examination, in accordance with this Policy.  
+ 
+Academic Continuity: In the event of an emergency, it may be necessary for USF to 
+suspend normal operations. During this time, USF may opt to continue delivery of 
+instruction through methods that include, but are not limited to: Learning Management System, online conferencing, email messaging, and/or an alternate schedule. It is the responsibility of the student to monitor the Learning Management System for each class for course -specific communication, and the main USF, College, and Department websites, 
+emails, and MoBull messages for important general information  (USF Policy 6 -010). For 
+additional guidance on emergency protective actions and hazards that affect the 
+University, please visit  www.usf.edu/em . 
+ 
+Attendance:   
+There are no scheduled class meetings in the online section.   You do have to complete the 
+First Day Attendance Survey to meet USF’s first day attendance policy.  
+ 
+Special A ccommodations : Students  in need  of academic  accommodations  for a disability  may  
+consult  with  the Office of  Students  with  Disabilities  Services  to arrange  appropriate  
+accommodations.  Students  are required  to give reasonable  notice  prior  to requesting  an 
+accommodation.  I will work with  you to ensure  you have  access  to all course  materials  and have  
+adequate  time  to complete  assignments.  
+ 
+Student Academic  Grievance  Procedures:  The purpose  of these  procedures  is to provide  all 
+undergraduate  and graduate  students  taking  courses  within  the University  of South Florida 
+System  an opportunity  for objective  review  of facts  and events  pertinent  to the cause  of the 
+academic  grievance.  An “academic  grievance”  is a claim that a specific academic  decision  or 
+action  that affects  that student’s  academic  record  or status  has violated  published  policies  and 
+procedures  or has been  applied  to the grievant  in a manner  different from that used  for other  
+students.  
+ 
+Sexual  Misconduct/Sexual  Harassment  Reporting:  USF is committed  to providing  an 
+environment  free from  sex discrimination,  including  sexual  harassment  and sexual  violence  
+(USF System  Policy  0-004).  The USF Center  for Victim Advocacy  and Violence  Prevention  is a 
+confidential  resource  where  you can talk about  incidents  of sexual  harassment  and gender - 
+based  crimes  including  sexual  assault,  stalking,  and domestic/relationship  violence.  This 
+confidential  resource  can help  you without having  to report  your  situation  to either  the Office  
+of Student  Rights and Responsibilities  (OSSR) or the Office  of Diversity,  Inclusion,  and Equal  
+Opportunity  (DIEO),  unless  you request  that they  make  a report.  Please  be aware  that in 
+compliance  with Title  IX and under  the USF System  Policy,  educators  must  report  incidents  of 
+sexual  harassment  and gender -based  crimes  including  sexual  assault,  stalking,  and domestic/relationship  violence.  If you disclose  any of these situations  in class,  in papers,  or to 
+me personally,  I am required  to report  it to OSSR  or DIEO  for investigation.  Contact  the USF 
+Center  for Victim Advocacy  and Violence  Prevention:  (813)  974- 5757.  
+ 
+Campus Free Expression: It is fundamental to the University of South Florida ’s mission to support 
+an environment where divergent ideas, theories, and philosophies can be openly exchanged 
+and critically evaluated. Consistent with these principles, this course may involve discussio n of 
+ideas that you find uncomfortable, disagreeable, or even offensive.  
+ In the instructional setting, ideas are intended to be presented in an objective manner and not 
+as an endorsement of what you should personally believe. Objective means that the ide a(s) 
+presented can be tested by critical peer review and rigorous debate, and that the idea(s) is supported by credible research.  
+ Not all ideas can be supported by objective methods or criteria. Regardless, you may decide 
+that certain ideas are worthy of your personal belief. In this course, however, you may be asked 
+to engage with complex ideas and to demonstrate an understanding of the ideas.   
+ Understanding an idea does not mean that you are required to believe it or agree with it.  
+ 
+Classroom  Conduct:  Students  should  behave  professionally  when communicating  with  other s, 
+whether replying to a conversation or working with other students .   
+ Communicating  with  Instructor  and TA’s : The TA ’s role is to support your assignments. My role is 
+to support you in all aspects of the course . If you have any non- assignment related questions  or 
+issue s you should contact me a nd not the TA ’s. 
+ 
+-Student  to Instructor/TA  Communications:  We will review  messages after  7PM  during  the 
+week  and periodically  over  the weekend.  If you have  not received  a response  within  24 hours  
+you should  resend  your communication.    
+ 
+-Instructor/TA  to Student Communications:  We will use the Canvas  announcement  tool the 
+Canvas Home page  to pass on information and updates . We use Canvas  Conversation s to 
+communicate  to individual  
+students . 
+ 
+-Personal  Messaging:  The TA supports  the course  assignments;  any personal  issue  or non-
+assignment  related  request  should  be directed  to me. 
+ 
+Incomplete  Grades:  A grade  of “I” (incomplete)  is in place  for unforeseeable  emergencies  
+that occur  near  the end of the semester.  A grade  of “I” will be issued  only  in extreme  
+circumstance s and then  only  with  complete  written  documentation.  
+ 
+Due Dates  and Late  Work  
+Due dates  for assignments  are found in Canvas  and MindTap.  It is important  that you complete  
+all assignments.  Your  final  grade  is based  on the points  you earn  from  the assignments;  a zero  does not help  your  score at all. 
+ 
+Grading  
+- I use the highest  score  for assignments  that allow  multiple  submissions.  
+Late  Work  
+-MindTap  and Canvas  assignments submitted  after  the due date  will be accepted  up to three 
+weeks after the due date with  a 20% penalty  applied  to the score.  
+  Evaluation  and Grades  
+Assignments Total  Biz 
+Café  Computer 
+Concepts  Word  PPT or 
+Tableau  Excel  Access  % of 
+Final 
+Grade  # 
+Biz Café Quizzes  2 2           3 
+Computer 
+Concepts Modules  6   6     6 
+MindTap/SAM 
+Training  Modules  20   5 4 7 4 30 
+MindTap/SAM 
+Projects  3     1 1 1   18 
+Ad Flyer for Biz Café  1 
+    1       3 
+Biz Café Participation Points  15 15 
+          15 
+Biz Café Operations  1         1   6 
+Assignment  
+Biz Café Report  1     1       7.5 
+Tableau 
+Visualization or PowerPoint Presentation  1       1     4 
+Biz Café Excel 
+Capstone  1         1   7.5 
+Total Assignments  51 17 6 8 6 10 4 100 
+ 
+  Grade  Distribution  
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ A+ 98% 
+A 93%  
+A- 90%  
+B+ 87%  
+B 83%  
+B- 80%  
+C+ 77%  
+C 73%  
+C- 70%  
+D+ 67%  
+D 63%  
+D- 60%  
+F <60%  

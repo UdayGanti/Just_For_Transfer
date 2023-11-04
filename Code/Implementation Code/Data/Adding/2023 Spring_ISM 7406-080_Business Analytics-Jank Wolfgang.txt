@@ -1,0 +1,268 @@
+1/5/23, 6:30 AM Syllabus for ISM7406.080S23.24725 Business Analytics
+https://usﬂearn.instructure.com/courses/1790572/assignments/syllabus 1/10Course Syllabus
+BusinessAnalytics-Spring2023.docx  (https://usflearn.instructure.com/courses/1790572/files/146501996?
+wrap=1)  (https://usflearn.instructure.com/courses/1790572/files/146501996/download?download_frd=1)  
+ISM 7406: Business Analytics (3 Credits)
+ 
+ 
+Instructor: Wolfgang Jank E-Mail: wjank@usf.edu
+Term: Spring 2023 Dates:1/7, 1/21, 2/4, &
+2/18/2023.
+Delivery
+Method:OnlineLocation:
+Teams Session (link in
+Canvas)8:30am-1:00pm
+Course
+Prerequisites:None
+ 
+ 
+Instructor Contact Information:
+ 
+The best way to contact me is through email. Y ou can also contact me by phone:
+974.6762
+ 
+First W eek Attendance Policy:
+ 
+Registration is handled by DBA Staf f.
+ 
+ 1/5/23, 6:30 AM Syllabus for ISM7406.080S23.24725 Business Analytics
+https://usﬂearn.instructure.com/courses/1790572/assignments/syllabus 2/10University Course Description:
+ 
+A research course for executives that presents an overview of data analytics techniques as well as
+examples of analytics research in business. A variety of analytics technique including structured data,
+unstructured data and big data will be discussed..
+ 
+ 
+Course Structure:
+ 
+Classroom session : Class meetings include lectures, discussions, team presentations and in-class
+projects.
+ 
+Assignments:  Assignments will be structured around readings, used to develop team presentations, and
+analytics exercises. Participants will also submit entries to the international Kaggle Competition for data
+analytics.
+ 
+ 
+Course Objectives:
+ 
+This course focuses more on the implementation of analytical concepts for solving real-world data
+science projects (rather than the discussion of new concepts and methods). In fact, this course has two
+objectives:
+1. to provide a high-level appreciation of analytics via the discussion of case studies and students' own
+experiences on what it takes for a company to become an analytical competitor
+2. to expose students to some real-world challenges of analytics via hands-on participation &
+implementation of an analytics project – in the form of a world-wide data science competition
+ 
+ 
+ 
+Learning Outcomes:1/5/23, 6:30 AM Syllabus for ISM7406.080S23.24725 Business Analytics
+https://usﬂearn.instructure.com/courses/1790572/assignments/syllabus 3/10 
+Upon completing this course, the participant should be able to:
+ 
+Identify an underlying analytical structure in a seemingly complex and amorphous decision problem
+Understand the trade-of fs involved in the decision
+Understand the role of uncertainty and risk in the decision-making process
+Analyze available data to understand relationships among variables and to create predictions
+Use available computing technology to arrive at optimal solutions.
+ 
+ 
+Required Course Materials:
+ 
+We will use two dif ferent books for this course. The books will be used simultaneously in that one book
+covers strategic aspects of business analytics from a high-level point of view; the other book has more of
+an operational flavor in that it conveys hands-on ideas for data-modeling. The two books are
+ 
+Business Analytics for Managers by Jank, Springer , 201 1 (ISBN 978-1-4614-0405-7).
+Competing on Analytics by Davenport and Harris, Harvard Business School Press, 2007 (ISBN 142-
+2-1033-23)
+ 
+Other materials:  Download papers, slides, and assignments from Canvas.
+ 
+Interactive Polling
+In addition to the above two books, we will also make extensive use of Poll Everywhere during lectures
+and activities. For more information, go to http://polleverywhere.com  (http://polleverywhere.com)
+ 
+Data Mining Software
+We will use the software R Commander for analyzing and mining our data. R Commander is based on
+the open-source project R. R is free and it grows much faster than any commercial software solution. R
+isoneofthemost powerful andpopular software solutions formining business data Infact large1/5/23, 6:30 AM Syllabus for ISM7406.080S23.24725 Business Analytics
+https://usﬂearn.instructure.com/courses/1790572/assignments/syllabus 4/10is one of the most powerful and popular software solutions for mining business data. In fact, large
+analytical companies such as Google or A T&T use R. R is also becoming more and more popular among
+government agencies (such as the DOD). R is powerful,  yet it is free – this combination makes it a
+winning proposition for many companies, especially during times of tightening budgets and financial
+stress.
+ 
+Installing the software R Commander:  Please see the course Module 0 for instructions on how to
+download and install R Commander
+ 
+Information on the data visualization software Tableau  is also presented in an optional Canvas module.
+We will not be covering the software in the course but have added the links owing to past student
+interest.
+ 
+ 
+Assignments and Activities
+ 
+Team Research and Discussion
+Every meeting, a dif ferent team (or set of teams) will take the lead discussing select chapters from the
+text “Competing on Analytics.” Please refer to the detailed weekly schedule at the end of this syllabus.
+The team(s) will prepare a short presentation (based on a set of questions that I will distribute) and
+present their answers and solutions in class. While the presentation is primarily lead by one team of
+students, the remaining class is also encouraged to share additional/alternate views.
+ 
+Quizzes & Practice Quizzes
+Several times throughout the course, individual assignments/quizzes will be due. The primary purpose of
+these assignments is for students to have the opportunity to practice the concepts learned in class, and
+to implement them using real data and real software. Individual assignments are expected to be solved
+rather quickly and not to consume much of your time. Careful participation during the in-class projects
+will allow you to solve the individual assignments more ef ficiently .
+ 
+Analytics Project
+Kaggle Data Science Competition: The centerpiece of this course will be for you to participate in a data
+science competition. The competition is hosted by Kaggle (www .kaggle.com ) which is an online
+community ofdata scientists andwhich hosts private andpublic data science competitions Thegoal of1/5/23, 6:30 AM Syllabus for ISM7406.080S23.24725 Business Analytics
+https://usﬂearn.instructure.com/courses/1790572/assignments/syllabus 5/10community of data scientists and which hosts private and public data science competitions. The goal of
+this competition is to gain hands-on experience with the execution and implementation of real data
+science projects. As part of this analytics project, you will have several quizzes and online discussions to
+complete over the progression of this course.
+ 
+ 
+Attendance & Class Participation
+ 
+Effective participation consists of not only responding to questions raised by the instructor but also
+asking thoughtful questions and responding to contributions from your fellow-students.
+ 
+ Quality of participation is more important than quantity .  However , you will not earn credit in this
+component, if you rarely speak in class.  Quality of participation includes:
+ 
+Evidence of reading and prior analysis;
+Relevance of comments;
+Ability to listen and relate to input from other students;
+Ability to lead discussion into previously unexplored areas;
+Ability to admit error;
+Ability to intellectually interact with other students (and not just the instructor).
+ 
+Special emphasis will be placed on participation during the in-class projects.
+ 
+ 
+Course Policies: Grades
+ 
+Policies specific to this course are as follows:
+1. Activities : All course activities will be conducted via Canvas, accessed at https://my .usf.edu (Links
+to an external site.)  (https://my.usf.edu/)
+2. Grading: This course follows the standard DBA grading policy , with satisfactory work completed on
+time receiving a grade of A. W ork that is not deemed suf ficiently developed to be considered
+satisfactory must berevised toasatisfactory level Intheevent such revisions runpast theendofthe1/5/23, 6:30 AM Syllabus for ISM7406.080S23.24725 Business Analytics
+https://usﬂearn.instructure.com/courses/1790572/assignments/syllabus 6/10satisfactory must be revised to a satisfactory level. In the event such revisions run past the end of the
+semester , a grade of B will be awarded upon satisfactory completion.
+3. Academic Integrity: The course subscribes to all academic integrity requirements set forth by the
+University of South Florida.
+Policies applying to all DBA courses, the Muma College of Business and/or the University of South
+Florida can be found under Student  (https://usflearn.instructure.com/courses/1382750/pages/standard-
+course-policies) Support  in Canvas.
+ 
+ 
+USF Institutional Policies
+ 
+See USF Graduate Academic Policies- http://www .grad.usf.edu/policies_sect7_full.php  
+(http://www.grad.usf.edu/policies_sect7_full.php)
+ 
+ 
+ 
+Course T echnology and Student Support
+ 
+Academic Accommodations:
+Students with disabilities are responsible for registering with Students with Disabilities Services (SDS) in
+order to receive academic accommodations. For additional information about academic accommodations
+and resources, you can visit the SDS website at http://www .usf.edu/student-affairs/student-
+disabilities-services/  (http://www.usf.edu/student-affairs/student-disabilities-services/) .
+Academic Support Services:
+The USF Of fice of Student Success coordinates and promotes university-wide ef forts to enhance
+undergraduate and graduate student success. For a comprehensive list of academic support services
+available to all USF students, please visit the Of fice of Student Success website at-
+http://www .usf.edu/student-success/  (http://www.usf.edu/student-success/undergrads/)
+ 
+Canvas T echnical Support:
+If you have technical dif ficulties in Canvas, you can find access to the canvas guides and video
+resources in the “Canvas Help” page on the homepage of your canvas course. Y ou can also contact the
+help desk bycalling 8139741222 inTampa oremailing help@usf edu(mailto:help@usfedu)1/5/23, 6:30 AM Syllabus for ISM7406.080S23.24725 Business Analytics
+https://usﬂearn.instructure.com/courses/1790572/assignments/syllabus 7/10help desk by calling 813-974-1222 in T ampa or emailing help@usf.edu  (mailto:help@usf.edu) .
+ 
+ 
+ 
+Calendar and Assignments
+ 
+Note: If syllabus dates do not match Canvas dates, Canvas dates reflect official course dates.
+ 
+Date Details
+Fri Jan 6, 2023 Quiz M0 - Getting Started Quiz
+Fri Jan 20, 2023Discussion T opic Kaggle Project Discussion - Data Challenges Encountered
+Quiz Kaggle Project - Quiz 1
+Quiz Module 1 Quiz
+Quiz Practice Quiz 1
+Sat Jan 21, 2023Assignment Submit T eam Presentation Slides
+(Team 1)
+Assignment Submit T eam Presentation Slides
+(Team 2)
+Fri Feb 3, 2023 Discussion T opic Kaggle Project Discussion - Y our First Kaggle Submission
+Quiz Kaggle Project - Quiz 2
+Quiz Module 2 Quiz
+QiPtiQi21/5/23, 6:30 AM Syllabus for ISM7406.080S23.24725 Business Analytics
+https://usﬂearn.instructure.com/courses/1790572/assignments/syllabus 8/10Course Summary:
+Date Details DueQuiz Practice Quiz 2
+Sat Feb 4, 2023Assignment Submit T eam Presentation Slides
+(Team 3)
+Assignment Submit T eam Presentation Slides
+(Team 4)
+Fri Feb 17, 2023Quiz Kaggle Project - Quiz 3
+Quiz Module 3 and 4 Quiz
+Quiz Practice Quiz 3
+Sat Feb 18, 2023Assignment Submit T eam Presentation Slides
+(Team 5)
+Assignment Submit T eam Presentation Slides
+(Team 6)
+Assignment Please submit your course evaluations
+Assignment Team Research and Presentation
+Fri Feb 24, 2023Discussion T opic Kaggle Project Discussion - Data Challenges Solved and C
+Quiz Kaggle Competition - Y our Scores and Leaderboard Position
+ 
+Specific due dates can be found following the syllabus description. Detailed descriptions of all activities
+can be found under in the course modules. Should the Canvas date differ from the debate in this
+syllabus, the Canvas date will be the official date.1/5/23, 6:30 AM Syllabus for ISM7406.080S23.24725 Business Analytics
+https://usﬂearn.instructure.com/courses/1790572/assignments/syllabus 9/10Date Details Due
+Fri Jan 6, 2023 M0 - Getting Started Quiz
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 9 0 5 7 2 / a s s i g n m e n t s / 1 3 2 5 4 9 5 7 )due by 11:59pm
+Fri Jan 20, 2023 Kaggle Project Discussion -
+Data Challenges Encountered
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 9 0 5 7 2 / a s s i g n m e n t s / 1 3 2 5 4 9 7 7 )due by 6pm
+ Kaggle Project - Quiz 1
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 9 0 5 7 2 / a s s i g n m e n t s / 1 3 2 5 4 9 4 7 )due by 11:59pm
+ Practice Quiz 1
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 9 0 5 7 2 / a s s i g n m e n t s / 1 3 2 5 4 9 6 7 )due by 11:59pm
+Fri Feb 3, 2023 Kaggle Project Discussion -
+Your First Kaggle Submission
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 9 0 5 7 2 / a s s i g n m e n t s / 1 3 2 5 4 9 7 5 )due by 6pm
+ Kaggle Project - Quiz 2
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 9 0 5 7 2 / a s s i g n m e n t s / 1 3 2 5 4 9 7 3 )due by 11:59pm
+ Practice Quiz 2
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 9 0 5 7 2 / a s s i g n m e n t s / 1 3 2 5 4 9 5 9 )due by 11:59pm
+Fri Feb 17, 2023 Kaggle Project - Quiz 3
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 9 0 5 7 2 / a s s i g n m e n t s / 1 3 2 5 4 9 6 1 )due by 11:59pm
+ Practice Quiz 3
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 9 0 5 7 2 / a s s i g n m e n t s / 1 3 2 5 4 9 4 5 )due by 11:59pm
+Sat Feb 18, 2023 Please submit your course
+evaluations
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 9 0 5 7 2 / a s s i g n m e n t s / 1 3 2 5 4 9 8 1 )due by 11:59pm
+ Team Research and
+Presentation
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 9 0 5 7 2 / a s s i g n m e n t s / 1 3 2 5 4 9 8 5 )due by 11:59pm
+Fri Feb 24, 2023  Kaggle Project Discussion -
+Data Challenges Solved and
+Competition Completed
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 9 0 5 7 2 / a s s i g n m e n t s / 1 3 2 5 4 9 7 9 )due by 6pm1/5/23, 6:30 AM Syllabus for ISM7406.080S23.24725 Business Analytics
+https://usﬂearn.instructure.com/courses/1790572/assignments/syllabus 10/10Date Details Due
+ Kaggle Competition - Y our
+Scores and Leaderboard Position
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 9 0 5 7 2 / a s s i g n m e n t s / 1 3 2 5 4 9 6 5 )due by 11:59pm
+ Submit T eam Presentation
+Slides
+( h t t p s : / / u s f l e a r n . i n s t r u c t u r e . c o m / c o u r s e s / 1 7 9 0 5 7 2 / a s s i g n m e n t s / 1 3 2 5 4 9 8 3 ) 

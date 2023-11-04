@@ -1,0 +1,28 @@
+Kiran GarimellaAssistant Professor of Instructionkgarimella@usf.eduRoom: CIS 1047Phone: (262) 909-4192Kiran Garimella is an assistant professor oinstruction in the USF School of Information
+               Systems and Management, which is part of the USF Muma College of Business. His research
+               interests include blockchain and machine learning, specifically on the integration
+               of machine learning into distributed ledger technology (blockchain), functional security
+               of blockchain applications, dynamic consensus mechanisms, dynamic allocation of multiparty
+               blockchain channels in supply chains, and distributed ecosystem formation.Garimella has published several papers in IEEE, INFORMS, and WITS, the latest one
+               being  "Enhancing Trust in Business Ecosystems with Blockchain Technology" in theIEEE Engineering Management Review, 2020.He has extensive corporate experience as a C-level executive, serving as Global CIO
+               for General Electric and vice president and chief evangelist for business process
+               management at Software AG. He consults actively as a strategist and thought-leader,
+               including chief scientist at KoreConX, where he leads the strategy for building the
+               world's largest enterprise ecosystem for the global private capital markets on an
+               AI-based permissioned blockchain platform. The platform is deployed in 23 countries
+               with a processing capacity of 10 billion transactions per year.Garimella is the principal founder, developer, and chief curator of iKnowCentral.com,
+               a co-founder of CognitiveWorld.com, and an adviser to the MidMarketPlace. He has written
+               more than 30 articles (including seven academic publications) and delivered more than
+               40 keynote and conference presentations, numerous press interviews and executive masterclasses
+               in 20 countries.He is also the author of three books, two on business process management, widely adopted
+               as supplemental readings at various MBA and EMBA programs worldwide. His latest book
+               is AI+Blockchain: A Brief Guide for Game Changers, with a foreword by Vint Cerf, co-founder
+               of the Internet. He is the recipient of numerous awards, including multiple program
+               awards (2003-04) at General Electric and the Circle of Excellence “Best of the Best”
+               award from Capital One.He earned a PhD from the Warrington College of Business, University of Florida. His
+               doctoral thesis was "A Knowledge-Intensive Machine-Learning Approach to the Principal-Agent
+               Problem."TeachingISM 6021 - Management Information SystemsISM 6136 - Data MiningQMB 6305 - Managerial Decision AnalysisQMB 6358 - Data Analytics for BusinessSpecial Topics ISM 6930Statistical Programming for Business AnalyticsFundamentals of Data Management and AnalysisFundamentals of FintechBlockchain FundamentalsResearchConway, D. and K. Garimella (March 2020) "Enhancing Trust in Business Ecosystems with
+                  Blockchain Technology,"IEEE Engineering Management Review, Vol. 48, no. 1: pp. 24-30“The Utility of an Integrated Knowledge Management Approach for Analytics and Decision-Making
+                  in Healthcare,” K. K, Garimella, in INFORMS Healthcare 2015, Nashville, TN, July 30,
+                  2015.“A Role-Based Interactions Model for Innovation,” K. K. Garimella; in IEEE International
+                  Conference on Systems, Man and Cybernetics, Montréal, Canada, Oct. 7-10, 2007.

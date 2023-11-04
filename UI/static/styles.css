@@ -1,0 +1,46 @@
+body {
+    background-image: url("BG.jpg");
+    background-size: cover;
+}
+
+/* Define the chat row container */
+.chat-row {
+    display: flex;
+    margin: 5px;
+    width: 100%;
+}
+
+/* Reverse the direction for certain elements (if needed) */
+.row-reverse {
+    flex-direction: row-reverse;
+}
+
+/* Style the chat bubbles */
+.chat-bubble {
+    font-family: "Source Sans Pro", sans-serif, "Segoe UI", "Roboto", sans-serif;
+    border: 1px solid transparent;
+    padding: 5px 10px;
+    margin: 0px 7px;
+    max-width: 70%;
+}
+
+/* Style the AI bot's chat bubble with gold background */
+.ai-bubble {
+    background: #D1BD86; /* Gold background */
+    border-radius: 10px;
+    color: black; /* Text color for better visibility */
+}
+
+/* Style the human user's chat bubble with USF green background */
+.human-bubble {
+    background: #005941; /* USF green background */
+    color: white;
+    border-radius: 20px;
+}
+
+/* Add a border to the chat icon for better visibility */
+.chat-icon {
+    border-radius: 5px;
+    border: 1px solid #ccc;
+    padding: 3px;
+}

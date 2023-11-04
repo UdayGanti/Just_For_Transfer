@@ -1,0 +1,806 @@
+ 
+         1  
+ 
+ 
+ 
+ 
+ 
+ 
+Semester: Fall 2023 
+Class Meeting Days  and Time : No weekly meeting time requirements; 100% online  
+Instructor:  Dr. Lu Kong  
+Office Location:  Muma College of Business, USF Sarasota -Manatee Campus , SMC -C214C 
+Office Hours:  By appointment  through MS Teams  
+Phone Number:  (941) 359 -4669  
+Email:  kongl@usf.edu   
+ 
+ 
+VERY IMPORTANT!!!  
+Starting this semester, the Bellini Certification Program, level 3, will be included in ALL sessions 
+of QMB 3200.  
+ 
+Bellini Certification Program Introduction  
+The Bellini Certification Program is designed to increase your internships and post -graduation 
+job placement in roles graduates want, with employers they want to work for.  Given the 
+importance of student career success, Program elements are incorporated into curriculum in 
+four Levels, beginning Fall semester, 2023.  Students will also be guided by a team of advisors 
+who help them chart their course and gain the skill set and internships they need to achieve 
+their goals.  
+Starting with the Introduction to Bellini Center and Certification Program, you will engage with 
+the content in Canvas as incorporate d by your professor.  You’ll also see an Introduction to 
+Level 3, which explains the purpose and content of the activities, and a Canvas page with an 
+estimated time for completion for each step.  As you progress through each activity and 
+assignment you wil l see an introduction and brief instructions for their completion.  If you 
+have questions about the Certification Program please use this link to support resources and 
+individual support as needed.  
+You may wonder why professional development content is inc luded as part of a Stats II course, 
+and that’s a logical question.  The Dean of the Muma College of Business has directed that 
+Program content be incorporated into required curriculum and QMB 3200 is generally taken in 
+the third year.  We believe you will find that the Program content and activities will be QMB 3200:  
+Business and Economic Statistics II  
+CRN 82203 , Section 522,  
+3 Credit Hours  
+Muma College of Business , School of ISM  
+ 
+COURSE SYLLABUS  (Draft)  
+Last Updated: 7/25/2023  
+ 
+ 
+2 beneficial to your professional and career development and encourage you to engage deeply 
+with the content in Canvas, and the Bellini Program.  
+ 
+The completion of Bellini Certification Program , level 3, i s required in our class. It will account 
+for 5% of your total grades . Please refer to the grade section for more details.   
+   
+ 
+3 Note:  This is a 3 -credit hour course. A 3 -credit hour course means, 3 hours per week of in -class 
+instruction over 16 -week semester. Time for course preparation and reading assignments; and 
+time for completing homework assignments, quizzes, and exams will be ext ra (out -side of 
+instructional time) just like any other course students take.  
+ 
+I. Welcome!  
+Dear Students, Welcome to a new semester. In this “Business and Economic Statistics II” 
+course, you will learn critical thinking, problem solving, analytical skills tha t would help 
+you throughout your career in business and industry. The purpose of QMB 3200 is to help 
+students in acquiring skills to apply statistical tools and techniques in business analytics 
+and decision making in various business environments. This cou rse integrates Excel into 
+the course When mastered, and through practice and experience, these skills can help get 
+into high paying jobs.   
+ 
+II. University Course Description  
+Simple linear regression and correlation; multiple regression and model building; 
+forecasting models; analysis of variance; chi -square tests; nonparametric methods.  
+ 
+III. Course Prerequisites  
+MAC 2233 / MAC 2241, QMB 2100   
+ 
+IV. Course Purpose   
+QMB 3200 is the second course in Statistics. It builds upon the foundation established in 
+your first course in Statistics (QMB 2100 or its equivalent). The purpose of QMB 3200 is to 
+prepare students to appreciate the role statistics plays in business analytics and decision 
+making. In particular, the course emphasizes and prepares students to “lear n”, 
+“interpret”, and “be ready to apply” the concepts and methods, rather than learn 
+calculations alone.  This is a Business Foundation course with a minimum “C -“ grade is 
+required ( https://catalog.usf.edu/content.php?catoid=13&navoid=1486#college -level -
+requirements ). 
+ 
+V. How to Succeed in this Course   
+ 
+Successful students should follow several practical tips before each meeting : 
+1. Check Canvas and emails daily for announcements  
+2. Watch the course videos and read the readings on time  
+3. Take the sample test (if your instructor provides one) to become familiar with the 
+controls, whe re to find the test parameters (such as multiple attempts vs. single 
+attempt), and how to submit individual questions and the final test submission.  
+4. If new to Canvas, read this guide  
+5. Get help.   
+a. Tutoring from USF Sarasota -Manatee Campus Academic Success Center (ASC): 
+- Book a slot online at:  
+https://www.sarasotamanatee.usf.edu/academics/academic - 
+ 
+4 resources/tutoring.aspx. Select tutor JoAnn Stolarski and schedule an 
+appointment.  
+b. Book an appointment with the instructor: kongl@usf.edu  
+ 
+VI. Course Topics  
+• Quick Review of Concepts and Topics ( Probability Distributions, Estimation, and 
+Hypothesis Testing) from QMB 2100 that are important for QMB 3200 – to be covered 
+if required to help students catch -up, depending on the need at individual campuses  
+• Categorical Data Analysis – Chi-square Tests  
+• Analysis of Variance  
+• Simple Linear Regression  
+• Multiple Regression  
+• Time Series Analysis and Forecasting  
+ 
+Course Objectives:  
+Through this course, students would develop a working knowledge and expertise on how 
+to apply statistical methods on business problems . In particular, students will be able to:  
+1. Strengthen fundamentals, formulate hypothesis from the problem statement, and 
+learn to perform analyses,  
+2. Interpret statistical results generated from a selected software program and 
+communicate the findings in si mple terms to the decision -maker.  
+3. Identify opportunities for and learn to apply statistical tests on Categorical data such 
+as contingency analysis and goodness of fit tests  
+4. Explain the basis and apply Analysis of Variance (ANOVA) techniques on data from 
+experiments/observational studies in business  
+5. Identify application opportunities and learn to perform simple linear and multiple 
+regression analyses, extract valuable information, and apply the results for predictions 
+and improved business decision -making  
+6. Analyze Time -series patterns and learn to apply forecasting methods for various 
+business applications  
+ 
+VII. Student Learning Outcomes  
+At the conclusion of the course students should be able to:  
+1. Develop hypothesis from a problem statement, choose an appropriate statistical 
+technique to apply given the problem context, perform the analysis; and most 
+importantly, interpret the reports/results, and develop well -reasoned and evidence -
+based conclusions  
+2. Learn to perform hypotheses tests on categorical data using Chi -Square goodness of 
+fit tests and tests of independence  
+3. Understand the principles of designed experimentation, identify an appropriate 
+experimental design to perform Analysis of Variance (ANOVA) on data from 
+experimental/observational studies; develop hypothe sis statements, perform the  
+ 
+5 analysis, understand, and interpret ANOVA output from a select software; and 
+develop conclusions  
+4. Develop both simple and multiple regression models from given data, understand and 
+interpret regression analysis output from a sele ct software package, test hypotheses 
+and infer relationships between variables, and make predictions on response.  
+5. Develop an understanding for patterns in Time Series data, select appropriate 
+forecasting techniques given the pattern, develop forecasts and forecast accuracy 
+measures to identify the best forecasting method    
+ 
+VIII. Required Texts and/or Readings and Course Materials ; Tools and Software  
+• Statistics for Business & Economics | 14th Edition by David R. Anderson/Dennis J. 
+Sweeney/Thomas A. Williams/Jeffr ey D. Camm/James J. Cochran/Michael J. 
+Fry/Jeffrey W. Ohlmann , CENGAGE, ISBN: 978 -1-337-90106 -2 
+[After a very quick review of topics from Statistics I (Chapters 1 -9), the primary focus 
+of QMB 3200 will be on: Chapters 12, 13, 14, 15, and 17]  
+You can buy a new textbook, a used copy, rent it, or buy an eBook – whatever works 
+best  for you.  
+• Course material (Word documents) by Dr. Anurag Agarwal, Dr. Ramakrishna 
+Govindu, and Dr. Kwangtae Park  (to be uploaded to Canvas each week).  
+• In this section of the course we use “Microsoft Excel” extensively.  If you don’t have 
+Microsoft Office on your system, as a student of USF you are allowed free download 
+and installation of Microsoft Office for personal use. Check out the info at: 
+https://www.usf.edu/it/documentation/office365/personal -download.aspx . Usage 
+of other spreadsheet applications such as Google Sheets will not be acceptable.  
+• We will use Canvas for class announcements, materials, assignments, quizzes, and 
+take home exams. It is the students’ responsibility to check frequently on Canvas for 
+assignments due dates, announcements, etc. Information on how to use Canvas is 
+available at: http://usf sm.edu/elearning . Canvas is accessible at http://learn.usf.edu .        
+ 
+IX. Supplementary (Optional) Texts and Materials  
+Additional supplementary documents may be posted on Canvas if and as needed  for the 
+benefit of students. These documents will help students expand their knowledge.  
+However, students will not be tested on the content.  
+ 
+X. Grading Scale  
+ 
+Grading Scale (%)   
+96.50 – 100%  A+  
+91.50 – 96.49%  A  
+89.5 0 – 91.49%  A-  
+86.50  – 89.49%  B+  
+81.50  – 86.49%  B  
+79.5 0 – 81.49%  B-   
+ 
+6 76.50  – 79.49%  C+  
+71.50  – 76.49%  C  
+69.5 0 – 71.49%   C-  
+66.5 – 69.49%  D+  
+61.50  – 66.49%  D  
+59.5 0 – 61.49%  D-  
+0 – 59.49%  F  
+ 
+It is mandatory that students must take BOTH  exams (mid -term and final) to be held in 
+order to earn a final grade in the course. Students who do not attempt either  exam will be 
+assigned an “F” grade .  
+ 
+Your score determines your grade. No individual requests for grade adjustments shall be 
+entertained .  
+ 
+XI. Grade Categories and We ights  
+ 
+Assessment  Percent of Final Grade  
+Homework  Assignments (Individual Task)  25% 
+Online Quizzes  (Individual Task)  20% 
+Exam #1 (Midterm Exam ) (Individual Task)  25% 
+Exam #2 (Final Exam ) (Individual Task)  25% 
+Level 3 Bellini Program  5% 
+Total  100%  
+ 
+ 
+XII. Additional Details on the Course Assignments  and Grading Policies  
+ 
+COURSE PARTICIPATION:  
+Online  course participation is mandatory on all weeks during the semester. The nature of 
+the course is such, and there is also strong evidence that students who participate in the 
+course every week regularly end up learning the subject matter better and earn good 
+grades. Students must engage themselves in the course through active participation, and 
+practice solving as many problems as possible . Since Quizzes and Homework assignments 
+are all announced at the beginning of the semester along with their deadlines on Canvas  
+in the syllabus ; they are due by the deadline indicated irrespective of whether you 
+missed a class due to various reasons. There will be NO allowances, concessions, or 
+make -up work be given for missed HW Assignments and Quizzes . Missed HW 
+Assignments and Quizzes will be assigned zero points . Exams are due as indicated in the 
+schedule. No make -up exams will be given for any one for any reason.  There will be NO 
+opportunity for extra credit. Students don’t need to do any extra work, all that they 
+have to do is just complete the work assigned as indicated on time and every time .  
+  
+ 
+7 HOMEWORK ASSIGNMENTS:  
+All homework assignments are individual tasks. Every week  (starting week 2) , homework 
+will be due on Monday at 11:59 pm  on Canvas.  Please use Microsoft Excel  to solve your 
+homework problems. In the Excel file you submitted to Canvas, please show your work  
+process . If you only provide the final answer without any work process shown, you will 
+receive zero point even if your answer is correct.   
+ 
+Please s ubmit you r report as an Excel file on Canvas before the due date and time 
+indicated. Microsoft Excel MUST BE USED and for solving HW problems. If Excel is not 
+used (along with Excel functions and Excel Data AnalysisToolpak options), zero points 
+will be recorded for  the HW assignment.  
+ 
+The deadline to submit your homework assignments is FIRM. NO late assignments will be 
+accepted.  There will be no extensions of homework assignments due dates. No email or 
+hard -copy submissions are accepted. HW report must demonstrate s tudent’s own work . If 
+any HW reports are found to be copied, all the students who helped and/or received 
+help shall be treated as violators, will receive zero points, and be reported for academic 
+dishonesty.  Solutions for HW assignments will be made available . It is the students’ 
+responsibility to compare solutions provided with your own answers and learn from the 
+same in preparation for exams. If you have any questions or need help, you MUST seek 
+help from the instructor or as needed for your own ben efit. Please remember that solving 
+Homework Assignments on your own is the most important step in preparing for exams.   
+ 
+Colluding with classmates and other students/people, using external resources, tutors, 
+tutoring websites such as Chegg.com … etc., and all other modes of cheating is strictly 
+prohibited. Submitting work of tutors and classmates (as your own), and reports from 
+tutoring websites such as Chegg.com … etc., and all other modes of cheating is strictly 
+prohibited. Violators will receive zero poi nts and be reported for academic dishonesty. 
+Academic dishonesty will be dealt with very strictly under university policies.     
+ 
+READING ASSIGNMENTS AND QUIZZES:  
+Reading assignments will be assigned before each session. Typically, reading assignments 
+requi re students to read the relevant chapter(s) in the textbook before watching the class 
+videos . Students have to complete the reading materials to succeed in quizzes. As you 
+read the chapters, workout the solved example problems in Excel. If you are not doin g 
+what is required to be done before attending classes, you are not doing what is essential 
+for succeeding in this course.   
+ 
+All Quizzes are individual tasks . A missed quiz will result in a score of zero. No make -up 
+quizzes will be given if you missed any of the quizzes.  Quizzes are mean to test your 
+knowledge of the materials of the reading assignments. Complete your reading 
+assignments before taking the quizzes  is essential. Quizzes are open book and open notes 
+type , and will test conceptual understanding for the subject matter and not rote 
+memorization nor the student ability to search out for answers because they will be of  
+ 
+8 open book -open note type.  Quizzes will only contain multiple choice questions. 
+However, these  multiple choice questions sometime require students to calculate the 
+answers.  You will have sufficient time to complete the Quizzes held on Canvas . Each quiz 
+will be timed and must be completed before the deadline indicated. All quiz scores shall 
+count to wards final grade. A missed quiz will result in a score of zero . NO make -up quiz 
+will be provided for quizzes missed due to any reason.  
+ 
+Colluding with classmates and other students/people, using external resources, tutors, 
+tutoring websites such as Chegg .com … etc., and all other modes of cheating is strictly 
+prohibited. Violators will receive zero points and be reported for academic dishonesty. 
+Academic dishonesty will be dealt with very strictly under university policies.     
+ 
+EXAMS:  
+Exams are individual tasks . There will be two exams and all of them are take -home type, 
+held on Canvas and must be completed within the time window indicated . Students 
+cannot miss an Exam.  No make -up exams will be  given . You must make sure you 
+complete the exam and submit your file on time or be prepared to lose points. Exams will 
+be open textbook and open notes type . You are allowed to use laptops and perform 
+calculations using Excel. Microsoft Excel MUST BE USED and for solving Exam problems. If 
+Excel is not used ( along with Excel functions and Excel Data AnalysisToolpak options), zero 
+points will be recorded for the Exams.  In the Excel file you submitted to Canvas, please 
+show your work process. If you only provide the final answer without any work process 
+shown, y ou will receive zero point even if your answer is correct.  
+ 
+Exams will test the student understanding for the application of the methods and 
+interpretation of results. Problems on exams will be similar to HW problems. Exams 
+should be completed using Excel . All exam scores shall count towards final grade .  
+ 
+Exams may be  administered online in Canvas using Honorlock based on USF system 
+policies. Honorlock violations will be reported for academic dishonesty. Colluding with 
+classmates and other students/people, using external resources, tutors, tutoring 
+websites such as  Chegg.com … etc., and all other modes of cheating is strictly 
+prohibited. Violators will receive zero points and be reported for academic dishonesty. 
+Academic dishonesty will be dealt with very strictly under university policies.  
+ 
+NO MAKE -UP WORK, NO EXTR A CREDIT POLICY:  
+Again, in this course, no make -up or extra credit work will be assigned, except for those 
+with medical emergencies / hospitalizations of the students  (not friends or family 
+members). Official documents from the doctor and/or the hospital a re required for 
+these exceptions to be made.  
+ 
+All students must review the syllabus and the requirements if they wish to remain in the 
+course. Enrollment in the course is an agreement to abide by and accept all terms. Any  
+ 
+9 student may elect to drop or withdraw from this course before the end of the dro p/add 
+period.  
+ 
+ 
+XIII. Grade Dissemination  
+All submissions happen on Canvas. You can access your scores at any time using "Grades" 
+in Canvas. Grades for Homework assignments, Quizzes, and Exams will be posted on 
+Canvas typically within 1 -2 weeks past the respecti ve due dates. If any delays happen due 
+to unforeseen circumstances, you will be informed of the possible delays through e -mail.           
+ 
+XIV.   Copyright Statement  
+My lectures and course materials, including class videos, PPT slides, quizzes, exams, 
+homework, and notes, are  protected by copyright. Copyrighted course materials may not 
+be further disseminated. I encourage you to take notes and make copies of course 
+materials for your own educational use only.  
+ 
+  
+ 
+   
+ 
+10 XIV. Course Schedule  
+* Note: The Schedule is subject to revision  
+Each week, the course material s will be uploaded to Canvas on Monday.   
+ 
+Week  Date  Topic and Description  
+1 08/21 Topic:  
+Syllabus, Course Outline, and Introduction   
+Assignments to be completed before class:  
+• Read syllabus carefully  
+• Read Textbook Chapter 1 “Data and Statistics”  
+• Read “Chapter0,WhyStudyStatistics.docx”  
+ 
+Assignments:  
+• Readings for the next week ( Textbook Chapter 2 ,3, &4 ) 
+• Read and Practice in Excel “Chapter01DataAndDescriptiveStatistics.docx” &  
+“Chapter02Probability.docx”   
+• Quiz 1 due Friday Aug 25th at 5:00 pm (Quiz 1 will serve as the First Day 
+Attendance assignment . Students who missed Quiz 1 WILL be dropped 
+from the course  automatically ) 
+2 08/28 Topic:  
+ Descriptive Statistics  & Probability   
+Assignments to be completed before class:  
+• Read Textbook Chapter 2 “Descriptive Statistics: Tabular and Graphical 
+Displays”, Chapter 3 “Descriptive Statistics: Numerical Measures”, and 
+Chapter 4 “Introduction to Probability”  
+• Read and Practice in Excel “Chapter01DataAndDescriptiveStatistics.docx” &  
+“Chapter02Prob ability.docx”   
+ 
+Assignments:  
+• Homework Assignment # 1, due Monday  09/04/202 3 at 11:59 pm 
+• Quiz 2 due Monday  09/04/202 3 at 11:59 pm 
+• Readings for the next week ( Textbook Chapter 5&6 ) 
+• Read  & practice in Excel “Chapter03ProbabilityDistributions.docx”   
+3  
+09/04 Topic:  
+ Probability  Distributions  
+Assignments to be completed before class:  
+• Read textbook Chapter 5 “ Discrete Probability Distributions”  and Chapter 6 
+“Continuous Probability Distributions”  
+• Read  & practice in Excel “Chapter03ProbabilityDistributions.docx”  
+ 
+Assignments:  
+• Homework Assignment # 2, due Monday  09/11/202 3 at 11:59 pm 
+• Quiz 3 due Monday  09/11/202 3 at 11:59 pm  
+ 
+11 • Readings for the next week ( Textbook Chapter 7) 
+• Read & Practice in Excel “Chapter04ConfidenceIntervals.docx”   
+4 09/11  Topic:  
+ Sampling and Sampling Distributions  
+Assignments to be completed before class:  
+• Read textbook Chapter 7 “Sampling and Sampling Distributions”  
+• Read & Practice in Excel “Chapter04ConfidenceIntervals.docx”  
+ 
+Assignments:  
+• Homework Assignment # 3, due Monday  09/18/202 3 at 11:59 pm 
+• Quiz 4 due Monday  09/18/202 3 at 11:59 pm 
+• Readings for the next week ( Textbook Chapter 8&9 ) 
+• Read & Practice in Excel “Chapter05HypothesisTesting.docx”  
+5 09/18 Topic:  
+ Interval Estimation  & Hypothesis Test  
+Assignments to be completed before class:  
+• Read textbook Chapter 8 “Interval Estimation”  and Chapter 9 “Hypothesis 
+Tests”  
+• Read & Practice in Excel “Chapter05HypothesisTesting.docx”  
+Assignments:  
+• Homework Assignment # 4, due Monday  09/25/202 3 at 11:59 pm 
+• Quiz 5 due Monday  09/25/202 3 at 11:59 pm 
+6 09/25 Topic:  
+ Mid-term Review . No new/additional course content will be covered this week.  
+Assignments : 
+• Study for Mid-term . Review all previous readings, slides, in -class exercises, 
+and HW assignments  
+7 10/02 Mid-term Exam : Will open on Friday , Sep 29th at 10:00 am, and close on Monday , 
+Oct 2nd, at 11:59 pm .  
+Assignments:  
+• Readings for the next week ( Textbook Chapter 12) 
+• Read & Practice in Excel “Chapter07CategoricalVariables.docx”  
+8 10/09 Topic:  
+ Comparing Multiple Proportions, Test of Independence and Goodness of Fit I  
+Assignments to be completed before class:  
+• Read  textbook  Chapter 12 “Comparing Multiple Proportions, Test of 
+Independence and Goodness of Fit”  
+• Read & Practice in Excel “Chapter07CategoricalVariables.docx”  
+  
+ 
+12 Assignments:  
+• Homework Assignment # 5, due Monday  10/23/202 3 at 11:59 pm 
+• Quiz 6 due Monday  10/23/202 3 at 11:59 pm 
+9 10/16  Topic:  
+ Comparing Multiple Proportions, Test of Independence and Goodness of Fit II  
+Assignments to be completed before class:  
+• Read textbook Chapter 12 “Comparing Multiple Proportions, Test of 
+Independence and Goodness of Fit”  
+• Read & Practice in Excel “Chapter07CategoricalVariables.docx”  
+ 
+Assignments:  
+• Homework Assignment # 5, Monday  10/23/202 3 at 11:59 pm 
+• Quiz 6 due Monday  10/23/202 3 at 11:59 pm 
+• Readings for the next week  (Textbook Chapter 13)  
+• Read & Practice in Excel “Chapter06ANOVA.docx”  
+10 03/13  Spring Break, no class  
+10 10/23 Topic:  
+ Analysis of Variance I  
+Assignments to be completed before class:  
+• Read textbook Chapter 13 “Experimental Design and Analysis of Variance”  
+• Read & Practice in Excel “Chapter06ANOVA.docx”  
+ 
+Assignments:  
+• Homework Assignment # 6, due Monday  11/06/202 3 at 11:59 pm 
+• Quiz 7 due Monday  11/06/202 3 at 11:59 pm 
+11 10/30 Topic:  
+ Analysis of Variance II  
+Assignments to be completed before class:  
+• Read  textbook  Chapter 13 “Experimental Design and Analysis of Variance”  
+• Read & Practice in Excel “Chapter06ANOVA.docx”  
+ 
+Assignments:  
+• Homework Assignment # 6, due Monday  11/06/202 3 at 11:59 pm 
+• Quiz 7 due Monday  11/06/202 3 at 11:59 pm 
+• Readings for the next week ( Textbook Chapter 14&15)  
+• Read & Practice in Excel “Chapter08SimpleRegression.docx”  
+12 11/06 Topic:  
+Regression I : Simple Linear Regression  
+Assignments to be completed before class:  
+• Read textbook Chapter 14 “Simple Linear Regression” and Chapter 15 
+“Multiple Regression”   
+ 
+13 • Read & Practice in Excel “Chapter08SimpleRegression.docx”  
+ 
+Assignments:  
+• Homework Assignment # 7, due Monday  11/20/202 3 at 11:59 pm 
+• Quiz 8 due Monday  11/20/202 3 at 11:59 pm 
+• Read & Practice in Excel “Chapter09MultipleRegression.docx”  
+13 11/13 Topic:  
+ Regression II : Multiple Regression  
+Assignments to be completed before class:  
+• Read textbook Chapter 14 “Simple Linear Regression” and Chapter 15 
+“Multiple Regression”  
+• Read & Practice in Excel “Chapter09MultipleRegression.docx”  
+ 
+Assignments:  
+• Homework Assignment # 7, due Monday  11/20/202 3 at 11:59 pm 
+• Quiz 9 due Monday  11/20/202 3 at 11:59 pm 
+• Readings for the next week ( Textbook Chapter 17) 
+14 11/20 Topic:  
+Time Series Analysis and Forecasting  
+Assignments to be completed before class:  
+• Read textbook Chapter 17 “Time Series Analysis and Forecasting”  
+ 
+Assignments:  
+• Homework Assignment # 8, due Monday  11/27/202 3 at 11:59 pm 
+• Quiz 10 due Monday  11/27/2023  at 11:59 pm 
+• Study for the final exam  
+15 11/27 Topic:  
+Final exam Review. No new/additional course content will be covered this week.  
+Assignments : 
+Study for the final exam . Review all previous readings, slides, in -class exercises, 
+and HW assignments  
+ 12/02 Final -term Exam : Will open on Friday , Dec 1st at 10:00 am, and close on Monday , 
+Dec 4th at 11:59  pm.  
+ 
+ 
+ 
+   
+ 
+14 XV. General Education Statement (undergraduate only – Required if a Gen Ed course)  
+Not Applicable  
+ 
+XVI. Integration of This Course into Your Academic Experience (Gen Ed only)  
+Not Applicable  
+ 
+XVII. Global Citizens Project (only required if a GCP course; must be verbatim)  
+Not Applicable  
+ 
+XVIII.  USF Core Syllabus Policies  
+USF has a set of central policies related to student recording class sessions, academic 
+integrity and grievances, stu dent accessibility services, academic disruption, religious 
+observances, academic continuity, food insecurity, and sexual harassment that apply to all 
+courses at USF. Be sure to review these online at: 
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx  
+ 
+ 
+XIX. Standard University Policies  – (section t o be edited ) 
+ 
+Policies about disability access, religious observances, academic grievances, academic 
+integrity and misconduct, academic continuity, food insecurity, and sexual harassment are 
+governed by a central set of policies that apply to all classes at USF. These m ay be 
+accessed at: https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx   
+ 
+XX. Covid -19 Procedures  – (section t o be edited ) 
+ 
+All students must comply with university policies and posted signs regarding COVID -19 
+mitigation measures, including wearing face coverings and maintaining social distancing  
+during in -person classes . Failure to do so may result in dismissal from c lass, referral to the 
+Office  of Student Conduct and Ethical Development , and possible removal from campus.  
+ 
+Additional details are available on the University ’s Core Syllabus Policy Statements page : 
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx  
+ 
+ 
+XXI. Course Policies: Grades   
+ 
+Online Proctoring:  
+Online exams and quizzes within this course may  require online proctoring. Quizzes and 
+examinations will be administered using online proctoring tool - Honorlock . Keeping the 
+audio and video (microphone and camera) on during such exams and quizzes is a mus t. 
+Therefore, students will be required to have a webcam (USB or internal) with a 
+microphone when taking an exam or quiz. Students understand that this remote 
+recording device is purchased and controlled by the student and that recordings from 
+any private residence must be done with the permission of any person residing in the  
+ 
+15 residence.  To avoid any concerns in this regard, students should select private spaces for 
+the testing. The University library and other academic sites at the University offer secure 
+private settings for recordings, and students with concerns may discuss the location of an 
+appropriate space for the recordings with their instructor or advisor. Students must 
+ensure that any recordings do not invade any third -party privacy rights and acce pt all 
+responsibility and liability for violations of any third -party privacy concerns. Setup 
+information will be provided prior to taking the proctored exam. For additional 
+information about online proctoring you can visit the online proctoring student FA Q at:  
+http://www.usf.edu/innovative -education/resources/student -services/online -
+proctoring.aspx  
+ 
+Late Work Policy :  
+No late work will be accepted  – any work submitted later than the pre -assigned deadline 
+will be marked with ZERO points. Exceptions will be made to those with medical 
+emergencies/hospitalizations of the student (not friends or family members). Official 
+documents from the doctor and/or the hospital are required for these exceptions to be 
+made.  
+ 
+Extra Credit Policy :  
+No extra credit opportunity will be  provided in this class.  Students do not need to do 
+extra work to succeed in this class.  Just do what you have been assigned on -time without -
+missing the deadlines to become eligible for the grade. Every task (HW assignments, 
+Quizzes, and Exams) assigned in  this course shall count towards your grade. If you fail to 
+meet the deadline, zero points will be assigned for that task. No exceptions. Any 
+exception will be made ONLY for medical emergencies / hospitalizations of the student 
+with proper official documen tation from the doctor/hospital.  
+ 
+Grades of "Incomplete" :  
+The current university policy concerning incomplete grades will be followed in this course.  
+For undergraduate courses: An “I” grade may be awarded to a student only when a small 
+portion of the student’s work is incomplete and only when the student is otherwise 
+earning a passing grade. The time limit for removing the “I” is to be set by the instructor 
+of the course. For undergraduate students, this time limit may not exceed two academic 
+semesters , whether or not the student is in residence, and/or graduation, whichever 
+comes first. For graduate students, this time limit may not exceed one academic 
+semester. “I” grades not removed by the end of the time limit will be changed to “IF” or 
+“IU,” whiche ver is appropriate.  
+For graduate courses: An Incomplete grade ("I") is exceptional and granted at the 
+instructor’s discretion only when students are unable to complete course requirements 
+due to illness or other circumstances beyond their control. The cour se instructor and 
+student must complete and sign the "I" Grade Contract Form that describes the work to 
+be completed, the date it is due, and the grade the student would earn factoring in a zero 
+for all incomplete assignments. The due date can be negotiate d and extended by 
+student/instructor as long as it does not exceed two semesters for undergraduate courses  
+ 
+16 and one semester for graduate courses from the original date grades were due for that 
+course. An "I" grade not cleared within the two semesters for u ndergraduate courses and 
+one semester for graduate courses (including summer semester) will revert to the grade 
+noted on the contract.  
+ 
+Rewrite Policy :  
+There will be no rewrites in this course. All quizzes and exams can be attempted only 
+once. Students ca n submit their HW reports multiple times but all the submissions must 
+happen only before the set deadline (and not after).  
+ 
+Make -up Exams Policy :  
+Example  No make -up exam will be allowed in this class.  If a student misses an exam  or a 
+quiz, ZERO points will be assigned to the exam /quiz . Exceptions will be made to those with 
+medical emergencies/hospitalizations of the student (not friends or family members). 
+Official documents from the doctor and/or the hospital are required for these exceptions 
+to be made.  
+ 
+Exam Retention Policy :  
+All exams are held online. After exams are graded, the instructor will review the 
+examination with the class. The electronical exams will be retained for one semester 
+following the current one, and then they will be dele ted. 
+ 
+Essay Commentary Policy :  
+Not Applicable  
+ 
+Group Work Policy :  
+All the tasks in the course – HW assignments, Quizzes, and Exams are individual tasks. 
+There is no group work allowed in this course. If there is any group work in the group 
+work, that would be plagiarism. In such instances, action will be taken on students based 
+on USF policy on academic integrity violation.  
+ 
+Final Examinations Policy : 
+All final exams are to be scheduled in accordance with the University’s final examination 
+policy.  
+ 
+XXII. Course Policies : Technology and Media  (as applicable  – section t o be edited ) 
+ 
+Email :  
+Students communicate with the instructor:  
+• Please communicate with the instructor through your USF email address;  
+• Please email me to set up an appointment for office hours  if you need to;  
+• Please do NOT submit deliverables through email. It will be treated as a non -
+submission.   
+ 
+17 • Please don’t post questions in the comments section of Canvas homework 
+submissions. I  will not read your comments until I sit down to grade your 
+assignment.  
+• Do not send me e -mails on technological issues at your end. If the issues at your 
+end are technology related you must reach out to USF IT Helpdesk, Canvas 
+Helpdesk, and/or Honorlock Helpdesk depending on the issue and the y will help 
+you immediately. I won’t be able to resolve your technology issues.  
+ 
+ Instructor communicate with students:  
+• I will use Canvas to send out announcements, so students much check your USF 
+email account regularly ; 
+• I will email students  through Canvas  or my USF email address.  
+ 
+Canvas :  
+This course will be offered via USF's learning management system (LMS), Canvas. If you 
+need help learning how to perform various tasks related to this course or other courses 
+being offered in Canvas, please view the following videos or consult the Canvas h elp 
+guides. You may also contact USF's IT department at (813) 974 -1222 or help@usf.edu.  
+ 
+All relevant course materials, such as assignments, PPT slides, class recordings  for some 
+sessions , quizzes, and additional documents, will be posted on Canvas under “Modules”. It 
+is the students’ responsibility to check Canvas frequently for materials and complete class 
+requirements/deliverables on time.  
+ 
+Honorlock:  
+In this course, we may use Canvas - Honorlock  for all Quizzes and Exams. Students are 
+therefore require d to have a webcam with a microphone (either USB or mounted into 
+your computer).  
+ 
+All students must review the syllabus and the requirements, including the online terms 
+and video testing requirements, to determine if they wish to remain in the course. 
+Enro llment in the course is an agreement to abide by and accept all terms. Any student 
+may elect to drop or withdraw from this course before the end of the drop/add period.  
+ 
+Online exams and quizzes within this course may require online proctoring. Therefore, 
+students will be required to have a webcam (USB or internal) with a microphone when 
+taking an exam or quiz. Students understand that this remote recording device is 
+purchased and controlled by the student and that recordings from any private residence 
+must  be done with the permission of any person residing in the residence.  
+ 
+To avoid any concerns in this regard, students should select private spaces for the testing. 
+The University library and other academic sites at the University offer secure private 
+settings for recordings and students with concerns may discuss location of an appropriate 
+space for the recordings with their instructor or advisor.   
+ 
+18  
+Students must ensure that any recordings do not invade any third -party privacy rights and 
+accept a ll responsibility and liability for violations of any third -party privacy concerns.  
+ 
+Students are strictly responsible for ensuring that they take all exams using a reliable 
+computer and high -speed internet connection. Setup information will be provided prior to 
+taking the proctored exam. To use Honorlock  students are required to download and 
+install the Honorlock  Google Chrome extension (Links to an external site.)." For additional 
+information please visit the USF online proctoring student FAQ (Links to an external site.) 
+and Honorlock  student resources (Links to an external site.).  
+ 
+Stude nts need to have access to a computer with the Chrome browser and can download 
+the Honorlock  extension. Your system also needs webcam and you need to present your 
+ID (any Photo ID would be enough you can simply use your USF ID) for verification to get 
+into Honorlock  Quizzes and Exams.  
+ 
+Specific information / instructions will be provided on all Honorlock  Quizzes and 
+Honorlock  Exams. For additional information about online proctoring you can visit the 
+online proctoring student FAQ.  
+ 
+ 
+XXIII.  Course Policies: Student  Expectations  – (section t o be edited )  
+ 
+Attendance Policy:   
+Students are expected to participate  classes  online . The attendance will be monitored 
+by Canvas Course Participation .   
+ 
+Course Hero  / Chegg  Policy:   
+The USF Policy on Academic Integrity  specifies that students may not use websites 
+that enable cheating, such as by uploading or downloading material for this purpose. 
+This does apply specifically to Chegg.com and CourseHero.com – any use of th ese 
+website s (including uploading proprietary materials) constitutes a violation o f the 
+academic integrity policy .  
+ 
+Professionalism Policy:   
+Complete your work and submit reports on time every time well before the respective 
+deadlines on assignments.  
+ 
+End of Semester Student Evaluations:   
+All classes at USF make use of an online system for students to provide feedback to 
+the University regarding the course. These surveys will be made available at the end of 
+the semester, and the University will notify you by email when the response window 
+opens. Your participation is highly encouraged and valued .  
+  
+ 
+19 Food and Drink Policy:   
+Not Applicable.  
+ 
+ 
+XXIV.  Learning Support and Campus Offices  
+ 
+ 
+Sarasota -Manatee Campus  
+ 
+Tutoring and Writing Support  
+Learning Support Services provides free tutoring and writing consultations for a 
+variety of courses and subjects such as, Accounting, Biology, Chemistry, Finance, Math 
+& Statistics, Physics, and Spanish. Make an appointment online .  
+ 
+Counseling and Wellness Center  
+The Counseling and Wellness Center is a confidential resource where you can talk 
+about incidents o f discrimination and harassment, including sexual harassment, 
+gender -based crimes, sexual assault, stalking, and domestic/relationship violence. Call 
+941-487-4254  
+ 
+Victim Advocate  
+A Victim Advocate is available 24/7 by calling (941) 504 -8599. For assistanc e leave a 
+message with your phone number and your call will be returned as soon as possible. 
+The Victim Advocate is available to assist victims of crime, sexual assault, and partner 
+violence.   
+ 
+    Disability Accommodation   
+ 
+Students are responsible for registering with the Office of Students with Disabilities 
+Services (SDS) in order to receive academic accommodations. Reasonable notice must 
+be given to the SDS office (typically 5 working days) for accommodations to be 
+arrange d. It is the responsibility of the student to provide each instructor with a copy 
+of the official Memo of Accommodation. Contact Information: Disability Coordinator, 
+941-359-4714, disabilityservices@sar.u sf.edu , http://usfsm.edu/disability -services// .  
+  
+Other Student Support  
+USFSM has a variety of offices that provide learning support  services. To learn more, 
+students  should consult to following web pages: 
+http://usfsm.edu/students/index.aspx   and http://usfsm.edu/faculty -and-
+staff/index.aspx    (instructor/learning section).  
+ 
+ 
+Tampa Campus  
+Tutoring Hub   
+ 
+20 The Tutoring Hub offers free tutoring in several subjects to USF undergraduates. 
+Appointments are recommended, but not required. For more information, email 
+asctampa@usf.edu  
+ 
+Writing  Studio  
+The Writing Studio is a free resource for USF undergraduate and graduate students. At 
+the Writing Studio, a trained writing consultant will work individually with you, at any 
+point in the writing process from brainstorming to editing. Appointments are 
+recommended, but not required. For more information or to make an appointment, 
+email writingstudio@usf.edu  
+ 
+Counseling Center  
+The Counseling Center promotes the wellbeing of  the campus community by providing 
+culturally sensitive counseling, consultation, prevention, and training that enhances 
+student academic and personal success. Contact information is available online.  
+ 
+Center for Victim Advocacy  
+The Center for Victim Advocacy empowers survivors of crime, violence, or abuse by 
+promoting the restoration of decision making, by advocating for their rights, and by 
+offering support and resources. Contact information is available online.  
+ 
+St. Petersburg Campus  
+Student Success  Center  
+The Student Success Center provides free tutoring and writing consultations. Contact 
+information is available online.  
+ 
+Wellness Center  
+The Wellness Center provides counseling and medical services, as well as prevention 
+programs and victim advocacy.  Contact information is available online.  
+ 
+ 

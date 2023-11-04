@@ -1,0 +1,22 @@
+Donald BerndtAssociate Professordberndt@usf.eduRoom: CIS 2073Phone: (813) 974-6769Fax: (813) 974-6749VitaDon Berndt is an associate professor in the School of Information Systems and Management.
+               His areas of expertise include data warehousing, data mining, text mining, health
+               informatics, web analytics, web search, online advertising, information and prediction
+               markets. He teaches courses on information systems, database management and design
+               and data mining.His work on business intelligence and the role of data in effective bioterrorism surveillance
+               systems was published inDecision Support Systems:Special Issue on Cybersecurity for Homeland Security. Other papers have been published
+               in journals such as theAmerican Journal of Preventive Medicineand theJournal of Computer Information Systems. A frequent presenter at academic conferences, Berndt also co-authors chapters for
+               computer science textbooks and serves as chief technology officer for a health care
+               information management company.He earned a PhD from the Stern School of Business at New York University, a master's
+               degree from SUNY Stony Brook and a bachelor's degree from the University of Rhode
+               Island. Prior to joining USF, he was an instructor and lecturer at SUNY Stony Brook
+               and New York University. He was also a research programmer for Yale University.TeachingISM 6218 - Database WarehousingISM 6218 - Advanced Database AdministrationISM 7911 - Seminar on Technical IT ResearchRecent ResearchS. L. Luther, J. A. McCart, D. J. Berndt, B. Hahm, D. K. Finch, J. Jarman, P. R. Foulis,
+                  W. A.Lapcevic, R. R. Campbell, R. Shorr, K. M.Valencia, and G. Powell-Cope, (2015), “Improving
+                  Identification of Fall-Related Injuries in Ambulatory Care Using Statistical Text
+                  Mining,”American Journal of Public Health,105(6): 1168-1173, (DOI: 10.2105/AJPH.302440).D. J. Berndt, J. A. McCart, D. K. Finch, and S. L. Luther, (2015), “A Case Study of
+                  Data Quality in Text Mining Clinical Progress Notes,”ACM Transactions on Management Information Systems, 6(1) (DOI: 10.1145/2669368).James A. McCart, Donald J. Berndt, Jay Jarman, Dezon K. Finch, Stephen L. Luther,
+                  (2013), “Finding Falls in Ambulatory Care Clinical Documents Using Statistical Text
+                  Mining,”Journal of the AmericanMedical Informatics Association (JAMIA), 20: 906-914, Published online first: 15 December 2012 (DOI: 10.1136/amiajnl-001334).J. A. McCart, B. Padmanabhan, and D. J. Berndt, (2013),“Goal Attainment on Long Tail
+                  Web Sites: An Information Foraging Approach,"Decision Support Systems,55: 235-246, (DOI: 10.1016/j.dss. 01.025).J. McCart, D. Finch, J. Jarman, E. Hickling, J. Lind, M. Richardson, D. Berndt and
+                  S. Luther, (2012),"Using Ensemble Models to Classify the Sentiment Expressed in Suicide
+                  Notes,"Biomedical Informatics Insights Journal,5(Supplement 1): 77-85, (doi: 10.4137/BII.S8931).SERVICEMember: Advisory Board, Rivergy, 2005-06Member: Interventional Cardiology Technical Advisory Panel of the Florida Agency for
+                  Healthcare AdministrationReferee,Decision Support Systems, INFORMS Journal on Computing, among others

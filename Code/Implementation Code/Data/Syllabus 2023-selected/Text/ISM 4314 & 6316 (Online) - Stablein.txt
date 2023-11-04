@@ -1,0 +1,200 @@
+1 | Page   Course Prefix Number Course 
+Title CRN, Section #, Credit Hours 
+College Name, Department Name  
+COURSE SYLLABUS 
+ 
+ 
+Instructor:  Dr. Thomas P. Stablein  E-Mail:  tstablein@usf.edu  
+Term:  Fall 2023 Dates:  8/21/202 3 –11/9/202 3 
+Delivery 
+Method:  Online  (Asynchronous)  Phone:  813-974-1773  
+Office Hours  
+& Location : MS Teams by appointment; email through Canvas and include a couple 
+day/time options 
+ 
+         Welcome!  
+Congratulations on making it to this point in your academic journey. I am very 
+excited to share my experience with you and prepare you to become effective 
+participants in project  investments at your current and/or future organizations.  
+ 
+      University Course Description  
+The objective of this course is to become familiar with fundamental issues for managing 
+project management and to develop an understanding of the overall processes of dealing with competing demands in information technology environments.  
+ 
+     Course  Prerequisite  
+ISM 3011 or ISM 6021  
+ 
+IV.    Required  Text book  and Software  
+Information Technology Project Management , 9th Edition  
+By: Kathy Schwalbe, Thomson Course Technology, 2019.   
+ISBN -13: 978 -1-337-10135 -6 
+ 
+No software is required  
+ 
+      Learning Goals  
+Upon completion of this course, students will be able to:  
+1. Describe the management processes for project completion  
+2. Discuss the impact of project issues on the project management knowledge areas  
+3. Identify typical project management classic mistakes to help avoid project failure  
+ISM 4314/ 6316  
+Project Management  
+CRN -SEC: 80112 -020, 80113- 021 & 89205 -360 
+3 Credit Hours  
+Muma College of Business 
+COURSE  SYLLABUS  
+Last Updated: 8/ 20/2 023 2 | Page   4. Recognize appropriate skill sets for the successful project manager  
+5. Explain the imp ortance of stakeholder management and top management support 
+6. Explain activity dependencies for project estimation and scheduling  
+7. Create a project plan that incorporates the 10 PMBOK knowledge areas  
+8. Create a WBS and transform it into a Gantt chart  
+9. Comprehen d and explain major theories, concepts, and principles of project 
+management  
+10. Apply major theories, concepts, and principles of project management correctly in 
+new situations  
+11. Analyze project management issues using appropriate methods  
+12. Create and evaluate project management artifacts  
+ 
+ VI.   Course Objectives  
+The general objective of this course is to become familiar with the fundamental issues for managing project s and to develop an understanding of the overall process of dealing with 
+competing demands in various environments.  
+ VII.   Course Topics  
+Include (but not limited to):  
+Project charters, project selection, project portfolios, project management standards, A gile, 
+Waterfall, SCRUM, Kanban, sprints, user stories, issue management, outsourcing, leadership, meeting facilitation, collaboration in projects, project risk management, change management, risk analysis, scheduling, costing, and knowledge management in projects.  
+ 
+VIII.
+  Instructor Contact Information and Communication  
+If you are looking to get in touch with me, please email me through C anvas.   Please note, if 
+you are sending email through Canvas, attachments do not always come through. Please 
+address all emails in a professional manner (Dr. Stablein … body… sign off with name). I will 
+try to return emails with in 1 business day . If you do not hear from me within 24 hours, 
+please follow up  with  me. I can meet with individuals or groups online, just email for an 
+appointment.  
+ 
+IX.    How to Succeed in this  Course  
+This course is about time management. Please do not rely only on your C anvas calendar, 
+you will miss valuable information to help you with your work. Use the Module s page as 
+your guide. If you use it , each week is laid out for you with all the resources yo u need to 
+be successful.  
+ 
+X.      Required Course  Materials  
+Besides the  book , all required materials will be provided on Canvas. You may have to 
+conduct research for this course  and if you do, all the resources you will need are available 
+through the USF Library.  
+ 
+ 
+ 3 | Page   XI.      Grading  Scale  
+ 
+Percent  Grade  Percent  Grade  
+98 – 100 A+ 77 – 79 C+ 
+93 – 97 A 73 – 76 C 
+90 – 92 A- 70 – 72 C- 
+87 – 89 B + 67 – 69 D+ 
+83 – 86 B 63 – 66 D 
+80 – 82 B- 60 – 62 D- 
+ 
+XII.     Grade Categories and  Weights  
+ 
+Assessment  Percent of Final Grade  
+     Quizzes  10% 
+     Exercises  70% 
+     Group Project  20% 
+ 
+Assessments are explained in the Week 1 Module of Canvas  
+ 
+XIII.   Course  Schedule 
+The Modules set up in Canvas detail the schedule for this course.   This online course 
+permits you to complete material on your own schedule with the one requirement being 
+you submit assignments on time.  Early submission for assignments is encouraged.  
+ 
+XIV.   Instructor Feedback Policy & Grade  Dissemination  
+You can expect quiz grades to be finaliz ed within one week after the due date  of each 
+assignment —if all submissions  are submitted on time .  All other grades will be sub mitted 
+within  one week of the final submission being received.  
+ 
+XV.  USF Standard University  Policies  
+Policies about disability access, religious observances, academic grievances, academic 
+integrity and misconduct, academic continuity, food insecurity, and sexual harassment are governed by a central set of policies that apply to all classes at USF. These may be accessed at: https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx
+ 
+ 
+XVI. Course  Policies:  
+ 
+Late Work Policy : 
+Late work will be accepted under the following conditions unless there are extenuating circumstances. Email the instructor  through Canvas  as soon as possible after 
+discovering there are extenuating circumstance s.  The penalties  below will be st rictly 
+enforced . 
+ 4 | Page   Late work received w ithin 1 hour  excluding Exams : no penalty  
+1-24 hours  late:     10% penalty  
+25-48 hours  late:     25% penalty  
+After  48 hours     40% penalty  
+ 
+Extra Credit Policy : There is no extra credit offered in this class.  
+ Grades of "Incomplete" : 
+An “I” grade may be awarded to a student only when a small portion of the student’s work is incomplete and only when the student is otherwise earning a passing grade. The time limit for removing the “I” is to be set by the instructor of the course. For undergraduate students, this time limit may not exceed two academic semesters, 
+whether or not the student is in residence, and/or graduation, whichever comes first. For graduate students, this time limit may not exceed one academic semester. “I” grades not re moved by the end of the time limit will be changed to “IF” or “IU,” whichever is 
+appropriate.  
+ 
+XVII. Course Policies: Student  Expectations  
+ 
+Course Hero Policy:  
+The USF Policy on Academic Integrity 
+specifies that students may not use websites 
+that enable cheating, such as by uploading or downloading material for this purpose. This does apply specifically to CourseHero.com – any use of this website (including 
+uploading materials) constitutes a violation of the academic integrity policy.  
+ 
+End of Semester Student Evaluations:  
+All classes at USF mak e use of an online system for students to provide feedback to 
+the University regarding the course. These surveys will be made available at the end  of 
+the semester, and the University will notify you by email when the response window 
+opens. Your participation is highly encouraged and  valued.  
+ 
+Netiquette Guidelines:  
+1. Act professionally in the way you communicate. Treat your instructors and peers 
+with respect, the same way you would do in a face -to-face environment. Respect 
+other people’s ideas and be constructive when explaining your views about 
+points you may not agree  with.  
+2. Be sensitive. Be respectful and sensitive when sharing your ideas and opinions. 
+There will be people in your class with different linguistic backgrounds, political and religious beliefs or other general  differences.  
+3. Proofread  and check  spelling.  Doing  this before  sending  an email or posting  a 
+thread on a discussion board will allow you to make sure your message is clear and thoughtful. Avoid the use of all capital letters, it can be perceived as if you are shouting, and it is more difficult to  read.  
+4. Keep your communications focused and stay on topic. Complete your ideas 
+before changing the subject. By keeping the message on focus you allow the 5 | Page   readers to  easily get your idea or answers they are looking  for. 
+5. Be clear with your message. Avoid using humor or sarcasm. Since people can’t  see 
+your expressions or hear your tone of voice, meaning can be misinterpreted.  
+ 
+Email and Discussion Board Guidelines:  
+1. Use the subject line effectively by stati ng a meaningful description  of what 
+your email or discussi on is  about.  
+2. Keep  your  emails  and postings  related  to the course  content.  You should not 
+post anything  personal  on a discussion  board,  unless  it is requested  by the 
+instructor.  
+3. Any personal  or confidential issues  should  be directly  communicated  to the 
+instructor via email. The discussion boards are public spaces; therefore, any 
+issues should not be posted  there.  
+ 
+USF Core Syllabus Policies : 
+USF has a set of central policies related to Covid -19, student recording class sessions, 
+academic integrity and grievances, student accessibility services, academic disruption, 
+religious observances, academic continuity, food insecurity, and sexual harassment 
+that apply to all courses at USF. Be sure to review these online at: https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx
+   
+ 
+XVIII. Course Technology & Student  Support  
+ 
+Academic Accommodations:  
+Students with disabilities are responsible for registering with Students with Disabilities 
+Services (SDS) in order to receive academic accommodations. For additional information about academic accommodations and resources, you can visit the SDS website at http://www.usf.edu/student- affairs/student -disabilities -services/ 
+. 
+ 
+Academic Support Services:  
+The USF Office of Student Success coordinates and promotes university -wide efforts to 
+enhance undergraduate and graduate student success. For a comprehensive list of 
+academic support services available to all USF students, please visit the Office of Student Success website at - http://www.usf.edu/student- success/
+ 
+ 
+Canvas Technical Support:  
+If you have technical difficulties in canvas, you can find access to the C anvas guides and 
+video resources in the “Canvas Help” page on the homepage of your C anvas course. You 
+can also contact the help desk by calling 813 -974-1222 in Tampa or emailing 
+help@usf.edu . 
+ 

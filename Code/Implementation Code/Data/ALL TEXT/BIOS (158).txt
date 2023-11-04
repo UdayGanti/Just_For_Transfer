@@ -1,0 +1,24 @@
+Alan HevnerDistinguished University Professor, Eminent ScholarCitigroup/Hidden River Chair of Distributed Technologyahevner@usf.eduRoom: CIS 1040Phone: (813) 974-6753Fax: (813) 974-6749VitaAlan R. Hevner is a Distinguished University Professor and Eminent Scholar in the
+               School of Information Systems and Management in the Muma College of Business at the
+               University of South Florida. He holds the Citigroup/Hidden River Chair of Distributed
+               Technology.Hevner's areas of research interest include design science research, digital innovation,
+               information systems development, software engineering, distributed database systems,
+               and healthcare systems. He has published over 300 research papers on these topics
+               with nearly 30,000 citations to his papers.Hevner received a PhD in computer science from Purdue University. He has held faculty
+               positions at the University of Maryland and the University of Minnesota. Hevner is
+               a Fellow of the American Association for the Advancement of Science, a Fellow of the
+               Association for Information Systems, and a Fellow of IEEE. He is a member of ACM and
+               INFORMS.Additional honors include selection as a Parnas Fellow at Lero, the Irish software
+               research center, a Schoeller Senior Fellow at Friedrich Alexander University in Germany,
+               and the 2018 Distinguished Alumnus award from the Purdue University Computer Science
+               Department. From 2006 to 2009, he served as a program manager at the U.S. National
+               Science Foundation in the Computer and Information Science and Engineering Directorate.TeachingISM 6124 - Advanced Information Systems Analysis & DesignISM 6145 - Software TestingISM 7911 - Seminar on Technical IT ResearchResearchA.Hevner and R. Linger, (2019), “Augmenting Internet of Things (IoT) Architectures
+                  with Semantic Capabilities,” Chapter inThe Art of Structuring: Bridging the Gap Between Information Systems Research and
+                     Practice, K. Bergener, M. Rackers, and A. Stein, Editors, Springer, pp. 397-407.A. Hevner, J. vom Brocke, and A. Maedche, (Eds), (2019), Special Issue on Design Science
+                  Research and Innovation,Business and Information Systems Engineering, 61(1).A. Hevner and N. Wickramasinghe, (2018), “Design Science Research Opportunities in
+                  Health Care,” Chapter 1 inTheories to Inform Superior Health Informatics Research and Practice, N. Wickramasinghe and J. Schaffer, Editors, Springer, pp. 3-18.A. Maedche, J. vom Brocke, and A. Hevner, Editors, (2017),"Designing the Digital Transformation,"
+                  presented at the 12th International Conference on Design Science Research in Information
+                  Systems and Technology, Karlsruhe, Germany, Springer Lecture Notes in Computer Science
+                  Volume 10243.A. Hevner, (2014), “Design Science Research,” Chapter 29 inInformation Systems and Information Technology, Volume 2 (Computing Handbook, Third Edition) edited by H. Topi and A. Tucker. Boca
+                  Raton: Chapman and Hall/CRC.view moreM. Tremblay, A. Hevner, and D. Berndt, (2012), "Design of an Information Volatility
+                        Measure for Health Care Decision Making,"Decision Support Systems, Vol. 52, No. 2, pp. 331-341.ServiceSenior editor, Management Information Systems Quarterly, the top-ranked IS journalRecipient, Lifetime Achievement Award for his contributions to design researchMember, Phi Beta Kappa Faculty Group, 1996-presentMember, Purdue University President's Council, 2000-present

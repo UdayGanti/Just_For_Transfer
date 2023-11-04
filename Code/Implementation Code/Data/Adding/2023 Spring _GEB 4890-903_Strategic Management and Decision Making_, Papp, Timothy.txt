@@ -1,0 +1,595 @@
+1  Course  Prefix  Number  Course  
+Title  
+CRN, Section #, Credit Hours  
+College  Name,  Department  
+Name  
+   
+  
+ 
+      
+ 
+Professor:  Dr. Timothy  Papp   E-Mail:  tpapp@usf.edu  
+TA/GA:  TA/GA  name  (if applicable)  E-Mail:  TA/GA  E-mail  
+Term:  Spring  2022  Dates:  1/09/23-5/5/23 
+Delivery  
+Method:  In Person  
+Monday  6:30 -9:15PM  Location:  CIS  
+1035  
+Minimum  
+Technical  
+Skills &  
+Requirements:  You must  have  reliable  internet  access  and the capability  to use Canvas.  This 
+requires computer resources so  you should make  sure  you can use Canvas.  
+Office  Hours:  To be arranged . I will also make myself available before and  after  each  class for  
+questions.  
+  
+ 
+I. Welcome!  
+Welcome  to GEB 4890.  In this course  you will learn  the concepts  of Strategic  Management  
+which will help you integrate the varying functional knowledge you have gained in other  
+business courses (marketing, accounting, finance, etc.).  In turn, this will help provide an  
+educational foundation that will aid you in understanding the organization from a CEO  level 
+perspective. I am hopeful that this will benefit all of you as you progress in your  careers.  
+ 
+THIS SYLLABUS IS ONLY A GENERAL GUIDE AND IS SUBJECT TO CHANGE DEPENDING ON 
+HOW I FEEL THE CLASS IS PROGRESSING AND IF I THINK SOMETHING SHOULD BE ADDED  
+TO, OR DELETED FROM , THE CLASS.  YOU WILL ALWAYS GET A CANVAS NOTIFICATION IF 
+SOMETHING IS GOING TO BE CHANGED OR IS CHANGED . 
+ 
+II. U
+niversity  Course  Description  
+This capstone course focuses on helping students develop a top- level executive perspective  
+on managing  a business  and requires  students  to integrate  the theoretical  and functional  
+area  concepts,  principles,  and skills  learned  in previous  coursework.  
+ 
+ 
+ 
+III. Course  Prerequisites  
+GEB 4890  
+Strategic  Management  and Decision  Making 
+CRN  25121, 903, 3 Credit  Hours  
+Muma  College  of Business,  School  of Marketing  and 
+Innovation  
+COURSE  SYLLABUS  2  FIN3403,  MAN3025,  MAR3023  Course  requirement: Senior  standing.  
+IV. Course  Purpose  
+The course is intended to provide a unifying, integrating, and coordinating opportunity to  tie 
+together concepts, principles, and skills learned separately in other, more specialized courses 
+in business administration.  Specifically, the purpose of this course is for you to  utilize 
+knowledge acquired from diverse course work and background experiences to seek  
+approaches and solutions to real problems and policy issues in a variety of organizational  
+situations.  The course begins with presentation of information on strategic management  
+with vari ous assignments used for illustration and discussion.   As the course develops,  more  
+analyses  via assignments  will occur,  using  the classroom  (virtual  or in person  depending  on 
+the mode  of delivery)  situation as  a forum for discussion.  Information  presented in the first 
+half of the course, as well as from previous courses should provide  you with various 
+frameworks within which to view and discuss the various topics and assignments.  
+ 
+Additionally, as this course is certified as an Ethical  Reasoning and Civic Engagement  
+Capstone course, a High Impact Practice course, and an applied Service -Learning  
+experience for the College  and USF General  Education Core  Curriculum,  students  will be 
+held to the highest  level  of professional  performance  and behavioral  standards . 
+ 
+V. Instructor  Contact  Information  and Communication  
+ 
+Communication  in this class  will be regular.  Ideally  you should be checking and accessing  
+email  and Canvas  daily, but  at a minimum  at least  multiple  times  per week.  
+ 
+Outside of the classroom (physical or virtual) please contact me using my tpapp@usf.edu  
+email address.  Using canvas to email me could cause delays as it is not uncommon for  
+emails to get lost in cyberspace when using the Canvas mail function.  So, make sure to  
+contact  me email -to-email  as opposed  to using  Canvas.  
+ 
+When emailing  me please  include  your  section  number  and full name.  Please  send emails  
+in a professional  format  and refrain  text message  style forms of  communication.  
+ 
+VI. First  Week Attendance Policy  
+Per USF policy first day attendance is required.  If you attend class but miss this portion of  
+class I may not know it. Y ou need to notify me that you attended but missed roll call or  you 
+will be considered absent and dropped  from  the course.  
+ 
+VII. How  to Succeed  in this Course  
+The best  way to  succee d in this class  is to attend  the lectures and remain  up to date  on all 
+material and assignments.  This means you are aware of all deadlines (including exam  
+dates) and prepare accordingly.  I will provide exam reviews in class and plenty of class  time 
+will be provided to give additional guidance on the projects as well.  Another key is  asking  
+questions.  If you are confused,  please  ask. I am here  to help you learn.  3  VIII. Course  Structure  
+This course  will be delivered  in a traditional  face to face  format.  ATTENDANCE IN CLASS IS 
+MANDATORY.   If you miss more than two ( 2) classes, I reserve the right to deduct 2 ½% off 
+your final grade for every missed class beyond two.   
+ 
+We may have one or two virtual classes in the semester.   We will discuss in class whether you 
+prefer to have a substitute in- person professor or do class virtually.  Attendance will still be 
+mandatory if we do a virtual session.  
+ 
+IX. Course  Topics  
+Include  (but not limited  to): 
+Strategic  management  process  
+Vision a nd mission  
+Internal analysis  
+External  analysis  
+Business/competitive  level  strategy  
+Corporate level strategy  
+International  strategy  
+Modes  of entry  
+Corporate  governance  and ethics  
+Strategy  implementation  including  culture,  structure,  and resource  leadership 
+ 
+X. Student  Learning  Outcomes  
+Upon  completion  of this course,  student  will demonstrate  the ability  to: 
+1. Evaluate  the impact  of individual  choices  on local  and global  communities  by assessing  the 
+impact of their proposed solution to a scenario based global business assignment on the  
+local  environment  (#GEA1)  (GCP,  MCOB).  
+2. Communicate  ideas  and information to diverse  audiences  by communicating  their  proposed  
+solution to a service -learning  assignment and reflecting on the feedback received. (#GEA1)  
+(GCP,  MCOB).  
+3. Demonstrate  the ability  to comprehend,  express,  and adapt  to ideas  based on others’  
+perspectives.  (#GEA2)  (ERCE,  MCOB)  
+4. Work  across  and within  community  contexts  to achieve  a civic ai m through participation  in 
+a service -learning project  (#GEA1)  (ERCE,  MCOB).  
+5. Demonstrate  an ability  to recognize  ethical  and professional  responsibilities  (#GEA2)  (ERCE,  
+MCOB)  
+6. Propose  creative  solutions  for both  structured  and unstructured business  problems  in a 
+complex,  global  environment. (#GEA2)  (MCOB)  
+7. Integrate  cross -functional  business  skills  into sound business  solutions.  (#GEA2)  (MCOB)  
+8. Describe  and discuss  the complex  relationship  between  an organization  and its 
+environment.  
+9. Demonstrate  the ability  to perform  internal  and external  analyses.  
+10. Describe  and discuss  the strategy  formulation  process.  
+11. Describe  and discuss  different levels  and types  of organizational  strategies.  
+12. Identify  and assess the strategies  that an organization  uses  to manage  or adapt  to its 4  environment.  
+13. Recommend  strategies  that an organization  may  develop  to manage  or adapt  to its 
+environment.  
+14. Describe  and discuss  the strategy  implementation  process.  
+15. Recommend  processes  and activities  needed  for putting  strategies  into action.  
+ 
+XI. Required  Course  Materials  
+Thompson, Peteraf, Gamble and Strickland.  Crafting and Executing Strategy: The Quest for  
+Competitive Advantage:  Concepts and Cases, 22nd Ed., 2020.  The ISBN number for a hard  bound 
+copy of your text is 9781260075106.  The ebook version of the text is ISBN  9781260919097 and  
+is available in  the USFSP bookstore  You must  have  one of these  exact  ISBN  numbers  or you will 
+likely have  the wrong  and/or  missing content  in your  book.  
+ 
+XII. Supplementary  (Optional)  Texts  and Materials  
+Unless otherwise  indicated,  all materials  in Canvas  are required.  
+ 
+XIII. Grading  Scale  
+ 
+Grading  Scale  (%) 
+93-100 A 
+90 – 92 A- 
+87 – 89 B+ 
+83 – 86 B 
+80 – 82 B- 
+77 – 79 C+ 
+73 – 76 C 
+70 – 72 C- 
+0 – 69 F 
+ 
+XIV. Grade  Categories  and Weights  
+ 
+Assessment  Percent  of Final  Grade  
+Service  Leaning  Project  (GEA  1) (200  points)  20%  
+Scenario  Based  Strategic  Management  Project  (GEA  2) 
+(250  points)  25%  
+Exam  1 (250 points)  26%  
+Exam  2 (250 points)  26%  
+Tableau  Assignment  3% 
+Total  1000  points  100%  5  XV. Graded Components  Including  Assignments  and Exams  
+ 
+Service  Learning  Project  (GEA  1) 
+ 
+The Service  Learning  Experience  (SLE) requires  you to provide  service  to a local  non- profit  
+organization. The SLE is a five -part process that includes investigating service  
+opportunities, preparing for that opportunity through a “preflection,” planning your  
+service intervention, performing your service, and reflecting on the experience. The  
+speci fic disciplinary skills you provide to the non -profit organization are reinforced in the  
+Scenario Based  Strategic  Management  Project.  
+ 
+Specific  guidelines  for the service -learning  project  will be provided in a separate  document.  
+ 
+Scenario  Based  Strategic  Management  Project (GEA  2) 
+ 
+Students  will participate  in a scenario -based  project  assuming  the role of  top management  
+of a company.  Using a real -world scenario, students will encounter a range of strategic  
+issues that will require them to integrate knowled ge from various business functions (i.e.,  
+accounting, finance, marketing, management, and information systems) to make a sound  
+business decision.  In doing so students will analyze and integrate numerous business and 
+industry  issues associated  with  the scen ario and take  into account  the various  perspectives 
+of stakeholders involved before generating alternative solutions to the  scenario and then 
+choosing the optimal alternative.  The final deliverable will be a 5 –7-page  paper.  
+Preliminary assignments associated with the scenario will be completed throughout  the 
+semester.  Specific  guidelines  for this project  will be  provided in a separate  document.  
+ 
+Other  Grade  Components  
+Exams  
+You will be responsible for all material covered.  This includes  the applicable chapters of  
+the book in addition to whatever is discussed in class.  All exams will be made up of  
+multiple -choice questions  and all exams  will be timed.  As such a specific  window  of time  
+will be provided when  completing exams.  
+ 
+There will be two exams in this course.  The specific dates and times of the exam are  
+provided in the assignment  schedule  of the syllabus.  Exams  are not comprehensive  and 
+each one will cover material from chapter readings, case readings, and of course the  
+chapter  lectures.  6  Tableau  Citizen  Data  Science  Certificate  Project  
+This assignment is the 4th part of a four -course  sequence to complete this certificate.  
+Students  will collect  and analyze  data  and then produce  visualizations/dashboards  to form  
+conclusions and insights regarding that data. Each student will produce a 3 -minute video  
+responding to a set of questions about their findings, and then upload the video to Canvas  
+under the “Tableau Citizen Data Science Ce rtificate Project” tab. Additional details  regarding  
+this assignment  will be provided in the  class  sessions  and in Canvas.  
+ 
+XVI. Instructor  Feedback  Policy  & Grade  Dissemination  
+ 
+I aim to provide  feedback  on all assignments as quickly  as possible.  However,  the range  of 
+time needed varies greatly based on the type of assignment, quality of submissions, as  well 
+as whether other pressing responsibilities that exist after submission deadlines.  For example, 
+if a week is full of department and college mee tings it will take longer for  feedback.  Typically, 
+exam scores are posted within a few days.  Feedback on major  projects may take up to three 
+weeks or longer as these can be very time consuming to  grade.  All grades are posted in 
+Canvas and I make sure to ke ep students informed as to  my expected  timeframe  for 
+feedback.  7  XVII. Course  Schedule  
+ 
+WK DATE  ASSIGNMENT  SCHEDULE  TEXT   
+1 1/9 Introduction  to the course  
+What  is strategy  and why is it important?   
+Chapter 1 
+2 1/23 Charting  a company’s  direction  
+ 
+Review the cases  below  for class  discussion  
+Case  #1 Mystic  Monk Coffee 
+For your own practice  consider the following: Use the guidelines for a well worded 
+mission and vision (from Ch 2) and create a vision statement for Mystic Monk 
+coffee. Think about how your statement considers the elements needed in a well  
+worded vision. 
+Case  #2 Airbnb 2018 
+For your own practice consider the following: Compare the business model (from  
+Ch 1)  of Airbnb to that of a traditional  hotel company. Be sure to think  about both 
+revenue and expenses. Chapter  2 
+ 
+Practical  
+Application 
+3 1/30 Evaluating  a company’s  external  environment  
+Case  #5 The Craft Beer Industry 
+For your own practice consider the following: Assess the strength of buyers and 
+suppliers, the threat of substitutes, and threat of new entrants in the craft beer  
+industry? Rate each force (strong, moderate, or weak) and justify your rating (see  
+Chapter 3). 
+Service Learning Project Discussion  Chapter  3 
+ 
+Practical  
+Application 
+4 2/6 Evaluating  a company’s  resources,  capabilities,  and competitiveness  
+ 
+Case  #9 TOMS Shoes  
+For your own practice consider the following: Assess the strengths, weaknesses,  
+opportunities, and threats  for TOMS (identify  at least 4 for each part).  
+Service Learning Project Discussion  Chapter  4 
+ 
+ 
+Practical  
+Application 
+5  2/13 The five generic competitive strategies  
+Case  #12 Chipotle 
+For your own practice consider the following: What competitive strategy does  
+Chipotle utilize (see Ch 5)?  Consider examples of the Chipotle organizational  
+practices to  determine  your answer.  Chapter  5 
+Practical  
+Application 
+6 2/20 Strengthening  a company’s  competitive  position  
+Service Learning Project Q&A  
+Exam  Review  Chapter  6 8  7 2/27 Exam  1; Covers  Chapters  1-6 Lectures  and Case  Readings  
+Service  Learning  Project  Q&A   
+8 3/6 Strategies for competing in international markets  
+Ethics  and Strategy  
+Strategic  Scenario  Project  Discussion  
+ 
+Service  Learning Projects  Due by 3/6 at 11:59  PM Chapter  7 
+Ethics  
+Presentation   
+ 
+ 3/13 Spring Break - No Class   
+9 3/20 Corporate  strategy  
+Case  #24 The Walt  Disney  Company  
+For your own practice  consider  the following:  What  type of corporate  diversification  
+does Disney  utilize (see  pages  225 to 238 and Figure  8.2 for a discussion  of the types 
+of diversification)? Consider examples of how the company does or doesn’t  have 
+synergy  among  business  units.  Chapter  8 
+Practical  
+Application  
+10    3/27 Building  an organization  capable  of good strategy  execution  
+Strategic  Scenario  Project  Discussion  Chapter  10 
+11   4/4 Managing  Internal  Operations  
+Strategic  Scenario  Project  Discussion  Chapter  11 
+12   4/11 Corporate culture and leadership  
+Exam  Review  
+ 
+Strategic  Scenario  Project  Work Session and Q&A  Chapter  12 
+13   4/18 Case  #29 Starbucks  
+For your own practice consider the following: What type of culture does Starbucks  
+exhibit? See pages 353-359 for material on types of culture.  What organizational  
+practices  does Starbuck’s  utilize to support  their culture?  
+ 
+Strategic  Scenario  Project  Work Session  Chapter  10- 
+12 Practical  
+Application  
+14 4/25 Exam preparation : Covers Lectures as well as the Ethics          Presentation 
+and Case  Readings.  
+ 
+Strategic  Scenario  Project  Work Session   
+15 4/25 Strategic  Scenario  Project  Q&A  
+Strategic Scenario Project Due by 4 -27 at 11:59PM    
+16 5/1 Final  Exam  Final  
+Assignment  
+Due TBA  
+    
+* Note:  The Schedule  is subject  to revision  9  XVIII.  General  Education  Statement 
+This course is part of the University of South Florida's General Education Curriculum. It is  
+certified  for Ethical  Reasoning  & Civic  Engagement.  Students  enrolled  in this course  will be asked 
+to participate in the USF General Education assessment effort. This will involve  submitting  
+copies  of writing  assignments  for review  via Canvas.  
+ 
+Undergraduate  Research  Attribute  
+This course is attributed as an Undergraduate Research Course for integrating the high- impact  
+practice of research that has been found to benefit students from varied backgrounds (AAC&U  
+LEAP).  The Council on Undergraduate Research (CUR) defines this as follows: an inquiry or  
+investigation conducted by an undergraduate student that makes an original intellectua l or 
+creative contribution to the discipline.  In this course, you will conduct a project that enables  you,  
+individually  or in groups,  to pose  or work  from  a defined research  question,  apply  methods  of 
+inquiry to generate findings, and share the findings with others through presentation and/or  
+publication.  
+ 
+XIX. Integration  of This Course  into your  Academic  Experience 
+This is the capstone course for the Muma College of Business.  This course will not only teach  you 
+the concepts of strategic management but also allow you to gain experience applying the  varying  
+functional  knowledge  you have  gained in other  courses.  This combined will provide  you with  a 
+foundation  to examine  organizations  from  a top-level management  perspective.  
+ 
+XX. Global  Citizens  Project  
+GEB 4890 is certified  as a Global  Citizens  course  and may  be used  to fulfill partial  requirements  
+of the Global Citizen Awards upon successful completion of the course (final grade of B or  
+higher).  
+ 
+The USF Global Citizen’s Project is designed to develop students’ willingness and ability to  
+engage  constructively  with  diverse  people,  places,  events,  challenges,  and opportunities.  The 
+Service Learning Experience provides the opportunity for engaged community service that  
+involves collaboration with a n appropriate agency or community organization, addresses the  
+needs or concerns identified by the community organization, results in benefits to the  
+community,  and involves  opportunities for critical  reflection.  
+ 
+XXI. USF Standard  University  Policies  
+Policies about disability access, religious observances, academic grievances, academic integrity  
+and misconduct,  academic continuity,  food  insecurity,  and sexual  harassment  are governed  by a 
+central set of policies that apply to all classes at USF. These may be acc essed at:  
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx  
+ 
+These  policies  are also listed  below.  10  Academic  Integrity  
+ 
+Academic integrity is the foundation of the University of South Florida’s commitment to the  
+academic honesty and personal integrity of its university community. Academic integrity is  
+grounded in certain fundamental values, which include honesty, respect, and fairness. Broadly  
+defined,  academic  honesty  is the completion  of all academic  endeavors  and claims  of scholarly  
+knowledge  as representative of one’s  own  efforts.  The process  for faculty  reporting  of academic  
+misconduct,  as well as the student’s  options  for appeal,  are outlined in detail  in USF Regulation 
+3.027.  
+ 
+Academic  Grievance  Procedure  
+ 
+The purpose of these procedures is to provide all undergraduate and graduate students taking  
+courses  at the University  of South  Florida  an opportunity  for objective  review  of facts  and events 
+pertinent to the cause of the academic grievance. An “academic grievance” is a claim  that a 
+specific academic decision or action that affects that student’s academic record or status  has 
+violated  published policies  and procedures,  or has  been  applied to the grievant  in a manner  
+different  from  that used  for other  students.  
+ 
+Disability  Access  
+ 
+Students with disabilities are responsible for registering with Students Accessibilty Services  (SAS) 
+(SVC 1133) in order to receive academic accommodations. SAS encourages students to  notify  
+instructors  of accommodation  needs  at least  five (5) business  days  prior to needing  the 
+accommodation. A letter from SAS must acc ompany this request. Please visit the Student  
+Accessibility  Services  website  for more  information.  
+ 
+Disruption  to Academic  Progress  
+ 
+Disruptive students in the academic setting hinder the educational process. Disruption of the  
+academic  process  (USF  Regulation 3.025) is  defined as the act, words,  or general  conduct  of a 
+student  in a classroom or  other  academic  environment  which in the reasonable  estimation  of 
+the instructor: (a) directs attention away from the academic matters at hand, such as noisy  
+distractions, persistent, disrespectful or abusive interruption of lecture, exam, academic  
+discussion, or general University operations, or (b) presents a danger to the health, safety, or  
+well -being  of self or other  persons.  
+ 
+Food  and Housing  Insecurity  
+ 
+We recognize that student facing financial difficulty in securing a stable place to live and/or in  
+affording  sufficient  groceries  may  be at risk of these  financial  issues affecting  their  performance  
+in classes. Students with these needs are urged to contact Feed- A-Bull (feedabull@usf.edu or 
+their  website),  or Student  Outreach  and Support  (socat@usf.edu or their  website).  11  Religious  Observances  
+ 
+All students have a right to expect that the University will reasonably accommodate their  
+religious  observances,  practices and beliefs  (USF  Policy 10- 045).  The University  of South Florida,  
+through its faculty, will make every attempt to schedule required classes and examinations in 
+view of customarily observed religious holidays of those religious groups or communiti es 
+comprising USF’s constituency. Students are expected to attend classes and take examinations  
+as determined by the university. No student shall be compelled to attend class or sit for an  
+examination at a day or time prohibited by his or her religious bel ief. However, students should  
+review the course requirements and meeting days and times to avoid foreseeable conflicts, as  
+excessive absences in a given term may prevent a student from completing the academic  
+requirements of a specific course. Students are  expected to notify their instructors at the  
+beginning of each academic term if they intend to be absent for a class or announced  
+examination,  in accordance  with  this Policy.  
+ 
+Sexual  Misconduct  / Sexual  Harassment  
+ 
+USF is committed to providing an environment free from sex discrimination, including sexual  
+harassment and sexual violence (USF Policy 0 -004). The USF Center for Victim Advocacy is a  
+confidential resource where you can talk about incidents of sexual harassment and gender - 
+based crimes inc luding sexual assault, stalking, and domestic/relationship violence. This  
+confidential  resource  can help you without  having  to report  your  situation  to either  the Office  of 
+Student Rights and Responsibilities (OSSR) or the Office of Diversity, Inclusion, a nd Equal  
+Opportunity (DIEO), unless you request that they make a report. Please be aware that in 
+compliance with Title IX and under the USF Policy, educators must report incidents of sexual  
+harassment and gender -based crimes including sexual assault, stalk ing, and 
+domestic/relationship violence. If you disclose any of these situations in class, in papers, or  
+personally to an educator, he or she is required to report it to OSSR or DIEO for investigation.  
+Contact  the USF Center  for Victim  Advocacy:  813-974- 5757.  
+ 
+Statement of Academic  Continuity  
+ 
+In the event of an emergency, it may be necessary for USF to suspend normal operations.  During  
+this time,  USF may  opt to continue  delivery  of instruction through methods  that include,  but are 
+not limited to:  Learning Management System, online conferencing, email messaging,  and/or an 
+alternate schedule. It is the responsibility of the student to monitor the Learning  Management 
+System for each class for course -specific communication, and the main USF,  College, and 
+Department websites, emails, and MoBull messages for important general  information (USF 
+Policy 6 -010). For additional guidance on emergency protective actions and hazards  that affect  
+the University,  please  visit www.usf.edu/em  12  XXII. Course  Policies:  Grades  
+ 
+Late  Work  Policy : 
+Make -ups for exams are at the discretion of the professor and require appropriate  
+documentation. Other than providing documentation for an emergency situation, all make -up 
+exams  requests  require  advance  notice.  Further,  the burden of proof  for a make -up falls on the 
+student.  Do not request  a make -up exam without  appropriate  documentation.  All other  
+assignments (not including extra credit) turned in late will be assessed a 25% penalty if within 59 
+minutes of the deadline.  If between 1 hour and 24 hours late, a 50% penalty will be  assessed.  
+After 24 hours late no work will be accepted for credit.  The s ubmission times  recorded in Canvas 
+will be utilized for all late work penalties.  If you have Canvas issues and the  deadline is close, you 
+should email your completed work immediately and then finish your  submission process.  I will 
+only grade papers submitt ed through Canvas.  The email will only  serve  to demonstrate  you 
+attempted  to submit  your  work  on time.  
+ 
+Extra  Credit  Policy : 
+An extra credit opportunity may be provided.  If so, all students will have an equal opportunity  
+to earn  the same  level  of extra  credit  as all other  student  regardless  of the pre-existing  grade  in 
+the class.  No late submissions are  allowed  with regards to  extra  credit.  
+ 
+Grades  of "Incomplete":  
+ 
+An Incomplete grade ("I") is exceptional and granted at the instructor’s discretion only when  
+students are unable to complete course requirements due to illness or other circumstances  
+beyond their control. The course instructor and student must complete and sign the "I" Grade  
+Contract Form that describes the work to be completed, the date it is due, and the grade the  
+student would earn factoring in a zero for all incomplete assignments. The due date can be  
+negotiated  and extended  by student/instructor  as long  as it does  not exceed  two semesters  for 
+undergraduate courses and one semester for graduate courses from the original date grades  
+were  due for that  course.  An "I" grade not  cleared within  the two semesters  for undergraduate  
+courses and one semester for graduate courses (including summer semester) will revert to the  
+grade  noted  on the contract.  
+ 
+Rewrite Policy : 
+Students  have  the opportunity  to get feedback  before  assignments are turned in for a grade.  
+Thus,  no rewrites  for a grade  revision  are provided.  
+ 
+Make -up Exams  Policy : 
+If a student cannot be present for an examination for a valid reason (validity to be determined 
+by the instructor), a make -up exam will be given only if the student has notified the instructor  in 
+advance that s/he cannot be present for the exam and the reason for missing is deem ed 
+appropriate (ex. illness, death in the family, etc.).  Keep in mind that work and social  
+engagements  are not valid  excuses for missing an exam.  If a make -up exam is given,  it will be at 
+the convenience  of the  instructor  and will likely  be in essay format.  13   
+Exam  Retention  Policy : 
+For online exams, the exams will be retained in Canvas until IT deletes the course from my  
+records  (typically  every  two years).  For in person  exams , I retain  the exams  for one year  and then  
+they are destroyed.  
+ 
+XXIII. Course  Policies:  Technology  and Media  (as applicable)  
+ 
+See Course  policies  below.  
+ 
+XXIV.  Course  Policies:  Student  Expectations  
+ 
+Websites  that enable  Cheating  Policy:  
+The USF Policy on Academic Integrity  specifies that students may not use websites that enable  
+cheating, such as by uploading or downloading material for this purpose. This does apply  
+specifically to CourseHero.com as well as other similar websites – any use of these types of  
+websites  (including  uploading  materials)  constitutes  a violation  of the academic  integrity  policy.  
+ 
+Turnitin.com:  
+In this course, turnitin.com will be utilized. Turnitin is an automated system which instructors  
+may use to quickly and easily compare each student's assignment with billions of web sites, as  
+well  as an enormous  database  of student  papers  that grows  with  each  submission.  Accordingly,  
+you will be expected to submit all assignments in electronic format. After the assignment is  
+processed, as the instructor I receive a report from turnitin.com that states if and how another  
+author’s work was used in the assignment. For a more detailed look at this process visit  
+http://www.tur nitin.com . All written  assignments  are due in Canvas  and will utilize  Turnitin.  
+ Since Turnitin creates a large repository of papers to compare submissions, to protect your  
+privacy you will not be required to include your  name on the file submitted.  Obviously,  I will be  
+able to identify you because you are submitting these individually in the USF Canvas system and  
+the submission is  linked  to your name  (Turnitin does not  retain  this information).  
+ 
+End of Semester  Student  Evaluations:  
+All classes at USF make use of an online system for students to provide feedback to the  University 
+regarding the course. These surveys will be made available at the end of the  semester,  and the 
+University  will notify  you by email  when the response  window  opens.  Your  participation  is highly 
+encouraged  and valued.  
+ 
+Netiquette  Guidelines:  
+1. Act professionally in  the way you communicate.  Treat  your  instructors  and peers  with  
+respect,  the same  way you would  do in a face -to-face  environment.  Respect  other  
+people’s  ideas  and be constructive  when  explaining  your  views  about  points  you may  not agree  
+with.  
+2. Be sensitive. Be respectful and sensitive when sharing your ideas and opinions. There  
+will be people in your  class  with  different  linguistic  backgrounds,  political and religious  
+beliefs  or other  general  differences.  14  3. Proofread and check spelling. Doing this before sending an email or posting a thread 
+on a discussion board  will allow  you to make  sure  your  message  is clear and thoughtful  
+(and understood).  
+4. Keep your communications focused and stay on topic. Complete your ideas before  
+changing  the subject.  By keeping  the message  on focus  you allow  the readers  to easily  
+get your  idea  or answers  they are  looking for.  
+5. Be clear  with  your  message.  Avoid  using  humor  or sarcasm.  Since  people  can’t  see  your  
+expressions  or hear  your  tone  of voice,  meaning  can be misinterpreted.  
+ 
+Email  and Discussion  Board  Guidelines:  
+1. Use the subject  line effectively  by using  a meaningful  line of what  your  email  or 
+discussion is about.  
+2. Keep  your  emails  and postings  related to  the course  content.  You should not post  
+anything  personal  on a discussion  board,  unless  is requested  by the instructor.  
+3. Any personal,  course  or confidential  issues  should be directly  communicated  to the 
+instructor via email. The discussion boards are public spaces; therefore, any issues  
+should not  be posted  there.  
+ 
+XXV. Course  Technology  & Student  Support  
+ 
+Academic  Accommodations:  
+Students  with  disabilities  are responsible  for registering  with  Students  with  Disabilities  Services  
+(SDS) in order to receive academic accommodations. For additional information about  academic 
+accommodations and resources, you can visit the SDS website at  http://www.usf.edu/student -
+affairs/student -disabilities -services/  . 
+ 
+Academic  Support  Services:  
+The USF Office of Student Success coordinates and promotes university -wide efforts to enhance  
+undergraduate and graduate student success. For a comprehensive list of academic support  
+services available to all USF students, please visit the Office of Student Success website at - 
+http://www.usf.edu/student -success/  
+ 
+Canvas  Technical  Support:  
+If you have  technical  difficulties  in canvas,  you can find access  to the canvas  guides and video  
+resources in the “Canvas Help” page on the homepage of your canvas course. You can also  
+contact  the help desk  by calling  813- 974- 1222  in Tampa or emailing  help@usf.edu.  15  XXVI.  Important Dates  to Remember  
+ 
+http://www.usf.edu/registrar/calendars/  
+ 
+Example:  
+Drop/Add  Deadline:  Jan 1 3 
+Spring  Graduation  Application  Deadline:  Feb 6 
+Withdrawal  Deadline:  March  25 
+MLK  Day Observed  Holiday:  
+Spring  Break:  Jan 1 6 
+March  13 – 19 
+Test  Free  Week:  
+Final  Examination:  Apr 22 – 28 
+Apr 29– May  4 
+ 
+ 
+Covid  Statement  
+ 
+I will deliver this class, as scheduled, in -person and on a temporary basis will provide a flexible  
+component for students who are asked to isolate or quarantine, or feel unable to attend a class  
+in-person for health reasons.  Please note: This flexible component is intended to be temporary  
+and not the entire semester.  Importantly, all students will be required to attend in- person  classes 
+to complete assessments and examinations. For students attending in- person as is  normal, I will 
+teach in- person classes in the assigned classroom and on the scheduled day and time. For 
+students who are unable to attend a class in- person for health reasons, I will provide  course 
+content in a flexible format to support the student’s academic progression and success.  Please  
+contact  me directly  if you have  questions.  In addition,  I will post  details  on how  a student  can join 
+the class  remotely  in Canvas  if unable  to attend  in person for health concerns.  

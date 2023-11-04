@@ -1,0 +1,347 @@
+ 
+ 
+ 
+ 
+Semester:  Spring  2023 
+Class Meeting Days:  Friday, Saturday  
+Class Meeting Time:  1:30 – 5:30 pm 
+Class Meeting Location:  BSN 230  
+Instructor:  Prof.  Quintin McGrath  
+Office Hours:  By Appointment Only 
+Phone Number:  847-420-4998 
+Email:  qmcgrath@ usf.edu 
+ 
+ IMPORTANT DATES:  
+ 
+March 4  Class begin s 
+April  29 Class ends 
+ 
+ 
+UNIVERSITY COURSE DESCRIPTION:  
+ISM 6021: An introduction to the fundamentals of information systems including an examination of 
+information technology terminology and concepts, alternative methodologies for developing information systems, and the application and impact of information technology in contemporary organizations. 
+Prerequisite(s): Graduate Standing  
+ REQUIRED TEXTBOOK:   
+1. Managing and Using Information Systems  by Pearlson, Saunders, Galletta, 7th Ed, Wiley (ISBN 
+978-1-119-56056-2) 
+2. The Exponential Era by Espindola &Wright, Wiley / IEEE Press (ISBN 978-1-119-81404-7) 
+ OTHER: 
+• Additional videos, papers, and c ase s tudies will be provided 
+ COURSE OVERVIEW:  
+In our fast-paced  world of exponential  changes, shaped by megatrends like sustainability, digitization , and 
+virtualization, business students must recognize the role of Management Information Systems (MIS) and 
+understand how to take the best advantage of emerging technologies for business and societal benefit. This 
+course consists of three parts that provide an overview of MIS for business leaders . It includes (1) learning 
+about the theories and frameworks for managing and using MIS in business, (2)  crafting  strategies to make 
+the most of the  emerging technologies in your organizations , and (3) exploring  case studies of those  that have 
+grappled with these topics. The intent of the course is that you learn how to leverage technology to achieve  
+the greatest benefit for your organization and its stakeholders. 
+ COURSE  OBJECTIVES:   
+1. Provide a real -world understanding of the strategic role of MIS in business  
+2. Apply research -inspired MIS frameworks to achieve business advantage  
+3. Provide practical exposure to the beneficial application of emerging technologies 
+4. Analyze how organizations gain sustainable competitive advantage through technology  
+ISM 6021 -030 
+Management Information  Systems   
+(CRN: 20576, Section: 030 , 2 Credit Hours)  
+ 
+School of Information Systems and Management  
+ 
+COURSE SYLLABUS  
+Last Updated: 1/18/2023 
+ 
+  
+STUDENT LEARNING OUTCOMES: Upon completion of this course, students will be able to:  
+1. Understand the benefit of information systems for business  
+2. Demonstrate a foundation in business -related information technology (IT)  
+3. Comprehend, explain, and apply the m ajor theories, concepts, and principles of MIS  
+4. Understand the need to i ntegrate technology into the strategy , governance, and operations of a business  
+5. Understand the essence of several emerging technologies and how to apply them for business  
+advantage  
+6. Understand how to lead a business to take advantage of MIS  
+ 
+COURSE TOPICS: This course will include  some of  the following content areas, with an emphasis on 
+those areas of most import to the instructor and the class : 
+• Core MIS topics : Management Information Systems overview , Strategic use of Information 
+Systems , Digital Transformation, Technology Architecture, Infrastructure, Cybersecurity, 
+Governance, Sourcing, MIS Delivery, Business Intelligence, Ethical Technology , and Strategic 
+Planning for the Exponential Era .   
+ 
+• Emerging technology topics:  Artificial Intelligence ; Machine Learning ; GPT -3; Robotics and 
+Autonomous Vehicles ; Digital Twins ; Edge AI and Internet of Things ; Blockchain 
+(Cryptocurrency, D AOs, NFTs);  Virtual, Augmented, and Extended Reality ; Enterprise Metaverse; 
+and Quantum Computing.  
+ 
+COURSE ACTIVITIES:  There are four main activities for the class: 
+1. Weekly d iscussions on the core MIS topics . (Active discussion and participation are  expected.) 
+ 
+2. Preparing for, discussing, and reflecting on four case studies  each related to a core MIS topic or an 
+emerging technology. ( A single -page preparation  and a two- page reflection submission  are 
+required.) 
+ 
+3. Four emerging technology presentations and discussions , with (on a rotational basis)  one group 
+providing a 10- min overview presentation of the technology, another taking a protagonist role  
+(using a 10- min presentation) , and the third an antagonist role for the use of the technology in 
+business (also making use of a 10- min presentation) . The fourth group will po se questions and 
+guide the discussion.  
+ 
+4. A group project  consisting of a 20-page double- spaced research -based paper and a 20- min 
+presentation that can be one of: (a) the definition of a  practical technology strategy for a non-profit 
+organization, (b) the identification of a megatrend that is threatening  an organization  represented 
+in the group and a strategy for the application of an emerging technology or technologies to turn 
+the threat  into an opportunity, or (c) the development of a case study relating to the strategic use of 
+MIS with the aim of  submitting  it, along with a presentation and teaching aids, to the Muma Case 
+Review.   
+No more than two groups can do each of (a), (b), or (c).  
+ 
+CLASS PARTICIPATION:  
+All students are expected to prepare for and participate in class discussions. In a course of this type, you 
+must  actively participate  in the learning process. The participation component of the course grade is 
+awarded for your constructive contributions to class discussion throughout the course. Excellent 
+participation requires thorough preparation, critical thinking, a cooperative atti tude, and the willingness to 
+share your ideas.  
+ 
+As you prepare for class, approach the work from a critical perspective. Look for interesting, intriguing, 
+counter- intuitive, confusing, or contradictory aspects of the readings . Consider the most important insights, 
+the new ideas you uncovered, what triggered you to think differently, what caused you to become aware of 
+a new phenomenon, or what you did not understand. These types of questions form the foundation for good 
+class participation.   
+ACKNOWLEDGEMENTS:  
+Inputs from  Dr. GJ de Vreede, Dr.  Ehsan S heybani, and Dr. Manish Agrawal  in the Muma College of 
+Business School of Information Systems and Management at USF are gratefully acknowledged. 
+ 
+ GRADE CATEGORIES AND WEIGHTS  
+ 
+Activity   Type  Total weight  
+Class participation and discussion  Individual  25% 
+Emerging technology reviews  Group  20% 
+Case Study preparation  and reflection  Individual  20% 
+Group project report  Group  15% 
+Group p resentation  Group  15% 
+Pre-course  and feed-forward  surveys  Individual  5% 
+ 
+ 
+GRADING SCALES  
+ 
+Total%  Grade  Total%  Grade  Total%  Grade  Total%  Grade  
+>=97 
+>=94 
+>=90 A+(max  10% of  class)  
+A 
+A- >=87 
+>=84 
+>=80 B+ 
+B B- >=77 
+>=74 
+>=70 C+ 
+C C- >=67 
+>=64 
+  <60 D+ 
+D F 
+ 
+Note:  At the graduate  level,  a grade  of C- is essentially  a failing  grade  because you will be 
+required to repeat  the course  if you earn a grade  of C- or below. 
+ 
+ 
+GRADING POLICIES  
+ Late Assignment Submission Policy: All assigned work is expected to be turned in on time, by 11:59 
+p.m. of the due date. Late assignments will not be accepted unless prior permission has been granted by your instructor.  
+ Incomplete Policy : An “I” grade may be awarded to a student only when a small portion of the 
+student’s work is incomplete and only when the student is otherwise earning a passing grade. The time 
+limit for removing the “I” is one academic semester. “I” grades not removed by the end of the time 
+limit will be changed to “IF” or “IU,” whichever is appropriate. 
+ 
+Essay Commentary Policy: Commentaries on papers and assignments  will be delivered in written 
+format via canvas.  
+    
+COURSE POLICIES: Technology and Media  
+Canvas: This course will use USF's learning management system (LMS), Canvas. If you need help  
+learning how to perform various tasks related to this course or other courses offered in Canvas, please 
+view the following videos or consult the Canvas help guides. You may also contact USF' s IT 
+department at (813) 974- 1222 or help@usf.edu
+. The course will include recorded lectures, reading 
+assignments, tests (midterm and Final), quizzes, discussions, and homework (posted on CANVAS).  
+ COURSE POLICIES: Student Expectations  
+Attendance Policy : There is a live lecture attendance requirement.  
+ Course Hero / Chegg Policy: The USF Policy on Academic Integrity
+ specifies that students may not use 
+websites that enable cheating, such as by uploading or downloading material for this purpose. This does apply specifically to Chegg.com and CourseHero.com – any use of these websites (including uploading propri etary materials) constitutes a violation of the academic integrity policy.  
+ 
+End of Semester Student Evaluations:  All USF classes use an online system for students to provide the 
+university with feedback regarding the course. These surveys will be made ava ilable at the end of the 
+semester, and the University will notify you by email when the response window opens. Your participation 
+is expected  and valued.  
+ 
+Turnitin.com:  In this course, turnitin.com may be utilized. Turnitin is an automated system that instructors 
+may use to quickly and easily compare each student's assignment with billions of websites and an enormous 
+database of student papers that grows with each submission. Accordingly, you will be expected to submit 
+all assignments in electronic format.  After the assignment is processed, as the instructor, I receive a report 
+from turnitin.com that states if and how another author’s work was used in the assignment. For a more 
+detailed look at this process, visit htt p://www.turnitin.com .  
+ 
+Class Recording  
+For any classes  recorded and streamed online , the student’s voice and video will be included in the class 
+recording.   
+COVID-19 Protocols 
+Please refer to the following website for the latest COVID -19 guidance: https://www.usf.edu/coronavirus/
+  
+ 
+STANDARD UNIVERSITY POLICIES  
+Policies about disability access, religious observances, academic grievances, academic integrity and 
+misconduct, academic continuity, food insecurity, and sexual harassment are governed by a central set of policies that apply to all classes at USF. These may be accessed at: 
+https://www.usf.edu/provost/faculty/core-
+syllabus-policy- statements.aspx   
+ 
+USF SYSTEM POLICIES Policies are available at regulationspolicies.usf.edu
+ 
+ 
+A. Academic Dishonesty :  The University considers any form of plagiarism or cheating on exams, 
+projects, or papers to be unacceptable behavio r.  Please review  the USF System  Regulation 
+USF3.027 Academic Integrity of Students  and the USF System Regulat ion USF6.0021 Student 
+Code of Conduct.  
+ 
+B. Academic Disruption : The University does not tolerate behavior that disrupts the learning process.  
+Please review USF Sys tem Regulation USF3.025 Disruption of Academic Policy .  
+ 
+C. Contingency Plans : In the event of an emergency, it may be necessary for USF to suspend normal 
+operations.  During this time, US F may opt to continue delivery of instruction through methods 
+that include but are not limited to: Canvas, online conferencing/collaboration tools , email 
+messaging , and/or an alternate schedule. It  is the responsibility of the student to monitor Canvas 
+for each of their class es for course- specific communication, as well as the USFSM website, their 
+student email  account , and MoBull  messages for important general information. The USF hotline 
+at 1 (800) 992- 4231 is updated with pre- recorded information during an emergency.   
+ D. Disabilities Accommodation :  Students are responsible for registering with the Office of Students 
+with Disabilities Services (SDS) to  receive academic accommodations. Reasonable notice must be 
+given to the SDS office (typically 5 working days) for accommodations to be arranged. It is the 
+responsibility of the student to provide each instructor with a copy of the official Memo of 
+Accommodation.  Contact Information: 
+       https://www.usf.edu/diversity/equal-opportunity/disability- services-contacts.aspx
+ 
+   E. Evacuation Instructions :  Please note the emergency exit maps posted in classrooms .  These signs 
+are marked with the primary evacuation route (red) and secondary evacuation route (orange) in case the building needs to be evacuated.    
+F. Religious Observances :  USFSM recognizes the right of students to observe major religious 
+holidays.  Students who anticipate the necessity of being absent from class for a major religious observance must provide notice of the date(s) to the instructor, in writing, by the second week of 
+classes.   
+ 
+G. Protection  of Students  Again st Discrimination and Harassme nt: 
+• Sexual Miscond uct/S exual Harassme nt Reporting: USFSM is committed to prov iding 
+an environment f ree from sex discrimin ation, including  sexu al harassment and sexu al violence 
+(USF System Policy 0-004 ). 
+• Other  Types  of Discrimination and Harassme nt: USFSM also is committed to prov iding 
+an environment f ree from discrimin ation and harassment bas ed on race, color,  marital st atus, 
+sex, religion, national origi n, disabili ty, ag e, genet ic information, se xual orie ntation, gender 
+identi ty and expres sion, or v eteran status (USF System Policy 0-00 7). 
+ 
+The Counse ling and W ellness Center  is a confid ential resource where you can talk about in cidents 
+of discrimin ation and har assmen t, including sexu al harass ment, gender-based  crim es, sexu al 
+assau lt, stalking, and domes tic/relati onsh ip violence. This conf idential resource can help you 
+without having  to report your situ ation to either the Office of Student Ri ghts and Respons ibilities 
+(OSRR) or the Office of Diversity, In clusion, and Equ al Opport unity (DIEO),  unless you request 
+that they make a report. 
+ 
+Please be aware th at in comp liance with Title IX and under  the U SF System Policy, edu cators  
+must  report incidents of discrimina tion and hara ssment,  including sexu al harassmen t, gender-
+based  crim es, sexual assaul t, stalking, and domes tic/rela tionship violence. If a student dis closes 
+any of these s ituations in class, in papers, or to a faculty member personally , they are required to 
+report it to OSSR  or DIEO  for i nvestig ation. Studen ts who are v ictims o r who hav e know ledge of 
+such discrimin ation or har assment are encou raged to report it to either OSSR or DIEO.  
+ 
+H
+.   Web Portal Information:   Every newly enrolled USF student receives an official USF e -mail 
+account.  Students receive official USF correspondence and Canvas course information via that address.  The web portal is accessed at http://my.usf.edu
+. 
+ 
+GENERAL INSTRUCTION FOR STUDENTS  
+• Academic Support Services:  
+The Information Commons  provides students with individual and group study spaces, 
+computers, printers, and various media equipment for temporary use.  The Information 
+Commons is staffed by librarians, learning support faculty, tutors, and technology and e-
+learning specialists. S tudents challenged by the rigors of academic writing, mathematics, or 
+other course content are urged to contact their professors early in the semester to chart out a 
+plan for academic success, and/or regularly use the tutoring services provided by Learning  
+Support Services ( http://www.usfsm.edu/academics/academic- r esources/information -
+commons/tutoring.aspx) which are provided at no cost to students.  
+ 
+• Career Success Center:  
+Students can explore careers through activities such as job shadowing, mentoring, and 
+internships.  Whether students will be pursuing graduate school or seeking employment, Career Services can help them develop a plan to reach their next de stination.  Students can prepare 
+professional documents, practice for the interview and attend employer or graduate school information sessions.   Access these resources or schedule an appointment with career advisors 
+at www.usfsm.edu/career -services
+.  LEARNING SUPPORT and CAMPUS OFFICES  
+ 
+Tampa Campus  
+ Tutoring Hub: The Tutoring Hub offers free tutoring in several subjects  to USF 
+undergraduates. Appointments are recommended, but not required. For more 
+information, email asctampa@usf.edu   
+Writing Studio: The Writing Studio is a free resource for USF undergraduate 
+and graduate students. At the Writing Studio, a trained writing consultant will 
+work individually with you, at any point in the writing process from 
+brainstorming to editing. Appointments are recommended, but not required. For 
+more information or to make an appointment, email writingstudio@usf.edu   
+Counseling Center: The Counseling Center promotes the wellbeing of the 
+camp us community by providing culturally sensitive counseling, consultation, 
+prevention, and training that enhances student academic and personal success. 
+Contact information is available online .  
+Center for Victim Advocacy: The Center for Victim Advocacy empowers 
+survivors of crime, violence, or abuse by promoting the restoration of decision 
+making, by advocating for their rights, and by offering support and resource s. 
+Contact information is available online .  
+ COURSE FAQ 
+How to communicate with me?  
+You can either (i) send me an email directly or through Canvas, or (ii) call /text me, or (iii) set up an 
+appointment to see me in my office. When emailing directly or through Canvas, please write the appropriate subject and include your name at the bottom of the email.  
+  
+How NOT to communicate with me?  
+1. Please do not email me from a non -USF email account.  
+2. Please do not submit deliverables to me through email , they should be submitted through Canvas.  
+ 
+How will I communicate with you?  I will send announcements through Canvas. The announcements should arrive in your inbox. If you 
+send me an email through Canvas, I will respond through Canvas. If you send me an email , I will 
+respond to your USF email address. I will attempt to reply to your emails within 24 hours during 
+week days, but I cannot guarantee a response within 24 hours on weekends. Occasionally emails go to 
+my Junk Mail folder , so if you have not received my response within 24 hours, please either resend 
+your email or text me . I will provide feedback on your assignments through Canvas. 
+ How to Succeed in this Class?    
+• Check Canvas and emails daily for announcements: I will periodically send emails and announcements. I encourage you to check them daily.  
+• Read the syllabus:   I want to en sure that you understand the course structure and expectations 
+and have your questions answered in the first week. Please read this syllabus by the end of  the 
+first week and contact  me if you have any questions.  
+• Complete the class pre- work :  You will get the most from this class if you complete the pre -
+work . More unsatisfactory grades are due to procrastination than any other cause , so please give 
+yourself ample time to complete the work for this class. 
+• My goal is your success.  Working toget her will achieve this goal for both of us. 
+  COURSE SCHEDULE:  
+Broad Course  Schedule  (subject to change)  
+ 
+Date  Core MIS  Emerging Technology  Case Stud ies Group Work  
+Module 1  
+Sat, Mar 4  • Management Information Systems overview 
+• Strategic Planning for the Exponential Era (SPX) Group Project discussions and 
+group work – Identify and plan 
+the project. 
+Module s 2-5 
+Sat, Mar 18  
+Fri, Apr 7  
+Sat, Apr 8 
+Sat, Apr 22 Selection of topics from:  
+• Digital Transformation  
+• Technology Architecture 
+and Infrastructure  
+• Cybersecurity  
+• Governance and Sourcing  
+• MIS Delivery  
+• Business Intelligence  
+• Ethical Technology  Selection of topics from:   
+• Artificial Intelligence  and 
+Machine Learning  
+• GPT -3  
+• Robotics and Autonomous Vehicles  
+• Digital Twin s 
+• Edge AI and Internet of Things  
+• Blockchain (Cryptocurrency, DAOs, NFTs)  
+• Virtual, Augmented, and Extended Reality  
+• Enterprise Metaverse  
+• Quantum Computing  Four c ase studies  Group Project discussions and group work 
+Module 6  
+Sat, Apr 29  Group Presentations Wrap -up and Course Review 
+  

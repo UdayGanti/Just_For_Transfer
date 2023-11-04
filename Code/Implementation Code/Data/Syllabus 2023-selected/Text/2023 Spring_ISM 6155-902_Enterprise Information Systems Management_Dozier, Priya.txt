@@ -1,0 +1,544 @@
+Page 1 of 11 
+  
+ 
+ 
+ 
+ 
+ 
+Semester : Spring 2023  
+Class Meeting Days : Thursday  
+Class Meeting Time : 12:30 PM – 4:15 PM 
+Class Meeting Location :  BSN 120 
+Instructor : Dr. Priya Dozier  
+Office Location : LPH 4 30 (St. Petersburg)  
+Office Hours : Virtual via MS- Teams by appointment  
+Phone Number : 727-873-4896  
+Email : Please use Canvas email  to communicate because  it automatically includes the course 
+information keeps student emails separate from all other communication.  
+ 
+ 
+I. Welcome to Enterprise Information Systems Management  
+This capstone course is an opportunity for Master of Science Business Analytics and Information 
+Systems (MS BAIS) to gain insights into opportunities and challenges of decision -making in 
+contemporary business situations. This course bridges the gap between  technology 
+systems/projects and strategic/tactical business decisions through the rich context of actual 
+decisions made by business leaders when managing information systems.  
+Successful students will leave  with:  
+a) Insights into how organizational strategy  and leadership can influence the selection, 
+deployment, and utilization of technology solutions.  
+b) Opportunities to practice critical thinking, communication, and leadership skills.  
+c) Tools to develop a personal strategy for continued employability within th e context of 
+emerging business trends.  
+ 
+II. University Course Description  
+Development of enterprise transaction processing applications using procedural or object -
+oriented programming languages, relational database management, database sharing, CASE 
+methodolog y and project management techniques. Students will work in groups on semester 
+projects.  (USF Catalog: https://catalog.usf.edu/ ) 
+ 
+III. Course Prerequisites  
+ISM6124  with a minimum grade of C  
+ISM6218  with a minimum grade of C  ISM6155:  
+Enterprise Information Systems Management  
+10524, Section # 902, Credit Hours 3  
+MUMA College of Business  
+School of Information Systems and Management  
+COURSE SYLLABUS 
+Last Updated: 1/31/2023  
+Page 2 of 11 
+ IV. How to Succeed in this Course  (4 P’s)  
+The following are key factors to consider to be successful in this course:  
+1. Prepare : Successful completion of this course will require significant and consistent 
+preparation.  
+2. Plan: All due dates are included in this syllabus and on Canvas , so please review these dates 
+and plan accordingly to ensure that you can commit to the due dates. In  most cases, students 
+can work ahead on posted assignments . Please plan to do so if you have other commitments  
+(ex. travel, work, vacation, etc.). 
+3. Plug in : Canvas announcements will be used to communicate with students . Please review 
+your Canvas notifications to ensure that you receive the most up -to-date information for this 
+course.  
+4. Participate : Do not sit back and watch others participate -  stay active in the discussions. 
+Additionally, add your own unique perspective to the discussions versus repeating wh at 
+others read in the cases. Consider injecting your own experiences or other real -world 
+examples to support conclusions and/or questions.  
+ 
+V. Course Topics  
+This capstone course is designed to provide graduates of the MS BAIS program with opportunit ies 
+to demonstrate effective critical thinking, problem -solving, and communication skills. Students will 
+assess and analyze real- world problems related to technical, analytical, and managerial challenges 
+through cases, simulations , and project s.  
+ 
+VI. Student Learning Outcomes  
+By the end of this course, students will be able to:  
+1. Identify key challenges that can arise in the complex interactions between individual and 
+organizational forces  in the life cycle of IT related products.  
+2. Present an in -depth an alysis of a business case using effective written and oral 
+communication skills.  
+3. Demonstrate familiarity with the processes associated with managing a technology -focused 
+business es. 
+4. Prepare and present a data analytics portfolio to demonstrate market read y skills.  
+VII. Required Texts, Readings , and Course Materials  
+• Students are required to purchase  a course  pack of simulations  via HBR Publishing:  
+   https://hbsp.harvard.edu/import/1025854    
+Note : a link will be available on Canvas for students to purchase the course content directly via 
+Harvard Business Publishing. The instructor DOES NOT receive any compensation fo r this material.  
+• All other assigned material will be in Canvas, the Learning Management Software (LMS) for 
+this course . 
+• All students are required to have laptops or mobile devices (fully charged) with them in class 
+to participate in classroom activities in this course. No paper assignments will be accepted.  
+ 
+ 
+ 
+ Page 3 of 11 
+ VIII. Grading Scale  
+Final grades will be calculated according to the following points scale.   
+Grade Scale  Grading Criteria  
+A 90-100%  
+B 80-89.99%  
+C 70-79.99%  
+D 60-69.99%  
+F Below  60%  
+ 
+IX. Grade Categories and Weights  
+Assignment Type  Estimated 
+Time (out of 
+classroom)  Points Available  by Deliverable  Total 
+Possible 
+Points  
+6 Case Discussions – 
+based on cases 
+(Individual)  2-4 hours 
+prep per case 
+(weekly ) Up to 10 points each as follows:  
+1. Pre-case  quiz – up to 5 points  
+2. In-class discussion –  up to 2 points  
+3. Post -case reflection –  up to 3 points  60 points  
+2 Simulations 
+(Individual & Group)  1 hour prep 
+before class  Simulation participation and individual 
+assignments – up to 10 points each.  20 points  
+1 Experiential 
+Project  (Group)  5 – 10 hours 
+per group  
+throughout 
+semester   Each project will comprise of teams of 5 to 6 
+students working together to analyze a real-
+world business problem to identify and develop 
+solutions using analytical tools acquired in the 
+MS-BAIS program . Group Project deliverables 
+include (1 submission per group):  
+1. Proposal  document – up to 10 points  
+2. Project plan –  up to 5 points  
+3. Project poster – up to 10 points  
+4. Project presentation video – up to 10 points  
+5. Peer evaluations –  up to 5 points  40 points  
+1 Personal Portfolio 
+Project (Individual)  Throughout 
+the semester 
+– 15 hours  Course project broken into the following 
+deliverables:  
+1. Planning document – up to 10  points  
+2. Portfolio website – up to 10 points  
+3. Presentation video –  up to 10 points  30 points  
+  Total  150 points  
+No late assignments will be accepted, no exceptions. Late assignments will receive a 0 grade.  All work 
+must be turned in via Canvas and according to instructions;  all files must be uploaded to Canvas in the 
+correct format,  no emailed or linked assignments (e.g., to shared drives) will be accepted.     
+ Page 4 of 11 
+ X. Grade Dissemination  
+All grades for this course will be available at any time using "Grades" in Canvas. Students will be alerted 
+via Canv as notifications when grades are released for manually graded assignments (ex. discussion 
+posts, assignments).   
+ 
+XI. Course Schedule  
+FIRST DAY ATTENDANCE : To remain in this course, you must complete the 1st-day attendance 
+assignment  in Canvas by 11:59 PM on February 9 th, 202 3.  Students who do not respond to the 1st-day 
+attendance assignment will be dropped from the course. Course schedule updates will be 
+communicated via Canvas announcements throughout the semester.  
+ 
+Class Schedule and Due Dates  
+Class 
+Date  Topic  Items Due  
+2/9 Course Introductions and Overview  
+• Instructor to students  
+• Students to students  
+• Course to students  
+• Expectations of learning  1st day attendance assignment – to 
+remain in the course  
+2/16 Case 1 : A Case for Discussion Cases at ReliaQuest (RQ)  
+Discussion Topics: cases vs. textbooks, what to expect and 
+how to prepare for case discussions, dos/don’ts of cases, 
+correct answers?  - Pre-case quiz ( 5 points)  
+- In-class discussion ( 2 points)  
+- Post -case reflection ( 3 points)  
+2/23  Case 2: Jabil Balancing Risk in a New Frontier  
+Discussion Topics: Business analytics defined, predictive 
+analytics, what is a data scientist, organizational strategy, 
+capital investments.  
+Homework: Form into groups for experiential project!  - Pre-case quiz (5 points)  
+- In-class discussion (2 points)  
+- Post -case reflection (3 points)  
+3/2 Case 3: ReliaQuest Behind Enemy Lines  
+Discussion Topics: Cybersecurity, challenges protecting 
+information assets, stakeholder perspective, common types 
+of attacks, recovery strategies, CTO role, paying for data  - Pre-case quiz (5 points)  
+- In-class discussion (2 points)  
+- Post -case reflection (3 points)  
+3/9 Individual Simulation: IT Management Cyber Attack!  
+Debrief topics: real- time decision making in a crisis, written 
+communication skills  - Pre-case  quiz  
+- Simulation Participation Activity  
+- Post Simulation Reflection  
+ 
+- Planning document due (10 points)  
+3/9 Project Deliverables Due: Proposal & Project Plan  -Group project proposal due  (10 
+points)  
+-Project plan due (5 points)  
+ Spring Break Holiday – March 13 – 19 (no classes)   
+3/23  AI Week: 2 cases – ½ the class will work on Vectra, the other 
+½ will work on RPA – both cases will be discussed together.  - Pre-case quiz (5 points)  
+- In-class discussion (2 points)  Page 5 of 11 
+  
+Case 4: Vectra Digital  
+Discussion Topics: Deploying an AI tool in Marketing, 
+technology acceptance model, technology adoption hurdles, 
+client vs. employee expectations and experiences, ethical 
+considerations of AI  
+OR 
+Case 4: RPA at TECHSERV  
+Discussion topics: Project management, technology 
+management, robotic process automation, infrastructure 
+projects, strategic projects   - Post -case reflection (3 points)  
+3/30  Case 5: Tesla Innovation and the Growth at the Cost of 
+Quality?  
+Discussion Topics: competitive advantage, innovation, quality 
+improvements (technical projects), technology investments, 
+product strategy and technology projects  - Pre-case quiz (5 points)  
+- In-class discussion (2 points)  
+- Post -case reflection (3 points)  
+4/6 Case 6: Satya Nadella Leading with Growth Mindset 
+Discussion Topics: organizational culture, cultural change, 
+learning organization, fixed vs. growth mindset, authentic 
+leadership  - Pre-case quiz (5 points)  
+- In-class discussion (2 points)  
+- Post -case reflection (3 points)  
+ 
+4/13  Team Simulation: Everest V3 Leadership and Working in 
+Teams  
+Debrief topics: complex decision -making with unevenly 
+distributed information and conflicting goals, 
+building/participating/leading effective teams, leader 
+decision -making paradigm (short vs. long -term tradeoffs)  - Pre-case quiz  
+- Simulation Participation Activity   
+- Post Simulation reflection  
+4/20  work on project deliverables; online synchronous support 
+available  -Group project poster due (10 
+points)  
+-Group project video due (10 points)  
+-Peer evaluations due (5 points)  
+4/27 No class  – Test Free Week  
+work on project deliverables; online synchronous support 
+available  - Individual project – portfolio 
+website due  
+- Individual project –  video 
+presentation due  
+5/4 End of Spring Term   
+ 
+XII. Standard University Policies  
+Policies about disability access, religious observances, academic grievances, academic integrity 
+and misconduct, academic continuity, food insecurity, and sexual harassment are governed by a 
+central set of policies that apply to all classes at USF. These m ay be accessed at 
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx   
+ Page 6 of 11 
+ XIII. Covid -19 Procedures  
+All students must comply with university policies and posted signs regarding COVID -19 mitigation 
+measures, including wearing face coverings and maintaining social distancing.  Failure to do so 
+may result in dismissal from class, referral to the Student Conduct Office and Ethical Development, 
+and possible removal from campus.  See link for more details: https://www.usf.edu/coronavirus/  
+ 
+Additional details are available on the University’s Co re Syllabus Policy Statements page: 
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx  
+ 
+XIV. Course Policies  
+The fol lowing outlines the general policies for the major assessments in this course. Specific 
+expectations will be posted in the instructions for each assignment on Canvas.  
+ 
+Case Assignments:  
+Cases are used as a primary teaching tool in this course because they provide insights into 
+complex business topics using real -world scenarios faced by business leaders. The cases assigned 
+in this course focus on decision -making related to enterprise techn ology systems. Students must 
+come to class prepared to discuss the assigned cases each week.  
+• Before class : students must complete a pre -case assignment, due before  the assigned 
+class. Students will take a brief quiz containing case details as the pre -case  assignment.  
+• During class : students must  participate in class discussions, using their pre -case 
+preparation as a guide. Students may be randomly called on in class to discuss various 
+aspects of the case, which may count as participation.  
+• After class : students are expected to submit a post- case reflection to highlight their key 
+learnings from the case. Each post -case reflection must include the in -class discussion 
+topics and activities and must not summarize the case again.  
+All written work must be submitted according to  business writing style at the graduate level.  
+Please contact the USF Writing Studio immediately for assistance with writing assignments, if 
+writing is a skill you’d like to continue to improve in this course ( USF Writing Studio ). 
+ 
+Course Project  (Individual) : 
+A major course deliverable in this course is a final project that gives students an opportunity to 
+demonstrate their learnings from the MSBAIS program. All project assignments must be submitted 
+through Canvas as a Word document, PDF document, or Video file  (based on instructions) by the 
+assigned due date and time. All written submissions will be analyzed using Turnitin, which is a 
+plagiarism detection tool (see Turnitin section below) .  
+ 
+Simulations:  
+Students will have opportunities to participate in simulations that mimic business activities. All 
+students who participate in the activities will have an opportunity to earn points, based on:  
+- The level of participation by each student  
+- The outcome/results of the simulation  
+- Thoughtful reflections on learnings  
+Students will be guided through each simulation during class time. The reflection assignment is 
+designed to allow students an opportunity to practice their communication skills through a self -
+reflective activity.  
+ Page 7 of 11 
+ Rewrite Policy : Rewrites are not available in this course.   
+ 
+Make -up Assignments Policy : Makeup assignment opportunities will be given only for emergencies  
+within one week of the original due date.  Students must discuss any reason for missing an 
+assignment due date with the instructor in advance of the due date unless the circumstances make 
+such advance notice impossible. Written documentation must be provi ded to support any reason for 
+missing assignment. There are only 6 reasons why a student will be given a makeup assignment 
+opportunity:  
+1. Medical purpose -  Students must produce a doctor’s note stating when and why he/she was 
+unable to meet the due date.  
+2. Death in the immediate family : Students must provide evidence that he/she was in 
+attendance (or in transit to/from) a funeral on the assignment due date.  
+3. Major religious holidays: Students must notify the instructor of the conflict within the first 2 
+weeks  of class.  
+4. Varsity athletic events: a member of a USF athletic team may arrange for a makeup due 
+date if a regularly scheduled League contest or post -season play falls on an assignment due 
+date. A note from the coach will be required to validate the student’s absence.  
+5. Jury duty: Students must provide evidence, i.e., letter from the court, that he/she will be 
+involved in jury duty.  
+6. Military call up: the  appropriate commanding officer must submit a letter indicating the 
+student is required to report for du ty.  
+The instructor will decide on the validity of the reason for missing a due date.  
+ 
+Medical Excuses:  
+Students should not attend class if they are ill, particularly if they have fever and/or gastrointestinal 
+symptoms and/or respiratory symptoms such as  a sneezing, runny nose, sore  throat  or 
+coughing.  Students experiencing any of these symptoms  should  contact  immediately the  Student Health 
+Services (813 -974-2331)  on the Sarasota- Mantatee  and Tampa campus or  the Wellness Center (727 -873-
+4422) on the St. Petersburg campus  for appropriate medical guidance and to obtain a verification of care 
+letter.   Students may turn to other health providers as well.  To be approved for missed classes, late 
+assignments or missed examinations a ver ification of care letter must be presented by the student to 
+the faculty member upon return to class.  
+ 
+Essay Commentary Policy :  
+Commentary on written will be delivered in written format using the Feedback feature of Canvas and 
+any applicable rubric.  
+ 
+Final Examinations Policy : All final exams are to be scheduled per the University’s final examination 
+policy.  
+Grades of "Incomplete" : An Incomplete grade ( "I") is exceptional and granted at the instructor’s 
+discretion only when students are unable to complete course requirements due to illness or other 
+circumstances beyond their control. The course instructor and student must complete and sign the "I" 
+Grade Con tract Form that describes the work to be completed, the date it is due, and the grade the 
+student would earn factoring in a zero for all incomplete assignments. The due date can be negotiated 
+and extended by student/instructor as long as it does not exceed  two semesters for undergraduate 
+courses and one semester for graduate courses from the original date grades were due for that course. 
+An "I" grade not cleared within the two semesters for undergraduate courses and one semester for Page 8 of 11 
+ graduate courses (includ ing summer semester) will revert to the grade noted on the contract. Students 
+are expected to communicate with the instructor regarding “I” grades before grades are submitted to 
+the registrar’s office (students will be notified via Canvas email of submission date).  
+XV. USF Core Syllabus Policies  
+USF has a set of central policies related to  student recording class sessions,  academic integrity and 
+grievances, student accessibility services, academic disruption, religious observances, academic 
+continuity, food ins ecurity, and sexual harassment  that apply to all courses at USF . Be sure to review 
+these online  at: https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.a spx   
+ 
+Note: there is a zero -tolerance policy related to cheating, as defined in the academic integrity policy, in 
+this course. Any student caught cheating in this course will be referred to the college and  to the  
+Univer sity, according to the procedures outlined.  
+ 
+XVI. Course Policies: Technology and Media  
+ 
+Minimum Requirements :  
+To take courses online at USF, students will need to be able to demonstrate proficiency at basic 
+computer skills, maintain reliable internet access, and meet the computer system requirements listed 
+here: http://www.usf.edu/innovative -education/resources/student- services/technical-
+requirements.aspx  
+ 
+Email :  
+Please use the email functionality within Canvas as the primary mode to contact the instructor because 
+it provides insights into the student’s course section automatically. If you use Canvas e mail, then every 
+attempt will be made to respond to emails within 24 hours, 7 days per week. If you do not receive a 
+response within 48 hours, then please send an email again and in the subject line list “ ISM6155  – 2nd 
+request”. Due to confidentiality issues, grades will not be released via email or telephone, all grades will 
+be available in Canvas.  
+ 
+Canvas : This course will be offered via USF's learning management system (LMS), Canvas. If you need 
+help learning how to perform various tasks related to this course or other courses being offered in 
+Canvas, please view the following videos or consult the Canvas help guides. You may also contact USF's 
+IT department at (813) 974 -1222 or help@usf.edu . 
+ 
+Copyrights:  
+Materials in this course are protected by United States copyright law [Title 17, U.S. Code]. Materials are 
+presented in an educational context for personal use and study and should not be shared, distributed, or 
+sold in print —or digitally —outside the course without permission.  Students in this class are not 
+authorized to provide class notes or other class -related materials to any other person or entity, other 
+than sharing them directly with another student taking the class for purposes of studying, without prior 
+written permission from the professor teaching this course.  
+ 
+XVII. Course Policies: Student Expectations  
+ 
+Honorlock Online Proctoring Policy : 
+All students  mus t review the syllabus  and the requirements,  including the online  terms  and video  testing  
+requirements,  to determine if they  wish  to remain  in the course.  Enrollment  in the course  is an agreement  to abide  Page 9 of 11 
+ by and accept  all terms.  Any student  may  elect  to drop or withdraw  from this course  before the end of the 
+drop/add period.   
+Online  exams  and quizzes  within  this course  may  require  online  proctoring.  Therefore,  students  will be required  to 
+have  a webcam (USB  or internal)  with  a microphone  when  taking  an exam or quiz.  Students  understand that this 
+remote recording device is purchased and controlled  by the student  and that recordings  from  any private  
+residence must  be done  with  the permission  of any person  residing in the residence.   
+To avoid  any concerns  in this regard,  students  should select  private  spaces  for the testing.  Students  with  concerns  
+may  discuss  location  of an appropriate  space  for the recordings  with  their  instructor  or advisor.   
+Students  must  ensure  that any recordings  do not invade  any third -party  privacy  rights  and accept  all responsibility  
+and liability  for violations  of any third -party  privacy  concerns.   
+Students  are strictly  responsible  for ensuring  that they  take  all exams  using  a reliable  computer  and high -speed  
+internet  connection.  Setup information  will be provided prior  to taking  the proctored  exam.  To use Honorlock, 
+students  are required  to download  and install  the Honorlock  Google Chrome extension . For additional  information  
+please visit the USF online proctoring  student  FAQ  and Honorlock  student  resources .  
+ 
+Attendance Policy: Students are expected to independently keep up with the pace of this course to 
+succeed.  
+ 
+Course Hero Policy:   
+The USF Policy on Academic Integrity  specifies that students may not use websites that enable cheating, 
+such as by uploading or downloading material for this purpose. This does apply specifically to 
+CourseHero.com – any use of this website (including uploading materials) con stitutes a violation of the 
+academic integrity policy.  
+ 
+End of Semester Student Evaluations:  
+All classes at USF make use of an online system for students to provide feedback to the University 
+regarding the course. These surveys will be made available at the end of the semester, and the 
+University will notify you by email when the response window opens. Your participation is highly 
+encouraged and valued.  
+ 
+Turnitin.com:  
+In this course, turnitin.com will be utilized  on all written submissions . Turnitin is an automated system 
+which instructors may use to compare each student’s assignment quickly and easily with billions of web 
+sites, as well as an enormous database of student papers that grows with each submission. Ac cordingly, 
+you will be expected to submit all assignments in an electronic format. After the assignment is 
+processed, as an instructor I receive a report from turnitin.com that states if and how another author’s 
+work was used in the assignment. For a more detailed look at this process visit http://www.turnitin.com .  
+ 
+The Writing Studio:  
+The Writing Studio is a free resource for USF undergraduate and graduate students. At the Writing 
+Studio, a trained writing consultant will work individually with you at any point in the writing process 
+from brainstorming to editing. Appointments are recommended . To make an appointment, visit 
+https://www.usf.edu/undergrad/academic -success -center/writing -
+studio/ http://www.lib.usf.edu/writing/ , stop by LIB 2nd Floor, or call 813 -974-8293.  
+ 
+Health and Wellness:  
+Your health is a priority at the University of South Florida. We encourage members of our community to 
+look out for each another and to reach o ut for help if someone is in need. If you or someone you know is 
+in distress, please make a referral at www.usf.edu/sos  so that the Student Outreach & Support can Page 10 of 11 
+ contact and provide h elpful resources to the student in distress. A 24 -hour licensed mental healthcare 
+professional, offered through the counseling center, is available by phone at 813 -974-2831, option 3. 
+Please remember that asking for help is a sign of strength. In case of e mergency, please dial 9 -1-1. 
+ 
+Title IX Policy :  
+Title IX provides federal protections for discrimination based on sex, which includes discrimination based on 
+pregnancy, sexual harassment, and interpersonal violence. In an effort to provide support and equal access, USF 
+has designated all faculty (TA, Ad junct, etc.) as Responsible Employees, who are required to report any 
+disclosures of sexual harassment, sexual violence, relationship violence or stalking.  The Title IX Office makes 
+every effort, when safe to do so, to reach out and provide resources and a ccommodations, and to discuss possible 
+options for resolution.   Anyone wishing to make a Title IX report or seeking accommodations may do so online, in 
+person, via phone, or email to the Title IX Office. For information about Title IX or for a full list of  resources please 
+visit:  https://www.usf.edu/title- ix/gethelp/resources.aspx . If you are unsure what to do, please contact Victim 
+Advocacy – a confidential resource that can review all your options –  at 813- 974- 5756 or  va@admin.usf.edu . 
+ 
+Confidential Resources (listed below)  are available and will not be required to notify the Title IX office of 
+disclosures of sexual harassment. If you are not sure what to do , you are encouraged to contact Victim 
+Advocacy to confidentially explore your options including: injunctions & protecti ve orders; changes in 
+accommodations, living arrangements, class schedules, & transportation; assistance with academic 
+Issues- missed classes, late assignments, etc.  The Title IX Office can also provide academic, on -campus 
+housing and USF workplace accommo dations, as well as other supportive measures.  
+ 
+CONFIDENTIAL RESOURCES  NONCONFIDENTIAL RESOURCES  
+Victim Advocacy in the Wellness Center  
+SLC 2200 
+727-873-4432  
+https://www.stpetersburg.usf.edu/student -
+life/wellness/victim -advocacy -services/index.aspx   Title IX  
+813-974-4373  
+https://www.usf.edu/title -ix/ 
+Counseling at the Wellness Center  
+SLC 2200 
+727-873-4422  
+https://www.stpetersburg.usf.edu/student -
+life/wellness/psychological -services/index.aspx   Student Outreach & Support  
+PMB 101  
+727-873-4278  
+https://www.stpetersburg.usf.edu/student -
+life/student -outreach -program/   
+Ombudsman  
+Free, confidential conflict resolution  
+PNM 105B  
+727-873-4184  
+https://wwwtest.stpetersburg.usf.edu/resources  
+/ombuds.aspx  Student Conduct & Ethical Development  
+PNM 101B  
+727-873-4278  
+Usfsp -conduct@usf.edu   
+https://www.usf.edu/student -
+affairs/student -conduct -ethical-
+development/ab out-us/contacts.aspx   
+Student Health Services at the Wellness Center  
+SLC 2200 
+727-873-4422  
+https://www.stpetersburg.usf.edu/student -
+life/wellness/index.aspx   Dean of Students  
+PNM 101  
+727-873-4278  
+https://www.stpetersburg.usf.edu/student -
+life/dean -of-students/   
+OFF CAMPUS CONFIDENTIAL  OFF CAMPUS NONCONFIDENTIAL  
+Suncoast Center  
+Rape Crisi s Center  Pinellas County Sheriff’s Office  
+10750 Ulmerton Rd  Page 11 of 11 
+ 2188 58th St N 
+Clearwater, FL 33760  
+727-388-1220  
+https://www.suncoastcenter.org/sexual -assault -services  Largo, FL 33778  
+Nonemergency: 727 -582-6200 
+Emergency: 911 
+https://www.pcsoweb.com/   
+CASA  
+Domes tic Violence Shelter  
+1011 First Ave North  
+St. Petersburg, FL 33705 
+24/7 Hotline: 727- 895-4912 
+https://www.casa -stpete.org/   St. Petersburg Police Department  
+1301 First Ave North  
+St. Petersburg, FL 33705 
+Nonemergency: 727 -893-7780 
+Emergency: 911 
+https://police.stpete.org/   
+  
+ 
+Campus Free Expression Act Disclaimer : 
+It is fundamental to the University of South Florida’s mission to support an environment where 
+divergent ideas, theories, and philosophies can be openly exchanged and critically evaluated. Consistent 
+with these principles, this course may involve discussio n of ideas that you find uncomfortable, 
+disagreeable, or even offensive.  
+ 
+In the instructional setting, ideas are intended to be presented in an objective manner and not as an 
+endorsement of what you should personally believe. Objective means that the ide a(s) presented can be 
+tested by critical peer review and rigorous debate, and that the idea(s) is supported by credible 
+research.  
+ 
+Not all ideas can be supported by objective methods or criteria. Regardless, you may decide that certain 
+ideas are worthy of  your personal belief. In this course, however, you may be asked to engage with 
+complex ideas and to demonstrate an understanding of the ideas. Understanding an idea does not mean 
+that you are required to believe it or agree with it.  
+ 
+Important Dates to Re member  
+For important USF dates, see the Academic Calendar at http://www.usf.edu/registrar/calendars/   

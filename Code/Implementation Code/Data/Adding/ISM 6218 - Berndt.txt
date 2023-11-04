@@ -1,0 +1,449 @@
+ 
+         1  
+ 
+ 
+ 
+ 
+ 
+ 
+Semester: Fall 2022 (Multiple Sections)  
+Class Meeting Days: R 
+Class Meeting Time: 12:30– 4:15 pm  
+Class Meeting Location: In-Person Instruction  
+Instructor:  Don Berndt  
+Office Location:  CIS 2073  
+Office Hours:  W 7-8 PM (Online)  
+Office Phone:  (813) 974 -6769  
+Email:  dberndt@usf.edu  
+ 
+ 
+ 
+I. Welcome!  
+Welcome to the database class (ISM 6218).   Data science is an exciting area and major 
+theme of our graduate programs.  This is clearly a multi -disciplinary field, but effective 
+data management is certainly a core skill.  While this course does focus on the widely used 
+relational model, alternativ e technologies that rely on distributed processing approaches 
+balance the coverage.  The course is laid out as a series of distinct core modules, typically 
+one per week (a couple if they are small).   These core modules include textbook readings, 
+assignment s and online quizzes.   Special topics are used to cover additional material 
+and/or emerging technologies.  
+ 
+This course includes significant hands -on experience, so you will apply what you learn.  
+The discussions and assignments will also reinforce important competencies such as 
+creative thinking, teamwork and digital skills (see the nationally -standardized care er 
+readiness competencies at http://www.naceweb.org/career -
+readiness/competencies/career -readiness -defined/  for details).  
+ 
+II. Univ ersity Course Description  
+This course  covers core business database technologies.   Topics include database design, 
+transaction processing, parallelism, and distributed databases.   Emerging business 
+intelligence technologies are covered.   A database system is used for projects.  ISM 6218:  
+Advanced Database Management  
+CRN: XXXXX , Section: 001 , Credit Hours : 3 
+Muma College of Business  
+School of Information Systems and Management  
+ 
+COURSE SYLLABUS  
+Last Updated: 8/16/2023  
+ 
+ 
+2  
+You can find the official description at  http://ugs.usf.edu/course -inventory/ . 
+ 
+III. Course Prerequisites  
+There are no official prerequisites .  However, there is an assumption that you have taken 
+a database course prior to admission in our program (or have significant professional 
+experience).  
+ 
+IV. Course Purpose   
+This course is designed for the MS graduate student and interested MBA students.   The 
+overall course objectives are to provide a sound database system foundation, while 
+highlighting additional special topics and applications.   To meet these objectives in a 
+single course, introductory topics are combined with a selection of more advanced 
+topics.   For example, fundamental relational database topics are reviewed, including 
+query writing and database design.   In addition, more advanced topics, such as indexing, 
+query processing, and parallelism look at database perf ormance issues typically covered in 
+a second semester course.   These topics taken together provide a foundation for effective 
+database use.  
+ 
+Students will develop applied skills such as query writing using the Structured Query 
+Language (SQL), database desi gn and Entity -Relationship Diagrams (ERDs), along with 
+query performance tuning by looking indexing and query optimization.   Special topics that 
+complement the core modules provide coverage of emerging high -impact technologies, 
+such as NoSQL databases and cloud computing.   The final modules will introduce data 
+warehousing and data mining techniques, which are covered more thoroughly in 
+subsequent elective courses.  
+ 
+The class focuses on a combination of theory and practical database use, which will be 
+illust rated primarily through the Oracle DBMS software.   The Oracle database engine is 
+freely available for educational use from Oracle Corporation.   Therefore, students will 
+have access to many of the sophisticated tools at home and on mobile platforms.   In 
+addition, access to local database servers will be provided, so all hands -on projects can be 
+pursued in an industrial quality environment.   Though the primary database engine will be 
+the Oracle DBMS, coverage of Microsoft SQL Server will be included to highli ght common 
+features, as well as alternative approaches.  
+ 
+V. How to Succeed in this Course  
+First, please visit Canvas often and monitor all course announcements.  Canvas will be the 
+primary means of communicating, as well as organizing and presenting the cours e 
+content.  For each week, review the most important material identified in “Start Here” 
+pages.  Our in -class time is designed to further and deepen the knowledge, concepts, and 
+skills from the readings – not just repeat the information.  We will also use hands -on 
+laboratory activities to reinforce and apply skills.  USF also suggests many study tips, so 
+have a look at the resources below.   
+ 
+3 Study skills of successful students:  This one -page handout details  what the study skills 
+behaviors of top students look like: http://bit.ly/successfulstudentbehaviors .  This 18 -page 
+PDF provides 101 individual tips for effective st udy skills and note -taking: 
+http://bit.ly/studyskillstips   
+ 
+Best practices for hybrid courses : Successful students should follow these tips to succeed 
+in classes where they swi tch between remote and in -person attendance: 
+https://www.usf.edu/atle/documents/student -best -practices -hybrid.pdf   
+ 
+Canvas:  See the Community Guides at https://community.canvaslms.com/t5/Student/gh -
+p/student . 
+ 
+Micrsoft Teams:  See best the practices video for Teams at https://youtu.be/q6zqaSMtnjg .  
+For some written guides, see the student introduction 
+(https://www.usf.edu/atle/documents/student -guide -microsoft -teams.pdf ) and etiquette 
+(http://www.usf.edu/atle/documents/teams -etiquette.pdf ) documents.  
+ 
+VI. Course Topics  
+Part I  - Structured Query Language (SQL):  The course starts with hands -on query writing as 
+a core skill (and to foster student engagement) , along with a look at the relational 
+database model.  
+ 
+Part II  - Database Modeling and Design Review: Brief coverage of database modeling and 
+design issues is intended as a review before the preliminary group project design is due.  
+ 
+Part III - Database Architecture: The Oracle DBMS will be used as a hands -on example of a 
+relational DBMS to illustrate the theoretical topics, as well as to implement the semester 
+project.  The first few classes will be used to cover specific aspects of the DBMS engine 
+(from a DBA -like perspective), with the goal of estab lishing a foundation for the remainder 
+of the course.  
+ 
+Part IV – Advanced Relational DBMS Technologies: This part of the course surveys key 
+database technologies such as storage subsystems, query optimization, transaction 
+processing, concurrency control, a nd other topics.  Again, the Oracle DBMS will be used to 
+illustrate the material.  
+ 
+Part V – Alternative Database Models: Important topics such as high availability 
+databases, distributed databases, and parallel databases demonstrate the techniques 
+necessar y for enterprise -level data infrastructures.  
+ 
+Part VI – Special Topics: A selection of special topics such as object -oriented databases, 
+data warehousing, and data mining will be covered as time permits.  
+ 
+  
+ 
+4  
+ 
+ 
+VII. Student Learning Outcomes  
+By the end of this course, students will be able to:  
+1. Describe the widely used relational database model.  
+2. Write queries using SQL.  
+3. Design and document database systems using entity -relationship diagram (ERD) 
+tools.  
+4. Implement database systems using SQL data definition statements and integrity 
+constraints.  
+5. Apply various techniques such as index structures and optimization modes to 
+improve query performance.  
+6. Contrast a variety of alternative (NoSQL) database models with the relational 
+model with regards to work load fit.  
+ 
+VIII. Required Texts and/or Readings and Course Materials  
+Recommended textbook:  A Silberschatz, HF Korth and S Sudarshan, Database Systems 
+Concepts , Seventh  Edition, McGraw -Hill, 2010, ISBN 9780078022159 .  The authors also 
+maintain a website with a lo t of helpful material:  https://www.db -book.com .  This book is 
+recommended, not strictly required.   The course uses this edition, but you can get by with 
+a slightly older edition (or even another good technical database book) to reduce cost s.  In 
+addition to the textbook, there is a wealth of online documentation and other readings 
+that are included within the modules.   See the course resources page, as well as specific 
+links within modules.  
+ 
+For hands -on activities, we will use the Oracle RDBMS and several existing example 
+databases.  However, coverage of other relational systems such as Microsoft SQL Server 
+and alternative NoSQL technologies is included throughout.  
+ 
+IX. Supple mentary (Optional) Texts and Materials  
+Oracle maintains an extensive library of online documentation that students will find 
+useful during the course (see https://docs.oracle.com/en/database/oracle/oracle -
+database/ ). 
+ 
+   
+ 
+5  
+ 
+X. Grading Scale  
+ 
+Grading Scale (%)   
+94-100 A  
+90 – 93 A-  
+87 – 89 B+  
+84 – 86 B  
+80 – 83 B-  
+77 – 79 C+  
+74 – 76 C  
+70 – 73  C-  
+67 – 69 D+  
+64 – 66 D  
+60 – 63 D-  
+0 – 59 F  
+ 
+ 
+XI. Grade Categories and Weights  
+The course relies on three types of assessments: 1) online quizzes (as self -paced checks on 
+core modules), 2) group assignments that apply skills and 3) a final project that requires 
+some creative thinking and the synthesis of skills.  These activi ties are weighted as show 
+below.  
+ 
+Assessment  Percent of Final Grade  
+Online Quizzes (8)  40% 
+Assignments (4) – Adjusted based on course duration.  40% 
+Final Project  15% 
+Participation and Attendance  5% 
+ 
+XII. Course Assessments  
+ 
+There are three categories of assignments or activities used for assessment.   
+1. Online  quizzes  (8) are part of all core modules (after the introductory module), 
+accounting for 40%  of the grade.  
+2. Assignments (4) are given in selected modules, with roughly two weeks to 
+complet e (for a total of 40%  of the grade).  The first two assignments on query 
+writing and database design are structured.  The following two assignments are in 
+the style of "experiments of the week" with students designing experiments that 
+explore the relevant topics (some suggested ideas are provided).   These 
+assignments are intended to be group  activities.   Note: For shorter versions of the 
+course (6 -8 weeks), one assignment may be dropped.   
+ 
+6 3. The final project  (20% ) gives you an opportunity to design a database for yourself 
+in whatever area interests you.   You can re -visit and improve experiments from 
+prior module assignments as well.   You can pursue a completely new database or 
+build on some of the case studies (li ke the university database, relational movie 
+database or milestone market).   Just make that clear in the final project 
+plan.   Again, this project should synthesize material from prior assignments, 
+providing an opportunity to incorporate any feedback and ex pand the coverage of 
+critical topics.   Make sure to include an executive summary highlighting the topics 
+covered and any improvements or extensions to prior material.  
+4. Class participation  will be based on contributions in class, discussion boards 
+and/or oth er collaborative meetings .  This will along with peer assessments from 
+group members will be used to reward highly engaged participants.  
+Group assignments and the final project are to be completed by a small group 
+(approximately 3 -5 people) and involve the  design and implementation of database 
+experiments, as well as query writing, design, and even database administration activities. 
+The application areas may extend one of the example databases design used in class or 
+based on a work -related project (with p rior approval).  
+ 
+XIII. Grade Dissemination  
+The Canvas system will be used throughout the course.  Students can access scores and 
+other information at any time using “Grades” in Canvas.  
+ 
+XIV. Course Schedule  
+This is a tentative course schedule for a 12 -week format.  O f course, adjustments would 
+be made based on course duration such an 8 -week format.  
+ 
+Week  Modules  Assignments  
+1/12 Module 1: Relational Databases   NA  
+2/12 Module 2: Structured Query Language (SQL)  
+Special Topic: Recommender Systems   Quiz 1: SQL  
+Assignment 1: Query Writing   
+3/12 Module 3: Database Design  
+Special Topic: Database Programming  Quiz 2: Database Design  
+Assignment 2: Database Design  
+4/12 Module 4: DBMS Architecture   Quiz 3: DBMS Architecture  
+5/12 Module 5: Indexing and Hashing  Quiz 4: Indexing  
+Assignment 3: Tuning  EotW 1 
+6/12 Module 6: Query Processing  Quiz 5: Query Processing  
+7/12  Module 7: Transaction Processing  Quiz 6: Transaction Processing  
+Assignment 4: Tuning EotW2  
+8/12  Module 8: Parallel Databases  Quiz 7: Parallel Databases  
+9/12  Special Topic: Database Security  NA 
+10/12  Module 9: Distributed Databases  Quiz 8: Distributed Databases  
+Final Project   
+ 
+7 11/12  Special Topic: NoSQL Databases  NA 
+12/12  Special Topic: Data Warehousing and Mining  NA 
+ 
+* Note: The Schedule is subject to revision . 
+ 
+XV. Standard University Policies  
+ 
+Policies about disability access, religious observances, academic grievances, academic 
+integrity and misconduct, academic continuity, food insecurity, and sexual harassment are 
+governed by a central set of policies that apply to all classes at USF.   These may be 
+accessed at: https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.as px  
+ 
+XVI. Covid -19 Procedures  
+ 
+All students must comply with university policies and posted signs regarding COVID -19 
+mitigation measures, including wearing face coverings and maintaining social distancing  
+during in -person clas ses.  Failure to do so may result in dismissal from class, referral to the 
+Office  of Student Conduct and Ethical Development , and possible removal from campus.  
+ 
+Additional details are available on the University ’s Core Syllabus Policy Statements page : 
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx  
+ 
+XVII. Course Policies  
+ 
+Late Work Policy : Graduate students may be b alancing work demands with their studies.  
+Extensions may be possible on a per -assignment basis in advance of a due date.  
+Unexcused late assignments will be assessed a penalty: a half -letter grade if it is 1-2 days 
+late, or a full -letter grade for 3-7 day s late.   Assignments will not be accepted if overdue 
+by more than seven days.  
+ 
+Grades of "Incomplete" : Grades of incomplete are to be avoided if at all possible 
+(especially at the graduate level).  Any students that are at risk of not completing the 
+course  should reach out to the instructor as soon as possible.  The preferred approach is 
+to turn in most of the assignments even in draft form and receive a final grade, which can 
+be adjusted later once the final versions of any missing assignments are submitte d.  The 
+formal university policies governing an “I” grade are as follows.  
+ 
+For undergraduate courses:  An “I” grade may be awarded to a student only when a small 
+portion of the student’s work is incomplete and only when the student is otherwise 
+earning a passing grade. The time limit for removing the “I” is to be set by the instructor 
+of the course. For undergraduate students, this time li mit may not exceed two academic 
+semesters, whether or not the student is in residence, and/or graduation, whichever 
+comes first. For graduate students, this time limit may not exceed one academic  
+ 
+8 semester. “I” grades not removed by the end of the time limi t will be changed to “IF” or 
+“IU,” whichever is appropriate.  
+ 
+For graduate courses:  An Incomplete grade ( "I") is exceptional and granted at the 
+instructor’s discretion only when students are unable to complete course requirements 
+due to illness or other ci rcumstances beyond their control. The course instructor and 
+student must complete and sign the "I" Grade Contract Form that describes the work to 
+be completed, the date it is due, and the grade the student would earn factoring in a zero 
+for all incomplete assignments. The due date can be negotiated and extended by 
+student/instructor as long as it does not exceed  two semesters for undergraduate courses 
+and one semester  for graduate courses  from the original date grades were due for that 
+course.  An "I" grade not cleared within the  two semesters for under graduate courses and 
+one semester for graduate courses (including summer semester) will revert to the grade 
+noted on the contract.  
+ 
+Group Work Policy : Everyone must take part in a group project.   All members of a group 
+will receive the same score; that is, the project is assessed,  and everyone receives this 
+score.   In addition, However, every person in the group will provide the instructor with a 
+peer assessment at the end of the semester.  The ins tructor will adjust the total 
+assignment grade based on peer suggestions (by up to 10%).  
+ 
+Email : The Canvas Inbox is the preferred method of communication, but you may use 
+official USF email as a second method (see the email address above).  The goal is to  
+respond within 1 -2 days to any request.  
+ 
+Canvas : This course will be offered via USF's learning management system (LMS), Canvas.   
+The Canvas Inbox feature is the preferred method of communication.  If you need help 
+learning how to perform various tasks related to this course or other courses being 
+offered in Canvas, please view the following videos or consult the Canvas help guides . You 
+may also contact USF's IT department at (813) 974 -1222 or help@usf.edu . 
+ 
+XVIII.   Course Policies: Student Expectations   
+ 
+Attendance Policy:  Students are expected to attend classes.   Faculty must inform 
+students of attendance requirements on syllabi.   Instructors should accommodate 
+excused absences by making arrangements with students ahead of time (when possible) 
+or by providing a reasonable amount of time to make up missed work.  
+ 
+Course Hero  / Chegg  Policy:  The USF Policy on Academic Integrity  specifies that students 
+may not use websites that enable cheating, s uch as by uploading or downloading material 
+for this purpose. This does apply specifically to Chegg.com and CourseHero.com – any use 
+of th ese website s (including uploading proprietary materials) constitutes a violation of the 
+academic integrity policy .  
+  
+ 
+9 Professionalism Policy:  Per university policy and classroom etiquette; mobile phones, 
+iPods, etc. must be silenced  during all classroom and lab lectures.   Those not heeding this 
+rule will be asked to leave the classroom/lab immediately so as to n ot disrupt the learning 
+environment.   Please arrive on time for all class meetings.   Students who habitually 
+disturb the class by talking, arriving late, etc., and have been warned may suffer a 
+reduction in their final class grade.  
+ 
+End of Semester Studen t Evaluations:  All classes at USF make use of an online system for 
+students to provide feedback to the University regarding the course.   These surveys will 
+be made available at the end of the semester, and the University will notify you by email 
+when the r esponse window opens.   Your participation is highly encouraged and valued .  
+ 
+Food and Drink Policy:  Please adhere to the firm policy of no beverages (other than 
+bottled/capped water), food, tobacco products, or like items in the classroom.   Your 
+understanding of the necessity for this policy and cooperation will be greatly appreciated. 
+This policy will be strictly enforced.  
+ 
+Turnitin.com:  In this course,  turnitin.com  may  be utilized .  Turnitin  is an automated 
+system which instructors may  use to quickly and easily compare each student's 
+assignment with billions of web sites, as well as an enormous database of student papers 
+that grows with each submission.   After the assignment is processed, as instructor I 
+receive a report from turnitin.com t hat states if and how another author’s work was used 
+in the assignment.   For a more detailed look at this process visit http://www.turnitin.com . 
+ 
+XIX. Learning Support and Campus Offices  
+ 
+ 
+Tampa Campus  
+ 
+Tutoring Hub  
+Example: The Tutoring Hub offers free tutoring in several subjects  to USF 
+undergraduates. App ointments are recommended, but not required. For more 
+information , email asctampa@usf.edu   
+ 
+Writing Studio  
+Example: The Writing Studio is a free resource for USF undergraduate and gr aduate 
+students. At the Writing Studio, a trained writing consultant will work individually with 
+you, at any point in the writing process from brainstorming to editing. Appointments 
+are recommended, but not required. For more information or to make an 
+appo intment, email writingstudio@usf.edu   
+ 
+Counseling Center  
+Example: The Counseling Center promote s the wellbeing of the campus community by 
+providing culturally sensitive counseling, consultation, prevention, and training that  
+ 
+10 enhances student academic and personal success . Contact information is available 
+online .  
+ 
+Center for V ictim Advocacy  
+Example:  The Center for Victim Advocacy empower s survivors of crime, violence, or 
+abuse by promoting the restoration of decision making,  by advocating for their rights, 
+and by offering support and resources.  Contact information is available online .  
+ 
+ 
+ 
+St. Petersburg Campus  
+ 
+ 
+Student Success Center  
+Example: The Student Success Center provides free tutoring and writing consultations . 
+Contact information is available online .  
+ 
+Wellness Center  
+Example: The Wellness Center provides counseling and medical services, as well as 
+prevention programs and victim advocacy . Contact information is available online .  
+ 
+ 
+ 
+Sarasota -Manatee Campus  
+ 
+Tutoring and Writing Support  
+Example: Learning Support Services provides free tutoring and writing consultations 
+for a variety of courses and subjects such as, Accounting, Biology, Chemistry, Finance, 
+Math & Statistics, Physics, and Spanish . Make an appointment online .  
+ 
+Counseling and Wellness Center  
+Example: The Counseling and Wellness Center is a confidential resource where you 
+can talk about incidents of  discrimination and harassment, including sexual 
+harassment, gender -based crim es, sexual assault, stalking, and  domestic/relationship 
+violence. Call 941 -487-4254  
+ 
+Victim Advocate  
+Example: A Victim Advocate is available 24/7 by calling (941) 504 -8599. For assistance 
+leave a message with your phone number and your call will be returne d as soon as 
+possible. The Victim Advocate is available to assist victims of crime, sexual assault, and 
+partner violence.  
+ 
+ 
+  
+ 
+11 XX. Important Dates to Remember  
+All the dates  and assignments are tentative  and can be changed at the discretion of the 
+professor.   To confirm these dates, please see the official USF calendar maintained by the 
+Registrar  (see https://www.usf.edu/registrar/calendars/ ). 
+ 

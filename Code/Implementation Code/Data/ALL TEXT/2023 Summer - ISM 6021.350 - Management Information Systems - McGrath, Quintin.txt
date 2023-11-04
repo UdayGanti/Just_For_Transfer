@@ -1,0 +1,209 @@
+         1  
+ 
+ 
+ 
+Semester : Spring 202 3 
+Delivery method : Online, Off -campus  
+Location : Online / Off -campus  
+Instructor : Dr. Quintin McGrath  
+Instructor  email : qmcgrath@usf.edu  
+Virtual Office Hours : Technology used  Microsoft Teams  
+ Minimum Technical Skills & Requirements:   
+In order  to take courses online at USF, you will need to be able to demonstrate 
+proficiency in basic com puter skills, maintain reliable internet access, and meet the 
+computer system requirements  listed at:  
+ https://www.usf.edu/it/remote/requirements -for-students.aspx    
+ 
+ 
+I. University  Course Description  
+An introduction to the fundamentals of information systems including an examination 
+of information technology terminology and concepts, alternative methodologies for 
+developing information systems, and the application and impact of information 
+technology in contemporary organizations.  
+ 
+II. Course Prerequisites  
+No prerequisites.  
+ III. Course obj ectives  
+By the end of this course, you will be able to:  
+• Analyze a tough socio -tech nical business decision and make a recommendation on the 
+most feasible courses of action to the decision -maker in the organization.  
+• Research and write -up a case discussion of a tough technology centric business decision 
+being faced by an organization.  
+• Demonstrate an ability to develop multiple plausible solutions to a tough business 
+decision based upon empirical evidence identified in the course of the investigati on of 
+the tough decision with an organization.  
+ 
+ISM  6021  
+Management Information  Systems   
+(CRN: 50398, Section: 350, 2 Credit Hours)  
+ 
+School of Information Systems and Management  
+ 
+COURSE SYLLABUS  
+Last Updated: 4/20/2023 2 IV. Instructor Contact Information and Communication  
+Email is always the best way to contact me. Please avoid messaging me through Canvas 
+because it is often unreliable. Instead, always use your USF email accoun t and include 
+the name of our course somewhere in your email. Please allow 24 hours for a response and longer over the weekend. However, if you are emailing me to inform me of an 
+urgent issue, please write ‘urgent’ in the subject line of the email.  
+ 
+V. First Week Attendance Policy  
+In the first week of class, you will be required to complete a First Day Attendance discussion 
+board post to introduce yourself. Your post is due by Monday of the first week of class  at 
+11:59pm. Students who do not complete the First  Day Attendance activity by the due date 
+will be dropped from the course.  
+ 
+VI. How to Succeed  in this Course  
+One of my goals is to make this class as personally and professionally relevant to you as 
+possible. To succeed in this course, follow the Course Schedule, regularly check our Canvas 
+page  to make sure that you are up -to-date with deadlines, and ask questions anytime you 
+would like clarification.  
+ 
+VII. Required Texts and/or Readings and Course Materials   
+Managing and Using Information Systems  by Pearlson, Saunders, Galletta, 7th Ed, Wiley 
+(ISBN 978-1- 119-56056- 2) 
+ VIII. Supplementary  (Optional) Texts and Materials  
+Slides, assignments, and case discussions are available on Canvas. Unless otherwise 
+indicated, all materials in Canvas are required .   
+ 
+IX. Grading Scale   
+Grade  components:  Case Discussion Assignments (individual)  100%  
+Pre-Case, Opening, Online Discussion, Post -Case Reflection  
+ Grading  scale:  Letter  grades  as per USF policy  with letter grade +/ - awarded and 
+calculated automatically on Canvas.  
+ X. Instructor  Feedback Policy & Grade Dissemination   
+The instructor  will respond to email communication relevant to the subject matter within 
+48 hours of the date received. The instructor  will provide feedback on assignments within 
+one week of the posted deadline and feedback on final papers within two weeks of the 
+posted deadline. Graded tests and materials in this course will be returned individually only by request. You can access your scores at any time using "Grades" in Canvas
+. 
+ 3 XI. Class Schedule: Available on Canvas  
+Note: The schedule is tentative and may be subject to change. However, any and all 
+such changes will be announced through Canvas or in class.  
+ 
+XII. Standard University Policies   
+Policies about disability access , religious observances, academic grievances, academic 
+integrity and misconduct, academic continuity, food insecurity, and sexual harassment are 
+governed by a central set of policies that apply to all classes at USF. These may be accessed on the USF Core Syllabus Policy Statements page
+ at 
+https://www.usf.edu/provost/faculty/core -syllabus -policy -statements.aspx . 
+ 
+XIII. Course  Policies:  
+Late Work Policy  
+Late work may be  accept ed – with at least a letter grade penalty . 
+ 
+Extra Credit Policy  
+There  is no extra  credit.  
+ XIV. Course Policies: Student Expectations  
+Title IX Policy  
+Title IX provides federal protections  for discrimination based on sex, which includes 
+discrimination based on pregnancy, sexual harassment, and interpersonal violence. In an 
+effort to provide support and equal access, USF has designated all faculty (TA, Adjunct, etc.) as Responsible Employees , who are required to report any disclosures of sexual 
+harassment, sexual violence, relationship violence or stalking. The Title IX Office makes every effort, when safe to do so, to reach out and provide resources and accommodations, 
+and to discuss possibl e options for resolution.   Anyone wishing to make a Title IX report or 
+seeking accommodations may do so online, in person, via phone, or email to the Title IX 
+Office. For information about Title IX or for a full list of resources please visit:  https://www.usf.edu/title -ix/gethelp/resources.aspx
+.  
+If you are unsure what to do, please contact Victim Advocacy – a confidential resource that 
+can review all your options – at 813 -974-5756 or  va@admin.usf.edu . 
+ 
+Course Hero / Chegg Policy  
+The USF Policy on Academic Integrity  specifies that students may not use websites that 
+enab le cheating, such as by uploading or downloading material for this purpose. This does 
+apply specifically to Chegg.com and CourseHero.com – any use of these websites (including 
+uploading proprietary materials) constitutes a violation of the academic integrity policy.  
+ 
+Turnitin.com  4 In this course, turnitin.com may be utilized. Turnitin is an automated system which 
+instructors may use to quickly and easily compare each student's assignment with billions of 
+web sites, as well as an enormous database of student papers that grows with each 
+submission. After an assignment is processed, as instructor I receive a report from 
+turnitin.com that states if and how another author’s work was used in the assignment. For a more detailed look at this process visit: http://www.turnitin.com
+. 
+ 
+End of Semester Student Evaluations  
+All classes at USF make use of an online system for students to provide feedback to the 
+University regarding the course. These surveys will be made available at the  end of the 
+semester, and the University will notify you by email when the response window opens. Your participation is highly encouraged and valued.  
+ 
+Netiquette Guidelines  
+1. Act professionally in the way you communicate. Treat your instructors and peers with respect, the same way you would do in a face -to-face environment. Respect other people’s 
+ideas and be constructive when explaining your views about points you may not agree with.  
+2. Be sensitive. Be respectful and sensitive when sharing your ideas and opini ons. There will be 
+people in your class with different linguistic backgrounds, political and religious beliefs or other general differences.  
+3. Proofread and check spelling. Doing this before sending an email or posting a thread on a discussion board will allow you to make sure your message is clear and thoughtful. Avoid the use of all capital letters, it can be perceived as if you are shouting, and it is more difficult to read.  
+4. Keep your communications focused and stay on topic. Complete your ideas before cha nging 
+the subject. By keeping the message on focus you allow the readers to easily get your idea or answers they are looking for.  
+5. Be clear with your message. Avoid using humor or sarcasm. Since people can’t see your 
+expressions or hear your tone of voice, meaning can be misinterpreted.  
+ 
+Email and Discussion Board Guidelines  
+1. Use the subject line effectively by using a meaningful line of what your email or discussion is about.  
+2. Keep your emails and postings related to the course content. You should not post anything personal on a discussion board, unless is requested by the instructor.  
+3. Any personal, course or confidential issues should be directly communicated to the instructor via email. The discussion boards are public spaces; therefore, any issues should not be posted there.  
+ 
+XV. Course Policies: Technology and Media  
+Canvas  
+This course is offered via USF's learning management system (LMS), Canvas. If you need 
+help learning how to perform various tasks related to this course or other courses being 5 offered in Canvas, please consult the Canvas Student Guides . You may also contact USF's IT 
+department at (813) 974 -1222 or help@usf.edu . 
+ 
+XVI. Learning Support and Campus Offices   
+Academic Accommodations  
+Students with disabilities are responsible for registering with Student Accessibility Services 
+(SAS) in order to receive academic accommodations. For additional information about 
+academic accommodations and resources, you can visit the SAS website.  
+SAS website for the Tampa and Sarasota -Manatee  campus es. 
+SAS website for the St. Pete campus.  
+ 
+Academic Support Services  
+The USF Office of Student Success coordinates and promotes university -wide efforts to 
+enhance undergraduate and graduate student success.  For a comprehensive list of 
+academic support services available to all USF students, please visit the Office of Student 
+Success websit e. 
+Office of Student Success website for the Tampa campus.  
+Office of Student Success website for the St. Pete campus.  
+Office of Student Success website for the Sarasota -Manatee campus.  
+ 
+Canvas Technical Support  
+If you have  technical difficulties in Canvas, you can find access to the C anvas guides and 
+video resources in the “Canvas Help” page on the homepage of your C anvas course. You can 
+also contact the help desk by calling 813 -974-1222 in Tampa or emailing help@usf.edu.  
+IT website for the Tampa campus.  
+IT website for the St. Pete campus.  
+IT website for the Sarasota -Manatee campus.  
+ 
+Center for Victim Advocacy  
+The Center for Victim Advocacy empowers survivors of crime, violence, or abuse  by 
+promoting the restoration of decision making, by advocating for their rights, and by offering 
+support and resources. Contact information is available online.  
+Center for Victim Advocacy website for the Tampa campus.  
+Center for Victim Advocacy website for the St. Pete campus.  
+Center for Victim Advocacy website for the Sarasota- Manatee campus.  
+ Counseling Center  
+The Counseling Center  promotes the wellbeing of the campus community by  providing 
+culturally sensitive counseling, con sultation, prevention, and training that enhances student 
+academic and personal success. Contact information is available online.  
+Counseling Center website for the Tampa campus.
+ 6 Counseling Center website for the St. Pete campus.  
+Counseling Center website for the Sarasota -Manatee campus.  
+ 
+Tutoring  
+The Tutoring Hub offers free tutoring in several subjects to USF undergraduates.  
+Appointments are recommended, but not required. For more information, email: 
+asctampa@usf.edu .  
+Tutoring website for the Tampa campus.  
+Tutoring websi te for the St. Pete campus.  
+Tutoring website for the Sarasota -Manatee campus . 
+ 
+Writing Studio  
+The Writing Studio is a free resource for USF undergraduate and gra duate  students. At the 
+Writing Studio, a trained writing consultant will work individually with you, at any point in 
+the writing process from brainstorming to editing. Appointments are  recommended, but 
+not required. For more information or to make an appointment, email : 
+writingstudio@usf.edu .  
+Writing studio  website for the Tampa campus.  
+Writing studio website for the St. Pete campus.  
+Writing studio website for the Sarasota -Manatee campus.  
+ 
+XVII.  Important  Dates to Remember  
+For important USF dates, see  the Academic Calendar  at 
+http://www.usf.edu/registrar/calendars/   

@@ -1,0 +1,608 @@
+Muma College of Business  
+School of Information Systems and Management  
+ 
+ 
+Information Security and IT Risk Management   
+ISM 4323.001 
+ 
+Course Information  
+Course Title: Information Security (INFOSEC ) and IT Risk Management  
+Course Subject # / Section:  ISM 4323 / 001  
+Course Semester: Fall 2023 
+Course Credit Hours: 3 
+Course Duration: 16 Weeks ( 8/21/23-12/07 /23) 
+Course Occurrence: Multi -Weekly ( Tuesday & Thursday ) 
+Course Meeting Times: 09:30  - 10:45 am 
+Course  Meeting Location: BSN 120 (Tampa Campus)  
+ 
+Instructor Information  
+Name: Dr. Marcus L. Green      
+Office:  CIS 2070 -A 
+Weekly Office Hours : Virtual via M icrosoft Teams; Thursdays , 11 am - 12 pm EST   
+Office Hours (virtual): By appointment only; meetings will occur using Microsoft Teams  
+Phone: (o) 813 -974-6754  
+E-mail: mlg5 @usf.edu       
+ 
+ 
+Course Description  
+Course c overs essential IT general controls and frameworks to assess IT risk in a business 
+environment.    
+ 
+Learning Objectives (ISM 6328)   
+Upon completion of the course students will:  
+ 
+1. Demonstrate an understanding of security concerns and issues in organizations  
+2. Learn how to identify and characterize assets relevant to cyber security  
+3. Have the ability to identify major categories of information security threats  
+4. Have the ability to apply various kinds of controls to counter common threats  
+5. Learn about important compliance requirements related to cybersecurity  
+6. Have the ability to provide so lutions to mitigate IT risks.  
+ 
+Course Learning Objectives  
+1. Introduce the importance of information security and related business concerns.  
+2. Make students aware of the major categories of information security threats.  
+3. Make students aware of the common information security controls.  
+4. Enable students to implement the basic information security controls.  
+5. Introduce students to the important legal provisions regarding information security.  6. Make students aware of the methodological implications for information  security 
+arising from these legal provisions.  
+7. Provide students with an understanding of the standard methodologies for complying 
+with legal requirements for IT general controls.  
+8. Provide basic understanding of IT risk management in organizations .   
+ 
+ 
+ 
+ 
+Course Learning Outcomes  
+Upon completion of this course, students will be able to:  
+1. Demonstrate an understanding of security concerns and issues in organizations.  
+2. Identify major categories of information security threats.  
+3. Apply various kinds of controls to counter common threats.  
+4. Apply best practices related to IT controls to comply with legal requirements.  
+5. Provide solutions to mitigate IT risks.  
+ 
+ 
+Course Material, Literature, and Software  
+Textbooks  (All Required )  
+ 
+Information Security and It Risk Management : ISBN: 9781118335895, Author: Agrawal, 
+Publisher: John Wiley & Sons, Incorporated  
+ 
+97 Things Every Information Security Professional Should Know: Collective Wisdom 
+from the Experts : Edition 1st, ISBN: 9781098101398, Author: Christina Morillo, 
+Publisher: O'Reilly Media  
+ 
+  
+Course Context (additional description)  
+Cyber -attacks cost the global economy $445 billion annually and affect a variety of 
+domains such as healthcare, government, academia, and industry. Recent years have seen 
+an unfortunate and  disruptive growth in the number of cyber -attacks. To stem this grand 
+societal issue, there are increasing calls for well -trained cybersecurity professionals, with 
+an estimated 3.5 million cybersecurity job openings by 2021. Despite this high demand, 
+there  is currently a severe shortage of qualified candidates. Specifically, individuals lack 
+technical skills such as planning/implementing/upgrading/monitoring emerging 
+technologies, incident response, security controls, and basic systems administration. 
+Moreo ver, candidates often lack the non -technical skills of researching and reading new 
+technologies, regulatory compliance, internal security policies, standards, and procedures. 
+This hands -on, introductory, graduate -level course, backwards engineered with 
+DHS /NSA key knowledge unit requirements for maintaining the Center for Academic 
+Excellence for Cyber Defense (CAE -CD) at USF, aims to alleviate these concerns and 
+help students be prepared to become competitive candidates  in the information security 
+industry . 
+ 
+ 
+ Prerequisite Requirements  
+Technical Requirements: Full -time access to a personal computer . A basic understanding 
+of computers. This includes basic , cursory knowledge of systems administration, shell 
+scripting, and computer networking.  
+ 
+Course Workload  Expectations  
+Any university course requires a large amount of work outside of lecture. This course is 
+structured around 16 weeks. You should expect a normal to heavy workload. This is a 
+fast-paced  course! We assume you will allocate an average of at least  6-8 hours per week 
+outside of lecture for study, quiz, and assignment work. It is your responsibility to 
+manage your workload. If you procrastinate, you may find that you do not have enough 
+time, or that a technology problem is preventing you from complet ing your submissions 
+on time. Note that technology problems (such as computer or network failures) will not 
+be accepted as acceptable excuses . 
+ 
+Course Grading and Assignment Policies  
+Grading Scale  
+Letter grades will be awarded according to the percentage  scale below.    
+ 
+Total%  Grade  Total%  Grade  Total%  Grade  Total%  Grade  
+≥ 97 
+≥ 94 
+≥ 90 A+ (max 10% of class)* 
+A 
+A- ≥ 87 
+≥ 84 
+≥ 80 B+ 
+B 
+B- ≥ 77 
+≥ 74 
+≥ 70 C+ 
+C 
+C- ≥ 67 
+≥ 64 
+≤ 60 D+ 
+D 
+F 
+ 
+         
+Grade Categories and Weights   
+Four deliverables make up the total grade: quizzes, assignments, labs, and the final 
+projec t. The percentage breakdown for each is provided in the table below. The following 
+sub-sections describe each component .     
+ 
+Assignment  # of 
+Assignments  Max Points Per 
+Individual Assignment  Cumulative Max 
+Points  % of 
+Grade  
+First-Day Attendance Discussion  1 1 1   
+Mid-Term Course Survey  1 1 1   
+Class Participation  1 25 25 0.04 
+Assignments  3 100 300 0.48 
+Module Quiz  5 20 100 0.16 
+Final Exam: Project  1 100 200 0.32 
+Total Points      625   
+  
+       
+Course Assignments Details /Requirements : 
+Quizzes:  
+ 
+There are 5 quizzes throughout the course. These items will test your retention of the 
+fundamental concepts of information security. The quizzes will normally be administered 
+in class on the Thur sday session of the quiz week.   
+ 
+Assignments:  
+ 
+Assignments are centered on students using critical thinking skills. I want to know not 
+just what you think about a topic, but more importantly, I want to kn ow the reasoning that 
+drives the thinking. The information security topics will vary but  will mostly be focused 
+on weekly topics. The assignments will normally open on Monday at 8:00 am and due the 
+following Sunday at 11:59 pm. All assignments will be subm itted using Turnitin, in APA 
+format, and have proper references.  Assignments are normally between 1 -2 pages. The 
+paper must be in APA format , single  spaces,  and contain proper citations and references. 
+AI software (to include Cha t-GPT) is not authorized for u se on this assignment . 
+ 
+Mid-Term Test : 
+ 
+A test w ill be administered  at the mid-point  of the cour se. The test  will validate you r 
+comprehension and retention  of the materials provided up to that point in the course. The 
+test will occur  during the week 8 Thursday  session. Plan  accordingly.  
+ 
+Final Project : 
+ 
+The Final Project will be a 5 page paper  detailing an information security incident that 
+has occurred within the last three years . Using concepts learned in this course, the paper 
+must outline why the incident happened, how the incident could have been avoided, and 
+what counter measures could be implemented to remediate similar future incidents. Also 
+include insights from the requir ed book “ 97 Things Every Information Security 
+Professional Should Know: Collective Wisdom from the Experts. ”  The paper must be in 
+APA format , single  spaces,  and contain proper citations and references. AI software (to 
+include Cha t-GPT) is not authorized for u se on this assignment . Students are authori zed 
+to work in groups  for this project. The minimum -maximum number  of group members is 
+1-3 respectively .   
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+  Course Schedule   
+ 
+Module/
+Week  Date 
+(Tuesday)  Session Focus  Assessments /Directives  
+1 8/22/2023  Introduction to Information Security  
+Chapter 1  First-Day Attendance Discussion (Due: 
+Thursday (08/24/23) 11:59 pm)  
+2 8/29/2023  System Administration Part 1 & 2  
+Chapter 2    
+3 9/5/2023  System Administration Part 1 & 2  
+Chapter 3  Quiz #1 (Chapters 1 -3) (Due: Thursday 
+(9/7/2023)  
+4 9/12/2023  Basic Information Security Model  
+Chapter 4    
+5 9/19/2023  Asset Identification  
+Chapter 5  Assignment # 1 (Due: Thursday 
+(9/21/2023))  
+6 9/26/2023  Threats and Vulnerabilities  
+Chapter 6  Quiz #2 (Chapters 4 -6) (Due: Thursday 
+(9/28/2023)  
+7 10/3/2023  Hardening Controls  
+Chapter 9    
+8 10/10/2023  Cryptography Controls  
+Chapter 7  Mid-Term Test: Administered in Class 
+(Thursday (10/12/2023) 11:59 pm)  
+Mid-Course Survey: (Due: 10/15/23)  
+9 10/17/2023  Identity and Access Management  
+Chapter 8  Quiz #3 (Chapters 7 -9) (Due: Thursday 
+(10/19/2023))  
+10 10/24/2023  Shell Scripting  
+Chapter 10    
+11 10/31/2023  Shell Scripting  
+Chapter 10  Quiz #4 (Chapters 10) (Due: Thursday 
+(11/02/2023))  
+12 11/7/2023  Incident Handling  
+Chapter 11    
+13 11/14/2023  Incident Analysis  
+Chapter 12  Assignment #2 (Due: Thursday 
+(11/16/2023))  
+14 11/21/2023  Policies  
+Chapter 13  Quiz #5 (Chapters 11 -13) (Due: Thursday 
+(10/19/2023))  
+15 11/28/2023  IT Risk Analysis and Risk Management  
+Chapter 14  Test Free Week  
+16 12/5/2023  Final Project Complete  Final Project Complete (Friday 
+(12/07/2023) 11:59 pm)  
+ 
+**In the interests of the class, deviations may be made in the coverage of topics as outlined in the 
+tentative course calendar. However, to help plan your calendars for the rest of the semester, 
+assessment and deadline dates will be non -negotiable after the first day of class. Some deadlines may be 
+clubbed together to accommodate schedules.  
+***All deliverables are due at the end of day (11:59 PM) on the submission date (usually Sunday).  
+Attendance Discussion Assignment  To meet USF’s First Day Attendance requ irement, please complete the discussion 
+attendance assignment that has been set up in Canvas. Please complete the discussion 
+requirement before Thursday, August 27, 2023, at 11:59 PM . Part of the discussion 
+assignment is introducing yourself to the rest of  the class. Your discussion response will 
+be used as an a cknowledgement you wish to remain  enrolled  in the course. If you do not 
+complete the discussion assignment you will be administratively dropped from our 
+course.  
+ 
+Late Work Policy  
+Assignments turned in late to Canvas are assessed a penalty of a ten percent deduction for 
+every 24 hours  of being late , for up to a maximum of fifty percent deduction . For 
+example, if a student turns in an assignment less than 24 hours late, a 10  percent point 
+penalty  is assessed; and if a student turns in an assignment between 48 -72 hours late, a 30 
+percent penalty is assessed. The latest an assignment will be  accepted is 7 days after the 
+due date .  
+ 
+The said penalties will be in addition to normal deductions of points for failure to do the 
+assignment correctly.  Times of assignment uploads are recorded by Canvas and reported 
+to the professor.  
+ 
+Should you wish to discuss the grading and points awarded for any assignment your 
+professor is happy to acc ommodate you.  However, you must do so within two weeks of 
+the graded assignment being returned to you via Canvas.  If you do not discuss such with 
+your professor within the two -week window the professor will assume you are satisfied 
+with the grading of th e assignment  and will consider the points awarded to be final.  After 
+the two -week window no discussions of points awarded on an assignment will be 
+entertained.  
+ 
+ 
+Extra Credit Policy  
+There are no opportunities for extra credit in this course.  Students’ f ocus should be on 
+the primary work in the course.  
+ 
+Medical Issues   
+There are certainly cases in which a student legitimately cannot complete course 
+assignments for valid medical reasons.  To be excused from course work in such cases 
+requires students to fu rnish a standard note from a health care professional stating care is 
+being sought for an ailment or condition which can impede a student’s ability to complete 
+course work.  Without such a note an excuse from course work cannot be granted.  
+ 
+Grades of "Inco mplete"  
+An Incomplete grade ("I") is exceptional and granted at the instructor’s discretion only 
+when students are unable to complete course requirements due to illness or other 
+circumstances beyond their control. The course instructor and student must co mplete and 
+sign the "I" Grade Contract Form that describes the work to be completed, the date it is 
+due, and the grade the student would earn factoring in a zero for all incomplete 
+assignments. The due date can be negotiated and extended by student/instruc tor as long 
+as it does not exceed two semesters for undergraduate courses and one semester for graduate courses from the original date grades were due for that course. An "I" grade not 
+cleared within the two semesters for undergraduate courses and one seme ster for graduate 
+courses (including summer semester) will revert to the grade noted on the contract.  
+ 
+Academic Integrity and Academic Misconduct  
+Academic integrity is the foundation of the University of South Florida System’s 
+commitment to the academic ho nesty and personal integrity of its university community. 
+Academic integrity is grounded in certain fundamental values, which include honesty, 
+respect, and fairness. Broadly defined, academic honesty is the completion of all 
+academic endeavors and claims o f scholarly knowledge as representative of one’s own 
+efforts. The final decision on an academic integrity violation and related academic 
+sanction at any USF System institution shall affect and be applied to the academic status 
+of the student throughout the  USF System, unless otherwise determined by the 
+independently accredited institution.   The process for faculty reporting of academic 
+misconduct, as well as the student’s options for appeal, are outlined in detail in USF 
+System Regulation 3.027.  
+ 
+In our course assignments , the professor has several methods for penalizing those who 
+engage in academic misconduct.  Among these  methods the professor can 1) award 0 
+points for an assignment on which a student has engaged in misconduct, 2) award an F in 
+the entire course, or 3) award a special FF grade in the course.  An FF appears 
+permanently on the student's transcript as a speci al designation showing the student failed 
+the course for reasons of academic misconduct.   The FF includes expulsion from the 
+University.  
+ 
+Web Posting Course Materials  
+Students are reminded that posting course materials to third -party sites such as Course 
+Hero or Chegg represents a violation of the professor’s copyright on those materials and 
+constitutes theft of intellectual property.    
+ 
+Disruption to Academic Process  
+Disruptive students in the academic setting hinder the educational process. Disruption of 
+the academic process is defined as the act, words, or general conduct of a student in a 
+classroom or other academic environment which in the reasonable estimation of the 
+instructor: (a) directs attention away from the academic matters at hand, such as noisy 
+distractions, persistent, disrespectful or abusive interruption of lecture, exam, academic 
+discussion, or general University operati ons, or (b) presents a danger to the health, safety, 
+or well -being of self or other persons.  
+ 
+Student Academic Grievance Procedures  
+The purpose of these procedures is to provide all undergraduate and graduate students 
+taking courses within the University of South Florida System an opportunity for objective 
+review of facts and events pertinent to the cause of the academic grievance. An 
+“academic grievance” is a claim that a specific academic decision or action that affects 
+that student’s academic record or status has violated published policies and procedures or 
+has been applied to the grievant in a manner different from that used for other students.  
+ 
+Attendance Policy  Students are expected to exhibit professionalism through regular and on -time attendance 
+to class lectures, whether those lectures are offered live or online. Accommodation will 
+be made for excused absences by making arrangements with students ahead of time 
+(when possible) or by providing a reasonable amount of time to make up missed work .   
+ 
+Group Work Policy:  
+No g roup work is allowable according the guidance provided earlier in this document.  
+ 
+Final Examinations Policy:  
+All final exams are to be scheduled in accordance with the University’s final examination 
+policy.  
+ 
+ 
+Course Policies: Technol ogy and Media  
+ 
+Netiquette Guidelines  
+1. Act professionally in the way you communicate. Treat your instructors and peers 
+with respect, the same way you would do in a face -to-face environment. Respect other 
+people’s ideas and be constructive when explaining your views about points you may not 
+agree with.   
+2. Be sensitive. Be respectful and sensitive when sharing your ideas and opinions. 
+There will be people in your class with different linguistic backgrounds, political and 
+religious beliefs or other general differences.   
+3. Proofread and check spelling. Doing this before sending an email or posting a 
+thread on a discussion board will allow you to make sure your message is clear and 
+thoughtful. Avoid the use of all capital letters, it can be perceived as if you are shouting, 
+and it is more difficult to read.  
+4. Keep your communications focused and stay on topic. Complete your ideas 
+before changing the subject. By keeping the message on focus you allow the readers to 
+easily get your idea or answers they are looking for.  
+5. Be clear with your message. Avoid using humor or sarcasm. Since people can’t 
+see your expressions or hear your tone of voice, meaning can be misinterpreted.  
+ 
+Email  
+The primary means of communication between instructor and students between live class 
+meetings  will be email.  “Blast emails” will occasionally be sent by the instructor to all 
+students via Canvas.  Students can feel free to email their instructor with questions at any 
+time.  Please anticipate a response time of 24 hours to email queries.   
+ 
+Laptop  Usage  
+Laptop/Tablet usage is highly encouraged in this course given the nature of the mater ial.  
+Students are responsible for making certain their technology is appropriate to the needs of 
+program and is in good working order for class lectures and assig nments.    
+ 
+Phone Usage:  Students are allowed to use devices for recording lectures for their personal use, though 
+students must still adhere to classroom behavioral expectations while recording. Students 
+attending the in -person lectures are asked to place their mobile phones on “ silent” and to 
+step outside the classroom to take any important calls.  Phones may not be used during 
+in-class assignments.  
+ 
+Recordings   
+In this class, software will be used to record live class lectures and discussions. As a 
+student in this class, your p articipation in live class discussions will be recorded. These 
+recordings will be made available only to students enrolled in the class, to assist those 
+who cannot attend the live session or to serve as a resource for those who would like to 
+review content  that was presented. Students who prefer to participate via audio only will 
+be allowed to disable their video camera so only audio will be captured. Please discuss 
+this option with your instructor .  
+ 
+Canvas  
+This course will be offered via USF's learning m anagement system (LMS), Canvas. 
+Canvas will be used in this course to disseminate materials turn in weekly assignments 
+and return graded assignments.  If you need help learning how to perform various tasks 
+related to this course or other courses being offe red in Canvas, please view the following 
+videos or consult the Canvas help guides. You may also contact USF's IT department at 
+(813) 974 -1222 or help@usf.edu . 
+ 
+Online Exam Proctoring  
+All students  must  review  the syllabus  and the requirements,  including  the online  terms  
+and video  testing  requirements,  to determine  if they wish  to remain  in the course.  
+Enrollment  in the course  is an agreement  to abide  by and accep t all terms.  Any student  
+may elect  to drop or withdraw  from  this course  before  the end of the drop/add  period.   
+Online  exams  and quizzes  within  this course  may require  online  proctoring.  Therefore,  
+students  will be required  to have  a webcam  (USB  or internal)  with a microphone  when  
+taking  an exam  or quiz.  Students  understand  that this remote  recording  device  is 
+purchased  and controlled  by the student  and that recordings  from  any private  residence  
+must  be done  with the permission  of any person  residing  in the residence.   
+To avoid  any concerns  in this regard,  students  should  select  private  spaces  for the testing.  
+Students  with concerns  may discuss  location  of an appropriate  space  for the recordings  
+with their instructor  or advisor.  Students  must  ensure  that any recordings  do not invade  
+any third -party  privacy  rights  and accept  all responsibility  and liability  for violations  of 
+any third -party  privacy  concerns.  Students  are strictly  responsible  for ensuring  that they 
+take all exams  using  a reliable  compute r and high-speed  internet  connection.  Setup  
+information  will be provided  prior  to taking  the proctored  exam.  To use Honorlock,  
+students  are required  to download  and install  the Honorlock  Google  Chrome  extension . 
+For additional  information  please  visit the USF  onlin e proctoring  student  
+FAQ  and Honorlock  student  resources .   
+ 
+WhatsApp, GroupMe, and Student -to-Student Communication  
+While students may use digital communication tools (WhatsApp, Slack, GroupMe, etc.) 
+to communicate with fellow students, it is important to remember that academic integrity 
+policies still apply in these environments. Informing others about the contents of tests is prohibited by the official regulation , as is receiving unauthorized information about an 
+examination. Students are expected and required to immediately re port instances of such 
+violations to the instructor.  
+ 
+ 
+ 
+Course Policies: Student Expectations  
+Title IX Policy  
+Title IX provides federal protections for discrimination based on sex, which includes 
+discrimination based on pregnancy, sexual harassment, and i nterpersonal violence. In an 
+effort to provide support and equal access, USF has designated all faculty (TA, 
+Adjunct, etc.) as Responsible Employees, who are required to report any disclosures 
+of sexual harassment, sexual violence, relationship violence or  stalking.  The Title IX 
+Office makes every effort, when safe to do so, to reach out and provide resources and 
+accommodations, and to discuss possible options for resolution.   Anyone wishing to 
+make a Title IX report or seeking accommodations may do so onli ne, in person, via 
+phone, or email to the Title IX Office. For information about Title IX or for a full list of 
+resources please visit:  https://www.usf.edu/title -ix/gethelp/resou rces.aspx . If you are 
+unsure what to do, please contact Victim Advocacy – a confidential resource that can 
+review all your options – at 813 -974-5756 or  va@admin.usf.edu . 
+ 
+Course Hero / Chegg Policy  
+The USF Policy on Academic Integrity  specifies that students may not use websites that 
+enable cheating, such as by uploading or downloading material for this purpose. This 
+does apply specifically to Chegg.com and CourseHero.com – almost any use of these 
+websites (including uploading proprietary materials) constitutes a violation of the 
+academic integrity policy.  
+ 
+Professionalism Policy  
+Per university policy and classroom etiquette; mobile phones, iPods, etc. must be 
+silenced  during all classroom and lab lectures. Those not heeding this rule will be asked 
+to leave the classroom/lab immediately so as to not disrupt the learning environment. 
+Please arrive on time for all class meetings. Students who habitually disturb the class by 
+talking, arriving late, etc., and have been warned may suffer a reduction in their final 
+class grade.  
+ 
+End of Semester Student Evaluations  
+All classes at USF make use of an online system for students to provide feedback to the 
+University regarding the course. These surveys will be made available at the end of the 
+semester, and the University will notify you by email when the response window opens. 
+Your participation is highly encouraged and valued.  
+ 
+Food and Drink Policy  
+Please adhere to the firm poli cy of no beverages (other than bottled/capped water), food, 
+tobacco products, or like items in the classroom. Your understanding of the necessity for 
+this policy and cooperation will be greatly appreciated. This policy will be strictly 
+enforced.   
+Turnitin .com  
+In this course, turnitin.com will be utilized. Turnitin is an automated system which 
+instructors may use to quickly and easily compare each student's assignment with billions 
+of web sites, as well as an enormous database of student papers that grows with each 
+submission. Accordingly, you will be expected to submit all assignments in both hard 
+copy and electronic format. After the assignment is processed, as instructor I receive a 
+report from turnitin.com that states if and how another author’s work wa s used in the 
+assignment. For a more detailed look at this process visit http://www.turnitin.com . Essays 
+are due at turnitin.com the same day as in class.  
+ 
+Disability Access  
+Students with disabilities are responsible for registering with Students with Disabilities 
+Services (SDS) to receive academic accommodations. SDS encourages students to notify 
+instructors of accommodation requests at least 5 business days prior to needing the 
+accommodation. A letter from SDS must accompany this request.  
+ 
+Religious Observances  
+All students have a right to expect that the University will reasonably accommodate their 
+religious observances, practices and beliefs. If you observe religious holid ays, you should 
+plan your allowed absences to include those dates.  
+ 
+Campus Free Expression   
+It is fundamental to the University of South Florida’s mission to support an environment 
+where divergent ideas, theories, and philosophies can be openly exchanged and critically 
+evaluated. Consistent with these principles, this course may involve discussio n of ideas 
+that you find uncomfortable, disagreeable, or even offensive.  
+ 
+In the instructional setting, ideas are intended to be presented in an objective manner and 
+not as an endorsement of what you should personally believe. Objective means that the 
+idea(s) presented can be tested by critical peer review and rigorous debate, and that the 
+idea(s) is supported by credible research.  
+ 
+Not all ideas can be supported by objective methods or criteria. Regardless, you may 
+decide that certain ideas are worthy of  your personal belief. In this course, however, you 
+may be asked to engage with complex ideas and to demonstrate an understanding of the 
+ideas. Understanding an idea does not mean that you are required to believe it or agree 
+with it . 
+ 
+ 
+ 
+Make -up Exams Polic y  
+If a student cannot be present for an examination for a valid reason (validity to be 
+determined by the instructor), a make -up exam will be given only if the student has 
+notified the instructor in advance that s/he cannot be present for the exam. Make -up 
+exams are given at the convenience of the instructor .  
+ 
+Rewrites Policy   Rewrites are entirely optional; however, only the formal essay may be rewritten for a 
+revised grade. Note that an alternate grading rubric will be used for the rewrite, featuring 
+an additional column that evaluates the changes made specifically . 
+ 
+Exams Retention P olicy   
+After exams are graded, the instructor will review the examination with the class and 
+collect all exams. The exams will be retained for one semester following the curr ent one, 
+and then they will be destroyed . 
+ 
+Exams Retention P olicy   
+After exams are graded, the instructor will review the examination with the class and 
+collect all exams. The exams will be retained for one semester following the current one, 
+and then they  will be destroyed . 
+ 
+Essay Commentary Policy  
+Commentary on essays will be delivered in written format, at the end of the essay. 
+However, upon request, an alternate delivery method can be used. If desired, instructor 
+comments will be made verbally and delivered to the student as an mp3 through Canvas. 
+This approach yields far fewer written comments, but much more commentary in general 
+is delivered, due to the speed and specificity of speech. Those requesting mp3 feedback 
+must state so when the essay is turned in.  
+ 
+Learning Support and Campus Offices  
+Academic Accommodations  
+Students with disabilities are responsible for registering with Student Accessibility 
+Services (SAS) in order to receive academic accommodations. For additional information 
+about acade mic accommodations and resources, you can visit the SAS website.  
+SAS website for the Tampa and Sarasota -Manatee campuses.  
+SAS website for the St. Pete campus.  
+ 
+Academic Support Services  
+The USF Office of S tudent Success coordinates and promotes university -wide efforts to 
+enhance undergraduate and graduate student success.  For a comprehensive list of 
+academic support services available to all USF students, please visit the Office of Student 
+Success website . 
+ 
+Canvas Technical Support  
+If you have technical difficulties in Canvas, you can find access to the Canvas guides and 
+video resources in the “Canvas Help” page  on the homepage of your Canvas course. You 
+can also contact the help desk by calling 813 -974-1222 in Tampa or emailing  
+help@usf.edu.  
+IT website for the Tampa campus.  
+IT website for the St. Pete campus.  
+IT website for the Sarasota -Manatee campus.  
+ 
+Center for Victim Advocacy  Example : The Center for Victim Advocacy  empowers survivors of crime, violence, or 
+abuse by promoting the restoration of decision making, by advocating for t heir rights, and 
+by offering support and resources. Contact information is available online.  
+ 
+Counseling Center  
+The Counseling Center promotes the wellbeing of the campus community by  
+providing culturally sensitive counseling, consultation, prevention, and training that  
+enhances student academic and personal success. Contact information is available online.  
+Counseling Center website for the Tampa campus.  
+Counseling Center website for the St. Pete campus.  
+Counseling Center website for the Sarasota -Manatee campus.  
+ 
+Tutoring  
+The Tutoring Hub offers free tutoring in several subjects to USF undergraduates.  
+Appointments are recommended, but not required. For more information, email  
+asctampa@usf.edu .  
+Tutoring website for the Tampa campus.  
+Tutoring website for the St. Pete campus.  
+Tutoring website for the Sarasota -Manatee campus.  
+ 
+Writing Studio  
+The Writing Studio is a free resource for USF undergraduate and graduate  
+students. At the Writing Studio, a trained writing consultant will work individually with  
+you, at any point in the writing process from brainstorming t o editing. Appointments are  
+recommended, but not required. For more information or to make an appointment, email: 
+writingstudio@usf.edu .  
+Writing studio website for the Tampa campus.  
+Writing studio website for the St. Pete campus.  
+Writing studio website for the Sarasota -Manatee campus.  
+ 
+Important Dates to Remember  
+For important USF dates, see the Academic Calendar  at 
+https://www.usf.edu/registrar/calendars/index.aspx#spring2023   
+ 
+*  

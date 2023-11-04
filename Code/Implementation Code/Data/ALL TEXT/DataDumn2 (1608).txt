@@ -1,0 +1,58 @@
+
+About This Site
+The University of South Florida (USF) website is governed by USF's Office of University Communications and Marketing. These websites are maintained by communications professionals across campus, with
+               the goal of presenting relevant, timely and accurate information to the millions of
+               people who visit the site each year.
+Technology Notes
+The USF website is built with web standards, including HTML5 and CSS3, and utilizes
+               responsive design techniques.
+Privacy
+USF does not collect personal information about you when you visit an official USF
+               website, unless you affirmatively choose to make such information available.
+USF’s servers automatically recognize the domain and IP address from which you accessed
+               the website and record related information such as: information about operating systems,
+               screen resolutions and the volume and timing of access to enable interacting with
+               the site more accessible, informative and enjoyable. This information does not result
+               in the identification of your personal e-mail address or any other personal information
+               about you.
+Many pages within usf.edu use Google Analytics (Google Analytics Security and Privacy Principles) and Siteimprove (Siteimprove Services Privacy Policy) to help us understand how visitors use our sites. 
+If you choose to share information with USF - either by sending a message or filling
+               out an electronic form with personal information - USF will use the information only
+               for the intended purpose. Some records containing personal information must be retained
+               for a designated period of time in order to comply with Florida's record retention
+               policies and Florida law.. Except as provided for herein, USF does not have an established
+               practice of disclosing personal information in its possession to third parties without
+               permission unless USF determines that such disclosure is in accordance with a contractual
+               agreement with a service provider or is otherwise required by Florida or federal law.
+               USF does not sell or disclose personal information for financial gain.
+Under Florida law, emails sent to USF employees may be considered public records.
+                  If you do not want your email address released in response to a public records request,
+                  do not send electronic mail to USF. Instead, make contact by phone or in writing.
+Please be aware that as a large, public research university, there are many websites
+               within the usf.edu domain. This policy relates to those websites on which USF conducts
+               its official business. Because USF encourages the development and deployment of technology
+               in an environment of academic freedom, USF cannot ensure that all websites within
+               the usf.edu domain are in strict compliance with this policy at all times.
+USF reserves the right to amend these privacy terms at any time without notice. The
+               privacy, record retention and public records obligations of USF are governed by applicable
+               Florida statutes and U.S. federal laws only.
+Family Educational Rights and Privacy Act (FERPA)
+The Family Educational Rights and Privacy Act (FERPA) gives students the right to
+               refuse to permit USF to publish or disclose items of Directory Information pertaining
+               to them. In the course of conducting official USF business, applicant and student
+               personal information may be shared with third parties who USF determines have a legitimate
+               educational interest in such information or where otherwise permitted by Florida and
+               federal law.  For more details, and to view and control the level of disclosure permitted
+               for the Student Directory Information, please visit the Office of the Registrar's website.
+Accessibility
+USF is committed to providing all individuals access to our digital resources. We strive
+                     to make our web sites and digital content accessible by assuring compatibility with
+                     assistive technologies.  
+Our accessibility standard is: Web Content Accessibility Guidelines (WCAG) 2.1 Level AA. 
+Reporting a Digital Access Barrier
+USF uses multiple content management systems and applications to deliver our services
+               to the public.   If you are having difficulty viewing or interacting with any digital resource, you
+               may report it to us by completing the Digital Access Barrier Report form.   Your concern will be reviewed in a timely manner. Appropriate campus subject matter
+               experts will be consulted as needed. We will provide an initial response to your concern
+               within 2 business days. We will resolve the complaint within 7 business days by removing
+               the access barrier or implementing a remediation plan. 

@@ -1,0 +1,88 @@
+
+QMB 6305							   	    Managerial Decision Analysis 
+MBA Program, Fall, 2023
+
+Instructor:		Dr. Kellas R. Cameron
+E-mail:		kcameron@usf.edu 
+
+The study of the general concepts of interval estimation, hypothesis testing, correlation, and multiple regression with an emphasis on applications, concepts and interpretation of results.
+Modern business statistics encompasses the collection, analysis, presentation, and use of data to assist in the decision-making process.  Statistics can be thought of as the science and art of making sense of numerical data.  Computer hardware and software has given the ability to analyze immense amounts of data.  Thus, statistics has emerged as one of the essential keys to good management.
+
+Recommended Text:	Berenson, Mark, Basic Business Statistics: Concepts and Applications 14th Edition, Prentice-Hall, Inc.  
+
+ISBN: 978-0134684840
+NOTE: THIS TEXTBOOK IS NOT REQUIRED, ONLY RECOMMENDED IF YOU WISH TO LEARN MORE ABOUT THE SUBJECT. YOU CAN COMPLETE THE COURSE WITHOUT IT. 
+Virtual Office Hours: 	Tuesdays and Thursdays between 3pm and 7pm by Appointment via Microsoft Teams (Please schedule appointments at least 24 hours in advance).
+E-mail Protocol: 	All e-mail correspondence will be responded to in a timely manner between 7am and 7pm, Monday through Saturday.  E-mail sent overnight will be responded to the following more, and Sunday e-mail will receive priority to be responded at first opportunity Monday morning.  IMPORTANT NOTE: Please send e-mail to kcameron@usf.edu, DO NOT USE Canvas Mail.
+Software:	Microsoft Excel.  This package is available to USF students free of charge via apps.usf.edu.  For any technical assistance you need in gaining access call USF Tech Support at 813-974-1222. 
+
+QMB 6305 introduces you to the essentials of statistics.  The ideas in the course are organized around several main topics: How to gather data, how to summarize raw data into information, how to use limited information to make predictions and inferences about problems of interest, and how to build models to aid the decision-making process.  The use of software will be discussed, as statistical analysis today is nearly always done with these tools. derivations and calculations.
+
+
+Objectives:	Upon completion of the course everyone should:
+
+ 	Understand the basic statistical tools used in quantitative analysis in business. 
+Understand basic statistical concepts, measures of central tendency and dispersion, and probability distributions.
+Understand and apply confidence intervals, hypothesis tests, regression, and correlation.  
+
+The emphasis will be on applications, concepts and interpretation of results, rather than derivations and calculations.
+
+Participation and Delivery: 
+As an online course, all materials will be provided through a combination of readings, slides, previous live lecture recordings and pre- recorded lectures. All material will be available in advance, to allow students to work ahead if they wish. However, each assignment has a specific deadline, so be mindful to not miss them. 
+Every student must complete an introductory assignment, which doubles as completing your first day attendance requirement – this must be completed by Thursday 24 August @ 11:59pm. 
+Assignments:	
+			There will be 5 assignments during the semester, which are to be completed individually.  These assignments will stress concepts and tools covered in class, as well as more in-depth discussion of results interpretation.  Write-ups must be turned in by 11:59pm on their due date on Canvas as a digital copy. 
+
+		However, as situations are uncertain this semester for everyone, I am also allowing for two options for the homework, both of which you can take advantage of for Assignments #1 through #5:
+
+You may turn is any one Assignment up to a week late, without penalty, as long as you inform me before the initial deadline. 
+You can choose to not turn in one of the first five assignments.  Or, if you do submit all five assignments your lowest score will be dropped. 
+
+		Each Assignment is worth 100 points.
+
+ALL WORK IS TO BE DONE INDIVIDUALLY.
+USF considers any form of cheating on examinations or plagiarism on assigned papers to be unacceptable deceit and dishonesty.
+
+ALL ASSIGNMENTS ARE TO BE SUBMITTED BY 11:59PM ON THEIR DUE DATE.
+
+Final Project:	The final regression project will be and extended homework assignment concerning material covered in Lectures 6 and 7. A real-world operations problem will be selected that will requiring a regression analysis, and it is your goal to utilize what you have learnt in this course to provide a solution.  Your solution is to be no less than 10 pages, size 12 font, 1.5 line spacing (not including diagrams/graphics, if needed).  
+
+		The Final Project is worth 200 points.
+
+		FINAL PROJECT DUE:	Thursday 12 October @ 11:59pm
+
+Assignments			400 points
+Final Project			200 points
+TOTAL				600 POINTS
+
+
+
+
+
+
+Late Work Policy: 
+There are no make-ups for assignments. Assignments turned in late (except your one free extension) will be assessed a penalty: a 25% grade reduction if a less than 24 hours later, or a 50% grade reduction if longer than 24 hours late, but less than 48 hours. Assignments will not be accepted if overdue by more than two days. All assignments must be completed individually, no group work is accepted. 
+
+Process:
+Disruptive students in the academic setting hinder the educational process. Disruption of the academic process is defined as the act, words, or general conduct of a student in a classroom or other academic environment which in the reasonable estimation of the instructor: (a) directs attention away from the academic matters at hand, such as noisy distractions, persistent, disrespectful or abusive interruption of lecture, exam, academic discussion, or general University operations, or (b) presents a danger to the health, safety, or well-being of self or other persons. 
+
+Student Academic Grievance Procedures:
+The purpose of these procedures is to provide all undergraduate and graduate students taking courses within the University of South Florida System an opportunity for objective review of facts and events pertinent to the cause of the academic grievance. An “academic grievance” is a claim that a specific academic decision or action that affects that student’s academic record or status has violated published policies and procedures or has been applied to the grievant in a manner different from that used for other students. 
+
+Disability Access: 
+Students with disabilities are responsible for registering with Students with Disabilities Services (SDS) (SVC 1133) in order to receive academic accommodations. SDS encourages students to notify instructors of accommodation needs at least 5 business days prior to needing the accommodation. A letter from SDS must accompany this request. 
+
+Sexual Misconduct/Sexual Harassment Reporting: 
+USF is committed to providing an environment free from sex discrimination, including sexual harassment and sexual violence (USF System Policy 0-004). The USF Center for Victim is a confidential resource where you can talk about incidents of sexual harassment and gender-based crimes including sexual assault, stalking, and domestic/relationship violence. This confidential resource can help you without having to report your situation to either the Office of Student Rights and Responsibilities (OSSR) or the Office of Diversity, Inclusion, and Equal Opportunity (DIEO), unless you request that they make a report. Please be aware that in compliance with Title IX and under the USF System Policy, educators must report incidents of sexual harassment and gender-based crimes including sexual assault, stalking, and domestic/relationship violence. If you disclose any of these situations in class, in papers, or to me personally, I am required to report it to OSSR or DIEO for investigation. Contact the USF Center for Victim Advocacy and Violence Prevention: (813) 974-5757. 
+
+
+Anti-Discrimination Policy: 
+The University of South Florida System (USF System) is a diverse community that values and expects respect and fair treatment of all people. The USF System strives to provide a work and study environment for faculty, staff and students that is free from discrimination and harassment on the basis of race, color, marital status, sex, religion, national origin, disability, age, or genetic information, as provided by law. The USF System protects its faculty, staff, and students from discrimination and harassment based on sexual orientation, as well as gender identity and expression. The USF System is also committed to the employment and advancement of qualified veterans with disabilities and veterans protected under the Vietnam Era Veterans’ Readjustment Assistance Act, as amended (VEVRAA). As part of the effort to maintain an environment that is comfortable for all people and to ensure consistency with state and federal laws, the USF System establishes this policy. Discrimination, harassment and retaliation are prohibited within the USF System, and complaints of such conduct are to be filed with one of the two designated offices within the USF System, specifically the Office of Diversity and Equal Opportunity (DEO) or the Office of Student Rights and Responsibilities (OSRR or the appropriate Student Affairs office at the campus or institution where the discrimination/harassment occurred). The designated office will review such complaints and provide appropriate response including counseling, mediation, and/or referral for disciplinary action, up to and including termination from employment and/or expulsion from the USF System. 
+
+Campus Free Expression: 
+It is fundamental to the University of South Florida’s mission to support an environment where divergent ideas, theories, and philosophies can be openly exchanged and critically evaluated. Consistent with these principles, this course may involve discussion of ideas that you find uncomfortable, disagreeable, or even offensive. In the instructional setting, ideas are intended to be presented in an objective manner and not as an endorsement of what you should personally believe. Objective means that the idea(s) presented can be tested by critical peer review and rigorous debate, and that the idea(s) is supported by credible research. Not all ideas can be supported by objective methods or criteria. Regardless, you may decide that certain ideas are worthy of your personal belief. In this course, however, you may be asked to engage with complex ideas and to demonstrate an understanding of the ideas. Understanding an idea does not mean that you are required to believe it or agree with it. 
+Additional guidance related to HB 7 “Individual Freedom Act” can be found online. 
+
+End of Semester Student Evaluations: 
+All classes at USF make use of an online system for students to provide feedback to the University regarding the course. These surveys will be made available at the end of the semester, and the University will notify you by email when the response window opens. Your participation is highly encouraged and valued. 
+

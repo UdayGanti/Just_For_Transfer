@@ -1,0 +1,35 @@
+
+NIMS / ICS
+The USF Comprehensive Emergency Management Plan (CEMP) identifies the training requirements
+               for various personnel with responsibilities in emergency operations.
+Prior to completing the FEMA Independent Study (IS) courses, you must register for
+               a FEMA Student Identification Number (SID).
+At a minimum, designated emergency operations personnel must complete the following
+               FEMA IS courses:
+First Line Supervisors, Single Resource Leaders, Field Supervisors
+
+IS-100: Introduction to Incident Command System
+
+Emergency Operations Center Personnel, CIPG Members, MID-LEVEL MANAGEMENT INCLUDING
+               STRIKE TEAM LEADERS, TASK FORCE LEADERS, UNIT LEADERS, DIVISION/GROUP SUPERVISORS,
+               AND BRANCH DIRECTORS:
+
+IS-100: Introduction to Incident Command System
+IS-200: ICS for Single Resources and Initial Action Incidents
+IS-700: An Introduction to the National Incident Management System
+IS-800: National Response Framework, An Introduction
+
+Command and General Staff, EOC Management:
+
+IS-100: Introduction to Incident Command System
+IS-200: ICS for Single Resources and Initial Action Incidents
+IS-700: An Introduction to the National Incident Management System
+IS-800: National Response Framework, An Introduction
+ICS-300: Intermediate Incident Command System for Expanding Incidents *
+
+Most of these courses are available online, free of charge, and may be accessed by
+               anyone who is interested. If there are additional training courses that you require
+               and are not listed, please contact Emergency Management.
+* Available sessions will be posted on Sert Trac. Contact Emergency Management for additional information on how to register for these
+               in-person training courses.
+Please submit all certificates to USF-EmergencyMgmt@usf.edu to receive credit in GEMS for completion.
